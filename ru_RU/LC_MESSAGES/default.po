@@ -1,0 +1,4688 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tibia-ME.net\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-10 16:33+0300\n"
+"PO-Revision-Date: 2025-05-10 16:34+0300\n"
+"Last-Translator: Homerocker <molodoy3561@gmail.com>\n"
+"Language-Team: Molodoy <molodoy@tibia-me.net>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: tests\n"
+"X-Poedit-SearchPathExcluded-2: storage\n"
+
+#: resources/views/agreement.blade.php:5
+msgid "General"
+msgstr "Общее"
+
+#: resources/views/agreement.blade.php:8
+msgid ""
+"All TibiaME rules are valid on this fansite. Please check FAQ section on "
+"tibiame.com."
+msgstr ""
+"Все правила TibiaME действуют и на этом сайте. Прочтите FAQ на tibiame.com."
+
+#: resources/views/agreement.blade.php:11
+msgid "Accounts"
+msgstr "Аккаунты"
+
+#: resources/views/agreement.blade.php:13
+msgid "You are only allowed to use your real character nickname and gameworld."
+msgstr "Разрешено использовать только Ваши реальные игровые ник и мир."
+
+#: resources/views/agreement.blade.php:14
+msgid "You are not allowed to share your account data (password) publicly."
+msgstr "Запрещено публично сообщать свой пароль кому-либо."
+
+#: resources/views/agreement.blade.php:17
+msgid "Highscores"
+msgstr "Рекорды"
+
+#: resources/views/agreement.blade.php:19
+msgid "Listed characters"
+msgstr "Список персонажей"
+
+#: resources/views/agreement.blade.php:22
+msgid ""
+"Top 100 wizards and top 100 warriors by total experience from each game "
+"world are listed."
+msgstr ""
+"ТОП 100 магов и ТОП 100 войнов по общему кол-ву опыта из каждого мира в "
+"списке."
+
+#: resources/views/agreement.blade.php:23
+msgid "Characters with PvP rank 100 or higher are listed."
+msgstr "Персонажы с PvP рейтингом от 1 до 100 в списке."
+
+#: resources/views/agreement.blade.php:25
+msgid ""
+"Top 100 wizards and top 100 warriors by achievement points from each game "
+"world are listed."
+msgstr ""
+"ТОП 100 войнов и ТОП 100 магов по очкам достижений из каждого мира в списке."
+
+#: resources/views/agreement.blade.php:26
+msgid "Other characters are not listed and we cannot add them at this time."
+msgstr ""
+"Остальные персонажи могут быть не в списке и на данный момент мы не можем их "
+"добавить."
+
+#: resources/views/agreement.blade.php:29
+msgid "Data reliability"
+msgstr "Достоверность данных"
+
+#: resources/views/agreement.blade.php:31
+msgid "Highscores are updated daily at 00:10 UTC."
+msgstr "Рекорды обновляются ежедневно в 00:10 UTC."
+
+#: resources/views/agreement.blade.php:33
+msgid ""
+"Highscores data are provided by tibiame.com and Tibia-ME.net is not "
+"responsible for its reliability."
+msgstr ""
+"Данные предоставляются tibiame.com и Tibia-ME.net не несет ответственности "
+"за их достоверность."
+
+#: resources/views/agreement.blade.php:35
+msgid ""
+"Worlds' statistics as well as Top Hunters data are only based on characters "
+"that are listed on this website (see 3.1.)."
+msgstr ""
+"Статистика миров и ТОП охотников основываются только на персонажах, которые "
+"есть в списке Рекордов (пункт 3.1)."
+
+#: resources/views/agreement.blade.php:40
+msgid "Screenshots"
+msgstr "Скриншоты"
+
+#: resources/views/agreement.blade.php:42
+msgid "Only TibiaME screenshots are allowed at Screenshots section."
+msgstr "Разрешены только скриншоты TibiaME."
+
+#: resources/views/agreement.blade.php:43
+msgid "Artworks are not allowed."
+msgstr "Отредактированные скриншоты запрещены."
+
+#: resources/views/agreement.blade.php:45
+msgid ""
+"Screenshots should not contain any non-game areas, e.g. computer desktop and "
+"emulator window."
+msgstr ""
+"Скриншоты должны отображать только игровое окно (не должны захватывать "
+"рабочий стол, окно эмулятора и т.п.)."
+
+#: resources/views/agreement.blade.php:48
+msgid "Artworks"
+msgstr "Творчество"
+
+#: resources/views/agreement.blade.php:50
+msgid "Artworks should be related to TibiaME."
+msgstr "Творчество должно быть связано с TibiaME."
+
+#: resources/views/agreement.blade.php:51
+msgid "You are only allowed to upload your own artworks."
+msgstr "Разрешено загружать только Ваши собственные работы."
+
+#: resources/views/agreement.blade.php:54
+msgid "Privacy"
+msgstr "Приватность"
+
+#: resources/views/agreement.blade.php:56
+msgid ""
+"Tibia-ME.net never shares your hidden data (e.g. email, birth date) with "
+"anyone."
+msgstr ""
+"Tibia-ME.net никогда не сообщает Ваши скрытые данные (email, дата рождения и "
+"т.п.) кому-либо."
+
+#: resources/views/agreement.blade.php:58
+msgid ""
+"Your passwords are encrypted and cannot be viewed by anyone, including Tibia-"
+"ME.net staff."
+msgstr ""
+"Ваш пароль зашифрован и никто, включая администрацию Tibia-ME.net, не может "
+"просмотреть его."
+
+#: resources/views/agreement.blade.php:60
+msgid ""
+"Tibia-ME.net Admin may use your data to contact you (e.g. email, including "
+"hidden data)."
+msgstr ""
+"Администрация Tibia-ME.net может использовать Ваши данные (email и др., "
+"включая скрытые данные) для связи с Вами."
+
+#: resources/views/agreement.blade.php:63
+msgid "Copyrights"
+msgstr "Копирайты"
+
+#: resources/views/agreement.blade.php:66
+msgid ""
+"TibiaME is a trademark of CipSoft GmbH, tibiame.com is the only official "
+"TibiaME website."
+msgstr ""
+"TibiaME является торговой маркой OOO \"CipSoft\", tibiame.com - единственный "
+"официальный сайт TibiaME."
+
+#: resources/views/agreement.blade.php:68
+msgid ""
+"Any icons provided by CipSoft are copyrighted by CipSoft. You may use any "
+"TibiaME icons from this website."
+msgstr ""
+"Иконки, предоставленные Cipsoft, являются собственностью CipSoft. Вы можете "
+"использовать любые игровые иконки с этого сайта."
+
+#: resources/views/agreement.blade.php:75
+msgid "Decline"
+msgstr "Отклонить"
+
+#: resources/views/album/albums.blade.php:7
+msgid "You have no albums."
+msgstr "У Вас нет альбомов."
+
+#: resources/views/album/albums.blade.php:9
+msgid "This user has no albums."
+msgstr "У этого пользователя нет альбомов."
+
+#: resources/views/album/home.blade.php:14
+msgid "all worlds"
+msgstr "все миры"
+
+#: resources/views/album/photos.blade.php:6
+msgid "This album is empty."
+msgstr "Этот альбом пуст."
+
+#: resources/views/artworks.blade.php:15
+msgid "Log in to upload artworks."
+msgstr "Авторизуйтесь для загрузки файлов."
+
+#: resources/views/artworks.blade.php:18
+msgid "No artworks available."
+msgstr "Этот раздел пуст."
+
+#: resources/views/auth/lostpassword.blade.php:6
+#: resources/views/characters.blade.php:33
+msgid "Nickname"
+msgstr "Ник"
+
+#: resources/views/auth/lostpassword.blade.php:8
+#: resources/views/characters.blade.php:35
+msgid "World"
+msgstr "Мир"
+
+#: resources/views/auth/lostpassword.blade.php:10
+msgid "select world"
+msgstr "выберите мир"
+
+#: resources/views/auth/reset-password.blade.php:7
+msgid "New password"
+msgstr "Новый пароль"
+
+#: resources/views/auth/reset-password.blade.php:9
+msgid "Confirm password"
+msgstr "Подтвердите пароль"
+
+#: resources/views/banishments/banform.blade.php:8
+#: resources/views/banishments/list.blade.php:8
+#: resources/views/banishments/view.blade.php:31
+msgid "Reason"
+msgstr "Причина"
+
+#: resources/views/banishments/banform.blade.php:17
+#: resources/views/banishments/view.blade.php:40
+msgid "Description"
+msgstr "Описание"
+
+#: resources/views/banishments/banform.blade.php:20
+#: resources/views/banishments/list.blade.php:9
+msgid "Duration"
+msgstr "Длительность"
+
+#: resources/views/banishments/banform.blade.php:35
+msgid "Delete all forum posts"
+msgstr "Удалить все посты"
+
+#: resources/views/banishments/list.blade.php:7
+#: resources/views/banishments/view.blade.php:7
+msgid "User"
+msgstr "Пользователь"
+
+#: resources/views/banishments/list.blade.php:24
+#: resources/views/banishments/view.blade.php:52
+msgid "permanent"
+msgstr "постоянный"
+
+#: resources/views/banishments/view.blade.php:15
+msgid "Start date"
+msgstr "Дата начала"
+
+#: resources/views/banishments/view.blade.php:23
+#: resources/views/banishments/view.blade.php:66
+msgid "Moderator"
+msgstr "Модератор"
+
+#: resources/views/banishments/view.blade.php:49
+msgid "Expires"
+msgstr "Истекает"
+
+#: resources/views/banishments/view.blade.php:58
+msgid "Lifted"
+msgstr "Снят"
+
+#: resources/views/banishments/view.blade.php:77
+msgid "Lift banishment"
+msgstr "Снять бан"
+
+#: resources/views/characters.blade.php:6
+msgid "Select main character"
+msgstr "Выберите основного персонажа"
+
+#: resources/views/comments.blade.php:14
+msgid "No one has commented yet."
+msgstr "Никто пока не оставил комментариев."
+
+#: resources/views/comments.blade.php:65
+msgid "Log in to post your comments."
+msgstr "Авторизуйтесь, чтобы оставить комментарий."
+
+#: resources/views/content/armours.blade.php:6
+#: resources/views/content/skills.blade.php:6
+#: resources/views/content/spells.blade.php:6
+#: resources/views/content/weapons.blade.php:6
+msgid "Vocation"
+msgstr "Класс"
+
+#: resources/views/content/armours.blade.php:8
+#: resources/views/content/armours.blade.php:15
+#: resources/views/content/spells.blade.php:8
+#: resources/views/content/spells.blade.php:18
+#: resources/views/content/spells.blade.php:31
+#: resources/views/content/weapons.blade.php:8
+msgid "any"
+msgstr "любой"
+
+#: resources/views/content/armours.blade.php:10
+#: resources/views/content/skills.blade.php:8
+#: resources/views/content/spells.blade.php:10
+#: resources/views/content/weapons.blade.php:9
+msgid "warrior"
+msgstr "воин"
+
+#: resources/views/content/armours.blade.php:11
+#: resources/views/content/skills.blade.php:9
+#: resources/views/content/spells.blade.php:12
+#: resources/views/content/weapons.blade.php:10
+msgid "wizard"
+msgstr "маг"
+
+#: resources/views/content/armours.blade.php:13
+#: resources/views/content/armours.blade.php:70
+msgid "Slot"
+msgstr "Слот"
+
+#: resources/views/content/armours.blade.php:22
+#: resources/views/content/armours.blade.php:69
+#: resources/views/content/skills.blade.php:23
+#: resources/views/content/spells.blade.php:62
+#: resources/views/content/weapons.blade.php:14
+#: resources/views/content/weapons.blade.php:63
+msgid "Level"
+msgstr "Уровень"
+
+#: resources/views/content/armours.blade.php:38
+#: resources/views/content/weapons.blade.php:32
+msgid "Sort"
+msgstr "Сортировать"
+
+#: resources/views/content/armours.blade.php:40
+#: resources/views/content/spells.blade.php:41
+#: resources/views/content/weapons.blade.php:34
+msgid "level"
+msgstr "уровень"
+
+#: resources/views/content/armours.blade.php:46
+#: resources/views/content/spells.blade.php:44
+#: resources/views/content/weapons.blade.php:40
+msgid "Order"
+msgstr "Порядок"
+
+#: resources/views/content/armours.blade.php:48
+#: resources/views/content/spells.blade.php:46
+#: resources/views/content/weapons.blade.php:42
+msgid "ascending"
+msgstr "по возрастанию"
+
+#: resources/views/content/armours.blade.php:49
+#: resources/views/content/spells.blade.php:47
+#: resources/views/content/weapons.blade.php:43
+msgid "descending"
+msgstr "по убыванию"
+
+#: resources/views/content/armours.blade.php:68
+msgid "Armour"
+msgstr "Броня"
+
+#: resources/views/content/armours.blade.php:71
+#: resources/views/content/weapons.blade.php:65
+msgid "Stats"
+msgstr "Хар-ки"
+
+#: resources/views/content/armours.blade.php:72
+#: resources/views/content/weapons.blade.php:66
+msgid "Dropped by"
+msgstr "Падает с"
+
+#: resources/views/content/armours.blade.php:79
+#: resources/views/content/food.blade.php:18
+#: resources/views/content/monsters.blade.php:29
+#: resources/views/content/skills.blade.php:15
+#: resources/views/content/spells.blade.php:54
+#: resources/views/content/weapons.blade.php:73
+msgid "No items to display."
+msgstr "Нет объектов для отображения."
+
+#: resources/views/content/food.blade.php:6
+msgid "Food and potions"
+msgstr "Еда и зелья"
+
+#: resources/views/content/food.blade.php:9
+msgid "Item"
+msgstr "Предмет"
+
+#: resources/views/content/food.blade.php:10
+msgid "Effect"
+msgstr "Эффект"
+
+#: resources/views/content/monsters.blade.php:6
+#: resources/views/content/weapons.blade.php:62
+msgid "Name"
+msgstr "Имя"
+
+#: resources/views/content/monsters.blade.php:15
+msgid "Monster"
+msgstr "Монстр"
+
+#: resources/views/content/monsters.blade.php:16
+msgid "Award"
+msgstr "Награда"
+
+#: resources/views/content/monsters.blade.php:17
+#: resources/views/content/pets.blade.php:12
+msgid "HP"
+msgstr "Здоровье"
+
+#: resources/views/content/monsters.blade.php:18
+msgid "Walkspeed"
+msgstr "Скорость"
+
+#: resources/views/content/monsters.blade.php:19
+msgid "Attack"
+msgstr "Атака"
+
+#: resources/views/content/monsters.blade.php:20
+#: resources/views/content/pets.blade.php:11
+msgid "Weakness"
+msgstr "Слабость"
+
+#: resources/views/content/monsters.blade.php:21
+msgid "Islands"
+msgstr "Острова"
+
+#: resources/views/content/monsters.blade.php:22
+msgid "Drops"
+msgstr "Падает"
+
+#: resources/views/content/pets.blade.php:8
+msgid "Pet"
+msgstr "Питомец"
+
+#: resources/views/content/pets.blade.php:9
+msgid "Damage"
+msgstr "Урон"
+
+#: resources/views/content/pets.blade.php:10
+msgid "Protection"
+msgstr "Защита"
+
+#: resources/views/content/pets.blade.php:14
+msgid "Defense"
+msgstr "Защита"
+
+#: resources/views/content/pets.blade.php:20
+msgid "No data."
+msgstr "Нет данных."
+
+#: resources/views/content/skills.blade.php:22
+msgid "Skill"
+msgstr "Способность"
+
+#: resources/views/content/spells.blade.php:16
+msgid "Type"
+msgstr "Тип"
+
+#: resources/views/content/spells.blade.php:19
+msgid "heal"
+msgstr "лечение"
+
+#: resources/views/content/spells.blade.php:20
+msgid "buff"
+msgstr "баф"
+
+#: resources/views/content/spells.blade.php:21
+msgid "debuff"
+msgstr "дебаф"
+
+#: resources/views/content/spells.blade.php:22
+msgid "hit"
+msgstr "удар"
+
+#: resources/views/content/spells.blade.php:23
+msgid "fire"
+msgstr "огонь"
+
+#: resources/views/content/spells.blade.php:24
+msgid "ice"
+msgstr "холод"
+
+#: resources/views/content/spells.blade.php:25
+msgid "energy"
+msgstr "энергия"
+
+#: resources/views/content/spells.blade.php:26
+msgid "soul"
+msgstr "дух"
+
+#: resources/views/content/spells.blade.php:27
+msgid "weapon"
+msgstr "оружие"
+
+#: resources/views/content/spells.blade.php:29
+#: resources/views/content/spells.blade.php:65
+msgid "Target"
+msgstr "Цель"
+
+#: resources/views/content/spells.blade.php:32
+#: resources/views/content/spells.blade.php:137
+msgid "self"
+msgstr "на себя"
+
+#: resources/views/content/spells.blade.php:33
+#: resources/views/content/spells.blade.php:143
+msgid "guild"
+msgstr "гильдия"
+
+#: resources/views/content/spells.blade.php:34
+#: resources/views/content/spells.blade.php:140
+msgid "AoE"
+msgstr "АоЕ"
+
+#: resources/views/content/spells.blade.php:35
+msgid "single"
+msgstr "один"
+
+#: resources/views/content/spells.blade.php:39
+msgid "Sort by"
+msgstr "Сортировать по"
+
+#: resources/views/content/spells.blade.php:42
+msgid "name"
+msgstr "имя"
+
+#: resources/views/content/spells.blade.php:61
+msgid "Spell"
+msgstr "Заклинание"
+
+#: resources/views/content/spells.blade.php:63
+#: resources/views/content/weapons.blade.php:64
+msgid "Mana"
+msgstr "Мана"
+
+#: resources/views/content/spells.blade.php:64
+msgid "Amount"
+msgstr "Кол-во"
+
+#: resources/views/content/spells.blade.php:66
+msgid "Cooldown"
+msgstr "Перезарядка"
+
+#: resources/views/content/spells.blade.php:105
+#, python-format
+msgid "%.2f HP/s"
+msgstr "%.2f HP/c"
+
+#: resources/views/content/spells.blade.php:146
+msgid "single enemy"
+msgstr "одиночный враг"
+
+#: resources/views/forum/home.blade.php:20
+#: resources/views/forum/viewforum.blade.php:20
+msgid "new"
+msgstr "новое"
+
+#: resources/views/forum/home.blade.php:23
+msgid "hidden"
+msgstr "скрыто"
+
+#: resources/views/forum/home.blade.php:26
+#, python-format
+msgid "%d topic"
+msgid_plural "%d topics"
+msgstr[0] "%d тема"
+msgstr[1] "%d темы"
+msgstr[2] "%d тем"
+
+#: resources/views/forum/home.blade.php:27
+#, python-format
+msgid "%d post"
+msgid_plural "%d posts"
+msgstr[0] "%d сообщение"
+msgstr[1] "%d сообщения"
+msgstr[2] "%d сообщений"
+
+#: resources/views/forum/post-edit.blade.php:10
+#: resources/views/forum/post-quote.blade.php:13
+#: resources/views/forum/topic-create-edit.blade.php:21
+#: resources/views/forum/topic-move.blade.php:16
+msgid "Cancel"
+msgstr "Отмена"
+
+#: resources/views/forum/topic-create-edit.blade.php:6
+msgid "Title"
+msgstr "Название"
+
+#: resources/views/forum/topic-create-edit.blade.php:9
+msgid "Message"
+msgstr "Сообщение"
+
+#: resources/views/forum/topic-create-edit.blade.php:14
+msgid "Pinned"
+msgstr "Закреплено"
+
+#: resources/views/forum/topic-move.blade.php:6
+msgid "Move to"
+msgstr "Переместить в"
+
+#: resources/views/forum/viewtopic.blade.php:10
+#: resources/views/forum/viewtopic.blade.php:101
+#, python-format
+msgid "Topics: %d"
+msgstr "Темы: %d"
+
+#: resources/views/forum/viewtopic.blade.php:11
+#: resources/views/forum/viewtopic.blade.php:102
+#, python-format
+msgid "Posts: %d"
+msgstr "Посты: %d"
+
+#: resources/views/forum/viewtopic.blade.php:15
+#: resources/views/forum/viewtopic.blade.php:106
+msgid "Edited by %1$s on %2$s"
+msgstr "Изменил %1$s %2$s"
+
+#: resources/views/forum/viewtopic.blade.php:17
+#: resources/views/forum/viewtopic.blade.php:108
+#, python-format
+msgid "edited %d time in total"
+msgid_plural "edited %d times in total"
+msgstr[0] "всего изменено %d раз"
+msgstr[1] "всего изменено %d раза"
+msgstr[2] "всего изменено %d раз"
+
+#: resources/views/forum/viewtopic.blade.php:164
+msgid "This thread is closed, you cannot post here."
+msgstr "Эта тема закрыта, Вы не можете оставлять сообщения."
+
+#: resources/views/forum/viewtopic.blade.php:181
+msgid "Log in to post messages."
+msgstr "Войдите чтобы оставлять сообщения."
+
+#: resources/views/home.blade.php:22
+#, python-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d комментарий"
+msgstr[1] "%d комментария"
+msgstr[2] "%d комментариев"
+
+#: resources/views/home.blade.php:42
+msgid "view all"
+msgstr "посмотреть все"
+
+#: resources/views/home.blade.php:47
+msgid "Chat"
+msgstr "Чат"
+
+#: resources/views/home.blade.php:52
+msgid ""
+"TibiaME is the first massively multiplayer online role-playing game for "
+"mobile devices. Come together with hundreds of players and experience "
+"adventures in a colourful virtual world! Along with your friends you explore "
+"the mysterious land of TibiaME, fight your way through hordes of evil "
+"creatures and solve ancient riddles to find untold treasures. With every "
+"monster you defeat you will grow in strength and power. TibiaME is based on "
+"the successful online role-playing game Tibia which attracts thousands of "
+"players every day."
+msgstr ""
+"TibiaME - первая массовая многопользовательская ролевая онлайн игра для "
+"мобильных устройств. Собирайтесь с сотнями игроков и переживайте приключения "
+"в красочном виртуальном мире! Вместе с друзьями вы исследуете таинственную "
+"землю TibiaME, прокладываете свой путь через орды злых существ и решаете "
+"древние загадки, чтобы найти несметные сокровища. С каждым побежденным "
+"монстром Ваши силы будут расти. TibiaME основана на успешной ролевой онлайн "
+"игре Tibia, которая привлекает тысячи игроков каждый день."
+
+#: resources/views/home.blade.php:60
+msgid "Premium & Platinum"
+msgstr "Премиум и Платина"
+
+#: resources/views/home.blade.php:65
+msgid "Forum"
+msgstr "Форум"
+
+#: resources/views/home.blade.php:88
+msgid "Memberlist"
+msgstr "Пользователи"
+
+#: resources/views/home.blade.php:91
+msgid "Banlist"
+msgstr "Список банов"
+
+#: resources/views/home.blade.php:94
+msgid "Ranks"
+msgstr "Ранги"
+
+#: resources/views/home.blade.php:113
+msgid "TOP 100"
+msgstr "ТОП 100"
+
+#: resources/views/home.blade.php:114
+msgid "Hunters"
+msgstr "Охотники"
+
+#: resources/views/home.blade.php:116
+msgid "Achievements"
+msgstr "Достижения"
+
+#: resources/views/home.blade.php:117
+msgid "Guilds"
+msgstr "Гильдии"
+
+#: resources/views/home.blade.php:118
+msgid "Worlds"
+msgstr "Миры"
+
+#: resources/views/home.blade.php:123
+msgid "Encyclopedia"
+msgstr "Энциклопедия"
+
+#: resources/views/home.blade.php:125
+msgid "Armour Calculator"
+msgstr "Калькулятор брони"
+
+#: resources/views/home.blade.php:126
+msgid "Weapons"
+msgstr "Оружие"
+
+#: resources/views/home.blade.php:127
+msgid "Armours"
+msgstr "Броня"
+
+#: resources/views/home.blade.php:128
+msgid "Monsters"
+msgstr "Монстры"
+
+#: resources/views/home.blade.php:129
+msgid "Spells"
+msgstr "Заклинания"
+
+#: resources/views/home.blade.php:130
+msgid "Skills"
+msgstr "Способности"
+
+#: resources/views/home.blade.php:131
+msgid "Pets"
+msgstr "Питомцы"
+
+#: resources/views/home.blade.php:137
+msgid "About us"
+msgstr "О нас"
+
+#: resources/views/home.blade.php:139
+msgid "Moderators"
+msgstr "Модераторы"
+
+#: resources/views/home.blade.php:140
+msgid "User agreement"
+msgstr "Пользовательское соглашение"
+
+#: resources/views/home.blade.php:145
+msgid "Archive"
+msgstr "Архив"
+
+#: resources/views/home.blade.php:146
+msgid "These sections are in read-only mode and/or not eligible for support."
+msgstr "Эти разделы закрыты от редактирования и/или их поддержка прекращена."
+
+#: resources/views/home.blade.php:150
+msgid "Photo album"
+msgstr "Фотоальбом"
+
+#: resources/views/home.blade.php:155
+msgid "Themes"
+msgstr "Темы"
+
+#: resources/views/layout.blade.php:72 resources/views/layout.blade.php:81
+msgid "Online"
+msgstr "Онлайн"
+
+#: resources/views/layout.blade.php:101
+msgid "Guest"
+msgstr "Гость"
+
+#: resources/views/layout.blade.php:107
+msgid "No new letters"
+msgstr "Нет новых писем"
+
+#: resources/views/layout.blade.php:107
+#, python-format
+msgid "%d new letter"
+msgid_plural "%d new letters"
+msgstr[0] "%d новое письмо"
+msgstr[1] "%d новых письма"
+msgstr[2] "%d новых писем"
+
+#: resources/views/layout.blade.php:112
+#, python-format
+msgid "%d notification"
+msgid_plural "%d notifications"
+msgstr[0] "%d уведомление"
+msgstr[1] "%d уведомления"
+msgstr[2] "%d уведомлений"
+
+#: resources/views/layout.blade.php:112
+msgid "No new notifications"
+msgstr "Нет новых уведомлений"
+
+#: resources/views/layout.blade.php:115
+msgid "Profile"
+msgstr "Профиль"
+
+#: resources/views/layout.blade.php:116
+msgid "Characters"
+msgstr "Персонажи"
+
+#: resources/views/layout.blade.php:117
+msgid "Settings"
+msgstr "Настройки"
+
+#: resources/views/layout.blade.php:118
+msgid "Log out"
+msgstr "Выйти"
+
+#: resources/views/layout.blade.php:121
+msgid "Log in"
+msgstr "Войти"
+
+#: resources/views/layout.blade.php:124 resources/views/login.blade.php:39
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: resources/views/layout.blade.php:127 resources/views/login.blade.php:38
+msgid "Recover password"
+msgstr "Восстановить пароль"
+
+#: resources/views/layout.blade.php:156
+msgid "Home"
+msgstr "На главную"
+
+#: resources/views/layout.blade.php:194
+msgid "Tibia and TibiaME are trademarks of CipSoft GmbH, Germany."
+msgstr "Tibia и TibiaME являются торговыми марками OOO \"CipSoft\", Германия."
+
+#: resources/views/letters/list.blade.php:6
+#: resources/views/letters/view.blade.php:13
+msgid "No letters."
+msgstr "Нет писем."
+
+#: resources/views/letters/view.blade.php:24
+msgid "Delete"
+msgstr "Удалить"
+
+#: resources/views/livewire/armour-calculator.blade.php:97
+msgid "Defense level"
+msgstr "Уровень защиты"
+
+#: resources/views/livewire/armour-calculator.blade.php:105
+msgid "Include upgraded items"
+msgstr "Включая улучшенные вещи"
+
+#: resources/views/livewire/armour-calculator.blade.php:111
+msgid "Distribute stats evenly"
+msgstr "Распределить хар-ки равномерно"
+
+#: resources/views/livewire/armour-calculator.blade.php:118
+msgid "Ignored items"
+msgstr "Игнорируемые предметы"
+
+#: resources/views/livewire/armour-calculator.blade.php:123
+msgid "none"
+msgstr "нет"
+
+#: resources/views/livewire/chat.blade.php:40
+msgid "Type your message"
+msgstr "Напишите сообщение"
+
+#: resources/views/livewire/comments-watch.blade.php:3
+msgid "You will be notified on new comments"
+msgstr "Вы будете получать уведомления о новых комментариях"
+
+#: resources/views/livewire/comments-watch.blade.php:5
+msgid "Watch for new comments"
+msgstr "Следить за новыми комментариями"
+
+#: resources/views/login.blade.php:23
+msgid "Password"
+msgstr "Пароль"
+
+#: resources/views/login.blade.php:30
+msgid "Remember me on this device."
+msgstr "Запомнить меня на этом устройстве."
+
+#: resources/views/mail/letter_received.blade.php:1
+#: resources/views/mail/password_recovery.blade.php:1
+#, python-format
+msgid "Hello %s"
+msgstr "Привет, %s"
+
+#: resources/views/mail/letter_received.blade.php:3
+msgid ""
+"You have received a new private message to your account on Tibia-ME.net and "
+"you have requested that you be notified on this event."
+msgstr ""
+"Вы получили новое личное сообщение на Tibia-ME.net и Вы просили уведомлять "
+"Вас об этом."
+
+#: resources/views/mail/letter_received.blade.php:4
+msgid "You can view your new message by clicking on the following link:"
+msgstr ""
+"Вы можете просмотреть Ваше новое сообщение, перейдя по следующей ссылке:"
+
+#: resources/views/mail/letter_received.blade.php:7
+msgid ""
+"You can always choose not to be notified on new messages by changing the "
+"appropriate setting in your profile."
+msgstr ""
+"Вы всегда можете отказаться от получения уведомлений о новых сообщениях, "
+"изменив соответствующую настройку в своем профиле."
+
+#: resources/views/mail/password_recovery.blade.php:3
+#, python-format
+msgid "You have requested a new password for your account on %s."
+msgstr "Вы запросили новый пароль для своей учетной записи на %s."
+
+#: resources/views/mail/password_recovery.blade.php:5
+msgid "Click the following link to continue new password activation:"
+msgstr "Нажмите на следующую ссылку, чтобы продолжить активацию нового пароля:"
+
+#: resources/views/mail/password_recovery.blade.php:8
+msgid "If you did not request a new password, just ignore this message."
+msgstr ""
+"Если вы не запрашивали новый пароль, просто проигнорируйте это сообщение."
+
+#: resources/views/memberlist.blade.php:13
+msgid "all"
+msgstr "все"
+
+#: resources/views/memberlist.blade.php:27
+#, python-format
+msgid "Total: %d"
+msgstr "Всего: %d"
+
+#: resources/views/memberlist.blade.php:32
+#, python-format
+msgid "Online: %d"
+msgstr "Онлайн: %d"
+
+#: resources/views/memberlist.blade.php:47
+msgid "Rank"
+msgstr "Ранг"
+
+#: resources/views/notifications.blade.php:6
+msgid "No notifications."
+msgstr "Нет уведомлений."
+
+#: resources/views/notifications.blade.php:18
+#, python-format
+msgid "%s posted at forum."
+msgstr "%s оставил(а) сообщение на форуме."
+
+#: resources/views/notifications.blade.php:20
+msgid "%1$s and %2$d other user posted at forum."
+msgid_plural "%1$s and %2$d other users posted at forum."
+msgstr[0] "%1$s и %2$d другой пользователь оставили сообщения на форуме."
+msgstr[1] "%1$s и %2$d других пользователя оставили сообщения на форуме."
+msgstr[2] "%1$s и %2$d других пользователей оставили сообщения на форуме."
+
+#: resources/views/notifications.blade.php:29
+#, python-format
+msgid "%s commented on photo."
+msgstr "%s прокомментировал(а) фотографию."
+
+#: resources/views/notifications.blade.php:31
+msgid "%1$s and %2$d other user commented on photo."
+msgid_plural "%1$s and %2$d other users commented on photo."
+msgstr[0] "%1$s и %2$d другой пользователь прокомментировали фотографию."
+msgstr[1] "%1$s и %2$d других пользователя прокомментировали фотографию."
+msgstr[2] "%1$s и %2$d других пользователей прокомментировали фотографию."
+
+#: resources/views/notifications.blade.php:40
+#, python-format
+msgid "%s commented on screenshot."
+msgstr "%s прокомментировал(а) скриншот."
+
+#: resources/views/notifications.blade.php:42
+msgid "%1$s and %2$d other user commented on screenshot."
+msgid_plural "%1$s and %2$d other users commented on screenshot."
+msgstr[0] "%1$s и %2$d другой пользователь прокомментировали скриншот."
+msgstr[1] "%1$s и %2$d других пользователя прокомментировали скриншот."
+msgstr[2] "%1$s и %2$d других пользователей прокомментировали скриншот."
+
+#: resources/views/notifications.blade.php:51
+#, python-format
+msgid "%s commented on theme."
+msgstr "%s прокомментировал(а) тему."
+
+#: resources/views/notifications.blade.php:53
+msgid "%1$s and %2$d other user commented on theme."
+msgid_plural "%1$s and %2$d other users commented on theme."
+msgstr[0] "%1$s и %2$d другой пользователь прокомментировали тему."
+msgstr[1] "%1$s и %2$d других пользователя прокомментировали тему."
+msgstr[2] "%1$s и %2$d других пользователей прокомментировали тему."
+
+#: resources/views/notifications.blade.php:62
+#, python-format
+msgid "%s likes your screenshot."
+msgstr "%s понравился Ваш скриншот."
+
+#: resources/views/notifications.blade.php:65
+msgid "%1$s and %2$d other user like your screenshot."
+msgid_plural "%1$s and %2$d other users like your screenshot."
+msgstr[0] "%1$s и %2$d другой пользователь оценили Ваш скриншот."
+msgstr[1] "%1$s и %2$d других пользователя оценили Ваш скриншот."
+msgstr[2] "%1$s и %2$d других пользователей оценили Ваш скриншот."
+
+#: resources/views/notifications.blade.php:74
+#, python-format
+msgid "%s likes your photo."
+msgstr "%s понравилась Ваша фотография."
+
+#: resources/views/notifications.blade.php:76
+msgid "%1$s and %2$d other user like your photo."
+msgid_plural "%1$s and %2$d other users like your photo."
+msgstr[0] "%1$s и %2$d другой пользователь оценили Вашу фотографию."
+msgstr[1] "%1$s и %2$d других пользователя оценили Вашу фотографию."
+msgstr[2] "%1$s и %2$d других пользователей оценили Вашу фотографию."
+
+#: resources/views/notifications.blade.php:85
+#, python-format
+msgid "%s likes your theme."
+msgstr "%s понравилась Ваша тема."
+
+#: resources/views/notifications.blade.php:87
+msgid "%1$s and %2$d other user like your theme."
+msgid_plural "%1$s and %2$d other users like your theme."
+msgstr[0] "%1$s и %2$d другой пользователь оценили Вашу тему."
+msgstr[1] "%1$s и %2$d других пользователя оценили Вашу тему."
+msgstr[2] "%1$s и %2$d других пользователей оценили Вашу тему."
+
+#: resources/views/notifications.blade.php:96
+#, python-format
+msgid "%s commented on artwork."
+msgstr "%s прокомментировал(а) артворк."
+
+#: resources/views/notifications.blade.php:98
+msgid "%1$s and %2$d other user commented on artwork."
+msgid_plural "%1$s and %2$d other users commented on artwork."
+msgstr[0] "%1$s и %2$d другой пользователь прокомментировали артворк."
+msgstr[1] "%1$s и %2$d других пользователя прокомментировали артворк."
+msgstr[2] "%1$s и %2$d других пользователей прокомментировали артворк."
+
+#: resources/views/notifications.blade.php:107
+#, python-format
+msgid "%s likes your artwork."
+msgstr "%s понравился Ваш артворк."
+
+#: resources/views/notifications.blade.php:109
+msgid "%1$s and %2$d other user like your artwork."
+msgid_plural "%1$s and %2$d other users like your artwork."
+msgstr[0] "%1$s и %2$d другой пользователь оценили Ваш артворк."
+msgstr[1] "%1$s и %2$d других пользователя оценили Ваш артворк."
+msgstr[2] "%1$s и %2$d других пользователей оценили Ваш артворк."
+
+#: resources/views/premiumplatinum.blade.php:4
+msgid "What is VIP?"
+msgstr "Что такое VIP?"
+
+#: resources/views/premiumplatinum.blade.php:6
+msgid ""
+"VIP is permanent character status that you receive after any purchase (any "
+"amount of Platinum or Premium)."
+msgstr ""
+"VIP – постоянный статус персонажа, который Вы получаете после любой оплаты "
+"(любое количество Платины или Премиума)."
+
+#: resources/views/premiumplatinum.blade.php:8
+msgid "Priority Login"
+msgstr "Вход без очереди"
+
+#: resources/views/premiumplatinum.blade.php:9
+#: resources/views/premiumplatinum.blade.php:19
+#, python-format
+msgid "Stamina Bonus (+%s Experience)"
+msgstr "Бонус стамины (+%s опыта)"
+
+#: resources/views/premiumplatinum.blade.php:13
+msgid "What is Premium?"
+msgstr "Что такое Премиум?"
+
+#: resources/views/premiumplatinum.blade.php:15
+msgid ""
+"Premium is renewable subscription that gives you temporary access to most of "
+"game features. When your Premium time expires your character remains VIP."
+msgstr ""
+"Премиум – обновляемая подписка, которая дает Вам временный доступ к "
+"большинству игровых функций. Когда время Премиум заканчивается, Ваш персонаж "
+"остается VIP."
+
+#: resources/views/premiumplatinum.blade.php:17
+msgid "Full access to additional islands"
+msgstr "Полный доступ к дополнительным островам"
+
+#: resources/views/premiumplatinum.blade.php:18
+msgid "Portal usage"
+msgstr "Возможность пользоваться порталами"
+
+#: resources/views/premiumplatinum.blade.php:20
+msgid "20 friendlist slots"
+msgstr "20 слотов для друзей"
+
+#: resources/views/premiumplatinum.blade.php:21
+msgid "20 ignorelist slots"
+msgstr "20 слотов в списке игнора"
+
+#: resources/views/premiumplatinum.blade.php:22
+msgid "20 letters in Mailbox"
+msgstr "20 слотов для писем"
+
+#: resources/views/premiumplatinum.blade.php:23
+msgid "10 trade offers"
+msgstr "10 слотов для торговли"
+
+#: resources/views/premiumplatinum.blade.php:24
+msgid "9 depot pages"
+msgstr "9 страниц на складе"
+
+#: resources/views/premiumplatinum.blade.php:25
+msgid "50% of EP loss protection upon death (can be upgraded to 80% or 100%)"
+msgstr ""
+"Страхование жизни с сохранением 50% потерянного опыта при смерти (может быть "
+"улучшено до 80% или 100%)"
+
+#: resources/views/premiumplatinum.blade.php:26
+msgid "Guild Founding"
+msgstr "Возможность создавать гильдию"
+
+#: resources/views/premiumplatinum.blade.php:29
+msgid "What is Platinum?"
+msgstr "Что такое Платина?"
+
+#: resources/views/premiumplatinum.blade.php:31
+msgid ""
+"Platinum is game currency that allows you to buy permanent access to game "
+"features of your choice."
+msgstr ""
+"Платина – игровая валюта, за которую можно купить постоянный доступ к "
+"выбранным Вами игровым функциям."
+
+#: resources/views/premiumplatinum.blade.php:33
+msgid "Buy permanent access to individual islands"
+msgstr "Купите полный доступ к отдельным островам"
+
+#: resources/views/premiumplatinum.blade.php:34
+msgid "Buy portal usage permanently"
+msgstr "Купите постоянную возможность пользоваться порталами"
+
+#: resources/views/premiumplatinum.blade.php:35
+msgid "Buy up to 50 friendlist slots"
+msgstr "Купите до 50 слотов в списке друзей"
+
+#: resources/views/premiumplatinum.blade.php:36
+msgid "Buy up to 50 letters in Mailbox"
+msgstr "Купите до 50 слотов для писем"
+
+#: resources/views/premiumplatinum.blade.php:37
+msgid "Buy up to 20 trade offers"
+msgstr "Купите до 20 слотов для торговли"
+
+#: resources/views/premiumplatinum.blade.php:38
+msgid "Buy up to 9 depot pages"
+msgstr "Купите до 9 страниц на складе"
+
+#: resources/views/premiumplatinum.blade.php:39
+msgid ""
+"Buy a life insurance with 50%, 80% or 100% of EP loss protection upon death"
+msgstr ""
+"Купите страхование жизни с сохранением 50%, 80% или 100% потерянного опыта "
+"при смерти"
+
+#: resources/views/premiumplatinum.blade.php:40
+msgid "Buy additional Rerolls whenever you need them"
+msgstr "Купите возможность сбросить изученные навыки в любое время"
+
+#: resources/views/premiumplatinum.blade.php:41
+msgid "Buy guild founding"
+msgstr "Купите возможность создавать гильдию"
+
+#: resources/views/premiumplatinum.blade.php:47
+#, python-format
+msgid "Buy on %s"
+msgstr "Купить на %s"
+
+#: resources/views/profile.blade.php:16
+msgid "Banned"
+msgstr "Забанен"
+
+#: resources/views/profile.blade.php:27
+msgid "Remove avatar"
+msgstr "Удалить аватар"
+
+#: resources/views/profile.blade.php:34 resources/views/profile.blade.php:44
+#: resources/views/scores/character.blade.php:101
+#: resources/views/scores/guild.blade.php:7
+#: resources/views/scores/guilds.blade.php:31
+#: resources/views/scores/hunters_guilds.blade.php:23
+msgid "Guild"
+msgstr "Гильдия"
+
+#: resources/views/profile.blade.php:68 resources/views/profile.blade.php:86
+#: resources/views/profile.blade.php:117 resources/views/profile.blade.php:132
+#: resources/views/profile.blade.php:140 resources/views/profile.blade.php:148
+#: resources/views/profile.blade.php:168
+msgid "not specified"
+msgstr "не указано"
+
+#: resources/views/profile.blade.php:115 resources/views/profile.blade.php:123
+msgid "Gender"
+msgstr "Пол"
+
+#: resources/views/profile.blade.php:118 resources/views/profile.blade.php:126
+msgid "Male"
+msgstr "Мужской"
+
+#: resources/views/profile.blade.php:119 resources/views/profile.blade.php:129
+msgid "Female"
+msgstr "Женский"
+
+#: resources/views/profile.blade.php:138 resources/views/profile.blade.php:147
+msgid "Relationship status"
+msgstr "Семейное положение"
+
+#: resources/views/profile.blade.php:153 resources/views/profile.blade.php:164
+msgid "Birthday"
+msgstr "Дата рождения"
+
+#: resources/views/profile.blade.php:161
+msgid "Hide age"
+msgstr "Скрыть возраст"
+
+#: resources/views/profile.blade.php:171
+msgid "Age"
+msgstr "Возраст"
+
+#: resources/views/profile.blade.php:176 resources/views/profile.blade.php:187
+msgid "Location"
+msgstr "Откуда"
+
+#: resources/views/profile.blade.php:200 resources/views/register.blade.php:32
+msgid "Hide email"
+msgstr "Скрыть email"
+
+#: resources/views/profile.blade.php:208 resources/views/profile.blade.php:213
+msgid "Phone number"
+msgstr "Номер телефона"
+
+#: resources/views/profile.blade.php:218 resources/views/profile.blade.php:223
+msgid "Signature"
+msgstr "Подпись"
+
+#: resources/views/profile.blade.php:228
+msgid "Joined"
+msgstr "Загеристрирован с"
+
+#: resources/views/profile.blade.php:229
+msgid "Before 27th of August, 2009"
+msgstr "До 27 августа 2009"
+
+#: resources/views/profile.blade.php:233
+msgid "Last visit"
+msgstr "Последнее посещение"
+
+#: resources/views/profile.blade.php:234
+msgid "no data"
+msgstr "нет данных"
+
+#: resources/views/profile.blade.php:238
+msgid "Total online time"
+msgstr "Провел на сайте"
+
+#: resources/views/profile.blade.php:239
+#, python-format
+msgid "%dh %dmin %dsec"
+msgstr "%dч %dмин %dс"
+
+#: resources/views/profile.blade.php:245
+msgid "Posts at forum"
+msgstr "Постов на форуме"
+
+#: resources/views/profile.blade.php:251 resources/views/profile.blade.php:254
+msgid "Photos"
+msgstr "Фотографии"
+
+#: resources/views/profile.blade.php:281 resources/views/profile.blade.php:284
+msgid "Banishments"
+msgstr "Наказания"
+
+#: resources/views/ranks/create-or-edit.blade.php:8
+msgid "Prefix"
+msgstr "Префикс"
+
+#: resources/views/ranks/create-or-edit.blade.php:12
+msgid "Color"
+msgstr "Цвет"
+
+#: resources/views/ranks/delete.blade.php:7
+#, python-format
+msgid "This rank is assigned to %d user. Please assign them another rank:"
+msgid_plural ""
+"This rank is assigned to %d users. Please assign them another rank:"
+msgstr[0] "Это звание присвоено %d пользователю. Выберите новое звание:"
+msgstr[1] "Это звание присвоено %d пользователям. Выберите новое звание:"
+msgstr[2] "Это звание присвоено %d пользователям. Выберите новое звание:"
+
+#: resources/views/ranks/delete.blade.php:10
+msgid "New rank"
+msgstr "Новый ранг"
+
+#: resources/views/ranks/delete.blade.php:19
+#, python-format
+msgid "Are you sure you want to delete rank \"%s\"?"
+msgstr "Вы уверены, что хотите удалить ранг \"%s\"?"
+
+#: resources/views/ranks/list.blade.php:14
+msgid "Users"
+msgstr "Пользователи"
+
+#: resources/views/scores/achievements.blade.php:22
+#: resources/views/scores/hunters_characters.blade.php:16
+#: resources/views/scores/top100.blade.php:27
+msgid "warriors"
+msgstr "войны"
+
+#: resources/views/scores/achievements.blade.php:23
+#: resources/views/scores/hunters_characters.blade.php:17
+#: resources/views/scores/top100.blade.php:29
+msgid "wizards"
+msgstr "маги"
+
+#: resources/views/scores/achievements.blade.php:33
+#: resources/views/scores/hunters_characters.blade.php:48
+#: resources/views/scores/pvp.blade.php:17
+#: resources/views/scores/top100.blade.php:39
+msgid "Character"
+msgstr "Персонаж"
+
+#: resources/views/scores/achievements.blade.php:34
+#: resources/views/scores/character.blade.php:89
+msgid "Points"
+msgstr "Очки"
+
+#: resources/views/scores/character.blade.php:30
+#: resources/views/scores/guild.blade.php:19
+#: resources/views/scores/world.blade.php:13
+msgid "EP"
+msgstr "Опыт"
+
+#: resources/views/scores/character.blade.php:36
+msgid "Next level"
+msgstr "След. уровень"
+
+#: resources/views/scores/character.blade.php:52
+#: resources/views/scores/character.blade.php:73
+msgid "Global rank"
+msgstr "Общий ранг"
+
+#: resources/views/scores/character.blade.php:60
+#: resources/views/scores/character.blade.php:81
+msgid "World rank"
+msgstr "Мировой ранг"
+
+#: resources/views/scores/character.blade.php:95
+msgid "PvP rank"
+msgstr "PvP ранг"
+
+#: resources/views/scores/character.blade.php:113
+msgid "Max daily gain"
+msgstr "Максимальный набор за день"
+
+#: resources/views/scores/character.blade.php:125
+msgid "Min daily gain"
+msgstr "Минимальные набор за день"
+
+#: resources/views/scores/character.blade.php:139
+#, python-format
+msgid "Last %d day"
+msgid_plural "Last %d days"
+msgstr[0] "Последний %d день"
+msgstr[1] "Последние %d дня"
+msgstr[2] "Последние %d дней"
+
+#: resources/views/scores/character.blade.php:162
+#, python-format
+msgid "Updated %d day ago."
+msgid_plural "Updated %d days ago."
+msgstr[0] "Обновлено %d день назад."
+msgstr[1] "Обновлено %d дня назад."
+msgstr[2] "Обновлено %d дней назад."
+
+#: resources/views/scores/character.blade.php:169
+#, python-format
+msgid "Updated %d hour ago."
+msgid_plural "Updated %d hours ago."
+msgstr[0] "Обновлено %d час назад."
+msgstr[1] "Обновлено %d часа назад."
+msgstr[2] "Обновлено %d часов назад."
+
+#: resources/views/scores/character.blade.php:172
+msgid "Updated less than hour ago."
+msgstr "Обновлено менее часа назад."
+
+#: resources/views/scores/character.blade.php:181
+msgid "Loading chart data..."
+msgstr "Идет загрузка данных..."
+
+#: resources/views/scores/character.blade.php:228
+#: resources/views/scores/guild.blade.php:41
+#: resources/views/scores/hunters_characters.blade.php:21
+#: resources/views/scores/hunters_guilds.blade.php:13
+msgid "Date"
+msgstr "Дата"
+
+#: resources/views/scores/character.blade.php:231
+#: resources/views/scores/guild.blade.php:43
+#: resources/views/scores/guilds.blade.php:33
+#: resources/views/scores/hunters_characters.blade.php:50
+#: resources/views/scores/hunters_guilds.blade.php:24
+#: resources/views/scores/top100.blade.php:40
+#: resources/views/scores/worlds.blade.php:9
+msgid "Experience"
+msgstr "Опыт"
+
+#: resources/views/scores/guild.blade.php:24
+msgid "Known guild members"
+msgstr "Известные члены гильдии"
+
+#: resources/views/scores/hunters_characters.blade.php:24
+msgid "Time"
+msgstr "Время"
+
+#: resources/views/scores/hunters_characters.blade.php:26
+msgid "full day"
+msgstr "весь день"
+
+#: resources/views/scores/hunters_characters.blade.php:35
+msgid "exp"
+msgstr "опыт"
+
+#: resources/views/scores/pvp.blade.php:19
+msgid "Quota"
+msgstr "Квота"
+
+#: resources/views/scores/world.blade.php:23
+msgid "Max gain"
+msgstr "Макс. набор опыта"
+
+#: resources/views/scores/world.blade.php:30
+msgid "Min gain"
+msgstr "Мин. набор опыта"
+
+#: resources/views/screenshots.blade.php:16
+msgid "Please log in to upload screenshots."
+msgstr "Авторизуйтесь для загрузки скриншотов."
+
+#: resources/views/screenshots.blade.php:24
+msgid "You don't have any screenshots yet."
+msgstr "У Вас пока нет скриншотов."
+
+#: resources/views/screenshots.blade.php:26
+msgid "This user doesn't have any screenshots yet."
+msgstr "У этого пользователя пока нет скриншотов."
+
+#: resources/views/screenshots.blade.php:29
+msgid "No screenshots."
+msgstr "Нет скриншотов."
+
+#: resources/views/settings.blade.php:6
+msgid "Language"
+msgstr "Язык"
+
+#: resources/views/settings.blade.php:15
+msgid "Timezone"
+msgstr "Временная зона"
+
+#: resources/views/settings.blade.php:22
+msgid "Dark mode"
+msgstr "Тёмная тема"
+
+#: resources/views/settings.blade.php:24
+msgid "auto"
+msgstr "авто"
+
+#: resources/views/settings.blade.php:25
+msgid "enabled"
+msgstr "включена"
+
+#: resources/views/settings.blade.php:26
+msgid "disabled"
+msgstr "выключена"
+
+#: resources/views/settings.blade.php:38
+msgid "Notify on letters"
+msgstr "Уведомлять о письмах"
+
+#: resources/views/settings.blade.php:44
+msgid "Allow album comments"
+msgstr "Разрешить комментарии в альбоме"
+
+#: resources/views/settings.blade.php:50
+msgid "Notify on new comments"
+msgstr "Уведомлять о комментариях"
+
+#: resources/views/staff.blade.php:4
+msgid "Creator"
+msgstr "Создатель"
+
+#: resources/views/staff.blade.php:18
+msgid "Translators"
+msgstr "Переводчики"
+
+#: resources/views/themes/edit.blade.php:11
+msgid "Author"
+msgstr "Автор"
+
+#: resources/views/themes/edit.blade.php:14
+#: resources/views/themes/home.blade.php:39
+#, python-format
+msgid "Downloads: %d"
+msgstr "Скачиваний: %d"
+
+#: resources/views/themes/edit.blade.php:20
+msgid "Status"
+msgstr "Статус"
+
+#: resources/views/themes/edit.blade.php:28
+msgid "Replace screenshot"
+msgstr "Заменить скриншот"
+
+#: resources/views/themes/home.blade.php:6
+msgid "No themes to display."
+msgstr "Нет тем для просмотра."
+
+#: app/Helpers.php:117 app/Helpers.php:118
+msgid "wrote"
+msgstr "написал"
+
+#: app/Helpers.php:129
+msgid "Click to show"
+msgstr "Нажмите, чтобы посмотреть"
+
+#: app/Http/Controllers/Album.php:171
+msgid "Album has been deleted."
+msgstr "Альбом удален."
+
+#: app/Http/Controllers/Artworks.php:50
+msgid "Artwork has been deleted."
+msgstr "Изображение удалено."
+
+#: app/Http/Controllers/Auth.php:66
+msgid "Invalid username or password."
+msgstr "Неверное имя пользователя или пароль."
+
+#: app/Http/Controllers/Auth.php:103 app/Http/Controllers/Characters.php:39
+#: app/Http/Controllers/Characters.php:57
+msgid "This nickname is already in use."
+msgstr "Этот ник уже используется."
+
+#: app/Http/Controllers/Auth.php:133
+#, php-format
+msgid "Your account has been just created, %s!"
+msgstr "%s, Ваш аккаунт создан!"
+
+#: app/Http/Controllers/Auth.php:139
+msgid "Password recovery"
+msgstr "Восстановление пароля"
+
+#: app/Http/Controllers/Auth.php:148 app/Http/Controllers/Auth.php:199
+msgid "Invalid token."
+msgstr "Неверный токен."
+
+#: app/Http/Controllers/Auth.php:153
+msgid "Reset password"
+msgstr "Сбросить пароль"
+
+#: app/Http/Controllers/Auth.php:168 app/Http/Controllers/Auth.php:173
+msgid "User not found."
+msgstr "Пользователь не найден."
+
+#: app/Http/Controllers/Auth.php:175
+msgid "This account cannot be recovered as it has no email set."
+msgstr ""
+"Пароль от этого аккаунта не может быть восстановлен, так как для него не "
+"указан email."
+
+#: app/Http/Controllers/Auth.php:177
+msgid "Invalid email."
+msgstr "Неверный email."
+
+#: app/Http/Controllers/Auth.php:187
+msgid "Password recovery link has been sent to your email address."
+msgstr "Ссылка для восстановления пароля отправлена на Ваш email."
+
+#: app/Http/Controllers/Auth.php:206
+msgid "Password has been reset."
+msgstr "Пароль обновлен."
+
+#: app/Http/Controllers/Auth.php:209
+msgid "Could not reset your password."
+msgstr "Не удалось восстановить пароль."
+
+#: app/Http/Controllers/Banishments.php:21
+msgid "Ban user"
+msgstr "Забанить пользователя"
+
+#: app/Http/Controllers/Banishments.php:57
+msgid "View banishment"
+msgstr "Просмотр бана"
+
+#: app/Http/Controllers/Banishments.php:96
+msgid "Banishment already expired."
+msgstr "Бан уже истек."
+
+#: app/Http/Controllers/Banishments.php:101
+msgid "Banishment already lifted."
+msgstr "Бан уже снят."
+
+#: app/Http/Controllers/Banishments.php:108
+msgid "Banishment has been lifted."
+msgstr "Бан снят."
+
+#: app/Http/Controllers/Characters.php:25
+#, php-format
+msgid "Cannot add more than %d characters."
+msgstr "Нельзя добавить более %d персонажей."
+
+#: app/Http/Controllers/Characters.php:45
+#: app/Http/Controllers/Characters.php:64
+#: app/Http/Controllers/Characters.php:80 app/Http/Controllers/Forum.php:237
+#: app/Http/Controllers/Forum.php:312 app/Http/Controllers/Letters.php:86
+#: app/Http/Controllers/Profile.php:199
+msgid "Changes saved."
+msgstr "Изменения сохранены."
+
+#: app/Http/Controllers/Characters.php:70
+msgid "Cannot delete main character."
+msgstr "Нельзя удалить основного персонажа."
+
+#: app/Http/Controllers/Comments.php:99 app/Http/Controllers/Comments.php:103
+msgid "Comments"
+msgstr "Комментарии"
+
+#: app/Http/Controllers/Comments.php:130
+msgid "Your comment has been posted."
+msgstr "Ваш комментарий отправлен."
+
+#: app/Http/Controllers/Content.php:89 app/Http/Controllers/Content.php:90
+msgid "Armour Calc"
+msgstr "Калькулятор брони"
+
+#: app/Http/Controllers/Content.php:337
+msgid "No file selected."
+msgstr "Не выбран файл."
+
+#: app/Http/Controllers/Content.php:342
+msgid "Update already in progress."
+msgstr "Обновление уже запущено."
+
+#: app/Http/Controllers/Forum.php:142
+msgid "Topic has been deleted."
+msgstr "Тема удалена."
+
+#: app/Http/Controllers/Forum.php:155
+msgid "Topic has been locked."
+msgstr "Тема закрыта."
+
+#: app/Http/Controllers/Forum.php:168
+msgid "Topic has been unlocked."
+msgstr "Тема открыта."
+
+#: app/Http/Controllers/Forum.php:184
+msgid "Edit topic"
+msgstr "Редактировать тему"
+
+#: app/Http/Controllers/Forum.php:189 app/Http/Controllers/Ranks.php:91
+#: app/Http/Controllers/Themes.php:87
+msgid "Edit"
+msgstr "Редактировать"
+
+#: app/Http/Controllers/Forum.php:201 app/Http/Controllers/Forum.php:205
+msgid "Create topic"
+msgstr "Создать тему"
+
+#: app/Http/Controllers/Forum.php:263
+msgid "Topic has been created."
+msgstr "Тема создана."
+
+#: app/Http/Controllers/Forum.php:274
+msgid "Post deleted."
+msgstr "Пост удален."
+
+#: app/Http/Controllers/Forum.php:286 app/Http/Controllers/Forum.php:292
+msgid "Edit post"
+msgstr "Редактировать сообщение"
+
+#: app/Http/Controllers/Forum.php:322 app/Http/Controllers/Forum.php:327
+#: app/Http/Controllers/Forum.php:354 app/Http/Controllers/Forum.php:359
+msgid "Quote"
+msgstr "Цитировать"
+
+#: app/Http/Controllers/Forum.php:344 app/Http/Controllers/Forum.php:375
+#: app/Http/Controllers/Forum.php:410
+msgid "Message posted."
+msgstr "Сообщение отправлено."
+
+#: app/Http/Controllers/Forum.php:419 app/Http/Controllers/Forum.php:424
+msgid "Move topic"
+msgstr "Переместить тему"
+
+#: app/Http/Controllers/Forum.php:442
+msgid "Topic has been moved."
+msgstr "Тема перемещена."
+
+#: app/Http/Controllers/Forum.php:450
+msgid "You will be notified on new replies in this thread."
+msgstr "Вы будете получать уведомления о новых сообщениях в этой теме."
+
+#: app/Http/Controllers/Forum.php:458
+msgid "You will no longer be notified on new replies in this thread."
+msgstr ""
+"Вы больше не будете получать уведомления о новых сообщениях в этой теме."
+
+#: app/Http/Controllers/Letters.php:40 app/Http/Controllers/Letters.php:43
+#: app/Http/Controllers/Letters.php:73
+msgid "Letters"
+msgstr "Письма"
+
+#: app/Http/Controllers/Letters.php:107
+msgid "Letter has been sent."
+msgstr "Письмо отправлено."
+
+#: app/Http/Controllers/Memberlist.php:53
+msgid "Users online"
+msgstr "Пользователи онлайн"
+
+#: app/Http/Controllers/Notifications.php:30
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: app/Http/Controllers/Ranks.php:55
+msgid "Create"
+msgstr "Создать"
+
+#: app/Http/Controllers/Scores.php:123 app/Http/Controllers/Scores.php:172
+msgid "TOP Hunters"
+msgstr "ТОП охотников"
+
+#: app/Http/Controllers/Scores.php:637 app/Http/Controllers/Scores.php:641
+#, php-format
+msgid "World %d"
+msgstr "Мир %d"
+
+#: app/Http/Controllers/Screenshots.php:48
+msgid "My screenshots"
+msgstr "Мои скриншоты"
+
+#: app/Http/Controllers/Staff.php:16 app/Http/Controllers/Staff.php:17
+msgid "Staff"
+msgstr "Команда"
+
+#: app/Http/Controllers/Themes.php:26 app/Http/Controllers/Themes.php:36
+#: app/Http/Controllers/Themes.php:42
+msgid "My themes"
+msgstr "Мои темы"
+
+#: app/Http/Controllers/Uploader.php:27
+msgid "No file specified."
+msgstr "Не выбран файл."
+
+#: app/Http/Controllers/Uploader.php:51 app/Http/Controllers/Uploader.php:61
+msgid "File exists."
+msgstr "Файл уже существует."
+
+#: app/Http/Middleware/isBanished.php:29
+#, php-format
+msgid "You have been banished until %s."
+msgstr "Вы забанены до %s."
+
+#: app/Http/Middleware/isBanished.php:29
+msgid "You have been banished permanently."
+msgstr "Вы забанены навсегда."
+
+#: app/Mail/LetterReceived.php:22
+msgid "New Private Message has arrived"
+msgstr "Новое Личное Сообщение"
+
+#: app/Mail/PasswordRecovery.php:22
+msgid "Password recovery confirmation"
+msgstr "Подтверждение восстановления пароля"
+
+#: config/armourslots.php:4
+msgid "Head"
+msgstr "Голова"
+
+#: config/armourslots.php:5
+msgid "Amulet"
+msgstr "Амулет"
+
+#: config/armourslots.php:6
+msgid "Shield"
+msgstr "Щит"
+
+#: config/armourslots.php:7
+msgid "Torso"
+msgstr "Тело"
+
+#: config/armourslots.php:8
+msgid "Legs"
+msgstr "Ноги"
+
+#: config/armourslots.php:9
+msgid "Ring"
+msgstr "Кольцо"
+
+#: config/banishments.php:5
+msgid "Spam"
+msgstr "Спам"
+
+#: config/banishments.php:6
+msgid "Offensive statements"
+msgstr "Оскорбительные высказывания"
+
+#: config/banishments.php:7
+msgid "Rules violation"
+msgstr "Нарушение правил"
+
+#: config/banishments.php:10 config/banishments.php:11
+#: config/banishments.php:12
+#, php-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d минута"
+msgstr[1] "%d минуты"
+msgstr[2] "%d минут"
+
+#: config/banishments.php:13 config/banishments.php:14
+#: config/banishments.php:15
+#, php-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d час"
+msgstr[1] "%d часа"
+msgstr[2] "%d часов"
+
+#: config/banishments.php:16 config/banishments.php:17
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d день"
+msgstr[1] "%d дня"
+msgstr[2] "%d дней"
+
+#: config/banishments.php:18
+#, php-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] "%d неделя"
+msgstr[1] "%d недели"
+msgstr[2] "%d недель"
+
+#: config/banishments.php:19
+#, php-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] "%d месяц"
+msgstr[1] "%d месяца"
+msgstr[2] "%d месяцев"
+
+#: config/relationship.php:4
+msgid "Single"
+msgstr "Холост/Не замужем"
+
+#: config/relationship.php:5
+msgid "In relationship"
+msgstr "Встречаюсь"
+
+#: config/relationship.php:6
+msgid "Engaged"
+msgstr "Помолвлен(а)"
+
+#: config/relationship.php:7
+msgid "Married"
+msgstr "Женат/Замужем"
+
+#: config/relationship.php:8
+msgid "It's complicated"
+msgstr "Все сложно"
+
+#: config/relationship.php:9
+msgid "Actively searching"
+msgstr "В активном поиске"
+
+#: config/themes.status.php:3
+msgid "On moderation"
+msgstr "На модерации"
+
+#: config/themes.status.php:4
+msgid "Checked"
+msgstr "Проверен"
+
+#: config/themes.status.php:5
+msgid "Tested"
+msgstr "Протестирован"
+
+#: config/vocations.php:4
+msgid "Warrior"
+msgstr "Воин"
+
+#: config/vocations.php:5
+msgid "Wizard"
+msgstr "Маг"
+
+#: lang/en_US/validation.php:21
+#, php-format
+msgid "The %s field must only contain letters."
+msgstr "Поле %s должно содержать только буквы."
+
+#: lang/en_US/validation.php:36
+#, php-format
+msgid "The %s field is not valid."
+msgstr "Неверное поле %s."
+
+#: lang/en_US/validation.php:37
+#, php-format
+msgid "The %s field confirmation does not match."
+msgstr "Подтверждение поля %s не совпадает."
+
+#: lang/en_US/validation.php:53
+#, php-format
+msgid "The %s field must be a valid email address."
+msgstr "Поле %s должно быть верным адресом email."
+
+#: lang/en_US/validation.php:56 lang/en_US/validation.php:74
+#, php-format
+msgid "The selected %s is invalid."
+msgstr "Выбранный %s недопустим."
+
+#: lang/en_US/validation.php:73
+#, php-format
+msgid "The %s field must be an image."
+msgstr "Поле %s должно быть изображением."
+
+#: lang/en_US/validation.php:99
+#, php-format
+msgid "The %1$s field must not be greater than %2$s."
+msgstr "Поле %1$s не должно быть больше %2$s."
+
+#: lang/en_US/validation.php:103 lang/en_US/validation.php:104
+#, php-format
+msgid "The %1$s field must be a file of type: %2$s."
+msgstr "Поле %1$s должно быть файлом: %2$s."
+
+#: lang/en_US/validation.php:109
+#, php-format
+msgid "The %1$s field must be at least %2$s characters."
+msgstr "Поле %1$s должно содержать не менее %2$s символов."
+
+#: lang/en_US/validation.php:138
+#, php-format
+msgid "The %s field is required."
+msgstr "Поле %s обязательно."
+
+#: lang/en_US/validation.php:158
+#, php-format
+msgid "The %s has already been taken."
+msgstr "Значение %s уже занято."
+
+#: lang/en_US/validation.php:159
+#, php-format
+msgid "The %s failed to upload."
+msgstr "Не удалось загрузить %s."
+
+#: lang/en_US/validation.php:194
+msgid "message"
+msgstr "сообщение"
+
+#: lang/en_US/validation.php:195
+msgid "world"
+msgstr "мир"
+
+#: lang/en_US/validation.php:196
+msgid "password"
+msgstr "пароль"
+
+#: lang/en_US/validation.php:197
+msgid "nickname"
+msgstr "ник"
+
+#: lang/en_US/validation.php:198
+msgid "files"
+msgstr "файлы"
+
+#: lang/en_US/validation.php:199
+msgid "subject"
+msgstr "тема"
+
+#: lang/en_US/validation.php:201
+msgid "prefix"
+msgstr "префикс"
+
+#: lang/en_US/validation.php:202
+msgid "color"
+msgstr "цвет"
+
+#: lang/en_US/validation.php:203
+msgid "rank"
+msgstr "ранг"
+
+#: public/cp/sync.php:6
+msgid "Invalid request."
+msgstr "Неверный запрос."
+
+#: public/cp/sync.php:9
+msgid "Sync complete."
+msgstr "Синхронизация завершена."
+
+#: public/cp/sync.php:9
+msgid "Unknown error."
+msgstr "Неизвестная ошибка."
+
+#: resources/views/layout/highscores_server_info.tpl.php:2
+#, php-format
+msgid "Server time: %s"
+msgstr "Время на сервере: %s"
+
+#: resources/views/layout/highscores_server_info.tpl.php:3
+#, php-format
+msgid "Last update: %s"
+msgstr "Последнее обновление: %s"
+
+#~ msgid ""
+#~ "Once you create an account, you will not be able to rename or remove it."
+#~ msgstr ""
+#~ "После создания аккаунта Вы не сможете переименовать или удалить его."
+
+#~ msgid ""
+#~ "Screenshots are not allowed in photo album. Please upload them to "
+#~ "Screenshots section."
+#~ msgstr ""
+#~ "Скриншоты в фотоальбоме запрещены. Пожалуйста, загружайте их в "
+#~ "соответствующий раздел."
+
+#~ msgid "Tibia-ME.net staff may remove any photo if they find it offensive."
+#~ msgstr "Администрация вправе удалять любые фотографии."
+
+#~ msgid ""
+#~ "Use search engine before asking a question or posting new thread - you "
+#~ "probably will find the answer."
+#~ msgstr ""
+#~ "Воспользуйтесь поиском перед тем, как задать вопрос - возможно на него "
+#~ "уже кто-нибудь ответил."
+
+#~ msgid "Payments"
+#~ msgstr "Платежи"
+
+#~ msgid ""
+#~ "Any Platinum or Premium we offer comes from official sources. As an "
+#~ "official fansite we do not abuse any bugs or have any business with "
+#~ "illegal payment methods."
+#~ msgstr ""
+#~ "Платина и Премиум, которые мы предлагаем, получены из официальных "
+#~ "источников. Как официальный фансайт мы не используем никакие баги и не "
+#~ "имеем никаких дел с нелегальными методами оплаты."
+
+#~ msgid "We will never ask for your password to complete your payment."
+#~ msgstr "Мы никогда не спросим Ваш пароль для совершения оплаты."
+
+#~ msgid "Depending on payment method additional fees may apply."
+#~ msgstr ""
+#~ "В зависимости от способа платежа может взыматься дополнительная плата."
+
+#~ msgid ""
+#~ "Tibia-ME.net logos, source code and its name are property of Tibia-ME.net "
+#~ "and you are not allowed to use them without permission."
+#~ msgstr ""
+#~ "Логотипы, исходный код и имя Tibia-ME.net принадлежат Tibia-ME.net и Вы "
+#~ "не можете использовать их без нашего согласия."
+
+#~ msgid "Offline"
+#~ msgstr "Офлайн"
+
+#~ msgid "Related sites"
+#~ msgstr "Похожие сайты"
+
+#~ msgid "Official website"
+#~ msgstr "Официальный сайт"
+
+#~ msgid "60 sec or until cancelled"
+#~ msgstr "60 секунд или до отмены"
+
+#~ msgid "Reduces damage taken by the player by 100&#37;."
+#~ msgstr "Уменьшает урон, полученный игроком, на 100&#37;."
+
+#~ msgid "Performs a guaranteed hit for the next attack. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантированное попадание для следуещего удара. 50 секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit for the next 2 attacks. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантированное попадание для следуещих 2-х ударов. 50 секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit for the next 3 attacks. 44 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантированное попадание для следуещих 3-х ударов. 44 секунды "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit for the next 3 attacks. 32 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантированное попадание для следуещих 3-х ударов. 32 секунды "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit for the next 3 attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантированное попадание для следуещих 3-х ударов. 24 секунды "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+#~ "reduced by 3&#37;. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Делает Вашу кожу твердой как камень! Урон, полученный от следующих 5-и "
+#~ "атак, снижен на 3%. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+#~ "reduced by 6&#37;. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Делает Вашу кожу твердой как камень! Урон, полученный от следующих 5-и "
+#~ "атак, снижен на 6%. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+#~ "reduced by 9&#37;. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Делает Вашу кожу твердой как камень! Урон, полученный от следующих 5-и "
+#~ "атак, снижен на 9%. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+#~ "reduced by 12&#37;. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Делает Вашу кожу твердой как камень! Урон, полученный от следующих 5-и "
+#~ "атак, снижен на 12%. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+#~ "reduced by 15&#37;. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Делает Вашу кожу твердой как камень! Урон, полученный от следующих 5-и "
+#~ "атак, снижен на 15%. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Shows the element at which the monster is most vulnerable at. 50 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Показывает элемент, к которому монстер наиболее уязвим. 50 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Shows the element at which the monster is most vulnerable at. 45 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Показывает элемент, к которому монстер наиболее уязвим. 45 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Shows the element at which the monster is most vulnerable at. 40 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Показывает элемент, к которому монстер наиболее уязвим. 40 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Shows the element at which the monster is most vulnerable at. 35 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Показывает элемент, к которому монстер наиболее уязвим. 35 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Shows the element at which the monster is most vulnerable at. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Показывает элемент, к которому монстер наиболее уязвим. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Dodges the next 5 attacks, reducing damage taken by 18&#37;. 20 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Уклоняется от следующих 5-и атак, снижая полученный урон на 18%. 20 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Dodges the next 5 attacks, reducing damage taken by 21&#37;. 20 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Уклоняется от следующих 5-и атак, снижая полученный урон на 21%. 20 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Dodges the next 5 attacks, reducing damage taken by 24&#37;. 20 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Уклоняется от следующих 5-и атак, снижая полученный урон на 24%. 20 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Dodges the next 5 attacks, reducing damage taken by 27&#37;. 20 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Уклоняется от следующих 5-и атак, снижая полученный урон на 27%. 20 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Dodges the next 5 attacks, reducing damage taken by 30&#37;. 20 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Уклоняется от следующих 5-и атак, снижая полученный урон на 30%. 20 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "The years of training have sharpened your weapon skills. Performs a "
+#~ "guaranteed hit and increases damage dealt by 4&#37; for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Годы обучения отточили ваши навыки владения оружием. Гарантирует "
+#~ "попадание и увеличивает наносимый урон на 4&#37; в течение следующих 3-х "
+#~ "атак. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "The years of training have sharpened your weapon skills. Performs a "
+#~ "guaranteed hit and increases damage dealt by 8&#37; for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Годы обучения отточили ваши навыки владения оружием. Гарантирует "
+#~ "попадание и увеличивает наносимый урон на 8&#37; в течение следующих 3-х "
+#~ "атак. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "The years of training have sharpened your weapon skills. Performs a "
+#~ "guaranteed hit and increases damage dealt by 12&#37; for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Годы обучения отточили ваши навыки владения оружием. Гарантирует "
+#~ "попадание и увеличивает наносимый урон на 12&#37; в течение следующих 3-х "
+#~ "атак. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "The years of training have sharpened your weapon skills. Performs a "
+#~ "guaranteed hit and increases damage dealt by 16&#37; for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Годы обучения отточили ваши навыки владения оружием. Гарантирует "
+#~ "попадание и увеличивает наносимый урон на 16&#37; в течение следующих 3-х "
+#~ "атак. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "The years of training have sharpened your weapon skills. Performs a "
+#~ "guaranteed hit and increases damage dealt by 20&#37; for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Годы обучения отточили ваши навыки владения оружием. Гарантирует "
+#~ "попадание и увеличивает наносимый урон на 20&#37; в течение следующих 3-х "
+#~ "атак. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Taunts all enemies in 3 yard range, forcing them to attack you. 50 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Заставляет всех противников в радиусе 3-х ярдов атаковать Вас. 50 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Taunts all enemies in 3 yard range, forcing them to attack you. 45 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Заставляет всех противников в радиусе 3-х ярдов атаковать Вас. 45 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Taunts all enemies in 3 yard range, forcing them to attack you. 40 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Заставляет всех противников в радиусе 3-х ярдов атаковать Вас. 40 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Taunts all enemies in 3 yard range, forcing them to attack you. 35 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Заставляет всех противников в радиусе 3-х ярдов атаковать Вас. 35 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Taunts all enemies in 3 yard range, forcing them to attack you. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Заставляет всех противников в радиусе 3-х ярдов атаковать Вас. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "A sweeping attack that strikes your target and an additional nearby enemy "
+#~ "with 72&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Секущая атака, наносящая Вашей цели и допольнительному ближайшему "
+#~ "противнику 72&#37; урона в течение следующих 2-х атак. 25 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "A sweeping attack that strikes your target and an additional nearby enemy "
+#~ "with 76&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Секущая атака, наносящая Вашей цели и допольнительному ближайшему "
+#~ "противнику 76&#37; урона в течение следующих 2-х атак. 25 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "A sweeping attack that strikes your target and an additional nearby enemy "
+#~ "with 80&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Секущая атака, наносящая Вашей цели и допольнительному ближайшему "
+#~ "противнику 80&#37; урона в течение следующих 2-х атак. 25 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "A sweeping attack that strikes your target and an additional nearby enemy "
+#~ "with 84&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Секущая атака, наносящая Вашей цели и допольнительному ближайшему "
+#~ "противнику 84&#37; урона в течение следующих 2-х атак. 25 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "A sweeping attack that strikes your target and an additional nearby enemy "
+#~ "with 88&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Секущая атака, наносящая Вашей цели и допольнительному ближайшему "
+#~ "противнику 88&#37; урона в течение следующих 2-х атак. 25 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Raises your shield and guards yourself! Damage taken is reduced by "
+#~ "33&#37; for 10 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Поднимает Ваш щит и защищает Вас! Полученный урон снижен на 33&#37; на 10 "
+#~ "секунд. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Raises your shield and guards yourself! Damage taken is reduced by "
+#~ "36&#37; for 10 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Поднимает Ваш щит и защищает Вас! Полученный урон снижен на 36&#37; на 10 "
+#~ "секунд. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Raises your shield and guards yourself! Damage taken is reduced by "
+#~ "39&#37; for 10 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Поднимает Ваш щит и защищает Вас! Полученный урон снижен на 39&#37; на 10 "
+#~ "секунд. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Raises your shield and guards yourself! Damage taken is reduced by "
+#~ "42&#37; for 10 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Поднимает Ваш щит и защищает Вас! Полученный урон снижен на 42&#37; на 10 "
+#~ "секунд. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Raises your shield and guards yourself! Damage taken is reduced by "
+#~ "45&#37; for 10 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Поднимает Ваш щит и защищает Вас! Полученный урон снижен на 45&#37; на 10 "
+#~ "секунд. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Focuses your mana to release it with a powerful arcane strike. Consumes "
+#~ "all your mana and converts 0.37 damage per mana point additional to your "
+#~ "next attack. 28 seconds cooldown."
+#~ msgstr ""
+#~ "Фокусирует Вашу ману, чтобы высвободить ее в виде мощного удара чар. "
+#~ "Потребляет всю ману и преобразует каждую единицу маны в 0.37 урона в "
+#~ "дополнение к вашей следующей атаке. 28 секунд перезарядка."
+
+#~ msgid ""
+#~ "Focuses your mana to release it with a powerful arcane strike. Consumes "
+#~ "all your mana and converts 0.40 damage per mana point additional to your "
+#~ "next attack. 28 seconds cooldown."
+#~ msgstr ""
+#~ "Фокусирует Вашу ману, чтобы высвободить ее в виде мощного удара чар. "
+#~ "Потребляет всю ману и преобразует каждую единицу маны в 0.40 урона в "
+#~ "дополнение к вашей следующей атаке. 28 секунд перезарядка."
+
+#~ msgid ""
+#~ "Focuses your mana to release it with a powerful arcane strike. Consumes "
+#~ "all your mana and converts 0.43 damage per mana point additional to your "
+#~ "next attack. 28 seconds cooldown."
+#~ msgstr ""
+#~ "Фокусирует Вашу ману, чтобы высвободить ее в виде мощного удара чар. "
+#~ "Потребляет всю ману и преобразует каждую единицу маны в 0.43 урона в "
+#~ "дополнение к вашей следующей атаке. 28 секунд перезарядка."
+
+#~ msgid ""
+#~ "Focuses your mana to release it with a powerful arcane strike. Consumes "
+#~ "all your mana and converts 0.46 damage per mana point additional to your "
+#~ "next attack. 28 seconds cooldown."
+#~ msgstr ""
+#~ "Фокусирует Вашу ману, чтобы высвободить ее в виде мощного удара чар. "
+#~ "Потребляет всю ману и преобразует каждую единицу маны в 0.46 урона в "
+#~ "дополнение к вашей следующей атаке. 28 секунд перезарядка."
+
+#~ msgid ""
+#~ "Focuses your mana to release it with a powerful arcane strike. Consumes "
+#~ "all your mana and converts 0.50 damage per mana point additional to your "
+#~ "next attack. 28 seconds cooldown."
+#~ msgstr ""
+#~ "Фокусирует Вашу ману, чтобы высвободить ее в виде мощного удара чар. "
+#~ "Потребляет всю ману и преобразует каждую единицу маны в 0.50 урона в "
+#~ "дополнение к вашей следующей атаке. 28 секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes your target and an additional "
+#~ "nearby enemy with 73&#37; damage for the next 2 attacks. 25 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар по Вашей цели и дополнительному ближайшему "
+#~ "врагу на 73&#37; урона в течение следующих 2-х атак. 25 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes your target and an additional "
+#~ "nearby enemy with 76&#37; damage for the next 2 attacks. 25 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар по Вашей цели и дополнительному ближайшему "
+#~ "врагу на 76&#37; урона в течение следующих 2-х атак. 25 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes your target and an additional "
+#~ "nearby enemy with 79&#37; damage for the next 2 attacks. 25 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар по Вашей цели и дополнительному ближайшему "
+#~ "врагу на 79&#37; урона в течение следующих 2-х атак. 25 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes your target and an additional "
+#~ "nearby enemy with 82&#37; damage for the next 2 attacks. 25 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар по Вашей цели и дополнительному ближайшему "
+#~ "врагу на 82&#37; урона в течение следующих 2-х атак. 25 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes your target and an additional "
+#~ "nearby enemy with 85&#37; damage for the next 2 attacks. 25 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар по Вашей цели и дополнительному ближайшему "
+#~ "врагу на 85&#37; урона в течение следующих 2-х атак. 25 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Parries your enemies, increasing the chance to evade the next 4 incoming "
+#~ "attacks. Every skill level raises the chance to evade by a medium amount. "
+#~ "28 seconds cooldown."
+#~ msgstr ""
+#~ "Вы парируете, увеличивая шанс избежать следующие 4 удара. Каждый уровень "
+#~ "способности увеличивает шанс парирования на среднее значение."
+
+#~ msgid ""
+#~ "You become enraged, increasing the damage dealt by 33&#37; for 10 "
+#~ "seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Вы впадаете в ярость, увеличивая наносимый урон на 33&#37; на 10 секунд. "
+#~ "20 секунды перезарядка."
+
+#~ msgid ""
+#~ "You become enraged, increasing the damage dealt by 36&#37; for 10 "
+#~ "seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Вы впадаете в ярость, увеличивая наносимый урон на 36&#37; на 10 секунд. "
+#~ "20 секунды перезарядка."
+
+#~ msgid ""
+#~ "You become enraged, increasing the damage dealt by 39&#37; for 10 "
+#~ "seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Вы впадаете в ярость, увеличивая наносимый урон на 39&#37; на 10 секунд. "
+#~ "20 секунды перезарядка."
+
+#~ msgid ""
+#~ "You become enraged, increasing the damage dealt by 42&#37; for 10 "
+#~ "seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Вы впадаете в ярость, увеличивая наносимый урон на 42&#37; на 10 секунд. "
+#~ "20 секунды перезарядка."
+
+#~ msgid ""
+#~ "You become enraged, increasing the damage dealt by 45&#37; for 10 "
+#~ "seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Вы впадаете в ярость, увеличивая наносимый урон на 45&#37; на 10 секунд. "
+#~ "20 секунды перезарядка."
+
+#~ msgid ""
+#~ "Knocks the head of your enemy with the hilt of your weapon, performing a "
+#~ "guaranteed hit and incapacitating your target for 2.0 seconds with your "
+#~ "next attack. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Ударяет Вашего врага по голове рукоятью оружия, гарантируя попадание и "
+#~ "выводя из строя вашу цель на 2.0 секунды Вашей следующей атакой. 30 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Knocks the head of your enemy with the hilt of your weapon, performing a "
+#~ "guaranteed hit and incapacitating your target for 2.5 seconds with your "
+#~ "next attack. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Ударяет Вашего врага по голове рукоятью оружия, гарантируя попадание и "
+#~ "выводя из строя вашу цель на 2.5 секунды Вашей следующей атакой. 30 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Knocks the head of your enemy with the hilt of your weapon, performing a "
+#~ "guaranteed hit and incapacitating your target for 3.0 seconds with your "
+#~ "next attack. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Ударяет Вашего врага по голове рукоятью оружия, гарантируя попадание и "
+#~ "выводя из строя вашу цель на 3.0 секунды Вашей следующей атакой. 30 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Knocks the head of your enemy with the hilt of your weapon, performing a "
+#~ "guaranteed hit and incapacitating your target for 3.5 seconds with your "
+#~ "next attack. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Ударяет Вашего врага по голове рукоятью оружия, гарантируя попадание и "
+#~ "выводя из строя вашу цель на 3.5 секунды Вашей следующей атакой. 30 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Knocks the head of your enemy with the hilt of your weapon, performing a "
+#~ "guaranteed hit and incapacitating your target for 4.0 seconds with your "
+#~ "next attack. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Ударяет Вашего врага по голове рукоятью оружия, гарантируя попадание и "
+#~ "выводя из строя вашу цель на 4.0 секунды Вашей следующей атакой. 30 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+#~ "you to attack an enemy, even when sharing the tile with other players. 40 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Выполняет сложенную атаку для следующих 5-и ударов. Сложенная атака "
+#~ "позволяет атаковать врага даже стоя на одном поле с другими игроками. 40 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+#~ "you to attack an enemy, even when sharing the tile with other players. 35 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Выполняет сложенную атаку для следующих 5-и ударов. Сложенная атака "
+#~ "позволяет атаковать врага даже стоя на одном поле с другими игроками. 35 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+#~ "you to attack an enemy, even when sharing the tile with other players. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Выполняет сложенную атаку для следующих 5-и ударов. Сложенная атака "
+#~ "позволяет атаковать врага даже стоя на одном поле с другими игроками. 30 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+#~ "you to attack an enemy, even when sharing the tile with other players. 25 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Выполняет сложенную атаку для следующих 5-и ударов. Сложенная атака "
+#~ "позволяет атаковать врага даже стоя на одном поле с другими игроками. 25 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+#~ "you to attack an enemy, even when sharing the tile with other players. 20 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Выполняет сложенную атаку для следующих 5-и ударов. Сложенная атака "
+#~ "позволяет атаковать врага даже стоя на одном поле с другими игроками. 20 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Equips yourself with a dwarven warden armour that adds an additional "
+#~ "piece of armour with 80&#37; of your current protection for the next 6 "
+#~ "incoming attacks. 18 seconds cooldown."
+#~ msgstr ""
+#~ "Снаряжает Вас броней командира гномов, которая увеличивает броню на "
+#~ "80&#37; от вашей текущей защиты на следующие 6 полученных атак. 18 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Equips yourself with a dwarven warden armour that adds an additional "
+#~ "piece of armour with 85&#37; of your current protection for the next 6 "
+#~ "incoming attacks. 18 seconds cooldown."
+#~ msgstr ""
+#~ "Снаряжает Вас броней командира гномов, которая увеличивает броню на "
+#~ "85&#37; от вашей текущей защиты на следующие 6 полученных атак. 18 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Equips yourself with a dwarven warden armour that adds an additional "
+#~ "piece of armour with 90&#37; of your current protection for the next 6 "
+#~ "incoming attacks. 18 seconds cooldown."
+#~ msgstr ""
+#~ "Снаряжает Вас броней командира гномов, которая увеличивает броню на "
+#~ "90&#37; от вашей текущей защиты на следующие 6 полученных атак. 18 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Equips yourself with a dwarven warden armour that adds an additional "
+#~ "piece of armour with 95&#37; of your current protection for the next 6 "
+#~ "incoming attacks. 18 seconds cooldown."
+#~ msgstr ""
+#~ "Снаряжает Вас броней командира гномов, которая увеличивает броню на "
+#~ "95&#37; от вашей текущей защиты на следующие 6 полученных атак. 18 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Equips yourself with a dwarven warden armour that adds an additional "
+#~ "piece of armour with 100&#37; of your current protection for the next 6 "
+#~ "incoming attacks. 18 seconds cooldown."
+#~ msgstr ""
+#~ "Снаряжает Вас броней командира гномов, которая увеличивает броню на "
+#~ "100&#37; от вашей текущей защиты на следующие 6 полученных атак. 18 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Releases a bladestorm on your target, increasing damage dealt by 3&#37; "
+#~ "and performing an additional strike on your target for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Выпускает вихрь клинков в Вашу цель, увеличивая наносимый урон на 3&#37; "
+#~ "и нанося дополнительный удар по Вашей цели в течении следующих 3-х атак. "
+#~ "24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Releases a bladestorm on your target, increasing damage dealt by 5&#37; "
+#~ "and performing an additional strike on your target for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Выпускает вихрь клинков в Вашу цель, увеличивая наносимый урон на 5&#37; "
+#~ "и нанося дополнительный удар по Вашей цели в течении следующих 3-х атак. "
+#~ "24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Releases a bladestorm on your target, increasing damage dealt by 8&#37; "
+#~ "and performing an additional strike on your target for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Выпускает вихрь клинков в Вашу цель, увеличивая наносимый урон на 8&#37; "
+#~ "и нанося дополнительный удар по Вашей цели в течении следующих 3-х атак. "
+#~ "24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Releases a bladestorm on your target, increasing damage dealt by 10&#37; "
+#~ "and performing an additional strike on your target for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Выпускает вихрь клинков в Вашу цель, увеличивая наносимый урон на 10&#37; "
+#~ "и нанося дополнительный удар по Вашей цели в течении следующих 3-х атак. "
+#~ "24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Releases a bladestorm on your target, increasing damage dealt by 13&#37; "
+#~ "and performing an additional strike on your target for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Выпускает вихрь клинков в Вашу цель, увеличивая наносимый урон на 13&#37; "
+#~ "и нанося дополнительный удар по Вашей цели в течении следующих 3-х атак. "
+#~ "24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Temporarily improves your reflexes, protects you from enemy debuffs for "
+#~ "10 seconds. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Временно улучшает Ваши рефлексы, защищает Вас от вражеских дебафов на 10 "
+#~ "секунд. 50 секунд перезарядка."
+
+#~ msgid ""
+#~ "Temporarily improves your reflexes, protects you from enemy debuffs for "
+#~ "10 seconds. 45 seconds cooldown."
+#~ msgstr ""
+#~ "Временно улучшает Ваши рефлексы, защищает Вас от вражеских дебафов на 10 "
+#~ "секунд. 45 секунд перезарядка."
+
+#~ msgid ""
+#~ "Temporarily improves your reflexes, protects you from enemy debuffs for "
+#~ "10 seconds. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Временно улучшает Ваши рефлексы, защищает Вас от вражеских дебафов на 10 "
+#~ "секунд. 40 секунд перезарядка."
+
+#~ msgid ""
+#~ "Temporarily improves your reflexes, protects you from enemy debuffs for "
+#~ "10 seconds. 35 seconds cooldown."
+#~ msgstr ""
+#~ "Временно улучшает Ваши рефлексы, защищает Вас от вражеских дебафов на 10 "
+#~ "секунд. 35 секунд перезарядка."
+
+#~ msgid ""
+#~ "Temporarily improves your reflexes, protects you from enemy debuffs for "
+#~ "10 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Временно улучшает Ваши рефлексы, защищает Вас от вражеских дебафов на 10 "
+#~ "секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "A steady stream of mana creates a shield against enemy attacks, "
+#~ "preventing damage taken and draining 1.20 mana per damage point for 30 "
+#~ "seconds. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Устойчивый поток маны создает защиту от вражеских атак, предотвращая "
+#~ "полученный урон и расходуя 1.20 маны за каждую единицу урона в течение 30 "
+#~ "секунд. 60 секунд перезарядка."
+
+#~ msgid ""
+#~ "A steady stream of mana creates a shield against enemy attacks, "
+#~ "preventing damage taken and draining 1.15 mana per damage point for 30 "
+#~ "seconds. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Устойчивый поток маны создает защиту от вражеских атак, предотвращая "
+#~ "полученный урон и расходуя 1.15 маны за каждую единицу урона в течение 30 "
+#~ "секунд. 60 секунд перезарядка."
+
+#~ msgid ""
+#~ "A steady stream of mana creates a shield against enemy attacks, "
+#~ "preventing damage taken and draining 1.10 mana per damage point for 30 "
+#~ "seconds. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Устойчивый поток маны создает защиту от вражеских атак, предотвращая "
+#~ "полученный урон и расходуя 1.10 маны за каждую единицу урона в течение 30 "
+#~ "секунд. 60 секунд перезарядка."
+
+#~ msgid ""
+#~ "A steady stream of mana creates a shield against enemy attacks, "
+#~ "preventing damage taken and draining 1.05 mana per damage point for 30 "
+#~ "seconds. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Устойчивый поток маны создает защиту от вражеских атак, предотвращая "
+#~ "полученный урон и расходуя 1.05 маны за каждую единицу урона в течение 30 "
+#~ "секунд. 60 секунд перезарядка."
+
+#~ msgid ""
+#~ "A steady stream of mana creates a shield against enemy attacks, "
+#~ "preventing damage taken and draining 1.00 mana per damage point for 30 "
+#~ "seconds. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Устойчивый поток маны создает защиту от вражеских атак, предотвращая "
+#~ "полученный урон и расходуя 1.00 маны за каждую единицу урона в течение 30 "
+#~ "секунд. 60 секунд перезарядка."
+
+#~ msgid ""
+#~ "Swirls your weapon around in a circle, performing a guaranteed hit and "
+#~ "striking your target and 3 additional nearby enemies with 41&#37; damage "
+#~ "for the next 3 attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Создает вихрь из Вашего оружия, нанося гарантированный удар и поражая "
+#~ "Вашу цель и 3 дополнительных ближайших врага на 41&#37; урона в течение "
+#~ "следующих 3-х атак. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Swirls your weapon around in a circle, performing a guaranteed hit and "
+#~ "striking your target and 3 additional nearby enemies with 42&#37; damage "
+#~ "for the next 3 attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Создает вихрь из Вашего оружия, нанося гарантированный удар и поражая "
+#~ "Вашу цель и 3 дополнительных ближайших врага на 42&#37; урона в течение "
+#~ "следующих 3-х атак. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Swirls your weapon around in a circle, performing a guaranteed hit and "
+#~ "striking your target and 3 additional nearby enemies with 43&#37; damage "
+#~ "for the next 3 attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Создает вихрь из Вашего оружия, нанося гарантированный удар и поражая "
+#~ "Вашу цель и 3 дополнительных ближайших врага на 43&#37; урона в течение "
+#~ "следующих 3-х атак. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Swirls your weapon around in a circle, performing a guaranteed hit and "
+#~ "striking your target and 3 additional nearby enemies with 44&#37; damage "
+#~ "for the next 3 attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Создает вихрь из Вашего оружия, нанося гарантированный удар и поражая "
+#~ "Вашу цель и 3 дополнительных ближайших врага на 44&#37; урона в течение "
+#~ "следующих 3-х атак. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Swirls your weapon around in a circle, performing a guaranteed hit and "
+#~ "striking your target and 3 additional nearby enemies with 45&#37; damage "
+#~ "for the next 3 attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Создает вихрь из Вашего оружия, нанося гарантированный удар и поражая "
+#~ "Вашу цель и 3 дополнительных ближайших врага на 45&#37; урона в течение "
+#~ "следующих 3-х атак. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Enters an offensive stance, increasing the damage dealt by 21&#37; and "
+#~ "the chance to hit your enemy with attacks for 60 seconds. Every skill "
+#~ "level raises the chance to hit by a medium amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Становится в наступательную стойку, увеличивая наносимый урон на 21&#37; "
+#~ "и шанс попадания по врагу на 60 секунд. Каждый уровень способности "
+#~ "увеличивает вероятность попадания на среднее значение. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Enters an offensive stance, increasing the damage dealt by 22&#37; and "
+#~ "the chance to hit your enemy with attacks for 60 seconds. Every skill "
+#~ "level raises the chance to hit by a medium amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Становится в наступательную стойку, увеличивая наносимый урон на 22&#37; "
+#~ "и шанс попадания по врагу на 60 секунд. Каждый уровень способности "
+#~ "увеличивает вероятность попадания на среднее значение. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Enters an offensive stance, increasing the damage dealt by 23&#37; and "
+#~ "the chance to hit your enemy with attacks for 60 seconds. Every skill "
+#~ "level raises the chance to hit by a medium amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Становится в наступательную стойку, увеличивая наносимый урон на 23&#37; "
+#~ "и шанс попадания по врагу на 60 секунд. Каждый уровень способности "
+#~ "увеличивает вероятность попадания на среднее значение. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Enters an offensive stance, increasing the damage dealt by 24&#37; and "
+#~ "the chance to hit your enemy with attacks for 60 seconds. Every skill "
+#~ "level raises the chance to hit by a medium amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Становится в наступательную стойку, увеличивая наносимый урон на 24&#37; "
+#~ "и шанс попадания по врагу на 60 секунд. Каждый уровень способности "
+#~ "увеличивает вероятность попадания на среднее значение. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Enters an offensive stance, increasing the damage dealt by 25&#37; and "
+#~ "the chance to hit your enemy with attacks for 60 seconds. Every skill "
+#~ "level raises the chance to hit by a medium amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Становится в наступательную стойку, увеличивая наносимый урон на 25&#37; "
+#~ "и шанс попадания по врагу на 60 секунд. Каждый уровень способности "
+#~ "увеличивает вероятность попадания на среднее значение. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Connects your weapon swings, performing a guaranteed hit and striking all "
+#~ "targets in 2 yard range with 46&#37; damage for the next 3 attacks. All "
+#~ "enemies in 2 yard distance will only receive half of the damage. 24 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Объединяет взмахи Вашего оружия, нанося гарантированный удар и нанося "
+#~ "всем целям в радиусе 2-х ярдов 46&#37; урона в течение следующих 3-х "
+#~ "атак. Все враги на расстоянии в 2 ярда будут получать только половину "
+#~ "урона. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Connects your weapon swings, performing a guaranteed hit and striking all "
+#~ "targets in 2 yard range with 47&#37; damage for the next 3 attacks. All "
+#~ "enemies in 2 yard distance will only receive half of the damage. 24 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Объединяет взмахи Вашего оружия, нанося гарантированный удар и нанося "
+#~ "всем целям в радиусе 2-х ярдов 47&#37; урона в течение следующих 3-х "
+#~ "атак. Все враги на расстоянии в 2 ярда будут получать только половину "
+#~ "урона. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Connects your weapon swings, performing a guaranteed hit and striking all "
+#~ "targets in 2 yard range with 48&#37; damage for the next 3 attacks. All "
+#~ "enemies in 2 yard distance will only receive half of the damage. 24 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Объединяет взмахи Вашего оружия, нанося гарантированный удар и нанося "
+#~ "всем целям в радиусе 2-х ярдов 48&#37; урона в течение следующих 3-х "
+#~ "атак. Все враги на расстоянии в 2 ярда будут получать только половину "
+#~ "урона. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Connects your weapon swings, performing a guaranteed hit and striking all "
+#~ "targets in 2 yard range with 49&#37; damage for the next 3 attacks. All "
+#~ "enemies in 2 yard distance will only receive half of the damage. 24 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Объединяет взмахи Вашего оружия, нанося гарантированный удар и нанося "
+#~ "всем целям в радиусе 2-х ярдов 49&#37; урона в течение следующих 3-х "
+#~ "атак. Все враги на расстоянии в 2 ярда будут получать только половину "
+#~ "урона. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Connects your weapon swings, performing a guaranteed hit and striking all "
+#~ "targets in 2 yard range with 50&#37; damage for the next 3 attacks. All "
+#~ "enemies in 2 yard distance will only receive half of the damage. 24 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Объединяет взмахи Вашего оружия, нанося гарантированный удар и нанося "
+#~ "всем целям в радиусе 2-х ярдов 50&#37; урона в течение следующих 3-х "
+#~ "атак. Все враги на расстоянии в 2 ярда будут получать только половину "
+#~ "урона. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Take cover behind your shield, absorbs 75&#37; of the next 170 damage "
+#~ "taken. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Укройтесь за щитом, поглощает 75&#37; от следующих 170 единиц полученного "
+#~ "урона. 90 секунд перезарядка."
+
+#~ msgid ""
+#~ "Take cover behind your shield, absorbs 75&#37; of the next 180 damage "
+#~ "taken. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Укройтесь за щитом, поглощает 75&#37; от следующих 180 единиц полученного "
+#~ "урона. 90 секунд перезарядка."
+
+#~ msgid ""
+#~ "Take cover behind your shield, absorbs 75&#37; of the next 190 damage "
+#~ "taken. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Укройтесь за щитом, поглощает 75&#37; от следующих 190 единиц полученного "
+#~ "урона. 90 секунд перезарядка."
+
+#~ msgid ""
+#~ "Take cover behind your shield, absorbs 75&#37; of the next 200 damage "
+#~ "taken. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Укройтесь за щитом, поглощает 75&#37; от следующих 200 единиц полученного "
+#~ "урона. 90 секунд перезарядка."
+
+#~ msgid ""
+#~ "Take cover behind your shield, absorbs 75&#37; of the next 210 damage "
+#~ "taken. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Укройтесь за щитом, поглощает 75&#37; от следующих 210 единиц полученного "
+#~ "урона. 90 секунд перезарядка."
+
+#~ msgid ""
+#~ "A surprising smash makes your enemy loose concentration, granting a "
+#~ "chance to discharge target offensive skill by 80&#37; and defensive skill "
+#~ "by 25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Неожиданный удар заставляет Вашего противника потерять концентрацию, "
+#~ "предоставляя 80&#37; шанс разрядить атакующую способность и 25&#37; шанс "
+#~ "защитную способность противника. Защитные способности монстров не могут "
+#~ "быть разряжены. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "A surprising smash makes your enemy loose concentration, granting a "
+#~ "chance to discharge target offensive skill by 85&#37; and defensive skill "
+#~ "by 25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Неожиданный удар заставляет Вашего противника потерять концентрацию, "
+#~ "предоставляя 85&#37; шанс разрядить атакующую способность и 25&#37; шанс "
+#~ "защитную способность противника. Защитные способности монстров не могут "
+#~ "быть разряжены. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "A surprising smash makes your enemy loose concentration, granting a "
+#~ "chance to discharge target offensive skill by 90&#37; and defensive skill "
+#~ "by 25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Неожиданный удар заставляет Вашего противника потерять концентрацию, "
+#~ "предоставляя 90&#37; шанс разрядить атакующую способность и 25&#37; шанс "
+#~ "защитную способность противника. Защитные способности монстров не могут "
+#~ "быть разряжены. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "A surprising smash makes your enemy loose concentration, granting a "
+#~ "chance to discharge target offensive skill by 95&#37; and defensive skill "
+#~ "by 25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Неожиданный удар заставляет Вашего противника потерять концентрацию, "
+#~ "предоставляя 95&#37; шанс разрядить атакующую способность и 25&#37; шанс "
+#~ "защитную способность противника. Защитные способности монстров не могут "
+#~ "быть разряжены. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "A surprising smash makes your enemy loose concentration, granting a "
+#~ "chance to discharge target offensive skill by 100&#37; and defensive "
+#~ "skill by 25&#37;. Monsters defensive skills can't be discharged. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Неожиданный удар заставляет Вашего противника потерять концентрацию, "
+#~ "предоставляя 100&#37; шанс разрядить атакующую способность и 25&#37; шанс "
+#~ "защитную способность противника. Защитные способности монстров не могут "
+#~ "быть разряжены. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
+#~ "increasing damage dealt by 84&#37; for the next 3 attacks. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Бьет врага мощной атакой, нанося гарантированный удар и увеличивая "
+#~ "наносимый урон на 84&#37; в течение следующих 3-х атак. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
+#~ "increasing damage dealt by 88&#37; for the next 3 attacks. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Бьет врага мощной атакой, нанося гарантированный удар и увеличивая "
+#~ "наносимый урон на 88&#37; в течение следующих 3-х атак. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
+#~ "increasing damage dealt by 92&#37; for the next 3 attacks. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Бьет врага мощной атакой, нанося гарантированный удар и увеличивая "
+#~ "наносимый урон на 92&#37; в течение следующих 3-х атак. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
+#~ "increasing damage dealt by 96&#37; for the next 3 attacks. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Бьет врага мощной атакой, нанося гарантированный удар и увеличивая "
+#~ "наносимый урон на 96&#37; в течение следующих 3-х атак. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
+#~ "increasing damage dealt by 100&#37; for the next 3 attacks. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Бьет врага мощной атакой, нанося гарантированный удар и увеличивая "
+#~ "наносимый урон на 100&#37; в течение следующих 3-х атак. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Deflects enemy spells with your shield, protects you against the next 2 "
+#~ "aggressive spells or debuffs. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Отклоняет вражеские заклинания щитом, защищает Вас от следующих 2-х "
+#~ "вредоносных заклинаний или дебафов. 50 секунд перезарядка."
+
+#~ msgid ""
+#~ "Deflects enemy spells with your shield, protects you against the next 2 "
+#~ "aggressive spells or debuffs. 45 seconds cooldown."
+#~ msgstr ""
+#~ "Отклоняет вражеские заклинания щитом, защищает Вас от следующих 2-х "
+#~ "вредоносных заклинаний или дебафов. 45 секунд перезарядка."
+
+#~ msgid ""
+#~ "Deflects enemy spells with your shield, protects you against the next 2 "
+#~ "aggressive spells or debuffs. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Отклоняет вражеские заклинания щитом, защищает Вас от следующих 2-х "
+#~ "вредоносных заклинаний или дебафов. 40 секунд перезарядка."
+
+#~ msgid ""
+#~ "Deflects enemy spells with your shield, protects you against the next 2 "
+#~ "aggressive spells or debuffs. 35 seconds cooldown."
+#~ msgstr ""
+#~ "Отклоняет вражеские заклинания щитом, защищает Вас от следующих 2-х "
+#~ "вредоносных заклинаний или дебафов. 35 секунд перезарядка."
+
+#~ msgid ""
+#~ "Deflects enemy spells with your shield, protects you against the next 2 "
+#~ "aggressive spells or debuffs. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Отклоняет вражеские заклинания щитом, защищает Вас от следующих 2-х "
+#~ "вредоносных заклинаний или дебафов. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Gathers your power before striking with a mighty blow, reducing the "
+#~ "damage dealt by 45&#37; for the next attack. The following 3 attacks will "
+#~ "perform a guaranteed hit and deal the maximum amount of damage. 22 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Собирает Вашу силу перед нанесением сильного удара, уменьшая наносимый "
+#~ "урон на 45&#37; для следующей атаки. Следующие 3 атаки будут наносить "
+#~ "гарантированный удар с максимальным уроном. 22 секунды перезарядка."
+
+#~ msgid ""
+#~ "Gathers your power before striking with a mighty blow, reducing the "
+#~ "damage dealt by 30&#37; for the next attack. The following 3 attacks will "
+#~ "perform a guaranteed hit and deal the maximum amount of damage. 22 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Собирает Вашу силу перед нанесением сильного удара, уменьшая наносимый "
+#~ "урон на 30&#37; для следующей атаки. Следующие 3 атаки будут наносить "
+#~ "гарантированный удар с максимальным уроном. 22 секунды перезарядка."
+
+#~ msgid ""
+#~ "Gathers your power before striking with a mighty blow, reducing the "
+#~ "damage dealt by 15&#37; for the next attack. The following 3 attacks will "
+#~ "perform a guaranteed hit and deal the maximum amount of damage. 22 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Собирает Вашу силу перед нанесением сильного удара, уменьшая наносимый "
+#~ "урон на 15&#37; для следующей атаки. Следующие 3 атаки будут наносить "
+#~ "гарантированный удар с максимальным уроном. 22 секунды перезарядка."
+
+#~ msgid ""
+#~ "Gathers your power before striking with a mighty blow, reducing the "
+#~ "damage dealt by 0&#37; for the next attack. The following 3 attacks will "
+#~ "perform a guaranteed hit and deal the maximum amount of damage. 22 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Собирает Вашу силу перед нанесением сильного удара, уменьшая наносимый "
+#~ "урон на 0&#37; для следующей атаки. Следующие 3 атаки будут наносить "
+#~ "гарантированный удар с максимальным уроном. 22 секунды перезарядка."
+
+#~ msgid ""
+#~ "Gathers your power before striking with a mighty blow, increasing the "
+#~ "damage dealt by 15&#37; for the next attack. The following 3 attacks will "
+#~ "perform a guaranteed hit and deal the maximum amount of damage. 22 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Собирает Вашу силу перед нанесением сильного удара, увеличивая наносимый "
+#~ "урон на 15&#37; для следующей атаки. Следующие 3 атаки будут наносить "
+#~ "гарантированный удар с максимальным уроном. 22 секунды перезарядка."
+
+#~ msgid ""
+#~ "Enters a defensive stance, increasing the chance to evade enemy attacks "
+#~ "for 60 seconds. Every skill level raises the chance to evade by a medium "
+#~ "amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Становится в защитную стойку, увеличивая шанс уклонения от вражеских атак "
+#~ "на 60 секунд. Каждый уровень способности увеличивает шанс уклонения на "
+#~ "среднее значение. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes all targets in 2 yard range with "
+#~ "56&#37; damage for the next 3 attacks. All enemies in 2 yard distance "
+#~ "will only receive half of the damage. Afterwards all enemies search for a "
+#~ "new target. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар и наносит всем целям в радиусе 2-х ярдов "
+#~ "56&#37; урона в течение следующих 3-х атак. Все враги на расстоянии в 2 "
+#~ "ярда будут получать только половину урона. После этого все враги будут "
+#~ "искать новую цель. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes all targets in 2 yard range with "
+#~ "57&#37; damage for the next 3 attacks. All enemies in 2 yard distance "
+#~ "will only receive half of the damage. Afterwards all enemies search for a "
+#~ "new target. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар и наносит всем целям в радиусе 2-х ярдов "
+#~ "57&#37; урона в течение следующих 3-х атак. Все враги на расстоянии в 2 "
+#~ "ярда будут получать только половину урона. После этого все враги будут "
+#~ "искать новую цель. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes all targets in 2 yard range with "
+#~ "58&#37; damage for the next 3 attacks. All enemies in 2 yard distance "
+#~ "will only receive half of the damage. Afterwards all enemies search for a "
+#~ "new target. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар и наносит всем целям в радиусе 2-х ярдов "
+#~ "58&#37; урона в течение следующих 3-х атак. Все враги на расстоянии в 2 "
+#~ "ярда будут получать только половину урона. После этого все враги будут "
+#~ "искать новую цель. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes all targets in 2 yard range with "
+#~ "59&#37; damage for the next 3 attacks. All enemies in 2 yard distance "
+#~ "will only receive half of the damage. Afterwards all enemies search for a "
+#~ "new target. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар и наносит всем целям в радиусе 2-х ярдов "
+#~ "59&#37; урона в течение следующих 3-х атак. Все враги на расстоянии в 2 "
+#~ "ярда будут получать только половину урона. После этого все враги будут "
+#~ "искать новую цель. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes all targets in 2 yard range with "
+#~ "60&#37; damage for the next 3 attacks. All enemies in 2 yard distance "
+#~ "will only receive half of the damage. Afterwards all enemies search for a "
+#~ "new target. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар и наносит всем целям в радиусе 2-х ярдов "
+#~ "60&#37; урона в течение следующих 3-х атак. Все враги на расстоянии в 2 "
+#~ "ярда будут получать только половину урона. После этого все враги будут "
+#~ "искать новую цель. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Reduces damage taken by 66&#37; and increases the chance to evade enemy "
+#~ "attacks for 30 seconds. Every skill level raises the chance to evade by a "
+#~ "small amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Снижает полученный урон на 66&#37; и увеличивает шанс уклонения от "
+#~ "вражеских атак на 30 секунд. Каждый уровень способности увеличивает шанс "
+#~ "уклонения на небольшое значение. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Reduces damage taken by 67&#37; and increases the chance to evade enemy "
+#~ "attacks for 30 seconds. Every skill level raises the chance to evade by a "
+#~ "small amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Снижает полученный урон на 67#37; и увеличивает шанс уклонения от "
+#~ "вражеских атак на 30 секунд. Каждый уровень способности увеличивает шанс "
+#~ "уклонения на небольшое значение. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Reduces damage taken by 68&#37; and increases the chance to evade enemy "
+#~ "attacks for 30 seconds. Every skill level raises the chance to evade by a "
+#~ "small amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Снижает полученный урон на 68#37; и увеличивает шанс уклонения от "
+#~ "вражеских атак на 30 секунд. Каждый уровень способности увеличивает шанс "
+#~ "уклонения на небольшое значение. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Reduces damage taken by 69&#37; and increases the chance to evade enemy "
+#~ "attacks for 30 seconds. Every skill level raises the chance to evade by a "
+#~ "small amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Снижает полученный урон на 69#37; и увеличивает шанс уклонения от "
+#~ "вражеских атак на 30 секунд. Каждый уровень способности увеличивает шанс "
+#~ "уклонения на небольшое значение. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Reduces damage taken by 70&#37; and increases the chance to evade enemy "
+#~ "attacks for 30 seconds. Every skill level raises the chance to evade by a "
+#~ "small amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Снижает полученный урон на 7037; и увеличивает шанс уклонения от "
+#~ "вражеских атак на 30 секунд. Каждый уровень способности увеличивает шанс "
+#~ "уклонения на небольшое значение. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Increases the damage dealt by 16&#37;. Also increases the chance to hit "
+#~ "your enemy with attacks and to evade enemy attacks for 60 seconds. Every "
+#~ "skill level raises the chance to hit and to evade by a small amount. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает наносимый урон на 16&#37;. Также увеличивает шанс попадания "
+#~ "атак по врагам и шанс уклонения от вражеских атак на 60 секунд. Каждый "
+#~ "уровень способности увеличивает шанс попадания и уклонения на небольшое "
+#~ "значение. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Increases the damage dealt by 17&#37;. Also increases the chance to hit "
+#~ "your enemy with attacks and to evade enemy attacks for 60 seconds. Every "
+#~ "skill level raises the chance to hit and to evade by a small amount. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает наносимый урон на 17&#37;. Также увеличивает шанс попадания "
+#~ "атак по врагам и шанс уклонения от вражеских атак на 60 секунд. Каждый "
+#~ "уровень способности увеличивает шанс попадания и уклонения на небольшое "
+#~ "значение. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Increases the damage dealt by 18&#37;. Also increases the chance to hit "
+#~ "your enemy with attacks and to evade enemy attacks for 60 seconds. Every "
+#~ "skill level raises the chance to hit and to evade by a small amount. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает наносимый урон на 18&#37;. Также увеличивает шанс попадания "
+#~ "атак по врагам и шанс уклонения от вражеских атак на 60 секунд. Каждый "
+#~ "уровень способности увеличивает шанс попадания и уклонения на небольшое "
+#~ "значение. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Increases the damage dealt by 19&#37;. Also increases the chance to hit "
+#~ "your enemy with attacks and to evade enemy attacks for 60 seconds. Every "
+#~ "skill level raises the chance to hit and to evade by a small amount. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает наносимый урон на 19&#37;. Также увеличивает шанс попадания "
+#~ "атак по врагам и шанс уклонения от вражеских атак на 60 секунд. Каждый "
+#~ "уровень способности увеличивает шанс попадания и уклонения на небольшое "
+#~ "значение. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Increases the damage dealt by 20&#37;. Also increases the chance to hit "
+#~ "your enemy with attacks and to evade enemy attacks for 60 seconds. Every "
+#~ "skill level raises the chances to hit and to evade by a small amount. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает наносимый урон на 20&#37;. Также увеличивает шанс попадания "
+#~ "атак по врагам и шанс уклонения от вражеских атак на 60 секунд. Каждый "
+#~ "уровень способности увеличивает шанс попадания и уклонения на небольшое "
+#~ "значение. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Blocks an enemy attack with your shield and counter them, reducing damage "
+#~ "taken by 63&#37; and retaliating 88&#37; of the original damage for the "
+#~ "next 5 enemy attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Блокирует атаки врага щитом и наносит встречный удар, уменьшая полученный "
+#~ "урон на 63&#37; и возвращая 88&#37; от первоначального урона в течение "
+#~ "следующих 5-и вражеских атак. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Blocks an enemy attack with your shield and counter them, reducing damage "
+#~ "taken by 66&#37; and retaliating 92&#37; of the original damage for the "
+#~ "next 5 enemy attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Блокирует атаки врага щитом и наносит встречный удар, уменьшая полученный "
+#~ "урон на 66&#37; и возвращая 92&#37; от первоначального урона в течение "
+#~ "следующих 5-и вражеских атак. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Blocks an enemy attack with your shield and counter them, reducing damage "
+#~ "taken by 69&#37; and retaliating 96&#37; of the original damage for the "
+#~ "next 5 enemy attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Блокирует атаки врага щитом и наносит встречный удар, уменьшая полученный "
+#~ "урон на 69&#37; и возвращая 96&#37; от первоначального урона в течение "
+#~ "следующих 5-и вражеских атак. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Blocks an enemy attack with your shield and counter them, reducing damage "
+#~ "taken by 72&#37; and retaliating 100&#37; of the original damage for the "
+#~ "next 5 enemy attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Блокирует атаки врага щитом и наносит встречный удар, уменьшая полученный "
+#~ "урон на 72&#37; и возвращая 100&#37; от первоначального урона в течение "
+#~ "следующих 5-и вражеских атак. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Blocks an enemy attack with your shield and counter them, reducing damage "
+#~ "taken by 75&#37; and retaliating 104&#37; of the original damage for the "
+#~ "next 5 enemy attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Блокирует атаки врага щитом и наносит встречный удар, уменьшая полученный "
+#~ "урон на 75&#37; и возвращая 104&#37; от первоначального урона в течение "
+#~ "следующих 5-и вражеских атак. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Increases the minimum heal amount of your next 2 heal spells by 8&#37;. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает минимальное исцеление Ваших следующих 2-х исцеляющих "
+#~ "заклинаний на 8&#37;. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Increases the minimum heal amount of your next 2 heal spells by 15&#37;. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает минимальное исцеление Ваших следующих 2-х исцеляющих "
+#~ "заклинаний на 15&#37;. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Increases the minimum heal amount of your next 2 heal spells by 23&#37;. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает минимальное исцеление Ваших следующих 2-х исцеляющих "
+#~ "заклинаний на 23&#37;. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Increases the minimum heal amount of your next 2 heal spells by 30&#37;. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает минимальное исцеление Ваших следующих 2-х исцеляющих "
+#~ "заклинаний на 30&#37;. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Increases the minimum heal amount of your next 2 heal spells by 38&#37;. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает минимальное исцеление Ваших следующих 2-х исцеляющих "
+#~ "заклинаний на 38&#37;. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Shows the element at which the monster is most vulnerable at . 40 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Показывает элемент, к которому монстер наиболее уязвим. 40 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Enhances your dexterity, performing a guaranteed hit for the next attack. "
+#~ "50 seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает Вашу ловкость, нанося гарантированный удар следующей атакой. "
+#~ "50 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enhances your dexterity, performing a guaranteed hit for the next 2 "
+#~ "attacks. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает Вашу ловкость, нанося гарантированный удар следующими 2 "
+#~ "атаками. 50 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enhances your dexterity, performing a guaranteed hit for the next 3 "
+#~ "attacks. 44 seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает Вашу ловкость, нанося гарантированный удар следующими 3 "
+#~ "атаками. 44 секунды перезарядка."
+
+#~ msgid ""
+#~ "Enhances your dexterity, performing a guaranteed hit for the next 3 "
+#~ "attacks. 32 seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает Вашу ловкость, нанося гарантированный удар следующими 3 "
+#~ "атаками. 32 секунды перезарядка."
+
+#~ msgid ""
+#~ "Enhances your dexterity, performing a guaranteed hit for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Увеличивает Вашу ловкость, нанося гарантированный удар следующими 3 "
+#~ "атаками. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Channels holy energy, increasing the healing caused by 9&#37; for your "
+#~ "next 2 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Направляет святую энергию, увеличивая исцеление на 9&#37; для Ваших "
+#~ "следующих 2-х лечебных заклинаний. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Channels holy energy, increasing the healing caused by 11&#37; for your "
+#~ "next 2 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Направляет святую энергию, увеличивая исцеление на 11&#37; для Ваших "
+#~ "следующих 2-х лечебных заклинаний. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Channels holy energy, increasing the healing caused by 12&#37; for your "
+#~ "next 2 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Направляет святую энергию, увеличивая исцеление на 12&#37; для Ваших "
+#~ "следующих 2-х лечебных заклинаний. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Channels holy energy, increasing the healing caused by 14&#37; for your "
+#~ "next 2 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Направляет святую энергию, увеличивая исцеление на 14&#37; для Ваших "
+#~ "следующих 2-х лечебных заклинаний. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Channels holy energy, increasing the healing caused by 15&#37; for your "
+#~ "next 2 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Направляет святую энергию, увеличивая исцеление на 15&#37; для Ваших "
+#~ "следующих 2-х лечебных заклинаний. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Screams in a very high tone, causing all enemies in 3 yard range to take "
+#~ "a step back and search for a new target. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Кричит в очень высокой тональности, вынуждая всех врагов в радиусе 3-х "
+#~ "ярдов отступить и искать новую цель. 50 секунд перезарядка."
+
+#~ msgid ""
+#~ "Screams in a very high tone, causing all enemies in 3 yard range to take "
+#~ "a step back and search for a new target. 45 seconds cooldown."
+#~ msgstr ""
+#~ "Кричит в очень высокой тональности, вынуждая всех врагов в радиусе 3-х "
+#~ "ярдов отступить и искать новую цель. 45 секунд перезарядка."
+
+#~ msgid ""
+#~ "Screams in a very high tone, causing all enemies in 3 yard range to take "
+#~ "a step back and search for a new target. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Кричит в очень высокой тональности, вынуждая всех врагов в радиусе 3-х "
+#~ "ярдов отступить и искать новую цель. 40 секунд перезарядка."
+
+#~ msgid ""
+#~ "Screams in a very high tone, causing all enemies in 3 yard range to take "
+#~ "a step back and search for a new target. 35 seconds cooldown."
+#~ msgstr ""
+#~ "Кричит в очень высокой тональности, вынуждая всех врагов в радиусе 3-х "
+#~ "ярдов отступить и искать новую цель. 35 секунд перезарядка."
+
+#~ msgid ""
+#~ "Screams in a very high tone, causing all enemies in 3 yard range to take "
+#~ "a step back and search for a new target. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Кричит в очень высокой тональности, вынуждая всех врагов в радиусе 3-х "
+#~ "ярдов отступить и искать новую цель. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 5&#37; for "
+#~ "the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантирует попадание и увеличивает наносимый урон на 5&#37; для "
+#~ "следующих 2-х заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 7&#37; for "
+#~ "the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантирует попадание и увеличивает наносимый урон на 7&#37; для "
+#~ "следующих 2-х заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 9&#37; for "
+#~ "the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантирует попадание и увеличивает наносимый урон на 9&#37; для "
+#~ "следующих 2-х заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 12&#37; for "
+#~ "the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантирует попадание и увеличивает наносимый урон на 12&#37; для "
+#~ "следующих 2-х заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 15&#37; for "
+#~ "the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантирует попадание и увеличивает наносимый урон на 15&#37; для "
+#~ "следующих 2-х заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Enhances your weapon with holy energy, performing a guaranteed hit and "
+#~ "increasing the damage dealt by 7&#37; for the next 5 attacks. 45 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Усиливает Ваше оружие святой энергией, нанося гарантированный удар и "
+#~ "увеличивая наносимый урон на 7&#37; для следующих 5-и атак. 45 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Enhances your weapon with holy energy, performing a guaranteed hit and "
+#~ "increasing the damage dealt by 11&#37; for the next 5 attacks. 45 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Усиливает Ваше оружие святой энергией, нанося гарантированный удар и "
+#~ "увеличивая наносимый урон на 11&#37; для следующих 5-и атак. 45 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Enhances your weapon with holy energy, performing a guaranteed hit and "
+#~ "increasing the damage dealt by 16&#37; for the next 5 attacks. 45 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Усиливает Ваше оружие святой энергией, нанося гарантированный удар и "
+#~ "увеличивая наносимый урон на 16&#37; для следующих 5-и атак. 45 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Enhances your weapon with holy energy, performing a guaranteed hit and "
+#~ "increasing the damage dealt by 20&#37; for the next 5 attacks. 45 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Усиливает Ваше оружие святой энергией, нанося гарантированный удар и "
+#~ "увеличивая наносимый урон на 20&#37; для следующих 5-и атак. 45 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Enhances your weapon with holy energy, performing a guaranteed hit and "
+#~ "increasing the damage dealt by 25&#37; for the next 5 attacks. 45 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Усиливает Ваше оружие святой энергией, нанося гарантированный удар и "
+#~ "увеличивая наносимый урон на 25&#37; для следующих 5-и атак. 45 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Amplifies your holy energy, causing your healing spells to heal yourself "
+#~ "and an additional nearby ally with 61&#37; of the original heal amount "
+#~ "for the next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Усиливает Вашу святую энергию, в результате чего Ваши следующие 2 "
+#~ "исцеляющих заклинания исцеляют Вас и ближайшего союзника на 61&#37; от "
+#~ "изначального исцеления. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Amplifies your holy energy, causing your healing spells to heal yourself "
+#~ "and an additional nearby ally with 62&#37; of the original heal amount "
+#~ "for the next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Усиливает Вашу святую энергию, в результате чего Ваши следующие 2 "
+#~ "исцеляющих заклинания исцеляют Вас и ближайшего союзника на 62&#37; от "
+#~ "изначального исцеления. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Amplifies your holy energy, causing your healing spells to heal yourself "
+#~ "and an additional nearby ally with 63&#37; of the original heal amount "
+#~ "for the next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Усиливает Вашу святую энергию, в результате чего Ваши следующие 2 "
+#~ "исцеляющих заклинания исцеляют Вас и ближайшего союзника на 63&#37; от "
+#~ "изначального исцеления. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Amplifies your holy energy, causing your healing spells to heal yourself "
+#~ "and an additional nearby ally with 64&#37; of the original heal amount "
+#~ "for the next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Усиливает Вашу святую энергию, в результате чего Ваши следующие 2 "
+#~ "исцеляющих заклинания исцеляют Вас и ближайшего союзника на 64&#37; от "
+#~ "изначального исцеления. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Amplifies your holy energy, causing your healing spells to heal yourself "
+#~ "and an additional nearby ally with 65&#37; of the original heal amount "
+#~ "for the next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Усиливает Вашу святую энергию, в результате чего Ваши следующие 2 "
+#~ "исцеляющих заклинания исцеляют Вас и ближайшего союзника на 65&#37; от "
+#~ "изначального исцеления. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Shifts yourself to a meditating state, regenerating 40&#37; of your total "
+#~ "health and mana over 15 seconds. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Переключает Вас в состояние медитации, восстанавливая 40&#37; от "
+#~ "максимального количества здоровья и маны в течении 15 секунд. 90 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Shifts yourself to a meditating state, regenerating 45&#37; of your total "
+#~ "health and mana over 15 seconds. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Переключает Вас в состояние медитации, восстанавливая 45&#37; от "
+#~ "максимального количества здоровья и маны в течении 15 секунд. 90 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Shifts yourself to a meditating state, regenerating 50&#37; of your total "
+#~ "health and mana over 15 seconds. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Переключает Вас в состояние медитации, восстанавливая 50&#37; от "
+#~ "максимального количества здоровья и маны в течении 15 секунд. 90 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Shifts yourself to a meditating state, regenerating 55&#37; of your total "
+#~ "health and mana over 15 seconds. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Переключает Вас в состояние медитации, восстанавливая 55&#37; от "
+#~ "максимального количества здоровья и маны в течении 15 секунд. 90 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Shifts yourself to a meditating state, regenerating 60&#37; of your total "
+#~ "health and mana over 15 seconds. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Переключает Вас в состояние медитации, восстанавливая 60&#37; от "
+#~ "максимального количества здоровья и маны в течении 15 секунд. 90 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Surrounds your weapon with an electrical field, performing a guaranteed "
+#~ "hit and incapacitating your target for 2.0 seconds with your next attack. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Ваше оружие электрическим полем, нанося гарантированный удар и "
+#~ "выводя из строя Вашу цель на 2.0 секунды следующей атакой. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Surrounds your weapon with an electrical field, performing a guaranteed "
+#~ "hit and incapacitating your target for 2.5 seconds with your next attack. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Ваше оружие электрическим полем, нанося гарантированный удар и "
+#~ "выводя из строя Вашу цель на 2.5 секунды следующей атакой. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Surrounds your weapon with an electrical field, performing a guaranteed "
+#~ "hit and incapacitating your target for 3.0 seconds with your next attack. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Ваше оружие электрическим полем, нанося гарантированный удар и "
+#~ "выводя из строя Вашу цель на 3.0 секунды следующей атакой. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Surrounds your weapon with an electrical field, performing a guaranteed "
+#~ "hit and incapacitating your target for 3.5 seconds with your next attack. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Ваше оружие электрическим полем, нанося гарантированный удар и "
+#~ "выводя из строя Вашу цель на 3.5 секунды следующей атакой. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Surrounds your weapon with an electrical field, performing a guaranteed "
+#~ "hit and incapacitating your target for 4.0 seconds with your next attack. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Ваше оружие электрическим полем, нанося гарантированный удар и "
+#~ "выводя из строя Вашу цель на 4.0 секунды следующей атакой. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Fills yourself with a burst of holy energy, increasing the healing caused "
+#~ "by 15&#37; for your next 3 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Заполняет Вас вспышкой святой энергии, увеличивая исцеление Ваших "
+#~ "следующих 3-х исцеляющих заклинаний на 15&#37;. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Fills yourself with a burst of holy energy, increasing the healing caused "
+#~ "by 16&#37; for your next 3 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Заполняет Вас вспышкой святой энергии, увеличивая исцеление Ваших "
+#~ "следующих 3-х исцеляющих заклинаний на 16&#37;. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Fills yourself with a burst of holy energy, increasing the healing caused "
+#~ "by 17&#37; for your next 3 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Заполняет Вас вспышкой святой энергии, увеличивая исцеление Ваших "
+#~ "следующих 3-х исцеляющих заклинаний на 17&#37;. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Fills yourself with a burst of holy energy, increasing the healing caused "
+#~ "by 19&#37; for your next 3 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Заполняет Вас вспышкой святой энергии, увеличивая исцеление Ваших "
+#~ "следующих 3-х исцеляющих заклинаний на 19&#37;. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Fills yourself with a burst of holy energy, increasing the healing caused "
+#~ "by 20&#37; for your next 3 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Заполняет Вас вспышкой святой энергии, увеличивая исцеление Ваших "
+#~ "следующих 3-х исцеляющих заклинаний на 20&#37;. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enhances your spells with holy energy, performing a guaranteed hit and "
+#~ "increasing the minimum damage amount of your spells by 72&#37; for next 3 "
+#~ "spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Усиливает Ваши заклинания святой энергией, гарантируя попадание и "
+#~ "увеличивая минимальный урон на 72&#37; для Ваших следующих 3-х "
+#~ "заклинаний. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enhances your spells with holy energy, performing a guaranteed hit and "
+#~ "increasing the minimum damage amount of your spells by 84&#37; for next 3 "
+#~ "spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Усиливает Ваши заклинания святой энергией, гарантируя попадание и "
+#~ "увеличивая минимальный урон на 84&#37; для Ваших следующих 3-х "
+#~ "заклинаний. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enhances your spells with holy energy, performing a guaranteed hit and "
+#~ "increasing the minimum damage amount of your spells by 95&#37; for next 3 "
+#~ "spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Усиливает Ваши заклинания святой энергией, гарантируя попадание и "
+#~ "увеличивая минимальный урон на 95&#37; для Ваших следующих 3-х "
+#~ "заклинаний. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enhances your spells with holy energy, performing a guaranteed hit and "
+#~ "increasing the minimum damage amount of your spells by 106&#37; for next "
+#~ "3 spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Усиливает Ваши заклинания святой энергией, гарантируя попадание и "
+#~ "увеличивая минимальный урон на 106&#37; для Ваших следующих 3-х "
+#~ "заклинаний. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enhances your spells with holy energy, performing a guaranteed hit and "
+#~ "increasing the minimum damage amount of your spells by 117&#37; for next "
+#~ "3 spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Усиливает Ваши заклинания святой энергией, гарантируя попадание и "
+#~ "увеличивая минимальный урон на 117&#37; для Ваших следующих 3-х "
+#~ "заклинаний. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "A mighty phrase added to your spells that sunders the armour of your "
+#~ "enemy. Performs a guaranteed hit and reduces the armour of your enemy by "
+#~ "18&#37; for the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Могущественная фраза, добавленная к Вашим заклинаниям, раскалывает броню "
+#~ "Ваших врагов. Гарантирует попадание и ослабляет броню Вашего врага на "
+#~ "18&#37; для следующих 2-х заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "A mighty phrase added to your spells that sunders the armour of your "
+#~ "enemy. Performs a guaranteed hit and reduces the armour of your enemy by "
+#~ "21&#37; for the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Могущественная фраза, добавленная к Вашим заклинаниям, раскалывает броню "
+#~ "Ваших врагов. Гарантирует попадание и ослабляет броню Вашего врага на "
+#~ "21&#37; для следующих 2-х заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "A mighty phrase added to your spells that sunders the armour of your "
+#~ "enemy. Performs a guaranteed hit and reduces the armour of your enemy by "
+#~ "24&#37; for the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Могущественная фраза, добавленная к Вашим заклинаниям, раскалывает броню "
+#~ "Ваших врагов. Гарантирует попадание и ослабляет броню Вашего врага на "
+#~ "24&#37; для следующих 2-х заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "A mighty phrase added to your spells that sunders the armour of your "
+#~ "enemy. Performs a guaranteed hit and reduces the armour of your enemy by "
+#~ "27&#37; for the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Могущественная фраза, добавленная к Вашим заклинаниям, раскалывает броню "
+#~ "Ваших врагов. Гарантирует попадание и ослабляет броню Вашего врага на "
+#~ "27&#37; для следующих 2-х заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "A mighty phrase added to your spells that sunders the armour of your "
+#~ "enemy. Performs a guaranteed hit and reduces the armour of your enemy by "
+#~ "30&#37; for the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Могущественная фраза, добавленная к Вашим заклинаниям, раскалывает броню "
+#~ "Ваших врагов. Гарантирует попадание и ослабляет броню Вашего врага на "
+#~ "30&#37; для следующих 2-х заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Reduces the mana costs of your weapon by 30&#37; for the next 20 seconds. "
+#~ "50 seconds cooldown."
+#~ msgstr ""
+#~ "Уменьшает расход маны Вашего оружия на 30&#37; на 20 секунд. 50 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Reduces the mana costs of your weapon by 35&#37; for the next 20 seconds. "
+#~ "50 seconds cooldown."
+#~ msgstr ""
+#~ "Уменьшает расход маны Вашего оружия на 35&#37; на 20 секунд. 50 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Reduces the mana costs of your weapon by 40&#37; for the next 20 seconds. "
+#~ "50 seconds cooldown."
+#~ msgstr ""
+#~ "Уменьшает расход маны Вашего оружия на 40&#37; на 20 секунд. 50 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Reduces the mana costs of your weapon by 45&#37; for the next 20 seconds. "
+#~ "50 seconds cooldown."
+#~ msgstr ""
+#~ "Уменьшает расход маны Вашего оружия на 45&#37; на 20 секунд. 50 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Reduces the mana costs of your weapon by 50&#37; for the next 20 seconds. "
+#~ "50 seconds cooldown."
+#~ msgstr ""
+#~ "Уменьшает расход маны Вашего оружия на 50&#37; на 20 секунд. 50 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "A dexterous strike that performs a guaranteed hit and increases the "
+#~ "damage dealt by 26&#37; for the next 5 attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Ловкий удар, наносящий гарантированный удар и увеличивающий наносимый "
+#~ "урон на 26&#37; в течение следующих 5-и атак. 20 секунды перезарядка."
+
+#~ msgid ""
+#~ "A dexterous strike that performs a guaranteed hit and increases the "
+#~ "damage dealt by 31&#37; for the next 5 attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Ловкий удар, наносящий гарантированный удар и увеличивающий наносимый "
+#~ "урон на 31&#37; в течение следующих 5-и атак. 20 секунды перезарядка."
+
+#~ msgid ""
+#~ "A dexterous strike that performs a guaranteed hit and increases the "
+#~ "damage dealt by 35&#37; for the next 5 attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Ловкий удар, наносящий гарантированный удар и увеличивающий наносимый "
+#~ "урон на 35&#37; в течение следующих 5-и атак. 20 секунды перезарядка."
+
+#~ msgid ""
+#~ "A dexterous strike that performs a guaranteed hit and increases the "
+#~ "damage dealt by 39&#37; for the next 5 attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Ловкий удар, наносящий гарантированный удар и увеличивающий наносимый "
+#~ "урон на 39&#37; в течение следующих 5-и атак. 20 секунды перезарядка."
+
+#~ msgid ""
+#~ "A dexterous strike that performs a guaranteed hit and increases the "
+#~ "damage dealt by 44&#37; for the next 5 attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Ловкий удар, наносящий гарантированный удар и увеличивающий наносимый "
+#~ "урон на 44&#37; в течение следующих 5-и атак. 20 секунды перезарядка."
+
+#~ msgid ""
+#~ "Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+#~ "for 10 seconds. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Вас щитом тайной магии, защищая от вражеских дебафов на 10 "
+#~ "секунд. 50 секунд перезарядка."
+
+#~ msgid ""
+#~ "Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+#~ "for 10 seconds. 45 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Вас щитом тайной магии, защищая от вражеских дебафов на 10 "
+#~ "секунд. 45 секунд перезарядка."
+
+#~ msgid ""
+#~ "Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+#~ "for 10 seconds. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Вас щитом тайной магии, защищая от вражеских дебафов на 10 "
+#~ "секунд. 40 секунд перезарядка."
+
+#~ msgid ""
+#~ "Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+#~ "for 10 seconds. 35 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Вас щитом тайной магии, защищая от вражеских дебафов на 10 "
+#~ "секунд. 35 секунд перезарядка."
+
+#~ msgid ""
+#~ "Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+#~ "for 10 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Вас щитом тайной магии, защищая от вражеских дебафов на 10 "
+#~ "секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "A stream of holy energy flows through your body, causing your healing "
+#~ "spells to heal yourself and all allies in 3 yards range with 71&#37; of "
+#~ "the original heal amount for next to 2 healing spells. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Поток святой энергии протекает через Ваше тело, Ваши следующие 2 "
+#~ "исцеляющих заклинания исцеляют Вас и всех союзников в радиусе 3-х ярдов "
+#~ "на 71&#37; от изначального исцеления. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "A stream of holy energy flows through your body, causing your healing "
+#~ "spells to heal yourself and all allies in 3 yards range with 72&#37; of "
+#~ "the original heal amount for next to 2 healing spells. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Поток святой энергии протекает через Ваше тело, Ваши следующие 2 "
+#~ "исцеляющих заклинания исцеляют Вас и всех союзников в радиусе 3-х ярдов "
+#~ "на 72&#37; от изначального исцеления. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "A stream of holy energy flows through your body, causing your healing "
+#~ "spells to heal yourself and all allies in 3 yards range with 73&#37; of "
+#~ "the original heal amount for next to 2 healing spells. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Поток святой энергии протекает через Ваше тело, Ваши следующие 2 "
+#~ "исцеляющих заклинания исцеляют Вас и всех союзников в радиусе 3-х ярдов "
+#~ "на 73&#37; от изначального исцеления. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "A stream of holy energy flows through your body, causing your healing "
+#~ "spells to heal yourself and all allies in 3 yards range with 74&#37; of "
+#~ "the original heal amount for next to 2 healing spells. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Поток святой энергии протекает через Ваше тело, Ваши следующие 2 "
+#~ "исцеляющих заклинания исцеляют Вас и всех союзников в радиусе 3-х ярдов "
+#~ "на 74&#37; от изначального исцеления. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "A stream of holy energy flows through your body, causing your healing "
+#~ "spells to heal yourself and all allies in 3 yards range with 75&#37; of "
+#~ "the original heal amount for next to 2 healing spells. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Поток святой энергии протекает через Ваше тело, Ваши следующие 2 "
+#~ "исцеляющих заклинания исцеляют Вас и всех союзников в радиусе 3-х ярдов "
+#~ "на 75&#37; от изначального исцеления. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 41&#37; for "
+#~ "next 5 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантирует попадание и увеличивает наносимый урон на 41&#37; для "
+#~ "следующих 5 заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 43&#37; for "
+#~ "next 5 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантирует попадание и увеличивает наносимый урон на 43&#37; для "
+#~ "следующих 5 заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 45&#37; for "
+#~ "next 5 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантирует попадание и увеличивает наносимый урон на 45&#37; для "
+#~ "следующих 5 заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 48&#37; for "
+#~ "next 5 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантирует попадание и увеличивает наносимый урон на 48&#37; для "
+#~ "следующих 5 заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 50&#37; for "
+#~ "next 5 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Гарантирует попадание и увеличивает наносимый урон на 50&#37; для "
+#~ "следующих 5 заклинаний. 24 секунды перезарядка."
+
+#~ msgid ""
+#~ "Enchants your weapon with a mana leeching aura, performing a guaranteed "
+#~ "hit and draining 26&#37; of your damage dealt as mana for the next 7 "
+#~ "attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Зачаровывает Ваше оружие аурой, высасывающей ману, нанося гарантированный "
+#~ "удар и возвращая 26&#37; вашего урона в виде маны в течении следующих 7 "
+#~ "атак. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enchants your weapon with a mana leeching aura, performing a guaranteed "
+#~ "hit and draining 27&#37; of your damage dealt as mana for the next 7 "
+#~ "attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Зачаровывает Ваше оружие аурой, высасывающей ману, нанося гарантированный "
+#~ "удар и возвращая 27&#37; вашего урона в виде маны в течении следующих 7 "
+#~ "атак. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enchants your weapon with a mana leeching aura, performing a guaranteed "
+#~ "hit and draining 28&#37; of your damage dealt as mana for the next 7 "
+#~ "attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Зачаровывает Ваше оружие аурой, высасывающей ману, нанося гарантированный "
+#~ "удар и возвращая 28&#37; вашего урона в виде маны в течении следующих 7 "
+#~ "атак. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enchants your weapon with a mana leeching aura, performing a guaranteed "
+#~ "hit and draining 29&#37; of your damage dealt as mana for the next 7 "
+#~ "attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Зачаровывает Ваше оружие аурой, высасывающей ману, нанося гарантированный "
+#~ "удар и возвращая 29&#37; вашего урона в виде маны в течении следующих 7 "
+#~ "атак. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enchants your weapon with a mana leeching aura, performing a guaranteed "
+#~ "hit and draining 30&#37; of your damage dealt as mana for the next 7 "
+#~ "attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Зачаровывает Ваше оружие аурой, высасывающей ману, нанося гарантированный "
+#~ "удар и возвращая 30&#37; вашего урона в виде маны в течении следующих 7 "
+#~ "атак. 20 секунд перезарядка."
+
+#~ msgid ""
+#~ "Confuse the mind of your enemy with a powerful spell, granting a chance "
+#~ "to discharge target offensive skill by 80&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Сбивает Вашего врага с толку мощным заклинанием, предоставляя 80&#37; "
+#~ "шанс разрядить атакующую способность и 25&#37; шанс защитную способность "
+#~ "противника. Защитные способности монстров не могут быть разряжены. 30 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Confuse the mind of your enemy with a powerful spell, granting a chance "
+#~ "to discharge target offensive skill by 85&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Сбивает Вашего врага с толку мощным заклинанием, предоставляя 85&#37; "
+#~ "шанс разрядить атакующую способность и 25&#37; шанс защитную способность "
+#~ "противника. Защитные способности монстров не могут быть разряжены. 30 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Confuse the mind of your enemy with a powerful spell, granting a chance "
+#~ "to discharge target offensive skill by 90&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Сбивает Вашего врага с толку мощным заклинанием, предоставляя 90&#37; "
+#~ "шанс разрядить атакующую способность и 25&#37; шанс защитную способность "
+#~ "противника. Защитные способности монстров не могут быть разряжены. 30 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Confuse the mind of your enemy with a powerful spell, granting a chance "
+#~ "to discharge target offensive skill by 95&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Сбивает Вашего врага с толку мощным заклинанием, предоставляя 95&#37; "
+#~ "шанс разрядить атакующую способность и 25&#37; шанс защитную способность "
+#~ "противника. Защитные способности монстров не могут быть разряжены. 30 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Confuse the mind of your enemy with a powerful spell, granting a chance "
+#~ "to discharge target offensive skill by 100&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Сбивает Вашего врага с толку мощным заклинанием, предоставляя 100&#37; "
+#~ "шанс разрядить атакующую способность и 25&#37; шанс защитную способность "
+#~ "противника. Защитные способности монстров не могут быть разряжены. 30 "
+#~ "секунд перезарядка."
+
+#~ msgid ""
+#~ "Creates a magic barrier around you that either protects yourself from the "
+#~ "next 2 aggressive spells or absorbs 60&#37; of the next 162 damage taken. "
+#~ "First completed effect will end the skill. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Создает магический барьер вокруг Вас, который или защищает Вас от "
+#~ "следующих 2-х вредоносных заклинаний, или поглощает 60&#37; от следующих "
+#~ "162 единиц полученного урона. Первый выполненный эффект завершит действие "
+#~ "способности. 60 секунд перезарядка."
+
+#~ msgid ""
+#~ "Creates a magic barrier around you that either protects yourself from the "
+#~ "next 2 aggressive spells or absorbs 60&#37; of the next 173 damage taken. "
+#~ "First completed effect will end the skill. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Создает магический барьер вокруг Вас, который или защищает Вас от "
+#~ "следующих 2-х вредоносных заклинаний, или поглощает 60&#37; от следующих "
+#~ "173 единиц полученного урона. Первый выполненный эффект завершит действие "
+#~ "способности. 60 секунд перезарядка."
+
+#~ msgid ""
+#~ "Creates a magic barrier around you that either protects yourself from the "
+#~ "next 2 aggressive spells or absorbs 60&#37; of the next 186 damage taken. "
+#~ "First completed effect will end the skill. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Создает магический барьер вокруг Вас, который или защищает Вас от "
+#~ "следующих 2-х вредоносных заклинаний, или поглощает 60&#37; от следующих "
+#~ "186 единиц полученного урона. Первый выполненный эффект завершит действие "
+#~ "способности. 60 секунд перезарядка."
+
+#~ msgid ""
+#~ "Creates a magic barrier around you that either protects yourself from the "
+#~ "next 2 aggressive spells or absorbs 60&#37; of the next 198 damage taken. "
+#~ "First completed effect will end the skill. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Создает магический барьер вокруг Вас, который или защищает Вас от "
+#~ "следующих 2-х вредоносных заклинаний, или поглощает 60&#37; от следующих "
+#~ "198 единиц полученного урона. Первый выполненный эффект завершит действие "
+#~ "способности. 60 секунд перезарядка."
+
+#~ msgid ""
+#~ "Creates a magic barrier around you that either protects yourself from the "
+#~ "next 2 aggressive spells or absorbs 60&#37; of the next 212 damage taken. "
+#~ "First completed effect will end the skill. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Создает магический барьер вокруг Вас, который или защищает Вас от "
+#~ "следующих 2-х вредоносных заклинаний, или поглощает 60&#37; от следующих "
+#~ "212 единиц полученного урона. Первый выполненный эффект завершит действие "
+#~ "способности. 60 секунд перезарядка."
+
+#~ msgid ""
+#~ "Renews your body with holy energy, regenerating 42&#37; of your total "
+#~ "health and mana over 30 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Возобновляет Ваше тело святой энергией, восстанавливая 42&#37; от "
+#~ "максимального количества здоровья и маны в течение 30 секунд. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Renews your body with holy energy, regenerating 44&#37; of your total "
+#~ "health and mana over 30 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Возобновляет Ваше тело святой энергией, восстанавливая 44&#37; от "
+#~ "максимального количества здоровья и маны в течение 30 секунд. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Renews your body with holy energy, regenerating 46&#37; of your total "
+#~ "health and mana over 30 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Возобновляет Ваше тело святой энергией, восстанавливая 46&#37; от "
+#~ "максимального количества здоровья и маны в течение 30 секунд. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Renews your body with holy energy, regenerating 48&#37; of your total "
+#~ "health and mana over 30 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Возобновляет Ваше тело святой энергией, восстанавливая 48&#37; от "
+#~ "максимального количества здоровья и маны в течение 30 секунд. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Renews your body with holy energy, regenerating 50&#37; of your total "
+#~ "health and mana over 30 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Возобновляет Ваше тело святой энергией, восстанавливая 50&#37; от "
+#~ "максимального количества здоровья и маны в течение 30 секунд. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Surrounds you with a holy ward, reducing damage taken by 67&#37; for the "
+#~ "next 7 attacks and charging the ward. When ward fades you get healed by "
+#~ "the ward's charge. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Вас святым щитом, уменьшая полученный урон на 67&#37; и заряжая "
+#~ "щит в течение следующих 7 атак. Когда щит исчезает, Вы исцеляетесь от его "
+#~ "заряда. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Surrounds you with a holy ward, reducing damage taken by 69&#37; for the "
+#~ "next 7 attacks and charging the ward. When ward fades you get healed by "
+#~ "the ward's charge. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Вас святым щитом, уменьшая полученный урон на 69&#37; и заряжая "
+#~ "щит в течение следующих 7 атак. Когда щит исчезает, Вы исцеляетесь от его "
+#~ "заряда. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Surrounds you with a holy ward, reducing damage taken by 71&#37; for the "
+#~ "next 7 attacks and charging the ward. When ward fades you get healed by "
+#~ "the ward's charge. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Вас святым щитом, уменьшая полученный урон на 71&#37; и заряжая "
+#~ "щит в течение следующих 7 атак. Когда щит исчезает, Вы исцеляетесь от его "
+#~ "заряда. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Surrounds you with a holy ward, reducing damage taken by 73&#37; for the "
+#~ "next 7 attacks and charging the ward. When ward fades you get healed by "
+#~ "the ward's charge. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Вас святым щитом, уменьшая полученный урон на 73&#37; и заряжая "
+#~ "щит в течение следующих 7 атак. Когда щит исчезает, Вы исцеляетесь от его "
+#~ "заряда. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Surrounds you with a holy ward, reducing damage taken by 75&#37; for the "
+#~ "next 7 attacks and charging the ward. When ward fades you get healed by "
+#~ "the ward's charge. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Окружает Вас святым щитом, уменьшая полученный урон на 75&#37; и заряжая "
+#~ "щит в течение следующих 7 атак. Когда щит исчезает, Вы исцеляетесь от его "
+#~ "заряда. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+#~ "for 18 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Преодолевает магическую пустоту, уменьшая время перезарядки Ваших "
+#~ "заклинаний на 50&#37; на 18 секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+#~ "for 21 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Преодолевает магическую пустоту, уменьшая время перезарядки Ваших "
+#~ "заклинаний на 50&#37; на 21 секунду. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+#~ "for 24 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Преодолевает магическую пустоту, уменьшая время перезарядки Ваших "
+#~ "заклинаний на 50&#37; на 24 секунды. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+#~ "for 27 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Преодолевает магическую пустоту, уменьшая время перезарядки Ваших "
+#~ "заклинаний на 50&#37; на 27 секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+#~ "for 30 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Преодолевает магическую пустоту, уменьшая время перезарядки Ваших "
+#~ "заклинаний на 50&#37; на 30 секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Forming a gaping hole in the magic stream allows you to cast spells at a "
+#~ "much lower mana consumption. Reduces the mana costs of your spells by "
+#~ "50&#37; for the next 22 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Формирует зияющую дыру в волшебном потоке, позволяющую использовать "
+#~ "заклинания при гораздо более низком потреблении маны. Снижает затраты "
+#~ "маны на заклинания на 50&#37; в течение следующих 22 секунд. 20 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Forming a gaping hole in the magic stream allows you to cast spells at a "
+#~ "much lower mana consumption. Reduces the mana costs of your spells by "
+#~ "50&#37; for the next 24 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Формирует зияющую дыру в волшебном потоке, позволяющую использовать "
+#~ "заклинания при гораздо более низком потреблении маны. Снижает затраты "
+#~ "маны на заклинания на 50&#37; в течение следующих 24 секунд. 20 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Forming a gaping hole in the magic stream allows you to cast spells at a "
+#~ "much lower mana consumption. Reduces the mana costs of your spells by "
+#~ "50&#37; for the next 26 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Формирует зияющую дыру в волшебном потоке, позволяющую использовать "
+#~ "заклинания при гораздо более низком потреблении маны. Снижает затраты "
+#~ "маны на заклинания на 50&#37; в течение следующих 26 секунд. 20 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Forming a gaping hole in the magic stream allows you to cast spells at a "
+#~ "much lower mana consumption. Reduces the mana costs of your spells by "
+#~ "50&#37; for the next 28 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Формирует зияющую дыру в волшебном потоке, позволяющую использовать "
+#~ "заклинания при гораздо более низком потреблении маны. Снижает затраты "
+#~ "маны на заклинания на 50&#37; в течение следующих 22 секунд. 28 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Forming a gaping hole in the magic stream allows you to cast spells at a "
+#~ "much lower mana consumption. Reduces the mana costs of your spells by "
+#~ "50&#37; for the next 30 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Формирует зияющую дыру в волшебном потоке, позволяющую использовать "
+#~ "заклинания при гораздо более низком потреблении маны. Снижает затраты "
+#~ "маны на заклинания на 50&#37; в течение следующих 22 секунд. 30 секунд "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Enchants your weapon with a vampiric aura, performing a guaranteed hit "
+#~ "and draining 31&#37; of your damage dealt as heal for the next 3 attacks. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Зачаровывает Ваше оружие вампирической аурой, нанося гарантированный удар "
+#~ "и высасывая 31&#37; от нанесенного урона в виде здоровья в течение "
+#~ "следующих 3-х атак. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enchants your weapon with a vampiric aura, performing a guaranteed hit "
+#~ "and draining 32&#37; of your damage dealt as heal for the next 3 attacks. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Зачаровывает Ваше оружие вампирической аурой, нанося гарантированный удар "
+#~ "и высасывая 32&#37; от нанесенного урона в виде здоровья в течение "
+#~ "следующих 3-х атак. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enchants your weapon with a vampiric aura, performing a guaranteed hit "
+#~ "and draining 33&#37; of your damage dealt as heal for the next 3 attacks. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Зачаровывает Ваше оружие вампирической аурой, нанося гарантированный удар "
+#~ "и высасывая 33&#37; от нанесенного урона в виде здоровья в течение "
+#~ "следующих 3-х атак. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enchants your weapon with a vampiric aura, performing a guaranteed hit "
+#~ "and draining 34&#37; of your damage dealt as heal for the next 3 attacks. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Зачаровывает Ваше оружие вампирической аурой, нанося гарантированный удар "
+#~ "и высасывая 34&#37; от нанесенного урона в виде здоровья в течение "
+#~ "следующих 3-х атак. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enchants your weapon with a vampiric aura, performing a guaranteed hit "
+#~ "and draining 35&#37; of your damage dealt as heal for the next 3 attacks. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Зачаровывает Ваше оружие вампирической аурой, нанося гарантированный удар "
+#~ "и высасывая 35&#37; от нанесенного урона в виде здоровья в течение "
+#~ "следующих 3-х атак. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "A masterly weapon swing that performs a guaranteed hit and increases the "
+#~ "damage dealt by 79&#37; for next 5 attacks. 22 seconds cooldown."
+#~ msgstr ""
+#~ "Виртуозный взмах оружием, наносящий гарантированный удар и увеличивающий "
+#~ "наносимый урон на 79&#37; в течение следующих 5-и атак. 22 секунды "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "A masterly weapon swing that performs a guaranteed hit and increases the "
+#~ "damage dealt by 83&#37; for next 5 attacks. 22 seconds cooldown."
+#~ msgstr ""
+#~ "Виртуозный взмах оружием, наносящий гарантированный удар и увеличивающий "
+#~ "наносимый урон на 83&#37; в течение следующих 5-и атак. 22 секунды "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "A masterly weapon swing that performs a guaranteed hit and increases the "
+#~ "damage dealt by 87&#37; for next 5 attacks. 22 seconds cooldown."
+#~ msgstr ""
+#~ "Виртуозный взмах оружием, наносящий гарантированный удар и увеличивающий "
+#~ "наносимый урон на 87&#37; в течение следующих 5-и атак. 22 секунды "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "A masterly weapon swing that performs a guaranteed hit and increases the "
+#~ "damage dealt by 90&#37; for next 5 attacks. 22 seconds cooldown."
+#~ msgstr ""
+#~ "Виртуозный взмах оружием, наносящий гарантированный удар и увеличивающий "
+#~ "наносимый урон на 90&#37; в течение следующих 5-и атак. 22 секунды "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "A masterly weapon swing that performs a guaranteed hit and increases the "
+#~ "damage dealt by 94&#37; for next 5 attacks. 22 seconds cooldown."
+#~ msgstr ""
+#~ "Виртуозный взмах оружием, наносящий гарантированный удар и увеличивающий "
+#~ "наносимый урон на 94&#37; в течение следующих 5-и атак. 22 секунды "
+#~ "перезарядка."
+
+#~ msgid ""
+#~ "Enchants your armour with a mighty magic, reducing damage taken by "
+#~ "52&#37; and regenerating 20&#37; of your total health and mana over 30 "
+#~ "seconds. Cooldown 30 seconds."
+#~ msgstr ""
+#~ "Зачаровывает Вашу броню могучей магией, уменьшая полученный урон на "
+#~ "52&#37; и восстанавливая 20&#37; от максимального количества здоровья и "
+#~ "маны в течение 30 секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enchants your armour with a mighty magic, reducing damage taken by "
+#~ "54&#37; and regenerating 20&#37; of your total health and mana over 30 "
+#~ "seconds. Cooldown 30 seconds."
+#~ msgstr ""
+#~ "Зачаровывает Вашу броню могучей магией, уменьшая полученный урон на "
+#~ "54&#37; и восстанавливая 20&#37; от максимального количества здоровья и "
+#~ "маны в течение 30 секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enchants your armour with a mighty magic, reducing damage taken by "
+#~ "56&#37; and regenerating 20&#37; of your total health and mana over 30 "
+#~ "seconds. Cooldown 30 seconds."
+#~ msgstr ""
+#~ "Зачаровывает Вашу броню могучей магией, уменьшая полученный урон на "
+#~ "56&#37; и восстанавливая 20&#37; от максимального количества здоровья и "
+#~ "маны в течение 30 секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enchants your armour with a mighty magic, reducing damage taken by "
+#~ "58&#37; and regenerating 20&#37; of your total health and mana over 30 "
+#~ "seconds. Cooldown 30 seconds."
+#~ msgstr ""
+#~ "Зачаровывает Вашу броню могучей магией, уменьшая полученный урон на "
+#~ "58&#37; и восстанавливая 20&#37; от максимального количества здоровья и "
+#~ "маны в течение 30 секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Enchants your armour with a mighty magic, reducing damage taken by "
+#~ "60&#37; and regenerating 20&#37; of your total health and mana over 30 "
+#~ "seconds. Cooldown 30 seconds."
+#~ msgstr ""
+#~ "Зачаровывает Вашу броню могучей магией, уменьшая полученный урон на "
+#~ "60&#37; и восстанавливая 20&#37; от максимального количества здоровья и "
+#~ "маны в течение 30 секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "The long study of the arcane ways have made you a master of spell "
+#~ "casting. Performs a guaranteed hit and increases the damage dealt by "
+#~ "107&#37; for next 5 spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Долгое изучение тайных путей сделало Вас мастером заклинаний. Гарантирует "
+#~ "попадание и увеличивает наносимый урон на 107&#37; в течение следующих 5-"
+#~ "и заклинаний. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "The long study of the arcane ways have made you a master of spell "
+#~ "casting. Performs a guaranteed hit and increases the damage dealt by "
+#~ "110&#37; for next 5 spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Долгое изучение тайных путей сделало Вас мастером заклинаний. Гарантирует "
+#~ "попадание и увеличивает наносимый урон на 110&#37; в течение следующих 5-"
+#~ "и заклинаний. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "The long study of the arcane ways have made you a master of spell "
+#~ "casting. Performs a guaranteed hit and increases the damage dealt by "
+#~ "114&#37; for next 5 spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Долгое изучение тайных путей сделало Вас мастером заклинаний. Гарантирует "
+#~ "попадание и увеличивает наносимый урон на 114&#37; в течение следующих 5-"
+#~ "и заклинаний. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "The long study of the arcane ways have made you a master of spell "
+#~ "casting. Performs a guaranteed hit and increases the damage dealt by "
+#~ "117&#37; for next 5 spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Долгое изучение тайных путей сделало Вас мастером заклинаний. Гарантирует "
+#~ "попадание и увеличивает наносимый урон на 117&#37; в течение следующих 5-"
+#~ "и заклинаний. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "The long study of the arcane ways have made you a master of spell "
+#~ "casting. Performs a guaranteed hit and increases the damage dealt by "
+#~ "120&#37; for next 5 spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Долгое изучение тайных путей сделало Вас мастером заклинаний. Гарантирует "
+#~ "попадание и увеличивает наносимый урон на 120&#37; в течение следующих 5-"
+#~ "и заклинаний. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt with your "
+#~ "attacks by 74&#37;. Causes your healing spells to heal yourself and an "
+#~ "additional nearby ally with 82&#37; of the original heal amount. Lasts 10 "
+#~ "seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар и увеличивает урон, наносимый Вашими "
+#~ "атаками, на 74&#37;. Ваши целительные заклинания исцеляют Вас и "
+#~ "ближайшего союзника на 82&#37 от первоначального исцеления. Длится 10 "
+#~ "секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt with your "
+#~ "attacks by 79&#37;. Causes your healing spells to heal yourself and an "
+#~ "additional nearby ally with 83&#37; of the original heal amount. Lasts 10 "
+#~ "seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар и увеличивает урон, наносимый Вашими "
+#~ "атаками, на 79&#37;. Ваши целительные заклинания исцеляют Вас и "
+#~ "ближайшего союзника на 83&#37 от первоначального исцеления. Длится 10 "
+#~ "секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt with your "
+#~ "attacks by 83&#37;. Causes your healing spells to heal yourself and an "
+#~ "additional nearby ally with 85&#37; of the original heal amount. Lasts 10 "
+#~ "seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар и увеличивает урон, наносимый Вашими "
+#~ "атаками, на 83&#37;. Ваши целительные заклинания исцеляют Вас и "
+#~ "ближайшего союзника на 85&#37 от первоначального исцеления. Длится 10 "
+#~ "секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt with your "
+#~ "attacks by 88&#37;. Causes your healing spells to heal yourself and an "
+#~ "additional nearby ally with 86&#37; of the original heal amount. Lasts 10 "
+#~ "seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар и увеличивает урон, наносимый Вашими "
+#~ "атаками, на 88&#37;. Ваши целительные заклинания исцеляют Вас и "
+#~ "ближайшего союзника на 86&#37 от первоначального исцеления. Длится 10 "
+#~ "секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt with your "
+#~ "attacks by 92&#37;. Causes your healing spells to heal yourself and an "
+#~ "additional nearby ally with 88&#37; of the original heal amount. Lasts 10 "
+#~ "seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Наносит гарантированный удар и увеличивает урон, наносимый Вашими "
+#~ "атаками, на 92&#37;. Ваши целительные заклинания исцеляют Вас и "
+#~ "ближайшего союзника на 88&#37 от первоначального исцеления. Длится 10 "
+#~ "секунд. 30 секунд перезарядка."
+
+#~ msgid ""
+#~ "Establishes an equilibrium between arcane and holy flows. Performs a "
+#~ "guaranteed hit and increases the damage dealt by 68&#37; for all attacks "
+#~ "within 15 seconds. Heals yourself afterwards for 73&#37; of damage taken "
+#~ "in this time. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Устанавливает равновесие между тайным и святым потоками. Наносит "
+#~ "гарантированный удар и увеличивает  наносимый урон на 68&#37; для всех "
+#~ "атак на 15 секунд. После этого исцеляет Вас на 73&#37; от полученного в "
+#~ "это время урона. 40 секунды перезарядка."
+
+#~ msgid ""
+#~ "Establishes an equilibrium between arcane and holy flows. Performs a "
+#~ "guaranteed hit and increases the damage dealt by 69&#37; for all attacks "
+#~ "within 15 seconds. Heals yourself afterwards for 76&#37; of damage taken "
+#~ "in this time. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Устанавливает равновесие между тайным и святым потоками. Наносит "
+#~ "гарантированный удар и увеличивает  наносимый урон на 69&#37; для всех "
+#~ "атак на 15 секунд. После этого исцеляет Вас на 76&#37; от полученного в "
+#~ "это время урона. 40 секунды перезарядка."
+
+#~ msgid ""
+#~ "Establishes an equilibrium between arcane and holy flows. Performs a "
+#~ "guaranteed hit and increases the damage dealt by 70&#37; for all attacks "
+#~ "within 15 seconds. Heals yourself afterwards for 80&#37; of damage taken "
+#~ "in this time. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Устанавливает равновесие между тайным и святым потоками. Наносит "
+#~ "гарантированный удар и увеличивает  наносимый урон на 70&#37; для всех "
+#~ "атак на 15 секунд. После этого исцеляет Вас на 80&#37; от полученного в "
+#~ "это время урона. 40 секунды перезарядка."
+
+#~ msgid ""
+#~ "Establishes an equilibrium between arcane and holy flows. Performs a "
+#~ "guaranteed hit and increases the damage dealt by 71&#37; for all attacks "
+#~ "within 15 seconds. Heals yourself afterwards for 83&#37; of damage taken "
+#~ "in this time. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Устанавливает равновесие между тайным и святым потоками. Наносит "
+#~ "гарантированный удар и увеличивает  наносимый урон на 71&#37; для всех "
+#~ "атак на 15 секунд. После этого исцеляет Вас на 83&#37; от полученного в "
+#~ "это время урона. 40 секунды перезарядка."
+
+#~ msgid ""
+#~ "Establishes an equilibrium between arcane and holy flows. Performs a "
+#~ "guaranteed hit and increases the damage dealt by 72&#37; for all attacks "
+#~ "within 15 seconds. Heals yourself afterwards for 86&#37; of damage taken "
+#~ "in this time. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Устанавливает равновесие между тайным и святым потоками. Наносит "
+#~ "гарантированный удар и увеличивает  наносимый урон на 72&#37; для всех "
+#~ "атак на 15 секунд. После этого исцеляет Вас на 86&#37; от полученного в "
+#~ "это время урона. 40 секунды перезарядка."
+
+#~ msgid "Restores hitpoints."
+#~ msgstr "Восстанавливает здоровье."
+
+#~ msgid "Increases the chance to hit an enemy."
+#~ msgstr "Увеличивает шанс попадания по противнику."
+
+#~ msgid "Increases the damage dealt to enemies."
+#~ msgstr "Увеличивает урон, наносимый противнику."
+
+#~ msgid "Caster is invisible for monsters."
+#~ msgstr "Персонаж невидим для монстров."
+
+#~ msgid "Decreases the enemies chance to hit."
+#~ msgstr "Уменьшает шанс попадания противника."
+
+#~ msgid "Decreases the damage dealt by an enemy."
+#~ msgstr "Уменьшает урон, наносимый противником."
+
+#~ msgid "Deals damage to the enemy (1 field distance)."
+#~ msgstr "Наносит урон противнику на расстоянии 1 клетки."
+
+#~ msgid "Deals soul damage to the enemy."
+#~ msgstr "Наносит святой урон противнику."
+
+#~ msgid "Deals fire damage to the enemy."
+#~ msgstr "Наносит огненный урон противнику."
+
+#~ msgid "Deals lightning damage to the enemy."
+#~ msgstr "Наносит электрический урон противнику."
+
+#~ msgid "Deals ice damage to the enemy."
+#~ msgstr "Наносит ледяной урон противнику."
+
+#~ msgid "Deals hit damage to the enemy."
+#~ msgstr "Наносит физический урон противнику."
+
+#~ msgid "Deals damage to and debuffs the enemy (1 field distance)."
+#~ msgstr "Наносит урон и ослабляет противника на расстоянии 1 клетки."
+
+#~ msgid "Deals fire damage to and debuffs the enemy."
+#~ msgstr "Наносит огненный урон и ослабляет противника."
+
+#~ msgid "Beta Tester"
+#~ msgstr "Бета Тестер"

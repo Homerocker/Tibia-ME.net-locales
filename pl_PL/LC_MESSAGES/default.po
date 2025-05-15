@@ -1,0 +1,5248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tibia-ME.net\n"
+"POT-Creation-Date: 2025-05-10 16:36+0300\n"
+"PO-Revision-Date: 2025-05-10 16:36+0300\n"
+"Last-Translator: Molodoy <molodoy3561@gmail.com>\n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: storage\n"
+"X-Poedit-SearchPathExcluded-2: tests\n"
+
+#: resources/views/agreement.blade.php:5
+msgid "General"
+msgstr "Generalne"
+
+#: resources/views/agreement.blade.php:8
+msgid ""
+"All TibiaME rules are valid on this fansite. Please check FAQ section on "
+"tibiame.com."
+msgstr ""
+"Na tej stronie obowiązują wszystkie zasady TibiaME. Sprawdź sekcję FAQ na "
+"tibiame.com."
+
+#: resources/views/agreement.blade.php:11
+msgid "Accounts"
+msgstr "Konta"
+
+#: resources/views/agreement.blade.php:13
+msgid "You are only allowed to use your real character nickname and gameworld."
+msgstr "Możesz używać tylko prawdziwego pseudonimu postaci i świata gry."
+
+#: resources/views/agreement.blade.php:14
+msgid "You are not allowed to share your account data (password) publicly."
+msgstr "Nie możesz publicznie udostępniać danych konta (hasła)."
+
+#: resources/views/agreement.blade.php:17
+msgid "Highscores"
+msgstr "Najlepsze wyniki"
+
+#: resources/views/agreement.blade.php:19
+msgid "Listed characters"
+msgstr "Lista postaci"
+
+#: resources/views/agreement.blade.php:22
+msgid ""
+"Top 100 wizards and top 100 warriors by total experience from each game world "
+"are listed."
+msgstr ""
+"Wyświetlanych jest 100 najlepszych magów i 100 najlepszych wojowników według "
+"całkowitego doświadczenia z każdego świata gry."
+
+#: resources/views/agreement.blade.php:23
+msgid "Characters with PvP rank 100 or higher are listed."
+msgstr "Postacie z rangą PvP 100 lub wyższą są wyświetlane."
+
+#: resources/views/agreement.blade.php:25
+msgid ""
+"Top 100 wizards and top 100 warriors by achievement points from each game "
+"world are listed."
+msgstr ""
+"Wyświetlanych jest 100 najlepszych czarodziejów i 100 najlepszych wojowników "
+"według punktów osiągnięć z każdego świata gry."
+
+#: resources/views/agreement.blade.php:26
+msgid "Other characters are not listed and we cannot add them at this time."
+msgstr "Inne znaki nie są wymienione i nie możemy ich teraz dodać."
+
+#: resources/views/agreement.blade.php:29
+msgid "Data reliability"
+msgstr "Niezawodność danych"
+
+#: resources/views/agreement.blade.php:31
+#, fuzzy
+#| msgid "Highscores are updated daily in 10 minutes after game server save."
+msgid "Highscores are updated daily at 00:10 UTC."
+msgstr ""
+"Najlepsze wyniki są aktualizowane codziennie w 10 minut po zapisaniu serwera "
+"gry."
+
+#: resources/views/agreement.blade.php:33
+msgid ""
+"Highscores data are provided by tibiame.com and Tibia-ME.net is not "
+"responsible for its reliability."
+msgstr ""
+"Najlepsze wyniki są dostarczane przez tibiame.com, a Tibia-ME.net nie ponosi "
+"odpowiedzialności za ich niezawodność."
+
+#: resources/views/agreement.blade.php:35
+#, fuzzy
+#| msgid ""
+#| "Worlds' statistics as well as Top Hunters data are only based on "
+#| "characters that are listed on this website (see 4.1.)."
+msgid ""
+"Worlds' statistics as well as Top Hunters data are only based on characters "
+"that are listed on this website (see 3.1.)."
+msgstr ""
+"Statystyki świata oraz dane Top Łowców są oparte wyłącznie na postaciach "
+"wymienionych na tej stronie (patrz 4.1.)."
+
+#: resources/views/agreement.blade.php:40
+msgid "Screenshots"
+msgstr "Zrzuty ekranu"
+
+#: resources/views/agreement.blade.php:42
+msgid "Only TibiaME screenshots are allowed at Screenshots section."
+msgstr "Tylko zrzuty ekranu z TibiaME są dozwolone w dziale Zrzuty ekranu."
+
+#: resources/views/agreement.blade.php:43
+msgid "Artworks are not allowed."
+msgstr "Prace są niedozwolone."
+
+#: resources/views/agreement.blade.php:45
+msgid ""
+"Screenshots should not contain any non-game areas, e.g. computer desktop and "
+"emulator window."
+msgstr ""
+"Zrzuty ekranu nie powinny zawierać żadnych obszarów niezwiązanych z grą, np. "
+"okno pulpitu komputera i emulatora."
+
+#: resources/views/agreement.blade.php:48
+msgid "Artworks"
+msgstr "Prace"
+
+#: resources/views/agreement.blade.php:50
+msgid "Artworks should be related to TibiaME."
+msgstr "Prace powinny być powiązane z TibiaME."
+
+#: resources/views/agreement.blade.php:51
+msgid "You are only allowed to upload your own artworks."
+msgstr "Możesz przesyłać tylko swoją pracę."
+
+#: resources/views/agreement.blade.php:54
+msgid "Privacy"
+msgstr "Prywatność"
+
+#: resources/views/agreement.blade.php:56
+msgid ""
+"Tibia-ME.net never shares your hidden data (e.g. email, birth date) with "
+"anyone."
+msgstr ""
+"Tibia-ME.net nigdy nie udostępnia nikomu Twoich ukrytych danych (np. adresu e-"
+"mail, daty urodzenia)."
+
+#: resources/views/agreement.blade.php:58
+#, fuzzy
+#| msgid ""
+#| "Your passwords are encrypted and cannot be viewed by anyone, including "
+#| "Tibia-ME.net sfaff."
+msgid ""
+"Your passwords are encrypted and cannot be viewed by anyone, including Tibia-"
+"ME.net staff."
+msgstr ""
+"Twoje hasła są zaszyfrowane i nie mogą być oglądane przez nikogo, łącznie z "
+"pracownikami Tibia-ME.net."
+
+#: resources/views/agreement.blade.php:60
+#, fuzzy
+#| msgid ""
+#| "Tibia-ME.net Admin may use your data to contact you (e.g. email, Yahoo ID, "
+#| "Skype ID, including hidden data)."
+msgid ""
+"Tibia-ME.net Admin may use your data to contact you (e.g. email, including "
+"hidden data)."
+msgstr ""
+"Administrator Tibia-ME.net może wykorzystać twoje dane do skontaktowania się "
+"z Tobą (np. e-mail, identyfikator Yahoo ID, identyfikator Skype, w tym ukryte "
+"dane)."
+
+#: resources/views/agreement.blade.php:63
+msgid "Copyrights"
+msgstr "Prawa Autorskie"
+
+#: resources/views/agreement.blade.php:66
+msgid ""
+"TibiaME is a trademark of CipSoft GmbH, tibiame.com is the only official "
+"TibiaME website."
+msgstr ""
+"TibiaME jest znakiem towarowym firmy CipSoft GmbH, tibiame.com jest jedyną "
+"oficjalną stroną TibiaME."
+
+#: resources/views/agreement.blade.php:68
+msgid ""
+"Any icons provided by CipSoft are copyrighted by CipSoft. You may use any "
+"TibiaME icons from this website."
+msgstr ""
+"Wszelkie ikony dostarczane przez CipSoft są chronione prawem autorskim przez "
+"CipSoft. Możesz używać dowolnych ikon TibiaME z tej strony."
+
+#: resources/views/agreement.blade.php:75
+msgid "Decline"
+msgstr "Odrzuć"
+
+#: resources/views/album/albums.blade.php:7
+msgid "You have no albums."
+msgstr "Nie masz żadnych albumów."
+
+#: resources/views/album/albums.blade.php:9
+msgid "This user has no albums."
+msgstr "Ten użytkownik nie posiada żadnych albumów."
+
+#: resources/views/album/home.blade.php:14
+#, fuzzy
+#| msgid "Invalid world."
+msgid "all worlds"
+msgstr "Nieprawidłowy świat."
+
+#: resources/views/album/photos.blade.php:6
+msgid "This album is empty."
+msgstr "Ten album jest pusty."
+
+#: resources/views/artworks.blade.php:15
+msgid "Log in to upload artworks."
+msgstr "Zaloguj się aby przesłać pracę."
+
+#: resources/views/artworks.blade.php:18
+msgid "No artworks available."
+msgstr "Brak dostępnych prac."
+
+#: resources/views/auth/lostpassword.blade.php:6
+#: resources/views/characters.blade.php:33
+msgid "Nickname"
+msgstr "Pseudonim"
+
+#: resources/views/auth/lostpassword.blade.php:8
+#: resources/views/characters.blade.php:35
+msgid "World"
+msgstr "Świat"
+
+#: resources/views/auth/lostpassword.blade.php:10
+msgid "select world"
+msgstr "wybierz świat"
+
+#: resources/views/auth/reset-password.blade.php:7
+msgid "New password"
+msgstr "Nowe hasło"
+
+#: resources/views/auth/reset-password.blade.php:9
+#, fuzzy
+#| msgid "Recover password"
+msgid "Confirm password"
+msgstr "Odzyskaj hasło"
+
+#: resources/views/banishments/banform.blade.php:8
+#: resources/views/banishments/list.blade.php:8
+#: resources/views/banishments/view.blade.php:31
+msgid "Reason"
+msgstr "Powód"
+
+#: resources/views/banishments/banform.blade.php:17
+#: resources/views/banishments/view.blade.php:40
+msgid "Description"
+msgstr "Opis"
+
+#: resources/views/banishments/banform.blade.php:20
+#: resources/views/banishments/list.blade.php:9
+msgid "Duration"
+msgstr "Czas trwania"
+
+#: resources/views/banishments/banform.blade.php:35
+#, fuzzy
+#| msgid "Delete all posts"
+msgid "Delete all forum posts"
+msgstr "Usuń wszystkie posty"
+
+#: resources/views/banishments/list.blade.php:7
+#: resources/views/banishments/view.blade.php:7
+msgid "User"
+msgstr "Użytkownik"
+
+#: resources/views/banishments/list.blade.php:24
+#: resources/views/banishments/view.blade.php:52
+#, fuzzy
+#| msgid "Permanent"
+msgid "permanent"
+msgstr "Permanentny"
+
+#: resources/views/banishments/view.blade.php:15
+msgid "Start date"
+msgstr "Data rozpoczęcia"
+
+#: resources/views/banishments/view.blade.php:23
+#: resources/views/banishments/view.blade.php:66
+msgid "Moderator"
+msgstr "Moderator"
+
+#: resources/views/banishments/view.blade.php:49
+msgid "Expires"
+msgstr "Wygasa"
+
+#: resources/views/banishments/view.blade.php:58
+msgid "Lifted"
+msgstr ""
+
+#: resources/views/banishments/view.blade.php:77
+#, fuzzy
+#| msgid "Banishments"
+msgid "Lift banishment"
+msgstr "Bany"
+
+#: resources/views/characters.blade.php:6
+msgid "Select main character"
+msgstr ""
+
+#: resources/views/comments.blade.php:14
+msgid "No one has commented yet."
+msgstr "Jeszcze nikt nie skomentował."
+
+#: resources/views/comments.blade.php:65
+msgid "Log in to post your comments."
+msgstr "Zaloguj się aby móc komentować."
+
+#: resources/views/content/armours.blade.php:6
+#: resources/views/content/skills.blade.php:6
+#: resources/views/content/spells.blade.php:6
+#: resources/views/content/weapons.blade.php:6
+msgid "Vocation"
+msgstr "Powołanie"
+
+#: resources/views/content/armours.blade.php:8
+#: resources/views/content/armours.blade.php:15
+#: resources/views/content/spells.blade.php:8
+#: resources/views/content/spells.blade.php:18
+#: resources/views/content/spells.blade.php:31
+#: resources/views/content/weapons.blade.php:8
+msgid "any"
+msgstr "każdy"
+
+#: resources/views/content/armours.blade.php:10
+#: resources/views/content/skills.blade.php:8
+#: resources/views/content/spells.blade.php:10
+#: resources/views/content/weapons.blade.php:9
+msgid "warrior"
+msgstr "wojownik"
+
+#: resources/views/content/armours.blade.php:11
+#: resources/views/content/skills.blade.php:9
+#: resources/views/content/spells.blade.php:12
+#: resources/views/content/weapons.blade.php:10
+msgid "wizard"
+msgstr "mag"
+
+#: resources/views/content/armours.blade.php:13
+#: resources/views/content/armours.blade.php:70
+msgid "Slot"
+msgstr "Slot"
+
+#: resources/views/content/armours.blade.php:22
+#: resources/views/content/armours.blade.php:69
+#: resources/views/content/skills.blade.php:23
+#: resources/views/content/spells.blade.php:62
+#: resources/views/content/weapons.blade.php:14
+#: resources/views/content/weapons.blade.php:63
+msgid "Level"
+msgstr "Poziom"
+
+#: resources/views/content/armours.blade.php:38
+#: resources/views/content/weapons.blade.php:32
+msgid "Sort"
+msgstr "Sortuj"
+
+#: resources/views/content/armours.blade.php:40
+#: resources/views/content/spells.blade.php:41
+#: resources/views/content/weapons.blade.php:34
+msgid "level"
+msgstr "poziom"
+
+#: resources/views/content/armours.blade.php:46
+#: resources/views/content/spells.blade.php:44
+#: resources/views/content/weapons.blade.php:40
+msgid "Order"
+msgstr "Kolejność"
+
+#: resources/views/content/armours.blade.php:48
+#: resources/views/content/spells.blade.php:46
+#: resources/views/content/weapons.blade.php:42
+msgid "ascending"
+msgstr "rosnąco"
+
+#: resources/views/content/armours.blade.php:49
+#: resources/views/content/spells.blade.php:47
+#: resources/views/content/weapons.blade.php:43
+msgid "descending"
+msgstr "malejąco"
+
+#: resources/views/content/armours.blade.php:68
+msgid "Armour"
+msgstr "Zbroje"
+
+#: resources/views/content/armours.blade.php:71
+#: resources/views/content/weapons.blade.php:65
+msgid "Stats"
+msgstr "Statystyki"
+
+#: resources/views/content/armours.blade.php:72
+#: resources/views/content/weapons.blade.php:66
+msgid "Dropped by"
+msgstr "Do zdobycia z"
+
+#: resources/views/content/armours.blade.php:79
+#: resources/views/content/food.blade.php:18
+#: resources/views/content/monsters.blade.php:29
+#: resources/views/content/skills.blade.php:15
+#: resources/views/content/spells.blade.php:54
+#: resources/views/content/weapons.blade.php:73
+msgid "No items to display."
+msgstr "Brak przedmiotów do wyświetlenia."
+
+#: resources/views/content/food.blade.php:6
+msgid "Food and potions"
+msgstr "Jedzenie i mikstury"
+
+#: resources/views/content/food.blade.php:9
+msgid "Item"
+msgstr "Przedmiot"
+
+#: resources/views/content/food.blade.php:10
+msgid "Effect"
+msgstr "Efekt"
+
+#: resources/views/content/monsters.blade.php:6
+#: resources/views/content/weapons.blade.php:62
+msgid "Name"
+msgstr "Nazwa"
+
+#: resources/views/content/monsters.blade.php:15
+msgid "Monster"
+msgstr "Potwór"
+
+#: resources/views/content/monsters.blade.php:16
+msgid "Award"
+msgstr "Nagroda"
+
+#: resources/views/content/monsters.blade.php:17
+#: resources/views/content/pets.blade.php:12
+msgid "HP"
+msgstr "HP"
+
+#: resources/views/content/monsters.blade.php:18
+msgid "Walkspeed"
+msgstr "Prędkość"
+
+#: resources/views/content/monsters.blade.php:19
+msgid "Attack"
+msgstr "Ataki"
+
+#: resources/views/content/monsters.blade.php:20
+#: resources/views/content/pets.blade.php:11
+msgid "Weakness"
+msgstr "Wrażliwości"
+
+#: resources/views/content/monsters.blade.php:21
+msgid "Islands"
+msgstr "Wyspy"
+
+#: resources/views/content/monsters.blade.php:22
+msgid "Drops"
+msgstr "Do zdobycia"
+
+#: resources/views/content/pets.blade.php:8
+msgid "Pet"
+msgstr "Zwierzak"
+
+#: resources/views/content/pets.blade.php:9
+msgid "Damage"
+msgstr "Obrażenia"
+
+#: resources/views/content/pets.blade.php:10
+msgid "Protection"
+msgstr "Odporności"
+
+#: resources/views/content/pets.blade.php:14
+msgid "Defense"
+msgstr "Obrona"
+
+#: resources/views/content/pets.blade.php:20
+msgid "No data."
+msgstr "Brak danych."
+
+#: resources/views/content/skills.blade.php:22
+msgid "Skill"
+msgstr "Umiejętność"
+
+#: resources/views/content/spells.blade.php:16
+msgid "Type"
+msgstr "Typ"
+
+#: resources/views/content/spells.blade.php:19
+msgid "heal"
+msgstr "uzdrawianie"
+
+#: resources/views/content/spells.blade.php:20
+msgid "buff"
+msgstr "buff"
+
+#: resources/views/content/spells.blade.php:21
+msgid "debuff"
+msgstr "debuff"
+
+#: resources/views/content/spells.blade.php:22
+msgid "hit"
+msgstr "fizyczne"
+
+#: resources/views/content/spells.blade.php:23
+msgid "fire"
+msgstr "ogień"
+
+#: resources/views/content/spells.blade.php:24
+msgid "ice"
+msgstr "lód"
+
+#: resources/views/content/spells.blade.php:25
+msgid "energy"
+msgstr "prąd"
+
+#: resources/views/content/spells.blade.php:26
+msgid "soul"
+msgstr "świętość"
+
+#: resources/views/content/spells.blade.php:27
+msgid "weapon"
+msgstr "broń"
+
+#: resources/views/content/spells.blade.php:29
+#: resources/views/content/spells.blade.php:65
+msgid "Target"
+msgstr "Cel"
+
+#: resources/views/content/spells.blade.php:32
+#: resources/views/content/spells.blade.php:137
+msgid "self"
+msgstr "idywidualny"
+
+#: resources/views/content/spells.blade.php:33
+#: resources/views/content/spells.blade.php:143
+msgid "guild"
+msgstr "dla gildii"
+
+#: resources/views/content/spells.blade.php:34
+#: resources/views/content/spells.blade.php:140
+msgid "AoE"
+msgstr "Obszarowy"
+
+#: resources/views/content/spells.blade.php:35
+msgid "single"
+msgstr "pojedyńczy"
+
+#: resources/views/content/spells.blade.php:39
+msgid "Sort by"
+msgstr "Sortuj według"
+
+#: resources/views/content/spells.blade.php:42
+#, fuzzy
+#| msgid "Nickname"
+msgid "name"
+msgstr "Pseudonim"
+
+#: resources/views/content/spells.blade.php:61
+msgid "Spell"
+msgstr "Czar"
+
+#: resources/views/content/spells.blade.php:63
+#: resources/views/content/weapons.blade.php:64
+msgid "Mana"
+msgstr "Mana"
+
+#: resources/views/content/spells.blade.php:64
+msgid "Amount"
+msgstr "Ilość"
+
+#: resources/views/content/spells.blade.php:66
+msgid "Cooldown"
+msgstr "Czas do odnowienia"
+
+#: resources/views/content/spells.blade.php:105
+#, python-format
+msgid "%.2f HP/s"
+msgstr "%.2f HP/s"
+
+#: resources/views/content/spells.blade.php:146
+msgid "single enemy"
+msgstr "pojedynczy wróg"
+
+#: resources/views/forum/home.blade.php:20
+#: resources/views/forum/viewforum.blade.php:20
+msgid "new"
+msgstr "nowy"
+
+#: resources/views/forum/home.blade.php:23
+msgid "hidden"
+msgstr "ukryte"
+
+#: resources/views/forum/home.blade.php:26
+#, python-format
+msgid "%d topic"
+msgid_plural "%d topics"
+msgstr[0] "%d wątek"
+msgstr[1] "%d wątki"
+msgstr[2] "%d wątków"
+
+#: resources/views/forum/home.blade.php:27
+#, python-format
+msgid "%d post"
+msgid_plural "%d posts"
+msgstr[0] "%d post"
+msgstr[1] "%d posty"
+msgstr[2] "%d postów"
+
+#: resources/views/forum/post-edit.blade.php:10
+#: resources/views/forum/post-quote.blade.php:13
+#: resources/views/forum/topic-create-edit.blade.php:21
+#: resources/views/forum/topic-move.blade.php:16
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: resources/views/forum/topic-create-edit.blade.php:6
+msgid "Title"
+msgstr "Tytuł"
+
+#: resources/views/forum/topic-create-edit.blade.php:9
+msgid "Message"
+msgstr "Wiadomość"
+
+#: resources/views/forum/topic-create-edit.blade.php:14
+#, fuzzy
+#| msgid "Banned"
+msgid "Pinned"
+msgstr "Zbanowany"
+
+#: resources/views/forum/topic-move.blade.php:6
+msgid "Move to"
+msgstr "Przenieś do"
+
+#: resources/views/forum/viewtopic.blade.php:10
+#: resources/views/forum/viewtopic.blade.php:101
+#, fuzzy, python-format
+#| msgid "Views: %d"
+msgid "Topics: %d"
+msgstr "Wyświetleń: %d"
+
+#: resources/views/forum/viewtopic.blade.php:11
+#: resources/views/forum/viewtopic.blade.php:102
+#, fuzzy, python-format
+#| msgid "<b>Posts</b>: %d"
+msgid "Posts: %d"
+msgstr "<b>Postów</b>: %d"
+
+#: resources/views/forum/viewtopic.blade.php:15
+#: resources/views/forum/viewtopic.blade.php:106
+#, fuzzy
+#| msgid ""
+#| "Edited by %1$s on %2$s;\n"
+#| "edited %3$d time in total"
+#| msgid_plural ""
+#| "Edited by %1$s on %2$s;\n"
+#| "edited %3$d times in total"
+msgid "Edited by %1$s on %2$s"
+msgstr ""
+"Edytowano przez %1$s w %2$s;\n"
+"łącznie edytowano %3$d raz"
+
+#: resources/views/forum/viewtopic.blade.php:17
+#: resources/views/forum/viewtopic.blade.php:108
+#, fuzzy, python-format
+#| msgid ""
+#| "Edited by %1$s on %2$s;\n"
+#| "edited %3$d time in total"
+#| msgid_plural ""
+#| "Edited by %1$s on %2$s;\n"
+#| "edited %3$d times in total"
+msgid "edited %d time in total"
+msgid_plural "edited %d times in total"
+msgstr[0] ""
+"Edytowano przez %1$s w %2$s;\n"
+"łącznie edytowano %3$d raz"
+msgstr[1] ""
+"Edytowano przez %1$s w %2$s; \n"
+"łącznie edytowano %3$d razy"
+msgstr[2] ""
+"Edytowano przez %1$s w %2$s; \n"
+"łącznie edytowano %3$d razy"
+
+#: resources/views/forum/viewtopic.blade.php:164
+msgid "This thread is closed, you cannot post here."
+msgstr "Ten wątek został zamknięty, nie możesz dodać tu posta."
+
+#: resources/views/forum/viewtopic.blade.php:181
+msgid "Log in to post messages."
+msgstr "Zaloguj się aby dodawać posty."
+
+#: resources/views/home.blade.php:22
+#, python-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d komentarz"
+msgstr[1] "%d komentarze"
+msgstr[2] "%d komentarzy"
+
+#: resources/views/home.blade.php:42
+msgid "view all"
+msgstr "pokaż wszystko"
+
+#: resources/views/home.blade.php:47
+msgid "Chat"
+msgstr "Czat"
+
+#: resources/views/home.blade.php:52
+msgid ""
+"TibiaME is the first massively multiplayer online role-playing game for "
+"mobile devices. Come together with hundreds of players and experience "
+"adventures in a colourful virtual world! Along with your friends you explore "
+"the mysterious land of TibiaME, fight your way through hordes of evil "
+"creatures and solve ancient riddles to find untold treasures. With every "
+"monster you defeat you will grow in strength and power. TibiaME is based on "
+"the successful online role-playing game Tibia which attracts thousands of "
+"players every day."
+msgstr ""
+"TibiaME to pierwsza wirtualna gra fabularna dla wielu graczy na urządzenia "
+"mobilne. Dołącz do setek graczy i przeżyj przygody w kolorowym wirtualnym "
+"świecie! Wraz z przyjaciółmi odkrywasz tajemniczą krainę TibiaME, walczysz z "
+"hordami złych stworzeń i rozwiązujesz starożytne zagadki, by znaleźć "
+"niezliczone skarby. Z każdym pokonanym potworem będziesz rosnąć w siłę i moc. "
+"TibiaME opiera się na udanej internetowej grze fabularnej Tibia, która "
+"każdego dnia przyciąga tysiące graczy."
+
+#: resources/views/home.blade.php:60
+#, fuzzy
+#| msgid "%d Platinum"
+msgid "Premium & Platinum"
+msgstr "%d Platyn"
+
+#: resources/views/home.blade.php:65
+msgid "Forum"
+msgstr "Forum"
+
+#: resources/views/home.blade.php:88
+msgid "Memberlist"
+msgstr "Lista członków"
+
+#: resources/views/home.blade.php:91
+msgid "Banlist"
+msgstr "Lista banów"
+
+#: resources/views/home.blade.php:94
+msgid "Ranks"
+msgstr "Rangi"
+
+#: resources/views/home.blade.php:113
+msgid "TOP 100"
+msgstr "TOP 100"
+
+#: resources/views/home.blade.php:114
+msgid "Hunters"
+msgstr "Łowcy"
+
+#: resources/views/home.blade.php:116
+msgid "Achievements"
+msgstr "Osiągnięcia"
+
+#: resources/views/home.blade.php:117
+msgid "Guilds"
+msgstr "Gildie"
+
+#: resources/views/home.blade.php:118
+msgid "Worlds"
+msgstr "Światy"
+
+#: resources/views/home.blade.php:123
+msgid "Encyclopedia"
+msgstr "Encyklopedia"
+
+#: resources/views/home.blade.php:125
+msgid "Armour Calculator"
+msgstr "Przelicznik Zbroi"
+
+#: resources/views/home.blade.php:126
+msgid "Weapons"
+msgstr "Bronie"
+
+#: resources/views/home.blade.php:127
+msgid "Armours"
+msgstr "Zbroje"
+
+#: resources/views/home.blade.php:128
+msgid "Monsters"
+msgstr "Potwory"
+
+#: resources/views/home.blade.php:129
+msgid "Spells"
+msgstr "Czary"
+
+#: resources/views/home.blade.php:130
+msgid "Skills"
+msgstr "Umiejętności"
+
+#: resources/views/home.blade.php:131
+msgid "Pets"
+msgstr "Zwierzaki"
+
+#: resources/views/home.blade.php:137
+msgid "About us"
+msgstr "O nas"
+
+#: resources/views/home.blade.php:139
+msgid "Moderators"
+msgstr "Moderatorzy"
+
+#: resources/views/home.blade.php:140
+msgid "User agreement"
+msgstr "Umowa Użytkownika"
+
+#: resources/views/home.blade.php:145
+msgid "Archive"
+msgstr ""
+
+#: resources/views/home.blade.php:146
+msgid "These sections are in read-only mode and/or not eligible for support."
+msgstr ""
+
+#: resources/views/home.blade.php:150
+msgid "Photo album"
+msgstr "Album zdjęć"
+
+#: resources/views/home.blade.php:155
+msgid "Themes"
+msgstr "Motywy"
+
+#: resources/views/layout.blade.php:72 resources/views/layout.blade.php:81
+msgid "Online"
+msgstr "Online"
+
+#: resources/views/layout.blade.php:101
+msgid "Guest"
+msgstr "Gość"
+
+#: resources/views/layout.blade.php:107
+msgid "No new letters"
+msgstr "Brak nowych listów"
+
+#: resources/views/layout.blade.php:107
+#, python-format
+msgid "%d new letter"
+msgid_plural "%d new letters"
+msgstr[0] "%d nowy list"
+msgstr[1] "%d nowych listów"
+msgstr[2] "%d nowych listów"
+
+#: resources/views/layout.blade.php:112
+#, python-format
+msgid "%d notification"
+msgid_plural "%d notifications"
+msgstr[0] "%d powiadomienie"
+msgstr[1] "%d powiadomienia"
+msgstr[2] "%d powiadomień"
+
+#: resources/views/layout.blade.php:112
+msgid "No new notifications"
+msgstr "Brak nowych powiadomień"
+
+#: resources/views/layout.blade.php:115
+msgid "Profile"
+msgstr "Profil"
+
+#: resources/views/layout.blade.php:116
+msgid "Characters"
+msgstr "Postacie"
+
+#: resources/views/layout.blade.php:117
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: resources/views/layout.blade.php:118
+msgid "Log out"
+msgstr "Wyloguj"
+
+#: resources/views/layout.blade.php:121
+msgid "Log in"
+msgstr "Zaloguj się"
+
+#: resources/views/layout.blade.php:124 resources/views/login.blade.php:39
+msgid "Register"
+msgstr "Zarejestuj"
+
+#: resources/views/layout.blade.php:127 resources/views/login.blade.php:38
+msgid "Recover password"
+msgstr "Odzyskaj hasło"
+
+#: resources/views/layout.blade.php:156
+msgid "Home"
+msgstr "Główna"
+
+#: resources/views/layout.blade.php:194
+#, fuzzy
+#| msgid ""
+#| "Tibia and TibiaME are trademarks of <a href=\"http://www.cipsoft.com\" "
+#| "target=\"_blank\">CipSoft GmbH</a>, Germany."
+msgid "Tibia and TibiaME are trademarks of CipSoft GmbH, Germany."
+msgstr ""
+"Tibia i TibiaME są znakami towarowymi firmy <a href=\"http://"
+"www.cipsoft.com\" target=\"_blank\"> CipSoft GmbH </a>, Niemcy."
+
+#: resources/views/letters/list.blade.php:6
+#: resources/views/letters/view.blade.php:13
+#, fuzzy
+#| msgid "No new letters"
+msgid "No letters."
+msgstr "Brak nowych listów"
+
+#: resources/views/letters/view.blade.php:24
+msgid "Delete"
+msgstr "Usuń"
+
+#: resources/views/livewire/armour-calculator.blade.php:97
+msgid "Defense level"
+msgstr "Poziom obrony"
+
+#: resources/views/livewire/armour-calculator.blade.php:105
+msgid "Include upgraded items"
+msgstr "Wlicz ulepszone przedmioty"
+
+#: resources/views/livewire/armour-calculator.blade.php:111
+msgid "Distribute stats evenly"
+msgstr ""
+
+#: resources/views/livewire/armour-calculator.blade.php:118
+msgid "Ignored items"
+msgstr "Ignorowane przedmioty"
+
+#: resources/views/livewire/armour-calculator.blade.php:123
+msgid "none"
+msgstr "żaden"
+
+#: resources/views/livewire/chat.blade.php:40
+msgid "Type your message"
+msgstr "Wpisz swoją wiadomość"
+
+#: resources/views/livewire/comments-watch.blade.php:3
+#, fuzzy
+#| msgid "You will be notified on new comments."
+msgid "You will be notified on new comments"
+msgstr "Zostaniesz poinformowany o nowych komentarzach."
+
+#: resources/views/livewire/comments-watch.blade.php:5
+msgid "Watch for new comments"
+msgstr "Zwracaj uwagę na nowe komentarze"
+
+#: resources/views/login.blade.php:23
+msgid "Password"
+msgstr "Hasło"
+
+#: resources/views/login.blade.php:30
+msgid "Remember me on this device."
+msgstr "Zapamiętaj na tym urządeniu."
+
+#: resources/views/mail/letter_received.blade.php:1
+#: resources/views/mail/password_recovery.blade.php:1
+#, fuzzy, python-format
+#| msgid "Hello, %s."
+msgid "Hello %s"
+msgstr "Witaj, %s."
+
+#: resources/views/mail/letter_received.blade.php:3
+msgid ""
+"You have received a new private message to your account on Tibia-ME.net and "
+"you have requested that you be notified on this event."
+msgstr ""
+
+#: resources/views/mail/letter_received.blade.php:4
+msgid "You can view your new message by clicking on the following link:"
+msgstr ""
+
+#: resources/views/mail/letter_received.blade.php:7
+msgid ""
+"You can always choose not to be notified on new messages by changing the "
+"appropriate setting in your profile."
+msgstr ""
+
+#: resources/views/mail/password_recovery.blade.php:3
+#, python-format
+msgid "You have requested a new password for your account on %s."
+msgstr ""
+
+#: resources/views/mail/password_recovery.blade.php:5
+msgid "Click the following link to continue new password activation:"
+msgstr ""
+
+#: resources/views/mail/password_recovery.blade.php:8
+msgid "If you did not request a new password, just ignore this message."
+msgstr ""
+
+#: resources/views/memberlist.blade.php:13
+msgid "all"
+msgstr "wszystkie"
+
+#: resources/views/memberlist.blade.php:27
+#, fuzzy, python-format
+#| msgid "Mutual: %d"
+msgid "Total: %d"
+msgstr "Wspólnych: %d"
+
+#: resources/views/memberlist.blade.php:32
+#, python-format
+msgid "Online: %d"
+msgstr "Online: %d"
+
+#: resources/views/memberlist.blade.php:47
+msgid "Rank"
+msgstr "Ranga"
+
+#: resources/views/notifications.blade.php:6
+msgid "No notifications."
+msgstr "Brak powiadomień."
+
+#: resources/views/notifications.blade.php:18
+#, fuzzy, python-format
+#| msgid "Posts at forum"
+msgid "%s posted at forum."
+msgstr "Postów na forum"
+
+#: resources/views/notifications.blade.php:20
+#, fuzzy
+#| msgid "%s and %d other user posted at <a href=\"%s\">forum</a>."
+#| msgid_plural "%s and %d other users posted at <a href=\"%s\">forum</a>."
+msgid "%1$s and %2$d other user posted at forum."
+msgid_plural "%1$s and %2$d other users posted at forum."
+msgstr[0] "%s i %d inny użytkownik napisali na <a href=\"%s\">forum</a>."
+msgstr[1] "%s i %d innych użytkowników napisali na <a href=\"%s\">forum</a>."
+msgstr[2] "%s i %d innych użytkowników napisali na <a href=\"%s\">forum</a>."
+
+#: resources/views/notifications.blade.php:29
+#, fuzzy, python-format
+#| msgid "%s commented on <a href=\"%s\">photo</a>."
+msgid "%s commented on photo."
+msgstr "%s skomentował/a <a href=\"%s\">zdjęcie</a>."
+
+#: resources/views/notifications.blade.php:31
+#, fuzzy
+#| msgid "%s and %d other user commented on <a href=\"%s\">photo</a>."
+#| msgid_plural "%s and %d other users commented on <a href=\"%s\">photo</a>."
+msgid "%1$s and %2$d other user commented on photo."
+msgid_plural "%1$s and %2$d other users commented on photo."
+msgstr[0] "%s i %d inny użytkownik <a href=\"%s\">zdjęcie</a>."
+msgstr[1] "%s i %d innych użytkowników skomentowało <a href=\"%s\">zdjęcie</a>."
+msgstr[2] "%s i %d innych użytkowników skomentowało <a href=\"%s\">zdjęcie</a>."
+
+#: resources/views/notifications.blade.php:40
+#, fuzzy, python-format
+#| msgid "%s commented on <a href=\"%s\">screenshot</a>."
+msgid "%s commented on screenshot."
+msgstr "%s skomentował/a<a href=\"%s\">zrzut ekranu</a>."
+
+#: resources/views/notifications.blade.php:42
+#, fuzzy
+#| msgid "%s and %d other user commented on <a href=\"%s\">screenshot</a>."
+#| msgid_plural ""
+#| "%s and %d other users commented on <a href=\"%s\">screenshot</a>."
+msgid "%1$s and %2$d other user commented on screenshot."
+msgid_plural "%1$s and %2$d other users commented on screenshot."
+msgstr[0] ""
+"%s i %d inny użytkownik skomentowali <a href=\"%s\">zrzut ekranu</a>."
+msgstr[1] ""
+"%s i %d innych użytkowników skomentowało <a href=\"%s\">zrzut ekranu</a>."
+msgstr[2] ""
+"%s i %d innych użytkowników skomentowało <a href=\"%s\">zrzut ekranu</a>."
+
+#: resources/views/notifications.blade.php:51
+#, fuzzy, python-format
+#| msgid "%s commented on <a href=\"%s\">theme</a>."
+msgid "%s commented on theme."
+msgstr "%s skomentował/a <a href=\"%s\">motyw</a>."
+
+#: resources/views/notifications.blade.php:53
+#, fuzzy
+#| msgid "%s and %d other user commented on <a href=\"%s\">theme</a>."
+#| msgid_plural "%s and %d other users commented on <a href=\"%s\">theme</a>."
+msgid "%1$s and %2$d other user commented on theme."
+msgid_plural "%1$s and %2$d other users commented on theme."
+msgstr[0] "%s i %d inny użytkownik skomentowali <a href=\"%s\">motyw</a>."
+msgstr[1] "%s i %d innych użytkowników skomentowało <a href=\"%s\">motyw</a>."
+msgstr[2] "%s i %d innych użytkowników skomentowało <a href=\"%s\">theme</a>."
+
+#: resources/views/notifications.blade.php:62
+#, fuzzy, python-format
+#| msgid "%s likes your <a href=\"%s\">screenshot</a>."
+msgid "%s likes your screenshot."
+msgstr "%s polubił/a) <a href=\"%s\">zrzut ekranu</a>."
+
+#: resources/views/notifications.blade.php:65
+#, fuzzy
+#| msgid "%s and %d other user like your <a href=\"%s\">screenshot</a>."
+#| msgid_plural "%s and %d other users like your <a href=\"%s\">screenshot</a>."
+msgid "%1$s and %2$d other user like your screenshot."
+msgid_plural "%1$s and %2$d other users like your screenshot."
+msgstr[0] ""
+"%s i %d inny użytkownik polubili Twój <a href=\"%s\">zrzut ekranu</a>."
+msgstr[1] ""
+"%s i %d innych użytkowników polubiło Twój<a href=\"%s\">zrzut ekranu</a>."
+msgstr[2] ""
+"%s i %d innych użytkowników polubiło Twój <a href=\"%s\">zrzut ekranu</a>."
+
+#: resources/views/notifications.blade.php:74
+#, fuzzy, python-format
+#| msgid "%s likes your <a href=\"%s\">photo</a>."
+msgid "%s likes your photo."
+msgstr "%s polubił/a <a href=\"%s\">zdjęcie</a>."
+
+#: resources/views/notifications.blade.php:76
+#, fuzzy
+#| msgid "%s and %d other user like your <a href=\"%s\">photo</a>."
+#| msgid_plural "%s and %d other users like your <a href=\"%s\">photo</a>."
+msgid "%1$s and %2$d other user like your photo."
+msgid_plural "%1$s and %2$d other users like your photo."
+msgstr[0] "%s i %d inny użytkownik polubili Twoje <a href=\"%s\">zdjęcie</a>."
+msgstr[1] ""
+"%s i %d innych użytkowników polubiło Twoje<a href=\"%s\">zdjęcie</a>."
+msgstr[2] "%s i %d innych użytkowników polubiło <a href=\"%s\">zdjęcie</a>."
+
+#: resources/views/notifications.blade.php:85
+#, fuzzy, python-format
+#| msgid "%s likes your <a href=\"%s\">theme</a>."
+msgid "%s likes your theme."
+msgstr "%s polubił/a Twój <a href=\"%s\">motyw</a>."
+
+#: resources/views/notifications.blade.php:87
+#, fuzzy
+#| msgid "%s and %d other user like your <a href=\"%s\">theme</a>."
+#| msgid_plural "%s and %d other users like your <a href=\"%s\">theme</a>."
+msgid "%1$s and %2$d other user like your theme."
+msgid_plural "%1$s and %2$d other users like your theme."
+msgstr[0] "%s i %d inny użytkownik polubili Twój <a href=\"%s\">motyw</a>."
+msgstr[1] "%s i %d innych użytkowników polubiło Twój <a href=\"%s\">motyw</a>."
+msgstr[2] "%s i %d innych użytkowników polubiło Twój <a href=\"%s\">motyw</a>."
+
+#: resources/views/notifications.blade.php:96
+#, fuzzy, python-format
+#| msgid "%s commented on <a href=\"%s\">artwork</a>."
+msgid "%s commented on artwork."
+msgstr "%s skomentował/a <a href=\"%s\">dzieło</a>."
+
+#: resources/views/notifications.blade.php:98
+#, fuzzy
+#| msgid "%s and %d other user commented on <a href=\"%s\">artwork</a>."
+#| msgid_plural "%s and %d other users commented on <a href=\"%s\">artwork</a>."
+msgid "%1$s and %2$d other user commented on artwork."
+msgid_plural "%1$s and %2$d other users commented on artwork."
+msgstr[0] "%s i %d inny użytkownik skomentowali <a href=\"%s\">dzieło</a>."
+msgstr[1] "%s i %d innych użytkowników skomentowało <a href=\"%s\">dzieło</a>."
+msgstr[2] "%s i %d innych użytkowników skomentowało <a href=\"%s\">dzieło</a>."
+
+#: resources/views/notifications.blade.php:107
+#, fuzzy, python-format
+#| msgid "%s likes your <a href=\"%s\">artwork</a>."
+msgid "%s likes your artwork."
+msgstr "%s polubił/a Twoje <a href=\"%s\">dzieło</a>."
+
+#: resources/views/notifications.blade.php:109
+#, fuzzy
+#| msgid "%s and %d other user like your <a href=\"%s\">artwork</a>."
+#| msgid_plural "%s and %d other users like your <a href=\"%s\">artwork</a>."
+msgid "%1$s and %2$d other user like your artwork."
+msgid_plural "%1$s and %2$d other users like your artwork."
+msgstr[0] "%s i %d inny użytkownik polubili Twoje <a href=\"%s\">dzieło</a>."
+msgstr[1] ""
+"%s i %d innych użytkowników polubiło Twoje <a href=\"%s\">dzieło</a>."
+msgstr[2] "%s and %d other users like your <a href=\"%s\">artwork</a>."
+
+#: resources/views/premiumplatinum.blade.php:4
+#, fuzzy
+#| msgid "What is Premium?"
+msgid "What is VIP?"
+msgstr "Czym jest Premium?"
+
+#: resources/views/premiumplatinum.blade.php:6
+msgid ""
+"VIP is permanent character status that you receive after any purchase (any "
+"amount of Platinum or Premium)."
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:8
+msgid "Priority Login"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:9
+#: resources/views/premiumplatinum.blade.php:19
+#, fuzzy, python-format
+#| msgid "+50% Experience"
+msgid "Stamina Bonus (+%s Experience)"
+msgstr "+50% Doświadczenia"
+
+#: resources/views/premiumplatinum.blade.php:13
+msgid "What is Premium?"
+msgstr "Czym jest Premium?"
+
+#: resources/views/premiumplatinum.blade.php:15
+msgid ""
+"Premium is renewable subscription that gives you temporary access to most of "
+"game features. When your Premium time expires your character remains VIP."
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:17
+#, fuzzy
+#| msgid "Full access to individual islands"
+msgid "Full access to additional islands"
+msgstr "Pełny dostęp do poszczególnych wysp"
+
+#: resources/views/premiumplatinum.blade.php:18
+msgid "Portal usage"
+msgstr "Korzystanie z portalu"
+
+#: resources/views/premiumplatinum.blade.php:20
+#, fuzzy
+#| msgid "Up to 40 additional friendlist slots"
+msgid "20 friendlist slots"
+msgstr "Do 40 dodatkowych miejsc na liście znajomych"
+
+#: resources/views/premiumplatinum.blade.php:21
+msgid "20 ignorelist slots"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:22
+msgid "20 letters in Mailbox"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:23
+msgid "10 trade offers"
+msgstr "10 ofert handlowych"
+
+#: resources/views/premiumplatinum.blade.php:24
+msgid "9 depot pages"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:25
+#, fuzzy
+#| msgid ""
+#| "Life insurance with 50% of EP loss protection upon death (can be upgraded "
+#| "to 80% or 100%)"
+msgid "50% of EP loss protection upon death (can be upgraded to 80% or 100%)"
+msgstr ""
+"Ubezpieczenie z 50% ochrony przed utratą doświadczenia po śmierci (można "
+"zwiększyć do 80% lub 100%)"
+
+#: resources/views/premiumplatinum.blade.php:26
+#, fuzzy
+#| msgid "Guild founding"
+msgid "Guild Founding"
+msgstr "Założenie gildii"
+
+#: resources/views/premiumplatinum.blade.php:29
+msgid "What is Platinum?"
+msgstr "Czym jest Platyna?"
+
+#: resources/views/premiumplatinum.blade.php:31
+msgid ""
+"Platinum is game currency that allows you to buy permanent access to game "
+"features of your choice."
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:33
+#, fuzzy
+#| msgid "Full access to individual islands"
+msgid "Buy permanent access to individual islands"
+msgstr "Pełny dostęp do poszczególnych wysp"
+
+#: resources/views/premiumplatinum.blade.php:34
+msgid "Buy portal usage permanently"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:35
+#, fuzzy
+#| msgid "Up to 40 additional friendlist slots"
+msgid "Buy up to 50 friendlist slots"
+msgstr "Do 40 dodatkowych miejsc na liście znajomych"
+
+#: resources/views/premiumplatinum.blade.php:36
+msgid "Buy up to 50 letters in Mailbox"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:37
+#, fuzzy
+#| msgid "Up to 20 trade offers"
+msgid "Buy up to 20 trade offers"
+msgstr "Do 20 ofert handlowych"
+
+#: resources/views/premiumplatinum.blade.php:38
+#, fuzzy
+#| msgid "Up to 6 additional depot pages"
+msgid "Buy up to 9 depot pages"
+msgstr "Do 6 dodatkowych stron w depozycie"
+
+#: resources/views/premiumplatinum.blade.php:39
+#, fuzzy
+#| msgid "Life insurance with 50%, 80% or 100% of EP loss protection upon death"
+msgid ""
+"Buy a life insurance with 50%, 80% or 100% of EP loss protection upon death"
+msgstr ""
+"Ubezpieczenie z 50%, 80% lub 100% ochrony przed utratą doświadczenia po "
+"śmierci"
+
+#: resources/views/premiumplatinum.blade.php:40
+msgid "Buy additional Rerolls whenever you need them"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:41
+#, fuzzy
+#| msgid "Guild founding"
+msgid "Buy guild founding"
+msgstr "Założenie gildii"
+
+#: resources/views/premiumplatinum.blade.php:47
+#, fuzzy, python-format
+#| msgid "%s on %s"
+msgid "Buy on %s"
+msgstr "%s na %s"
+
+#: resources/views/profile.blade.php:16
+msgid "Banned"
+msgstr "Zbanowany"
+
+#: resources/views/profile.blade.php:27
+msgid "Remove avatar"
+msgstr "Usuń awatar"
+
+#: resources/views/profile.blade.php:34 resources/views/profile.blade.php:44
+#: resources/views/scores/character.blade.php:101
+#: resources/views/scores/guild.blade.php:7
+#: resources/views/scores/guilds.blade.php:31
+#: resources/views/scores/hunters_guilds.blade.php:23
+msgid "Guild"
+msgstr "Gildia"
+
+#: resources/views/profile.blade.php:68 resources/views/profile.blade.php:86
+#: resources/views/profile.blade.php:117 resources/views/profile.blade.php:132
+#: resources/views/profile.blade.php:140 resources/views/profile.blade.php:148
+#: resources/views/profile.blade.php:168
+msgid "not specified"
+msgstr "nie określono"
+
+#: resources/views/profile.blade.php:115 resources/views/profile.blade.php:123
+msgid "Gender"
+msgstr "Płeć"
+
+#: resources/views/profile.blade.php:118 resources/views/profile.blade.php:126
+msgid "Male"
+msgstr "Mężczyzna"
+
+#: resources/views/profile.blade.php:119 resources/views/profile.blade.php:129
+msgid "Female"
+msgstr "Kobieta"
+
+#: resources/views/profile.blade.php:138 resources/views/profile.blade.php:147
+msgid "Relationship status"
+msgstr "Status zwiąku"
+
+#: resources/views/profile.blade.php:153 resources/views/profile.blade.php:164
+msgid "Birthday"
+msgstr "Urodziny"
+
+#: resources/views/profile.blade.php:161
+msgid "Hide age"
+msgstr "Ukryj wiek"
+
+#: resources/views/profile.blade.php:171
+msgid "Age"
+msgstr "Wiek"
+
+#: resources/views/profile.blade.php:176 resources/views/profile.blade.php:187
+msgid "Location"
+msgstr "Lokalizacja"
+
+#: resources/views/profile.blade.php:200 resources/views/register.blade.php:32
+msgid "Hide email"
+msgstr "Ukryj e-mail"
+
+#: resources/views/profile.blade.php:208 resources/views/profile.blade.php:213
+#, fuzzy
+#| msgid "November"
+msgid "Phone number"
+msgstr "Listopad"
+
+#: resources/views/profile.blade.php:218 resources/views/profile.blade.php:223
+msgid "Signature"
+msgstr "Podpis"
+
+#: resources/views/profile.blade.php:228
+msgid "Joined"
+msgstr "Dołączył/a"
+
+#: resources/views/profile.blade.php:229
+msgid "Before 27th of August, 2009"
+msgstr "Do 27 sierpnia 2009 r"
+
+#: resources/views/profile.blade.php:233
+msgid "Last visit"
+msgstr "Ostatnia wizyta"
+
+#: resources/views/profile.blade.php:234
+msgid "no data"
+msgstr "brak danych"
+
+#: resources/views/profile.blade.php:238
+msgid "Total online time"
+msgstr "Łączny czas online"
+
+#: resources/views/profile.blade.php:239
+#, python-format
+msgid "%dh %dmin %dsec"
+msgstr "%dh %dmin %dsec"
+
+#: resources/views/profile.blade.php:245
+msgid "Posts at forum"
+msgstr "Postów na forum"
+
+#: resources/views/profile.blade.php:251 resources/views/profile.blade.php:254
+msgid "Photos"
+msgstr "Zdjęcia"
+
+#: resources/views/profile.blade.php:281 resources/views/profile.blade.php:284
+msgid "Banishments"
+msgstr "Bany"
+
+#: resources/views/ranks/create-or-edit.blade.php:8
+msgid "Prefix"
+msgstr "Prefiks"
+
+#: resources/views/ranks/create-or-edit.blade.php:12
+msgid "Color"
+msgstr "Kolor"
+
+#: resources/views/ranks/delete.blade.php:7
+#, python-format
+msgid "This rank is assigned to %d user. Please assign them another rank:"
+msgid_plural ""
+"This rank is assigned to %d users. Please assign them another rank:"
+msgstr[0] "Ta ranga jest przypisana do %d użytkownika. Przypisz inną rangę:"
+msgstr[1] "Ta ranga jest przypisana do %d użytkowników. Przypisz inną rangę:"
+msgstr[2] "Ta ranga jest przypisana do %d użytkowników. Przypisz inną rangę:"
+
+#: resources/views/ranks/delete.blade.php:10
+#, fuzzy
+#| msgid "w%d rank"
+msgid "New rank"
+msgstr "Ranga na w%d"
+
+#: resources/views/ranks/delete.blade.php:19
+#, python-format
+msgid "Are you sure you want to delete rank \"%s\"?"
+msgstr "Czy na pewno chcesz usunąć rangę \"%s\"?"
+
+#: resources/views/ranks/list.blade.php:14
+#, fuzzy
+#| msgid "User"
+msgid "Users"
+msgstr "Użytkownik"
+
+#: resources/views/scores/achievements.blade.php:22
+#: resources/views/scores/hunters_characters.blade.php:16
+#: resources/views/scores/top100.blade.php:27
+msgid "warriors"
+msgstr "wojownicy"
+
+#: resources/views/scores/achievements.blade.php:23
+#: resources/views/scores/hunters_characters.blade.php:17
+#: resources/views/scores/top100.blade.php:29
+msgid "wizards"
+msgstr "magowie"
+
+#: resources/views/scores/achievements.blade.php:33
+#: resources/views/scores/hunters_characters.blade.php:48
+#: resources/views/scores/pvp.blade.php:17
+#: resources/views/scores/top100.blade.php:39
+msgid "Character"
+msgstr "Postać"
+
+#: resources/views/scores/achievements.blade.php:34
+#: resources/views/scores/character.blade.php:89
+msgid "Points"
+msgstr "Punkty"
+
+#: resources/views/scores/character.blade.php:30
+#: resources/views/scores/guild.blade.php:19
+#: resources/views/scores/world.blade.php:13
+msgid "EP"
+msgstr "Doświadczenie"
+
+#: resources/views/scores/character.blade.php:36
+msgid "Next level"
+msgstr "Następny poziom"
+
+#: resources/views/scores/character.blade.php:52
+#: resources/views/scores/character.blade.php:73
+msgid "Global rank"
+msgstr "Globalna ranga"
+
+#: resources/views/scores/character.blade.php:60
+#: resources/views/scores/character.blade.php:81
+#, fuzzy
+#| msgid "w%d rank"
+msgid "World rank"
+msgstr "Ranga na w%d"
+
+#: resources/views/scores/character.blade.php:95
+msgid "PvP rank"
+msgstr "Ranga PvP"
+
+#: resources/views/scores/character.blade.php:113
+msgid "Max daily gain"
+msgstr "Największy dzienny przyrost"
+
+#: resources/views/scores/character.blade.php:125
+msgid "Min daily gain"
+msgstr "Najmniejszy dzienny przyrost"
+
+#: resources/views/scores/character.blade.php:139
+#, python-format
+msgid "Last %d day"
+msgid_plural "Last %d days"
+msgstr[0] "Ostatni %d dzień"
+msgstr[1] "Ostatnie %d dni"
+msgstr[2] "Ostatnie %d dni"
+
+#: resources/views/scores/character.blade.php:162
+#, python-format
+msgid "Updated %d day ago."
+msgid_plural "Updated %d days ago."
+msgstr[0] "Aktualizowano %d dzień temu."
+msgstr[1] "Aktualizowano %d dni temu."
+msgstr[2] "Aktualizowano %d dni temu."
+
+#: resources/views/scores/character.blade.php:169
+#, python-format
+msgid "Updated %d hour ago."
+msgid_plural "Updated %d hours ago."
+msgstr[0] "Aktualizowano %d godzinę temu."
+msgstr[1] "Aktualizowano %d godziny temu."
+msgstr[2] "Aktualizowano %d godzin temu."
+
+#: resources/views/scores/character.blade.php:172
+msgid "Updated less than hour ago."
+msgstr "Zaktualizowano mniej niż godzinę temu."
+
+#: resources/views/scores/character.blade.php:181
+msgid "Loading chart data..."
+msgstr "Ładowanie danych wykresu..."
+
+#: resources/views/scores/character.blade.php:228
+#: resources/views/scores/guild.blade.php:41
+#: resources/views/scores/hunters_characters.blade.php:21
+#: resources/views/scores/hunters_guilds.blade.php:13
+msgid "Date"
+msgstr "Data"
+
+#: resources/views/scores/character.blade.php:231
+#: resources/views/scores/guild.blade.php:43
+#: resources/views/scores/guilds.blade.php:33
+#: resources/views/scores/hunters_characters.blade.php:50
+#: resources/views/scores/hunters_guilds.blade.php:24
+#: resources/views/scores/top100.blade.php:40
+#: resources/views/scores/worlds.blade.php:9
+msgid "Experience"
+msgstr "Doświadczenie"
+
+#: resources/views/scores/guild.blade.php:24
+msgid "Known guild members"
+msgstr "Znani członkowie gildii"
+
+#: resources/views/scores/hunters_characters.blade.php:24
+msgid "Time"
+msgstr "Czas"
+
+#: resources/views/scores/hunters_characters.blade.php:26
+msgid "full day"
+msgstr ""
+
+#: resources/views/scores/hunters_characters.blade.php:35
+msgid "exp"
+msgstr ""
+
+#: resources/views/scores/pvp.blade.php:19
+msgid "Quota"
+msgstr "Quota"
+
+#: resources/views/scores/world.blade.php:23
+msgid "Max gain"
+msgstr "Największy przyrost"
+
+#: resources/views/scores/world.blade.php:30
+msgid "Min gain"
+msgstr "Najmniejszy przyrost"
+
+#: resources/views/screenshots.blade.php:16
+msgid "Please log in to upload screenshots."
+msgstr "Zaloguj się, aby przesłać zrzuty ekranu."
+
+#: resources/views/screenshots.blade.php:24
+msgid "You don't have any screenshots yet."
+msgstr "Nie masz jeszcze żadnych zrzutów ekranu."
+
+#: resources/views/screenshots.blade.php:26
+msgid "This user doesn't have any screenshots yet."
+msgstr "Ten użytkownik nie ma jeszcze żadnych zrzutów ekranu."
+
+#: resources/views/screenshots.blade.php:29
+msgid "No screenshots."
+msgstr "Brak zrzutów ekranu."
+
+#: resources/views/settings.blade.php:6
+msgid "Language"
+msgstr "Język"
+
+#: resources/views/settings.blade.php:15
+msgid "Timezone"
+msgstr "Strefa czasowa"
+
+#: resources/views/settings.blade.php:22
+msgid "Dark mode"
+msgstr ""
+
+#: resources/views/settings.blade.php:24
+msgid "auto"
+msgstr ""
+
+#: resources/views/settings.blade.php:25
+msgid "enabled"
+msgstr ""
+
+#: resources/views/settings.blade.php:26
+#, fuzzy
+#| msgid "comments disabled"
+msgid "disabled"
+msgstr "komentarze wyłączone"
+
+#: resources/views/settings.blade.php:38
+msgid "Notify on letters"
+msgstr "Powiadom o listach"
+
+#: resources/views/settings.blade.php:44
+msgid "Allow album comments"
+msgstr "Zezwalaj na komentarze do albumu"
+
+#: resources/views/settings.blade.php:50
+msgid "Notify on new comments"
+msgstr "Powiadom o nowych komentarzach"
+
+#: resources/views/staff.blade.php:4
+msgid "Creator"
+msgstr "Twórca"
+
+#: resources/views/staff.blade.php:18
+msgid "Translators"
+msgstr "Tłumacze"
+
+#: resources/views/themes/edit.blade.php:11
+msgid "Author"
+msgstr "Autor"
+
+#: resources/views/themes/edit.blade.php:14
+#: resources/views/themes/home.blade.php:39
+#, python-format
+msgid "Downloads: %d"
+msgstr "Pobrań: %d"
+
+#: resources/views/themes/edit.blade.php:20
+msgid "Status"
+msgstr "Status"
+
+#: resources/views/themes/edit.blade.php:28
+msgid "Replace screenshot"
+msgstr "Zamień zrzut ekranu"
+
+#: resources/views/themes/home.blade.php:6
+msgid "No themes to display."
+msgstr "Brak tematów do wyświetlenia."
+
+#: app/Helpers.php:117 app/Helpers.php:118
+msgid "wrote"
+msgstr "napisał/a"
+
+#: app/Helpers.php:129
+msgid "Click to show"
+msgstr "Kliknij aby zobaczyć"
+
+#: app/Http/Controllers/Album.php:171
+msgid "Album has been deleted."
+msgstr "Album został usunięty."
+
+#: app/Http/Controllers/Artworks.php:50
+msgid "Artwork has been deleted."
+msgstr "Dzieło zostało usunięte."
+
+#: app/Http/Controllers/Auth.php:66
+#, fuzzy
+#| msgid "Invalid game code type."
+msgid "Invalid username or password."
+msgstr "Nieprawidłowy typ kodu."
+
+#: app/Http/Controllers/Auth.php:103 app/Http/Controllers/Characters.php:39
+#: app/Http/Controllers/Characters.php:57
+msgid "This nickname is already in use."
+msgstr "Ten przydomek jest już używany."
+
+#: app/Http/Controllers/Auth.php:133
+#, php-format
+msgid "Your account has been just created, %s!"
+msgstr "Twoje konto właśnie zostało utworzony, %s!"
+
+#: app/Http/Controllers/Auth.php:139
+msgid "Password recovery"
+msgstr "Resetowanie hasła"
+
+#: app/Http/Controllers/Auth.php:148 app/Http/Controllers/Auth.php:199
+#, fuzzy
+#| msgid "Invalid vocation."
+msgid "Invalid token."
+msgstr "Nieprawidłowe powołanie."
+
+#: app/Http/Controllers/Auth.php:153
+#, fuzzy
+#| msgid "Recover password"
+msgid "Reset password"
+msgstr "Odzyskaj hasło"
+
+#: app/Http/Controllers/Auth.php:168 app/Http/Controllers/Auth.php:173
+msgid "User not found."
+msgstr "Nie znaleziono użytkownika."
+
+#: app/Http/Controllers/Auth.php:175
+msgid "This account cannot be recovered as it has no email set."
+msgstr ""
+"To konto nie może zostać przywrócone ponieważ nie ma ustawionego e-maila."
+
+#: app/Http/Controllers/Auth.php:177
+msgid "Invalid email."
+msgstr "Nieprawidłowy email."
+
+#: app/Http/Controllers/Auth.php:187
+#, fuzzy
+#| msgid "Confirmation code has been sent to your email."
+msgid "Password recovery link has been sent to your email address."
+msgstr "Kod potwierdzający został wysłany na Twój e-mail."
+
+#: app/Http/Controllers/Auth.php:206
+#, fuzzy
+#| msgid "Artwork has been deleted."
+msgid "Password has been reset."
+msgstr "Dzieło zostało usunięte."
+
+#: app/Http/Controllers/Auth.php:209
+#, fuzzy
+#| msgid "Could not start session."
+msgid "Could not reset your password."
+msgstr "Nie można rozpocząć sesji."
+
+#: app/Http/Controllers/Banishments.php:21
+#, fuzzy
+#| msgid "ban users"
+msgid "Ban user"
+msgstr "banuj użytkowników"
+
+#: app/Http/Controllers/Banishments.php:57
+#, fuzzy
+#| msgid "Banishments"
+msgid "View banishment"
+msgstr "Bany"
+
+#: app/Http/Controllers/Banishments.php:96
+#, fuzzy
+#| msgid "Rotated image already exists."
+msgid "Banishment already expired."
+msgstr "Odwrócony obraz już istnieje."
+
+#: app/Http/Controllers/Banishments.php:101
+#, fuzzy
+#| msgid "Banishment not found."
+msgid "Banishment already lifted."
+msgstr "Nie znaleziono bana."
+
+#: app/Http/Controllers/Banishments.php:108
+#, fuzzy
+#| msgid "Theme has been deleted."
+msgid "Banishment has been lifted."
+msgstr "Motyw został usunięty."
+
+#: app/Http/Controllers/Characters.php:25
+#, php-format
+msgid "Cannot add more than %d characters."
+msgstr ""
+
+#: app/Http/Controllers/Characters.php:45 app/Http/Controllers/Characters.php:64
+#: app/Http/Controllers/Characters.php:80 app/Http/Controllers/Forum.php:237
+#: app/Http/Controllers/Forum.php:312 app/Http/Controllers/Letters.php:86
+#: app/Http/Controllers/Profile.php:199
+msgid "Changes saved."
+msgstr "Zmiany zapisane."
+
+#: app/Http/Controllers/Characters.php:70
+#, fuzzy
+#| msgid "Cannot delete system default rank."
+msgid "Cannot delete main character."
+msgstr "Nie można usunąć domyślnej rangi systemu."
+
+#: app/Http/Controllers/Comments.php:99 app/Http/Controllers/Comments.php:103
+msgid "Comments"
+msgstr "Komentarze"
+
+#: app/Http/Controllers/Comments.php:130
+msgid "Your comment has been posted."
+msgstr "Komentarz został opublikowany."
+
+#: app/Http/Controllers/Content.php:89 app/Http/Controllers/Content.php:90
+msgid "Armour Calc"
+msgstr "Kalkulator zbroi"
+
+#: app/Http/Controllers/Content.php:337
+#, fuzzy
+#| msgid "No file specified."
+msgid "No file selected."
+msgstr "Nie określono pliku."
+
+#: app/Http/Controllers/Content.php:342
+msgid "Update already in progress."
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:142
+#, fuzzy
+#| msgid "Topic has been opened."
+msgid "Topic has been deleted."
+msgstr "Wątek został otwarty."
+
+#: app/Http/Controllers/Forum.php:155
+#, fuzzy
+#| msgid "Topic has been closed."
+msgid "Topic has been locked."
+msgstr "Wątek został usunięty."
+
+#: app/Http/Controllers/Forum.php:168
+#, fuzzy
+#| msgid "Topic has been closed."
+msgid "Topic has been unlocked."
+msgstr "Wątek został usunięty."
+
+#: app/Http/Controllers/Forum.php:184
+msgid "Edit topic"
+msgstr "Edytuj wątek"
+
+#: app/Http/Controllers/Forum.php:189 app/Http/Controllers/Ranks.php:91
+#: app/Http/Controllers/Themes.php:87
+msgid "Edit"
+msgstr "Edytuj"
+
+#: app/Http/Controllers/Forum.php:201 app/Http/Controllers/Forum.php:205
+msgid "Create topic"
+msgstr "Utwórz wątek"
+
+#: app/Http/Controllers/Forum.php:263
+#, fuzzy
+#| msgid "Topic has been closed."
+msgid "Topic has been created."
+msgstr "Wątek został usunięty."
+
+#: app/Http/Controllers/Forum.php:274
+#, fuzzy
+#| msgid "Comment deleted."
+msgid "Post deleted."
+msgstr "Komentarz usunięty."
+
+#: app/Http/Controllers/Forum.php:286 app/Http/Controllers/Forum.php:292
+msgid "Edit post"
+msgstr "Edytuj post"
+
+#: app/Http/Controllers/Forum.php:322 app/Http/Controllers/Forum.php:327
+#: app/Http/Controllers/Forum.php:354 app/Http/Controllers/Forum.php:359
+msgid "Quote"
+msgstr "Cytuj"
+
+#: app/Http/Controllers/Forum.php:344 app/Http/Controllers/Forum.php:375
+#: app/Http/Controllers/Forum.php:410
+#, fuzzy
+#| msgid "Message"
+msgid "Message posted."
+msgstr "Wiadomość"
+
+#: app/Http/Controllers/Forum.php:419 app/Http/Controllers/Forum.php:424
+msgid "Move topic"
+msgstr "Przenieś wątek"
+
+#: app/Http/Controllers/Forum.php:442
+msgid "Topic has been moved."
+msgstr "Wątek został usunięty."
+
+#: app/Http/Controllers/Forum.php:450
+msgid "You will be notified on new replies in this thread."
+msgstr "Będziesz powiadamiany/na o nowych odpowiedziach w tym wątku."
+
+#: app/Http/Controllers/Forum.php:458
+msgid "You will no longer be notified on new replies in this thread."
+msgstr ""
+"Nie będziesz już dłużej powiadamiany/na o nowych odpowiedziach w tym wątku."
+
+#: app/Http/Controllers/Letters.php:40 app/Http/Controllers/Letters.php:43
+#: app/Http/Controllers/Letters.php:73
+msgid "Letters"
+msgstr "Listy"
+
+#: app/Http/Controllers/Letters.php:107
+msgid "Letter has been sent."
+msgstr "List został wysłany."
+
+#: app/Http/Controllers/Memberlist.php:53
+msgid "Users online"
+msgstr "Użytkownicy online"
+
+#: app/Http/Controllers/Notifications.php:30
+msgid "Notifications"
+msgstr "Powiadomienia"
+
+#: app/Http/Controllers/Ranks.php:55
+msgid "Create"
+msgstr "Utwórz"
+
+#: app/Http/Controllers/Scores.php:123 app/Http/Controllers/Scores.php:172
+#, fuzzy
+#| msgid "TOP hunters"
+msgid "TOP Hunters"
+msgstr "TOP Łowcy"
+
+#: app/Http/Controllers/Scores.php:637 app/Http/Controllers/Scores.php:641
+#, fuzzy, php-format
+#| msgid "World: %d"
+msgid "World %d"
+msgstr "Świat: %d"
+
+#: app/Http/Controllers/Screenshots.php:48
+msgid "My screenshots"
+msgstr "Moje zrzuty ekranu"
+
+#: app/Http/Controllers/Staff.php:16 app/Http/Controllers/Staff.php:17
+msgid "Staff"
+msgstr ""
+
+#: app/Http/Controllers/Themes.php:26 app/Http/Controllers/Themes.php:36
+#: app/Http/Controllers/Themes.php:42
+msgid "My themes"
+msgstr "Moje motywy"
+
+#: app/Http/Controllers/Uploader.php:27
+msgid "No file specified."
+msgstr "Nie określono pliku."
+
+#: app/Http/Controllers/Uploader.php:51 app/Http/Controllers/Uploader.php:61
+#, fuzzy
+#| msgid "File %s already exists."
+msgid "File exists."
+msgstr "Plik %s już istnieje."
+
+#: app/Http/Middleware/isBanished.php:29
+#, fuzzy, php-format
+#| msgid "You have no banishments."
+msgid "You have been banished until %s."
+msgstr "Nie masz żadnych banów."
+
+#: app/Http/Middleware/isBanished.php:29
+#, fuzzy
+#| msgid "You have no banishments."
+msgid "You have been banished permanently."
+msgstr "Nie masz żadnych banów."
+
+#: app/Mail/LetterReceived.php:22
+msgid "New Private Message has arrived"
+msgstr "Przyszła nowa wiadomość prywatna"
+
+#: app/Mail/PasswordRecovery.php:22
+msgid "Password recovery confirmation"
+msgstr "Potwierdzenie odzyskiwania hasła"
+
+#: config/armourslots.php:4
+msgid "Head"
+msgstr "Hełm"
+
+#: config/armourslots.php:5
+msgid "Amulet"
+msgstr "Amulet"
+
+#: config/armourslots.php:6
+msgid "Shield"
+msgstr "Tarcza"
+
+#: config/armourslots.php:7
+msgid "Torso"
+msgstr "Klata"
+
+#: config/armourslots.php:8
+msgid "Legs"
+msgstr "Spodnie"
+
+#: config/armourslots.php:9
+msgid "Ring"
+msgstr "Pierśnień"
+
+#: config/banishments.php:5
+msgid "Spam"
+msgstr "Spam"
+
+#: config/banishments.php:6
+msgid "Offensive statements"
+msgstr "Obraźliwe zdania"
+
+#: config/banishments.php:7
+msgid "Rules violation"
+msgstr "Naruszenie zasad"
+
+#: config/banishments.php:10 config/banishments.php:11 config/banishments.php:12
+#, fuzzy, php-format
+#| msgid "minutes"
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "minuty"
+msgstr[1] "minuty"
+msgstr[2] "minuty"
+
+#: config/banishments.php:13 config/banishments.php:14 config/banishments.php:15
+#, fuzzy, php-format
+#| msgid "hours"
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "godziny"
+msgstr[1] "godziny"
+msgstr[2] "godziny"
+
+#: config/banishments.php:16 config/banishments.php:17
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d dzień"
+msgstr[1] "%d dni"
+msgstr[2] "%d dni"
+
+#: config/banishments.php:18
+#, php-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: config/banishments.php:19
+#, php-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: config/relationship.php:4
+msgid "Single"
+msgstr "Samotny"
+
+#: config/relationship.php:5
+msgid "In relationship"
+msgstr "W związku"
+
+#: config/relationship.php:6
+msgid "Engaged"
+msgstr "Zaręczony"
+
+#: config/relationship.php:7
+msgid "Married"
+msgstr "Żonaty"
+
+#: config/relationship.php:8
+msgid "It's complicated"
+msgstr "To skomplikowane"
+
+#: config/relationship.php:9
+msgid "Actively searching"
+msgstr "Aktywnie szukający"
+
+#: config/themes.status.php:3
+msgid "On moderation"
+msgstr "Z umiarkowaniem"
+
+#: config/themes.status.php:4
+msgid "Checked"
+msgstr "Sprawdzone"
+
+#: config/themes.status.php:5
+msgid "Tested"
+msgstr "Testowane"
+
+#: config/vocations.php:4
+msgid "Warrior"
+msgstr "Wojownik"
+
+#: config/vocations.php:5
+msgid "Wizard"
+msgstr "Mag"
+
+#: lang/en_US/validation.php:21
+#, php-format
+msgid "The %s field must only contain letters."
+msgstr ""
+
+#: lang/en_US/validation.php:36
+#, fuzzy, php-format
+#| msgid "Field is required."
+msgid "The %s field is not valid."
+msgstr "To pole jest wymagane."
+
+#: lang/en_US/validation.php:37
+#, php-format
+msgid "The %s field confirmation does not match."
+msgstr ""
+
+#: lang/en_US/validation.php:53
+#, php-format
+msgid "The %s field must be a valid email address."
+msgstr ""
+
+#: lang/en_US/validation.php:56 lang/en_US/validation.php:74
+#, php-format
+msgid "The selected %s is invalid."
+msgstr ""
+
+#: lang/en_US/validation.php:73
+#, php-format
+msgid "The %s field must be an image."
+msgstr ""
+
+#: lang/en_US/validation.php:99
+#, php-format
+msgid "The %1$s field must not be greater than %2$s."
+msgstr ""
+
+#: lang/en_US/validation.php:103 lang/en_US/validation.php:104
+#, php-format
+msgid "The %1$s field must be a file of type: %2$s."
+msgstr ""
+
+#: lang/en_US/validation.php:109
+#, php-format
+msgid "The %1$s field must be at least %2$s characters."
+msgstr ""
+
+#: lang/en_US/validation.php:138
+#, fuzzy, php-format
+#| msgid "Field is required."
+msgid "The %s field is required."
+msgstr "To pole jest wymagane."
+
+#: lang/en_US/validation.php:158
+#, fuzzy, php-format
+#| msgid "This name is already in use."
+msgid "The %s has already been taken."
+msgstr "Ta nazwa jest już używana."
+
+#: lang/en_US/validation.php:159
+#, php-format
+msgid "The %s failed to upload."
+msgstr ""
+
+#: lang/en_US/validation.php:194
+#, fuzzy
+#| msgid "Message"
+msgid "message"
+msgstr "Wiadomość"
+
+#: lang/en_US/validation.php:195
+msgid "world"
+msgstr "świat"
+
+#: lang/en_US/validation.php:196
+msgid "password"
+msgstr "hasło"
+
+#: lang/en_US/validation.php:197
+#, fuzzy
+#| msgid "Nickname"
+msgid "nickname"
+msgstr "Pseudonim"
+
+#: lang/en_US/validation.php:198
+#, fuzzy
+#| msgid "Profile"
+msgid "files"
+msgstr "Profil"
+
+#: lang/en_US/validation.php:199
+#, fuzzy
+#| msgid "Subject"
+msgid "subject"
+msgstr "Temat"
+
+#: lang/en_US/validation.php:201
+#, fuzzy
+#| msgid "Prefix"
+msgid "prefix"
+msgstr "Prefiks"
+
+#: lang/en_US/validation.php:202
+#, fuzzy
+#| msgid "Color"
+msgid "color"
+msgstr "Kolor"
+
+#: lang/en_US/validation.php:203
+#, fuzzy
+#| msgid "w%d rank"
+msgid "rank"
+msgstr "Ranga na w%d"
+
+#: public/cp/sync.php:6
+msgid "Invalid request."
+msgstr "Nieprawidłowe żądanie."
+
+#: public/cp/sync.php:9
+msgid "Sync complete."
+msgstr "Synchronizacja zakończona."
+
+#: public/cp/sync.php:9
+msgid "Unknown error."
+msgstr "Nieznany błąd."
+
+#: resources/views/layout/highscores_server_info.tpl.php:2
+#, php-format
+msgid "Server time: %s"
+msgstr "Czas serwera: %s"
+
+#: resources/views/layout/highscores_server_info.tpl.php:3
+#, php-format
+msgid "Last update: %s"
+msgstr "Ostatnia aktualizacja: %s"
+
+#~ msgid "Upload"
+#~ msgstr "Prześlij"
+
+#~ msgid "Are you sure you want to delete this screenshot?"
+#~ msgstr "Czy na pewno chcesz usunąć ten zrzut ekranu?"
+
+#~ msgid "Are you sure you want to delete this comment?"
+#~ msgstr "Czy na pewno chcesz usunąć ten album?"
+
+#~ msgid "Reply"
+#~ msgstr "Odpowiedz"
+
+#~ msgid "Like"
+#~ msgstr "Lubię"
+
+#~ msgid "Dislike"
+#~ msgstr "Nie lubię"
+
+#, fuzzy, php-format
+#~| msgid "Register"
+#~ msgid "Registered: %d"
+#~ msgstr "Zarejestuj"
+
+#, fuzzy, php-format
+#~| msgid "Requests: %d"
+#~ msgid "Guests: %d"
+#~ msgstr "Zaproszenia: %d"
+
+#, fuzzy, php-format
+#~| msgid "<b>Posts</b>: %d"
+#~ msgid "Bots: %d"
+#~ msgstr "<b>Postów</b>: %d"
+
+#, fuzzy
+#~| msgid "Are you sure you want to delete this event?"
+#~ msgid "Are you sure you want to delete this message?"
+#~ msgstr "Czy na pewno chcesz usunąć to wydarzenie?"
+
+#~ msgid ""
+#~ "Once you create an account, you will not be able to rename or remove it."
+#~ msgstr "Po utworzeniu konta nie będzie można go zmienić ani usunąć."
+
+#~ msgid ""
+#~ "Screenshots are not allowed in photo album. Please upload them to "
+#~ "Screenshots section."
+#~ msgstr ""
+#~ "Zrzuty ekranu nie są dozwolone w albumie zdjęć. Prześlij je do sekcji "
+#~ "Zrzuty ekranu."
+
+#~ msgid "Tibia-ME.net staff may remove any photo if they find it offensive."
+#~ msgstr ""
+#~ "Pracownicy serwisu Tibia-ME.net mogą usunąć dowolne zdjęcie, jeśli uznają "
+#~ "je za obraźliwe."
+
+#~ msgid ""
+#~ "Use search engine before asking a question or posting new thread - you "
+#~ "probably will find the answer."
+#~ msgstr ""
+#~ "Przed zadaniem pytania lub opublikowaniem nowego wątku skorzystaj z "
+#~ "wyszukiwarki - prawdopodobnie znajdziesz odpowiedź."
+
+#~ msgid "Payments"
+#~ msgstr "Płatności"
+
+#~ msgid ""
+#~ "Any Platinum or Premium we offer comes from official sources. As an "
+#~ "official fansite we do not abuse any bugs or have any business with "
+#~ "illegal payment methods."
+#~ msgstr ""
+#~ "Każda oferta Platyny lub Premium pochodzi z oficjalnych źródeł. Jako "
+#~ "oficjalna strona fanowska nie nadużywamy żadnych błędów ani nie prowadzimy "
+#~ "działalności związanej z nielegalnymi metodami płatności."
+
+#~ msgid "We will never ask for your password to complete your payment."
+#~ msgstr "Nigdy nie poprosimy o podanie hasła w celu zakończenia płatności."
+
+#~ msgid "Depending on payment method additional fees may apply."
+#~ msgstr "W zależności od metody płatności mogą obowiązywać dodatkowe opłaty."
+
+#~ msgid ""
+#~ "Tibia-ME.net logos, source code and its name are property of Tibia-ME.net "
+#~ "and you are not allowed to use them without permission."
+#~ msgstr ""
+#~ "Logo Tibia-ME.net, kod źródłowy i jego nazwa są własnością Tibia-ME.net i "
+#~ "nie wolno Ci z nich korzystać bez pozwolenia."
+
+#~ msgid "Offline"
+#~ msgstr "Offline"
+
+#, fuzzy
+#~| msgid "all"
+#~ msgid "All"
+#~ msgstr "wszystkie"
+
+#~ msgid "Requests"
+#~ msgstr "Zaproszenia"
+
+#, fuzzy
+#~| msgid "Mutual: %d"
+#~ msgid "Mutual"
+#~ msgstr "Wspólnych: %d"
+
+#, fuzzy
+#~| msgid "%d friend request"
+#~| msgid_plural "%d friend requests"
+#~ msgid "No friend requests."
+#~ msgstr "%d zaproszenie do znajomych"
+
+#~ msgid "No mutual friends."
+#~ msgstr "Brak wspólnych znajomych."
+
+#~ msgid "Friendlist is empty."
+#~ msgstr "Lista znajomych jest pusta."
+
+#~ msgid "Related sites"
+#~ msgstr "Powiązane strony"
+
+#~ msgid "Official website"
+#~ msgstr "Oficjalna strona"
+
+#, python-format, php-format
+#~ msgid "%d friend request"
+#~ msgid_plural "%d friend requests"
+#~ msgstr[0] "%d zaproszenie do znajomych"
+#~ msgstr[1] "%d zaproszenia do znajomych"
+#~ msgstr[2] "%d zaproszeń do znajomych"
+
+#, python-format, php-format
+#~ msgid "%d friend"
+#~ msgid_plural "%d friends"
+#~ msgstr[0] "%d znajomy"
+#~ msgstr[1] "%d znajomych"
+#~ msgstr[2] "%d znajomych"
+
+#~ msgid "Recipient"
+#~ msgstr "Odbiorca"
+
+#~ msgid "Subject"
+#~ msgstr "Temat"
+
+#~ msgid "This folder is empty."
+#~ msgstr "Ten folder jest pusty."
+
+#~ msgid "From"
+#~ msgstr "Od"
+
+#~ msgid "To"
+#~ msgstr "Do"
+
+#~ msgid "This letter is saved."
+#~ msgstr "Ten list jets zapisany."
+
+#~ msgid "Incoming"
+#~ msgstr "Przychodzące"
+
+#~ msgid "Sent"
+#~ msgstr "Wysłane"
+
+#~ msgid "Saved"
+#~ msgstr "Zapisane"
+
+#~ msgid "Compose"
+#~ msgstr "Komponuj"
+
+#, python-format, php-format
+#~ msgid "%s accepted your friend request."
+#~ msgstr "%s zaakceptował/a Twoje zaproszenie."
+
+#, fuzzy, php-format
+#~| msgid "%s and %d other user accepted your friend requests."
+#~| msgid_plural "%s and %d other users accepted your friend requests."
+#~ msgid "%1$s and %2$d other user accepted your friend requests."
+#~ msgid_plural "%1$s and %2$d other users accepted your friend requests."
+#~ msgstr[0] "%s i %d inny użytkownik zaakceptowało Twoje zaproszenia."
+#~ msgstr[1] "%s i %d innych użytkowników zaakceptowało Twoje zaproszenia."
+#~ msgstr[2] "%s i %d innych użytkowników zaakceptowało Twoje zaproszenia."
+
+#~ msgid "Friends"
+#~ msgstr "Znajomi"
+
+#~ msgid "Remove friend"
+#~ msgstr "Usuń znajomego"
+
+#~ msgid "Add friend"
+#~ msgstr "Dodaj do znajomych"
+
+#~ msgid "Send letter"
+#~ msgstr "Wyślij list"
+
+#~ msgid "Ban"
+#~ msgstr "Ban"
+
+#~ msgid "Achievements rank"
+#~ msgstr "Ranga osiągnięć"
+
+#, fuzzy
+#~| msgid "Achievements rank"
+#~ msgid "Achievements points"
+#~ msgstr "Ranga osiągnięć"
+
+#~ msgid "Friendlist"
+#~ msgstr "Lista znajomych"
+
+#~ msgid "You cannot add yourself to your friendlist."
+#~ msgstr "Nie możesz dodać siebie do listy znajomych."
+
+#~ msgid "You are already friends with this user."
+#~ msgstr "Już jesteś znajomym z tym użytkownikiem."
+
+#, fuzzy
+#~| msgid "Friend request has been sent."
+#~ msgid "Friend request has been accepted."
+#~ msgstr "Zaproszenie do znajomych zostało wysłane."
+
+#~ msgid "Friend request has been sent."
+#~ msgstr "Zaproszenie do znajomych zostało wysłane."
+
+#~ msgid "Friend request had been already sent to this user."
+#~ msgstr "Zaproszenie do znajomych zostało już wysłane tej osobie."
+
+#~ msgid "Inbox"
+#~ msgstr "Skrzynka odbiorcza"
+
+#~ msgid "Outbox"
+#~ msgstr "Skrzynka nadawcza"
+
+#~ msgid "Savebox"
+#~ msgstr "Zapisane"
+
+#, fuzzy
+#~| msgid "%d new letter"
+#~| msgid_plural "%d new letters"
+#~ msgid "View letter"
+#~ msgstr "%d nowy list"
+
+#~ msgid "This letter has been removed from Savebox."
+#~ msgstr "List został usunięty z zapisanych."
+
+#~ msgid "Could not delete this letter."
+#~ msgstr "Nie można usunąć tego listu."
+
+#~ msgid "This letter has been deleted from your Inbox."
+#~ msgstr "Ten list został usunięty ze skrzynki odbiorczej."
+
+#~ msgid "This letter has been deleted from your Outbox."
+#~ msgstr "Ten list został usunięty ze skrzynki nadawczej."
+
+#~ msgid "This letter has been deleted from your Sentbox."
+#~ msgstr "Ten list został usunięty z wysłanych."
+
+#, fuzzy
+#~| msgid "Could not save letter."
+#~ msgid "Compose letter"
+#~ msgstr "Nie można zapisać listu."
+
+#, fuzzy
+#~| msgid "You cannot send letters to yourself."
+#~ msgid "Cannot send message to yourself."
+#~ msgstr "Nie możesz wysłać listu do siebie."
+
+#, fuzzy
+#~| msgid "Could not delete this letter."
+#~ msgid "Cannot edit this letter."
+#~ msgstr "Nie można usunąć tego listu."
+
+#, fuzzy
+#~| msgid "Updating highscores."
+#~ msgid "Updating highscores. Come back later."
+#~ msgstr "Aktualizowanie wyników."
+
+#~ msgid "60 sec or until cancelled"
+#~ msgstr "60 sekund lub do odwołania"
+
+#~ msgid "Reduces damage taken by the player by 100&#37;."
+#~ msgstr "Zmniejsza otrzymywane obrażenia przez gracza o 100&#37;."
+
+#~ msgid "Performs a guaranteed hit for the next attack. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Wykonuje gwarantowane trafienie dla następnego ataku. 50 sekund czasu "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit for the next 2 attacks. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Wykonuje gwarantowane trafienie przy następnych 2 atakach. 50 sekund czasu "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit for the next 3 attacks. 44 seconds cooldown."
+#~ msgstr ""
+#~ "Wykonuje gwarantowane trafienie przy następnych 3 atakach. 44 sekund czasu "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit for the next 3 attacks. 32 seconds cooldown."
+#~ msgstr ""
+#~ "Wykonuje gwarantowane trafienie przy następnych 3 atakach. 32 sekund czasu "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit for the next 3 attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Wykonuje gwarantowane trafienie przy następnych 3 atakach. 24 sekund czasu "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+#~ "reduced by 3&#37;. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Sprawia, że ​​Twoja skóra jest twarda jak kamień! Obrażenia zadawane przez "
+#~ "kolejne 5 ataków są zmniejszone o 3&#37;. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+#~ "reduced by 6&#37;. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Sprawia, że ​​Twoja skóra jest twarda jak kamień! Obrażenia zadawane przez "
+#~ "kolejne 5 ataków są zmniejszone o 6&#37;. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+#~ "reduced by 9&#37;. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Sprawia, że ​​Twoja skóra jest twarda jak kamień! Obrażenia zadawane przez "
+#~ "kolejne 5 ataków są zmniejszone o 9&#37;. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+#~ "reduced by 12&#37;. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Sprawia, że ​​Twoja skóra jest twarda jak kamień! Obrażenia zadawane przez "
+#~ "kolejne 5 ataków są zmniejszone o 12&#37;. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Makes your skin as hard as stone! Damage taken by the next 5 attacks is "
+#~ "reduced by 15&#37;. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Sprawia, że ​​Twoja skóra jest twarda jak kamień! Obrażenia zadawane przez "
+#~ "kolejne 5 ataków są zmniejszone o 15&#37;. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Shows the element at which the monster is most vulnerable at. 50 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Pokazuje żywioł na jaki dany potwór jest wrażliwy. 50 sekund czasu "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Shows the element at which the monster is most vulnerable at. 45 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Pokazuje żywioł na jaki dany potwór jest wrażliwy. 50 sekund czasu "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Shows the element at which the monster is most vulnerable at. 40 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Pokazuje żywioł na jaki dany potwór jest wrażliwy. 50 sekund czasu "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Shows the element at which the monster is most vulnerable at. 35 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Pokazuje żywioł na jaki dany potwór jest wrażliwy. 50 sekund czasu "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Shows the element at which the monster is most vulnerable at. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Pokazuje żywioł na jaki dany potwór jest wrażliwy. 50 sekund czasu "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Dodges the next 5 attacks, reducing damage taken by 18&#37;. 20 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Unika kolejnych 5 ataków, zmniejszając otrzymywane obrażenia o 18&#37;. 20 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Dodges the next 5 attacks, reducing damage taken by 21&#37;. 20 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Unika kolejnych 5 ataków, zmniejszając otrzymywane obrażenia o 21&#37;. 20 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Dodges the next 5 attacks, reducing damage taken by 24&#37;. 20 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Unika kolejnych 5 ataków, zmniejszając otrzymywane obrażenia o 24&#37;. 20 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Dodges the next 5 attacks, reducing damage taken by 27&#37;. 20 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Unika kolejnych 5 ataków, zmniejszając otrzymywane obrażenia o 27&#37;. 20 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Dodges the next 5 attacks, reducing damage taken by 30&#37;. 20 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Unika kolejnych 5 ataków, zmniejszając otrzymywane obrażenia o 30&#37;. 20 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "The years of training have sharpened your weapon skills. Performs a "
+#~ "guaranteed hit and increases damage dealt by 4&#37; for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Lata treningu wyostrzyły twoje umiejętności uzbrojenia. Wykonuje "
+#~ "gwarantowane trafienie i zwiększa zadawane obrażenia o 4&#37; za kolejne 3 "
+#~ "ataki. 24-sekundowy czas odnowienia."
+
+#~ msgid ""
+#~ "The years of training have sharpened your weapon skills. Performs a "
+#~ "guaranteed hit and increases damage dealt by 8&#37; for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Lata treningu wyostrzyły twoje umiejętności uzbrojenia. Wykonuje "
+#~ "gwarantowane trafienie i zwiększa zadawane obrażenia o o 8&#37; za kolejne "
+#~ "3 ataki. 24-sekundowy czas odnowienia."
+
+#~ msgid ""
+#~ "The years of training have sharpened your weapon skills. Performs a "
+#~ "guaranteed hit and increases damage dealt by 12&#37; for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Lata treningu wyostrzyły twoje umiejętności uzbrojenia. Wykonuje "
+#~ "gwarantowane trafienie i zwiększa zadawane obrażenia o o 12&#37; za "
+#~ "kolejne 3 ataki. 24-sekundowy czas odnowienia."
+
+#~ msgid ""
+#~ "The years of training have sharpened your weapon skills. Performs a "
+#~ "guaranteed hit and increases damage dealt by 16&#37; for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Lata treningu wyostrzyły twoje umiejętności uzbrojenia. Wykonuje "
+#~ "gwarantowane trafienie i zwiększa zadawane obrażenia o o 16&#37; za "
+#~ "kolejne 3 ataki. 24-sekundowy czas odnowienia."
+
+#~ msgid ""
+#~ "The years of training have sharpened your weapon skills. Performs a "
+#~ "guaranteed hit and increases damage dealt by 20&#37; for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Lata treningu wyostrzyły twoje umiejętności uzbrojenia. Wykonuje "
+#~ "gwarantowane trafienie i zwiększa zadawane obrażenia o o 20&#37; za "
+#~ "kolejne 3 ataki. 24-sekundowy czas odnowienia."
+
+#~ msgid ""
+#~ "Taunts all enemies in 3 yard range, forcing them to attack you. 50 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Szydzi wszystkich wrogów w zasięgu 3 metrów, zmuszając ich do ataku. 50 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Taunts all enemies in 3 yard range, forcing them to attack you. 45 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Szydzi wszystkich wrogów w zasięgu 3 metrów, zmuszając ich do ataku. 45 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Taunts all enemies in 3 yard range, forcing them to attack you. 40 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Szydzi wszystkich wrogów w zasięgu 3 metrów, zmuszając ich do ataku. 40 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Taunts all enemies in 3 yard range, forcing them to attack you. 35 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Szydzi wszystkich wrogów w zasięgu 3 metrów, zmuszając ich do ataku. 35 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Taunts all enemies in 3 yard range, forcing them to attack you. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Szydzi wszystkich wrogów w zasięgu 3 metrów, zmuszając ich do ataku. 30 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "A sweeping attack that strikes your target and an additional nearby enemy "
+#~ "with 72&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Ogromny atak, który uderza w cel i dodatkowo w pobliskiego wroga z 72&37; "
+#~ "obrażeeń na następne 2 ataki. 25 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "A sweeping attack that strikes your target and an additional nearby enemy "
+#~ "with 76&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Ogromny atak, który uderza w cel i dodatkowo w pobliskiego wroga z 76&37; "
+#~ "obrażeń na następne 2 ataki. 25 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "A sweeping attack that strikes your target and an additional nearby enemy "
+#~ "with 80&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Ogromny atak, który uderza w cel i dodatkowo w pobliskiego wroga z 80&37; "
+#~ "obrażeń na następne 2 ataki. 25 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "A sweeping attack that strikes your target and an additional nearby enemy "
+#~ "with 84&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Ogromny atak, który uderza w cel i dodatkowo w pobliskiego wroga z 84&37; "
+#~ "obrażeń na następne 2 ataki. 25 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "A sweeping attack that strikes your target and an additional nearby enemy "
+#~ "with 88&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Ogromny atak, który uderza w cel i dodatkowo w pobliskiego wroga z 88&37; "
+#~ "obrażeń na następne 2 ataki. 25 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Raises your shield and guards yourself! Damage taken is reduced by 33&#37; "
+#~ "for 10 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Podnosi Twoją tarczę i broni Cię! Otrzymywane obrażenia są redukowane o "
+#~ "33&#37; na 10 sekund. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Raises your shield and guards yourself! Damage taken is reduced by 36&#37; "
+#~ "for 10 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Podnosi Twoją tarczę i broni Cię! Otrzymywane obrażenia są redukowane o "
+#~ "36&#37; na 10 sekund. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Raises your shield and guards yourself! Damage taken is reduced by 39&#37; "
+#~ "for 10 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Podnosi Twoją tarczę i broni Cię! Otrzymywane obrażenia są redukowane o "
+#~ "39&#37; na 10 sekund. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Raises your shield and guards yourself! Damage taken is reduced by 42&#37; "
+#~ "for 10 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Podnosi Twoją tarczę i broni Cię! Otrzymywane obrażenia są redukowane o "
+#~ "42&#37; na 10 sekund. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Raises your shield and guards yourself! Damage taken is reduced by 45&#37; "
+#~ "for 10 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Podnosi Twoją tarczę i broni Cię! Otrzymywane obrażenia są redukowane o "
+#~ "45&#37; na 10 sekund. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Focuses your mana to release it with a powerful arcane strike. Consumes "
+#~ "all your mana and converts 0.37 damage per mana point additional to your "
+#~ "next attack. 28 seconds cooldown."
+#~ msgstr ""
+#~ "Skupia Twoją manę aby uwolnić potężne, tajemnicze uderzenie. Zabiera całą "
+#~ "Twoją manę i zamienia 0.37 obrażeń na punkt many jako dodatek do "
+#~ "następnego ataku. 28 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Focuses your mana to release it with a powerful arcane strike. Consumes "
+#~ "all your mana and converts 0.40 damage per mana point additional to your "
+#~ "next attack. 28 seconds cooldown."
+#~ msgstr ""
+#~ "Skupia Twoją manę aby uwolnić potężne, tajemnicze uderzenie. Zabiera całą "
+#~ "Twoją manę i zamienia 0.40 obrażeń na punkt many jako dodatek do "
+#~ "następnego ataku. 28 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Focuses your mana to release it with a powerful arcane strike. Consumes "
+#~ "all your mana and converts 0.43 damage per mana point additional to your "
+#~ "next attack. 28 seconds cooldown."
+#~ msgstr ""
+#~ "Skupia Twoją manę aby uwolnić potężne, tajemnicze uderzenie. Zabiera całą "
+#~ "Twoją manę i zamienia 0.43 obrażeń na punkt many jako dodatek do "
+#~ "następnego ataku. 28 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Focuses your mana to release it with a powerful arcane strike. Consumes "
+#~ "all your mana and converts 0.46 damage per mana point additional to your "
+#~ "next attack. 28 seconds cooldown."
+#~ msgstr ""
+#~ "Skupia Twoją manę aby uwolnić potężne, tajemnicze uderzenie. Zabiera całą "
+#~ "Twoją manę i zamienia 0.46 obrażeń na punkt many jako dodatek do "
+#~ "następnego ataku. 28 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Focuses your mana to release it with a powerful arcane strike. Consumes "
+#~ "all your mana and converts 0.50 damage per mana point additional to your "
+#~ "next attack. 28 seconds cooldown."
+#~ msgstr ""
+#~ "Skupia Twoją manę aby uwolnić potężne, tajemnicze uderzenie. Zabiera całą "
+#~ "Twoją manę i zamienia 0.50 obrażeń na punkt many jako dodatek do "
+#~ "następnego ataku. 28 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes your target and an additional nearby "
+#~ "enemy with 73&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Wykonuje gwarantowane trafienie i uderza w cel oraz dodatkowego wroga z "
+#~ "73&#37; obrażeń na następne 2 ataki. 25 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes your target and an additional nearby "
+#~ "enemy with 76&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Wykonuje gwarantowane trafienie i uderza w cel oraz dodatkowego wroga z "
+#~ "76&#37; obrażeń na następne 2 ataki. 25 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes your target and an additional nearby "
+#~ "enemy with 79&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Wykonuje gwarantowane trafienie i uderza w cel oraz dodatkowego wroga z "
+#~ "79&#37; obrażeń na następne 2 ataki. 25 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes your target and an additional nearby "
+#~ "enemy with 82&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Wykonuje gwarantowane trafienie i uderza w cel oraz dodatkowego wroga z "
+#~ "82&#37; obrażeń na następne 2 ataki. 25 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes your target and an additional nearby "
+#~ "enemy with 85&#37; damage for the next 2 attacks. 25 seconds cooldown."
+#~ msgstr ""
+#~ "Wykonuje gwarantowane trafienie i uderza w cel oraz dodatkowego wroga z "
+#~ "85&#37; obrażeń na następne 2 ataki. 25 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Parries your enemies, increasing the chance to evade the next 4 incoming "
+#~ "attacks. Every skill level raises the chance to evade by a medium amount. "
+#~ "28 seconds cooldown."
+#~ msgstr ""
+#~ "Odpiera Twoich wrogów, zwiększając szansę na uniknięcie kolejnych 4 "
+#~ "ataków. Każdy poziom umiejętności zwiększa szansę na uniknięcie przez "
+#~ "średnią ilość. 28 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "You become enraged, increasing the damage dealt by 33&#37; for 10 seconds. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Wpadasz we wściekłość, zwiększając zadawane obrażenia o 33&#37; na 10 "
+#~ "sekund. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "You become enraged, increasing the damage dealt by 36&#37; for 10 seconds. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Wpadasz we wściekłość, zwiększając zadawane obrażenia o 36&#37; na 10 "
+#~ "sekund. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "You become enraged, increasing the damage dealt by 39&#37; for 10 seconds. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Wpadasz we wściekłość, zwiększając zadawane obrażenia o 39&#37; na 10 "
+#~ "sekund. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "You become enraged, increasing the damage dealt by 42&#37; for 10 seconds. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Wpadasz we wściekłość, zwiększając zadawane obrażenia o 42&#37; na 10 "
+#~ "sekund. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "You become enraged, increasing the damage dealt by 45&#37; for 10 seconds. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Wpadasz we wściekłość, zwiększając zadawane obrażenia o 45&#37; na 10 "
+#~ "sekund. 20 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Knocks the head of your enemy with the hilt of your weapon, performing a "
+#~ "guaranteed hit and incapacitating your target for 2.0 seconds with your "
+#~ "next attack. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Uderza głowę wroga rękojeścią Twojej broni, wykonując gwarantowane "
+#~ "trafienie i obezwładniając cel na 2,0 sekundy następnym atakiem. 30 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "Knocks the head of your enemy with the hilt of your weapon, performing a "
+#~ "guaranteed hit and incapacitating your target for 2.5 seconds with your "
+#~ "next attack. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Uderza głowę wroga rękojeścią twojej broni, wykonując gwarantowane "
+#~ "trafienie i obezwładniając cel na 2,5 sekundy następnym atakiem. 30 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "Knocks the head of your enemy with the hilt of your weapon, performing a "
+#~ "guaranteed hit and incapacitating your target for 3.0 seconds with your "
+#~ "next attack. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Uderza głowę wroga rękojeścią twojej broni, wykonując gwarantowane "
+#~ "trafienie i obezwładniając cel na 3,0 sekundy następnym atakiem. 30 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "Knocks the head of your enemy with the hilt of your weapon, performing a "
+#~ "guaranteed hit and incapacitating your target for 3.5 seconds with your "
+#~ "next attack. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Uderza głowę wroga rękojeścią twojej broni, wykonując gwarantowane "
+#~ "trafienie i obezwładniając cel na 3,5 sekundy następnym atakiem. 30 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "Knocks the head of your enemy with the hilt of your weapon, performing a "
+#~ "guaranteed hit and incapacitating your target for 4.0 seconds with your "
+#~ "next attack. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Uderza głowę wroga rękojeścią twojej broni, wykonując gwarantowane "
+#~ "trafienie i obezwładniając cel na 4,0 sekundy następnym atakiem. 30 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+#~ "you to attack an enemy, even when sharing the tile with other players. 40 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Daje możliwość skumulowanego ataku. Skumulowany atak daje Ci możliwość "
+#~ "atakować wroga nawet jeśli stoisz w jednej kratce z innymi graczami. 40 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+#~ "you to attack an enemy, even when sharing the tile with other players. 35 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Daje możliwość skumulowanego ataku. Skumulowany atak daje Ci możliwość "
+#~ "atakować wroga nawet jeśli stoisz w jednej kratce z innymi graczami. 35 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+#~ "you to attack an enemy, even when sharing the tile with other players. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Daje możliwość skumulowanego ataku. Skumulowany atak daje Ci możliwość "
+#~ "atakować wroga nawet jeśli stoisz w jednej kratce z innymi graczami. 30 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+#~ "you to attack an enemy, even when sharing the tile with other players. 25 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Daje możliwość skumulowanego ataku. Skumulowany atak daje Ci możliwość "
+#~ "atakować wroga nawet jeśli stoisz w jednej kratce z innymi graczami. 25 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Performs a stacked attack for the next 5 attacks. A stacked attack allows "
+#~ "you to attack an enemy, even when sharing the tile with other players. 20 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Daje możliwość skumulowanego ataku. Skumulowany atak daje Ci możliwość "
+#~ "atakować wroga nawet jeśli stoisz w jednej kratce z innymi graczami. 20 "
+#~ "sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Equips yourself with a dwarven warden armour that adds an additional piece "
+#~ "of armour with 80&#37; of your current protection for the next 6 incoming "
+#~ "attacks. 18 seconds cooldown."
+#~ msgstr ""
+#~ "Wyposaża Cię w krasnoludzką zbroję która dodaje dodającą dodatkowe 80&#37; "
+#~ "Twojej obecnej ochrony na kolejne 6 ataków. 18 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Equips yourself with a dwarven warden armour that adds an additional piece "
+#~ "of armour with 85&#37; of your current protection for the next 6 incoming "
+#~ "attacks. 18 seconds cooldown."
+#~ msgstr ""
+#~ "Wyposaża Cię w krasnoludzką zbroję która dodaje dodającą dodatkowe 85&#37; "
+#~ "Twojej obecnej ochrony na kolejne 6 ataków. 18 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Equips yourself with a dwarven warden armour that adds an additional piece "
+#~ "of armour with 90&#37; of your current protection for the next 6 incoming "
+#~ "attacks. 18 seconds cooldown."
+#~ msgstr ""
+#~ "Wyposaża Cię w krasnoludzką zbroję która dodaje dodającą dodatkowe 90&#37; "
+#~ "Twojej obecnej ochrony na kolejne 6 ataków. 18 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Equips yourself with a dwarven warden armour that adds an additional piece "
+#~ "of armour with 95&#37; of your current protection for the next 6 incoming "
+#~ "attacks. 18 seconds cooldown."
+#~ msgstr ""
+#~ "Wyposaża Cię w krasnoludzką zbroję która dodaje dodającą dodatkowe "
+#~ "95&#37;; Twojej obecnej ochrony na kolejne 6 ataków. 18 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Equips yourself with a dwarven warden armour that adds an additional piece "
+#~ "of armour with 100&#37; of your current protection for the next 6 incoming "
+#~ "attacks. 18 seconds cooldown."
+#~ msgstr ""
+#~ "Wyposaża Cię w krasnoludzką zbroję która dodaje dodającą dodatkowe "
+#~ "100&#37; Twojej obecnej ochrony na kolejne 6 ataków. 18 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Releases a bladestorm on your target, increasing damage dealt by 3&#37; "
+#~ "and performing an additional strike on your target for the next 3 attacks. "
+#~ "24 seconds cooldown."
+#~ msgstr ""
+#~ "Wypuszcza ostrze burzy na Twojego wroga, zwiększa zadawane obrażenia o "
+#~ "3&#37; oraz wykonuje dodatkowe uderzenie na następne 3 ataki. 24 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "Releases a bladestorm on your target, increasing damage dealt by 5&#37; "
+#~ "and performing an additional strike on your target for the next 3 attacks. "
+#~ "24 seconds cooldown."
+#~ msgstr ""
+#~ "Wypuszcza ostrze burzy na Twojego wroga, zwiększa zadawane obrażenia o "
+#~ "5&#37; oraz wykonuje dodatkowe uderzenie na następne 3 ataki. 24 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "Releases a bladestorm on your target, increasing damage dealt by 8&#37; "
+#~ "and performing an additional strike on your target for the next 3 attacks. "
+#~ "24 seconds cooldown."
+#~ msgstr ""
+#~ "Wypuszcza ostrze burzy na Twojego wroga, zwiększa zadawane obrażenia o "
+#~ "8&#37; oraz wykonuje dodatkowe uderzenie na następne 3 ataki. 24 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "Releases a bladestorm on your target, increasing damage dealt by 10&#37; "
+#~ "and performing an additional strike on your target for the next 3 attacks. "
+#~ "24 seconds cooldown."
+#~ msgstr ""
+#~ "Wypuszcza ostrze burzy na Twojego wroga, zwiększa zadawane obrażenia o "
+#~ "10&#37; oraz wykonuje dodatkowe uderzenie na następne 3 ataki. 24 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "Releases a bladestorm on your target, increasing damage dealt by 13&#37; "
+#~ "and performing an additional strike on your target for the next 3 attacks. "
+#~ "24 seconds cooldown."
+#~ msgstr ""
+#~ "Wypuszcza ostrze burzy na Twojego wroga, zwiększa zadawane obrażenia o "
+#~ "13&#37; oraz wykonuje dodatkowe uderzenie na następne 3 ataki. 24 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "Temporarily improves your reflexes, protects you from enemy debuffs for 10 "
+#~ "seconds. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Tymczasowo ulepsza Twój refleks, chroni Cię od debuffów Twoich wrogów na "
+#~ "10 sekund. 50 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Temporarily improves your reflexes, protects you from enemy debuffs for 10 "
+#~ "seconds. 45 seconds cooldown."
+#~ msgstr ""
+#~ "Tymczasowo ulepsza Twój refleks, chroni Cię od debuffów Twoich wrogów na "
+#~ "10 sekund. 45 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Temporarily improves your reflexes, protects you from enemy debuffs for 10 "
+#~ "seconds. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Tymczasowo ulepsza Twój refleks, chroni Cię od debuffów Twoich wrogów na "
+#~ "10 sekund. 40 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Temporarily improves your reflexes, protects you from enemy debuffs for 10 "
+#~ "seconds. 35 seconds cooldown."
+#~ msgstr ""
+#~ "Tymczasowo ulepsza Twój refleks, chroni Cię od debuffów Twoich wrogów na "
+#~ "10 sekund. 35 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Temporarily improves your reflexes, protects you from enemy debuffs for 10 "
+#~ "seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Tymczasowo ulepsza Twój refleks, chroni Cię od debuffów Twoich wrogów na "
+#~ "10 sekund. 30 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "A steady stream of mana creates a shield against enemy attacks, preventing "
+#~ "damage taken and draining 1.20 mana per damage point for 30 seconds. 60 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Stały strumień many tworzy osłonę przed atakami wrogów, zapobiegając "
+#~ "obrażeniom i spuszczając 1.20 punktów many przez 30 sekund. 60 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "A steady stream of mana creates a shield against enemy attacks, preventing "
+#~ "damage taken and draining 1.15 mana per damage point for 30 seconds. 60 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Stały strumień many tworzy osłonę przed atakami wrogów, zapobiegając "
+#~ "obrażeniom i spuszczając 1.15 punktów many przez 30 sekund. 60 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "A steady stream of mana creates a shield against enemy attacks, preventing "
+#~ "damage taken and draining 1.10 mana per damage point for 30 seconds. 60 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Stały strumień many tworzy osłonę przed atakami wrogów, zapobiegając "
+#~ "obrażeniom i spuszczając 1.10 punktów many przez 30 sekund. 60 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "A steady stream of mana creates a shield against enemy attacks, preventing "
+#~ "damage taken and draining 1.05 mana per damage point for 30 seconds. 60 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Stały strumień many tworzy osłonę przed atakami wrogów, zapobiegając "
+#~ "obrażeniom i spuszczając 1.05 punktów many przez 30 sekund. 60 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "A steady stream of mana creates a shield against enemy attacks, preventing "
+#~ "damage taken and draining 1.00 mana per damage point for 30 seconds. 60 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Stały strumień many tworzy osłonę przed atakami wrogów, zapobiegając "
+#~ "obrażeniom i spuszczając 1.00 punktów many przez 30 sekund. 60 sekund "
+#~ "czasu odnowienia."
+
+#~ msgid ""
+#~ "Swirls your weapon around in a circle, performing a guaranteed hit and "
+#~ "striking your target and 3 additional nearby enemies with 41&#37; damage "
+#~ "for the next 3 attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Wiruje Twoją bronią w kółko, wykonując gwarantowane uderzenie i uderzając "
+#~ "Twój cel oraz 3 dodatkowych najbliższych wrogów z 41&#37; obrażeń na "
+#~ "następne 3 ataki. 24 sekundy czasu odnowienia."
+
+#~ msgid ""
+#~ "Swirls your weapon around in a circle, performing a guaranteed hit and "
+#~ "striking your target and 3 additional nearby enemies with 42&#37; damage "
+#~ "for the next 3 attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Wiruje Twoją bronią w kółko, wykonując gwarantowane uderzenie i uderzając "
+#~ "Twój cel oraz 3 dodatkowych najbliższych wrogów z 42&#37; obrażeń na "
+#~ "następne 3 ataki. 24 sekundy czasu odnowienia."
+
+#~ msgid ""
+#~ "Swirls your weapon around in a circle, performing a guaranteed hit and "
+#~ "striking your target and 3 additional nearby enemies with 43&#37; damage "
+#~ "for the next 3 attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Wiruje Twoją bronią w kółko, wykonując gwarantowane uderzenie i uderzając "
+#~ "Twój cel oraz 3 dodatkowych najbliższych wrogów z 43&#37; obrażeń na "
+#~ "następne 3 ataki. 24 sekundy czasu odnowienia."
+
+#~ msgid ""
+#~ "Swirls your weapon around in a circle, performing a guaranteed hit and "
+#~ "striking your target and 3 additional nearby enemies with 44&#37; damage "
+#~ "for the next 3 attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Wiruje Twoją bronią w kółko, wykonując gwarantowane uderzenie i uderzając "
+#~ "Twój cel oraz 3 dodatkowych najbliższych wrogów z 44&#37; obrażeń na "
+#~ "następne 3 ataki. 24 sekundy czasu odnowienia."
+
+#~ msgid ""
+#~ "Swirls your weapon around in a circle, performing a guaranteed hit and "
+#~ "striking your target and 3 additional nearby enemies with 45&#37; damage "
+#~ "for the next 3 attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Wiruje Twoją bronią w kółko, wykonując gwarantowane uderzenie i uderzając "
+#~ "Twój cel oraz 3 dodatkowych najbliższych wrogów z 45&#37; obrażeń na "
+#~ "następne 3 ataki. 24 sekundy czasu odnowienia."
+
+#~ msgid ""
+#~ "Enters an offensive stance, increasing the damage dealt by 21&#37; and the "
+#~ "chance to hit your enemy with attacks for 60 seconds. Every skill level "
+#~ "raises the chance to hit by a medium amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Wchodzi w ofensywną postawę, zwiększając zadawane obrażenia o 21&#37; i "
+#~ "szansę trafienia wroga przez 60 sekund. Każdy poziom umiejętności "
+#~ "powiększa szansę na trafienie. 30 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Enters an offensive stance, increasing the damage dealt by 22&#37; and the "
+#~ "chance to hit your enemy with attacks for 60 seconds. Every skill level "
+#~ "raises the chance to hit by a medium amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Wchodzi w ofensywną postawę, zwiększając zadawane obrażenia o 22&#37; i "
+#~ "szansę trafienia wroga atakami na 60 sekund. Każdy poziom umiejętności "
+#~ "zwiększa szansę trafienia. 30 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Enters an offensive stance, increasing the damage dealt by 23&#37; and the "
+#~ "chance to hit your enemy with attacks for 60 seconds. Every skill level "
+#~ "raises the chance to hit by a medium amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Wchodzi w ofensywną postawę, zwiększając zadawane obrażenia o 22&#37; i "
+#~ "szansę trafienia wroga atakami na 60 sekund. Każdy poziom umiejętności "
+#~ "zwiększa szansę trafienia. 30 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Enters an offensive stance, increasing the damage dealt by 24&#37; and the "
+#~ "chance to hit your enemy with attacks for 60 seconds. Every skill level "
+#~ "raises the chance to hit by a medium amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Wchodzi w ofensywną postawę, zwiększając zadawane obrażenia o 22&#37; i "
+#~ "szansę trafienia wroga atakami na 60 sekund. Każdy poziom umiejętności "
+#~ "zwiększa szansę trafienia. 30 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Enters an offensive stance, increasing the damage dealt by 25&#37; and the "
+#~ "chance to hit your enemy with attacks for 60 seconds. Every skill level "
+#~ "raises the chance to hit by a medium amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Wchodzi w ofensywną postawę, zwiększając zadawane obrażenia o 22&#37; i "
+#~ "szansę trafienia wroga atakami na 60 sekund. Każdy poziom umiejętności "
+#~ "zwiększa szansę trafienia. 30 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Connects your weapon swings, performing a guaranteed hit and striking all "
+#~ "targets in 2 yard range with 46&#37; damage for the next 3 attacks. All "
+#~ "enemies in 2 yard distance will only receive half of the damage. 24 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Łączy zamachnięcia Twojej broni, wykonuje gwarantowane uderzenie w zasięgu "
+#~ "2 metrów z 46&#37; obrażeń na następne 3 ataki. Wszyscy wrogowie w zasięgu "
+#~ "2 metrów otrzymają tylko połowę obrażeń. 24 sekundy czasu odnowienia."
+
+#~ msgid ""
+#~ "Connects your weapon swings, performing a guaranteed hit and striking all "
+#~ "targets in 2 yard range with 47&#37; damage for the next 3 attacks. All "
+#~ "enemies in 2 yard distance will only receive half of the damage. 24 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Łączy zamachnięcia Twojej broni, wykonuje gwarantowane uderzenie w zasięgu "
+#~ "2 metrów z 47&#37; obrażeń na następne 3 ataki. Wszyscy wrogowie w zasięgu "
+#~ "2 metrów otrzymają tylko połowę obrażeń. 24 sekundy czasu odnowienia."
+
+#~ msgid ""
+#~ "Connects your weapon swings, performing a guaranteed hit and striking all "
+#~ "targets in 2 yard range with 48&#37; damage for the next 3 attacks. All "
+#~ "enemies in 2 yard distance will only receive half of the damage. 24 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Łączy zamachnięcia Twojej broni, wykonuje gwarantowane uderzenie w zasięgu "
+#~ "2 metrów z 48&#37; obrażeń na następne 3 ataki. Wszyscy wrogowie w zasięgu "
+#~ "2 metrów otrzymają tylko połowę obrażeń. 24 sekundy czasu odnowienia."
+
+#~ msgid ""
+#~ "Connects your weapon swings, performing a guaranteed hit and striking all "
+#~ "targets in 2 yard range with 49&#37; damage for the next 3 attacks. All "
+#~ "enemies in 2 yard distance will only receive half of the damage. 24 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Łączy zamachnięcia Twojej broni, wykonuje gwarantowane uderzenie w zasięgu "
+#~ "2 metrów z 49&#37; obrażeń na następne 3 ataki. Wszyscy wrogowie w zasięgu "
+#~ "2 metrów otrzymają tylko połowę obrażeń. 24 sekundy czasu odnowienia."
+
+#~ msgid ""
+#~ "Connects your weapon swings, performing a guaranteed hit and striking all "
+#~ "targets in 2 yard range with 50&#37; damage for the next 3 attacks. All "
+#~ "enemies in 2 yard distance will only receive half of the damage. 24 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Łączy zamachnięcia Twojej broni, wykonuje gwarantowane uderzenie w zasięgu "
+#~ "2 metrów z 50&#37; obrażeń na następne 3 ataki. Wszyscy wrogowie w zasięgu "
+#~ "2 metrów otrzymają tylko połowę obrażeń. 24 sekundy czasu odnowienia."
+
+#~ msgid ""
+#~ "Take cover behind your shield, absorbs 75&#37; of the next 170 damage "
+#~ "taken. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Przyjmuję osłonę za Twoją tarczą, absorbuje 75&#37; z następnych 170 "
+#~ "otrzymanych obrażeń. 90 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Take cover behind your shield, absorbs 75&#37; of the next 180 damage "
+#~ "taken. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Przyjmuję osłonę za Twoją tarczą, absorbuje 75&#37; z następnych 180 "
+#~ "otrzymanych obrażeń. 90 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Take cover behind your shield, absorbs 75&#37; of the next 190 damage "
+#~ "taken. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Przyjmuję osłonę za Twoją tarczą, absorbuje 75&#37; z następnych 190 "
+#~ "otrzymanych obrażeń. 90 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Take cover behind your shield, absorbs 75&#37; of the next 200 damage "
+#~ "taken. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Przyjmuję osłonę za Twoją tarczą, absorbuje 75&#37; z następnych 200 "
+#~ "otrzymanych obrażeń. 90 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Take cover behind your shield, absorbs 75&#37; of the next 210 damage "
+#~ "taken. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Przyjmuję osłonę za Twoją tarczą, absorbuje 75&#37; z następnych 210 "
+#~ "otrzymanych obrażeń. 90 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "A surprising smash makes your enemy loose concentration, granting a chance "
+#~ "to discharge target offensive skill by 80&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Zaskakujący trzask sprawia, że Twój wróg traci koncentrację, dając szansę "
+#~ "na rozładowanie ofensywnych umiejętności o 80&#37; i defensywnych "
+#~ "umiejętności o 25&#37;. Umiejętności defensywne potworów nie mogą zostać "
+#~ "rozładowane. 30 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "A surprising smash makes your enemy loose concentration, granting a chance "
+#~ "to discharge target offensive skill by 85&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Zaskakujący trzask sprawia, że Twój wróg traci koncentrację, dając szansę "
+#~ "na rozładowanie ofensywnych umiejętności o 85&#37; i defensywnych "
+#~ "umiejętności o 25&#37;. Umiejętności defensywne potworów nie mogą zostać "
+#~ "rozładowane. 30 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "A surprising smash makes your enemy loose concentration, granting a chance "
+#~ "to discharge target offensive skill by 90&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Zaskakujący trzask sprawia, że Twój wróg traci koncentrację, dając szansę "
+#~ "na rozładowanie ofensywnych umiejętności o 90&#37; i defensywnych "
+#~ "umiejętności o 25&#37;. Umiejętności defensywne potworów nie mogą zostać "
+#~ "rozładowane. 30 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "A surprising smash makes your enemy loose concentration, granting a chance "
+#~ "to discharge target offensive skill by 95&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Zaskakujący trzask sprawia, że Twój wróg traci koncentrację, dając szansę "
+#~ "na rozładowanie ofensywnych umiejętności o 95&#37; i defensywnych "
+#~ "umiejętności o 25&#37;. Umiejętności defensywne potworów nie mogą zostać "
+#~ "rozładowane. 30 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "A surprising smash makes your enemy loose concentration, granting a chance "
+#~ "to discharge target offensive skill by 100&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Zaskakujący trzask sprawia, że Twój wróg traci koncentrację, dając szansę "
+#~ "na rozładowanie ofensywnych umiejętności o 100&#37; i defensywnych "
+#~ "umiejętności o 25&#37;. Umiejętności defensywne potworów nie mogą zostać "
+#~ "rozładowane. 30 sekund czasu odnowienia."
+
+#~ msgid ""
+#~ "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
+#~ "increasing damage dealt by 84&#37; for the next 3 attacks. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Rozbija wroga potężnym atakiem, dając gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 84&#37; na następne 3 ataki. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
+#~ "increasing damage dealt by 88&#37; for the next 3 attacks. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Rozbija wroga potężnym atakiem, dając gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 88&#37; na następne 3 ataki. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
+#~ "increasing damage dealt by 92&#37; for the next 3 attacks. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Rozbija wroga potężnym atakiem, dając gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 92&#37; na następne 3 ataki. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
+#~ "increasing damage dealt by 96&#37; for the next 3 attacks. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Rozbija wroga potężnym atakiem, dając gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 96&#37; na następne 3 ataki. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Smashes the enemy with a powerful attack, performing a guaranteed hit and "
+#~ "increasing damage dealt by 100&#37; for the next 3 attacks. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Rozbija wroga potężnym atakiem, dając gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 100&#37; na następne 3 ataki. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Deflects enemy spells with your shield, protects you against the next 2 "
+#~ "aggressive spells or debuffs. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Odbija czary wroga Twoją tarczą, broni Cię przed 2 następnymi agresywnymi "
+#~ "czarami lub debuffami. 50 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Deflects enemy spells with your shield, protects you against the next 2 "
+#~ "aggressive spells or debuffs. 45 seconds cooldown."
+#~ msgstr ""
+#~ "Odbija czary wroga Twoją tarczą, broni Cię przed 2 następnymi agresywnymi "
+#~ "czarami lub debuffami. 45 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Deflects enemy spells with your shield, protects you against the next 2 "
+#~ "aggressive spells or debuffs. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Odbija czary wroga Twoją tarczą, broni Cię przed 2 następnymi agresywnymi "
+#~ "czarami lub debuffami. 40 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Deflects enemy spells with your shield, protects you against the next 2 "
+#~ "aggressive spells or debuffs. 35 seconds cooldown."
+#~ msgstr ""
+#~ "Odbija czary wroga Twoją tarczą, broni Cię przed 2 następnymi agresywnymi "
+#~ "czarami lub debuffami. 35 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Deflects enemy spells with your shield, protects you against the next 2 "
+#~ "aggressive spells or debuffs. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Odbija czary wroga Twoją tarczą, broni Cię przed 2 następnymi agresywnymi "
+#~ "czarami lub debuffami. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Gathers your power before striking with a mighty blow, reducing the damage "
+#~ "dealt by 45&#37; for the next attack. The following 3 attacks will perform "
+#~ "a guaranteed hit and deal the maximum amount of damage. 22 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Gromadzi Twoją energię przed uderzeniem potężnym ciosem, redukując "
+#~ "zadawane obrażenia o 45&#37; na następny atak. Następujące 3 ataki dadzą "
+#~ "gwarantowane uderzenie i zadadzą maksymalne obrażenia. 22 sekundy do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Gathers your power before striking with a mighty blow, reducing the damage "
+#~ "dealt by 30&#37; for the next attack. The following 3 attacks will perform "
+#~ "a guaranteed hit and deal the maximum amount of damage. 22 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Gromadzi Twoją energię przed uderzeniem potężnym ciosem, redukując "
+#~ "zadawane obrażenia o 30&#37; na następny atak. Następujące 3 ataki dadzą "
+#~ "gwarantowane uderzenie i zadadzą maksymalne obrażenia. 22 sekundy do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Gathers your power before striking with a mighty blow, reducing the damage "
+#~ "dealt by 15&#37; for the next attack. The following 3 attacks will perform "
+#~ "a guaranteed hit and deal the maximum amount of damage. 22 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Gromadzi Twoją energię przed uderzeniem potężnym ciosem, redukując "
+#~ "zadawane obrażenia o 15&#37; na następny atak. Następujące 3 ataki dadzą "
+#~ "gwarantowane uderzenie i zadadzą maksymalne obrażenia. 22 sekundy do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Gathers your power before striking with a mighty blow, reducing the damage "
+#~ "dealt by 0&#37; for the next attack. The following 3 attacks will perform "
+#~ "a guaranteed hit and deal the maximum amount of damage. 22 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Gromadzi Twoją energię przed uderzeniem potężnym ciosem, redukując "
+#~ "zadawane obrażenia o 0&#37; na następny atak. Następujące 3 ataki dadzą "
+#~ "gwarantowane uderzenie i zadadzą maksymalne obrażenia. 22 sekundy do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Gathers your power before striking with a mighty blow, increasing the "
+#~ "damage dealt by 15&#37; for the next attack. The following 3 attacks will "
+#~ "perform a guaranteed hit and deal the maximum amount of damage. 22 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Gromadzi Twoją energię przed uderzeniem potężnym ciosem, zwiększając "
+#~ "zadawane obrażenia o 15&#37; na następny atak. Następujące 3 ataki dadzą "
+#~ "gwarantowane uderzenie i zadadzą maksymalne obrażenia. 22 sekundy do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Enters a defensive stance, increasing the chance to evade enemy attacks "
+#~ "for 60 seconds. Every skill level raises the chance to evade by a medium "
+#~ "amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Wchodzi w defensywną postawę, zwiększa szansę na uniknięcie ataków wroga. "
+#~ "Każdy poziom umiejętności zwiększa szansę na uniknięcie. 30 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes all targets in 2 yard range with "
+#~ "56&#37; damage for the next 3 attacks. All enemies in 2 yard distance will "
+#~ "only receive half of the damage. Afterwards all enemies search for a new "
+#~ "target. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i uderza wszystkie cele w zasięgu 2 metrów z "
+#~ "56&#37; obrażeń na następne 3 ataki. Wszyscy wrogowie w zasięgu 2 metrów "
+#~ "otrzymają tylko połowę obrażeń. Potem wszyscy wrogowie szukają nowego "
+#~ "celu. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes all targets in 2 yard range with "
+#~ "57&#37; damage for the next 3 attacks. All enemies in 2 yard distance will "
+#~ "only receive half of the damage. Afterwards all enemies search for a new "
+#~ "target. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i uderza wszystkie cele w zasięgu 2 metrów z "
+#~ "57&#37; obrażeń na następne 3 ataki. Wszyscy wrogowie w zasięgu 2 metrów "
+#~ "otrzymają tylko połowę obrażeń. Potem wszyscy wrogowie szukają nowego "
+#~ "celu. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes all targets in 2 yard range with "
+#~ "58&#37; damage for the next 3 attacks. All enemies in 2 yard distance will "
+#~ "only receive half of the damage. Afterwards all enemies search for a new "
+#~ "target. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i uderza wszystkie cele w zasięgu 2 metrów z "
+#~ "58&#37; obrażeń na następne 3 ataki. Wszyscy wrogowie w zasięgu 2 metrów "
+#~ "otrzymają tylko połowę obrażeń. Potem wszyscy wrogowie szukają nowego "
+#~ "celu. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes all targets in 2 yard range with "
+#~ "59&#37; damage for the next 3 attacks. All enemies in 2 yard distance will "
+#~ "only receive half of the damage. Afterwards all enemies search for a new "
+#~ "target. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i uderza wszystkie cele w zasięgu 2 metrów z "
+#~ "59&#37; obrażeń na następne 3 ataki. Wszyscy wrogowie w zasięgu 2 metrów "
+#~ "otrzymają tylko połowę obrażeń. Potem wszyscy wrogowie szukają nowego "
+#~ "celu. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and strikes all targets in 2 yard range with "
+#~ "60&#37; damage for the next 3 attacks. All enemies in 2 yard distance will "
+#~ "only receive half of the damage. Afterwards all enemies search for a new "
+#~ "target. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i uderza wszystkie cele w zasięgu 2 metrów z "
+#~ "60&#37; obrażeń na następne 3 ataki. Wszyscy wrogowie w zasięgu 2 metrów "
+#~ "otrzymają tylko połowę obrażeń. Potem wszyscy wrogowie szukają nowego "
+#~ "celu. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Reduces damage taken by 66&#37; and increases the chance to evade enemy "
+#~ "attacks for 30 seconds. Every skill level raises the chance to evade by a "
+#~ "small amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Redukuje otrzymywane obrażenia o 66&#37; i zwiększa szansę na uniknięcie "
+#~ "ataków wroga na 30 sekund. Każdy poziom umiejętności zwiększa szansę na "
+#~ "uniknięcie. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Reduces damage taken by 67&#37; and increases the chance to evade enemy "
+#~ "attacks for 30 seconds. Every skill level raises the chance to evade by a "
+#~ "small amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Redukuje otrzymywane obrażenia o 67&#37; i zwiększa szansę na uniknięcie "
+#~ "ataków wroga na 30 sekund. Każdy poziom umiejętności zwiększa szansę na "
+#~ "uniknięcie. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Reduces damage taken by 68&#37; and increases the chance to evade enemy "
+#~ "attacks for 30 seconds. Every skill level raises the chance to evade by a "
+#~ "small amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Redukuje otrzymywane obrażenia o 6&#37; i zwiększa szansę na uniknięcie "
+#~ "ataków wroga na 30 sekund. Każdy poziom umiejętności zwiększa szansę na "
+#~ "uniknięcie. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Reduces damage taken by 69&#37; and increases the chance to evade enemy "
+#~ "attacks for 30 seconds. Every skill level raises the chance to evade by a "
+#~ "small amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Redukuje otrzymywane obrażenia o 69&#37; i zwiększa szansę na uniknięcie "
+#~ "ataków wroga na 30 sekund. Każdy poziom umiejętności zwiększa szansę na "
+#~ "uniknięcie. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Reduces damage taken by 70&#37; and increases the chance to evade enemy "
+#~ "attacks for 30 seconds. Every skill level raises the chance to evade by a "
+#~ "small amount. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Redukuje otrzymywane obrażenia o 80&#37; i zwiększa szansę na uniknięcie "
+#~ "ataków wroga na 30 sekund. Każdy poziom umiejętności zwiększa szansę na "
+#~ "uniknięcie. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Increases the damage dealt by 16&#37;. Also increases the chance to hit "
+#~ "your enemy with attacks and to evade enemy attacks for 60 seconds. Every "
+#~ "skill level raises the chance to hit and to evade by a small amount. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Zwiększa zadawane obrażenia o 16&#37;. Zwiększa również szansę na "
+#~ "trafienie wroga atakami i uniknięcie ataków wroga na 60 sekund. Każdy "
+#~ "poziom umiejętności zwiększa szansę na trafienie i uniknięcie. 30 sekund "
+#~ "do odnowienia."
+
+#~ msgid ""
+#~ "Increases the damage dealt by 17&#37;. Also increases the chance to hit "
+#~ "your enemy with attacks and to evade enemy attacks for 60 seconds. Every "
+#~ "skill level raises the chance to hit and to evade by a small amount. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Zwiększa zadawane obrażenia o 17&#37;. Zwiększa również szansę na "
+#~ "trafienie wroga atakami i uniknięcie ataków wroga na 60 sekund. Każdy "
+#~ "poziom umiejętności zwiększa szansę na trafienie i uniknięcie. 30 sekund "
+#~ "do odnowienia."
+
+#~ msgid ""
+#~ "Increases the damage dealt by 18&#37;. Also increases the chance to hit "
+#~ "your enemy with attacks and to evade enemy attacks for 60 seconds. Every "
+#~ "skill level raises the chance to hit and to evade by a small amount. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Zwiększa zadawane obrażenia o 18&#37;. Zwiększa również szansę na "
+#~ "trafienie wroga atakami i uniknięcie ataków wroga na 60 sekund. Każdy "
+#~ "poziom umiejętności zwiększa szansę na trafienie i uniknięcie. 30 sekund "
+#~ "do odnowienia."
+
+#~ msgid ""
+#~ "Increases the damage dealt by 19&#37;. Also increases the chance to hit "
+#~ "your enemy with attacks and to evade enemy attacks for 60 seconds. Every "
+#~ "skill level raises the chance to hit and to evade by a small amount. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Zwiększa zadawane obrażenia o 19&#37;. Zwiększa również szansę na "
+#~ "trafienie wroga atakami i uniknięcie ataków wroga na 60 sekund. Każdy "
+#~ "poziom umiejętności zwiększa szansę na trafienie i uniknięcie. 30 sekund "
+#~ "do odnowienia."
+
+#~ msgid ""
+#~ "Increases the damage dealt by 20&#37;. Also increases the chance to hit "
+#~ "your enemy with attacks and to evade enemy attacks for 60 seconds. Every "
+#~ "skill level raises the chances to hit and to evade by a small amount. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Zwiększa zadawane obrażenia o 20&#37;. Zwiększa również szansę na "
+#~ "trafienie wroga atakami i uniknięcie ataków wroga na 60 sekund. Każdy "
+#~ "poziom umiejętności zwiększa szansę na trafienie i uniknięcie. 30 sekund "
+#~ "do odnowienia."
+
+#~ msgid ""
+#~ "Blocks an enemy attack with your shield and counter them, reducing damage "
+#~ "taken by 63&#37; and retaliating 88&#37; of the original damage for the "
+#~ "next 5 enemy attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Blokuje atak wroga Twoją tarczą i przeciwdziała im, redukuje otrzymywane "
+#~ "obrażenia o 63&#37; i odwzajemnia 88&#37 oryginalnych obrażeń na następne "
+#~ "5 ataków wrogów. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Blocks an enemy attack with your shield and counter them, reducing damage "
+#~ "taken by 66&#37; and retaliating 92&#37; of the original damage for the "
+#~ "next 5 enemy attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Blokuje atak wroga Twoją tarczą i przeciwdziała im, redukuje otrzymywane "
+#~ "obrażenia o 66&#37; i odwzajemnia 92&#37 oryginalnych obrażeń na następne "
+#~ "5 ataków wrogów. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Blocks an enemy attack with your shield and counter them, reducing damage "
+#~ "taken by 69&#37; and retaliating 96&#37; of the original damage for the "
+#~ "next 5 enemy attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Blokuje atak wroga Twoją tarczą i przeciwdziała im, redukuje otrzymywane "
+#~ "obrażenia o 96&#37; i odwzajemnia 96&#37 oryginalnych obrażeń na następne "
+#~ "5 ataków wrogów. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Blocks an enemy attack with your shield and counter them, reducing damage "
+#~ "taken by 72&#37; and retaliating 100&#37; of the original damage for the "
+#~ "next 5 enemy attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Blokuje atak wroga Twoją tarczą i przeciwdziała im, redukuje otrzymywane "
+#~ "obrażenia o 72&#37; i odwzajemnia 100&#37 oryginalnych obrażeń na następne "
+#~ "5 ataków wrogów. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Blocks an enemy attack with your shield and counter them, reducing damage "
+#~ "taken by 75&#37; and retaliating 104&#37; of the original damage for the "
+#~ "next 5 enemy attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Blokuje atak wroga Twoją tarczą i przeciwdziała im, redukuje otrzymywane "
+#~ "obrażenia o 75&#37; i odwzajemnia 104&#37 oryginalnych obrażeń na następne "
+#~ "5 ataków wrogów. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Increases the minimum heal amount of your next 2 heal spells by 8&#37;. 20 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Zwiększa minimalną ilość leczenia Twoich następnych dwóch czarów do "
+#~ "leczenia o 8&#37;. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Increases the minimum heal amount of your next 2 heal spells by 15&#37;. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Zwiększa minimalną ilość leczenia Twoich następnych dwóch czarów do "
+#~ "leczenia o 15&#37;. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Increases the minimum heal amount of your next 2 heal spells by 23&#37;. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Zwiększa minimalną ilość leczenia Twoich następnych dwóch czarów do "
+#~ "leczenia o 23&#37;. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Increases the minimum heal amount of your next 2 heal spells by 30&#37;. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Zwiększa minimalną ilość leczenia Twoich następnych dwóch czarów do "
+#~ "leczenia o 30&#37;. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Increases the minimum heal amount of your next 2 heal spells by 38&#37;. "
+#~ "20 seconds cooldown."
+#~ msgstr ""
+#~ "Zwiększa minimalną ilość leczenia Twoich następnych dwóch czarów do "
+#~ "leczenia o 38&#37;. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Shows the element at which the monster is most vulnerable at . 40 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Pokazuje żywioł na jaki jest wrażliwy dany potwór. 40 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your dexterity, performing a guaranteed hit for the next attack. "
+#~ "50 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją zręczność, daje gwarantowane uderzenie na następny atak. 50 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your dexterity, performing a guaranteed hit for the next 2 "
+#~ "attacks. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją zręczność, daje gwarantowane uderzenie na następne 2 ataki. "
+#~ "50 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your dexterity, performing a guaranteed hit for the next 3 "
+#~ "attacks. 44 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją zręczność, daje gwarantowane uderzenie na następne 3 ataki. "
+#~ "50 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your dexterity, performing a guaranteed hit for the next 3 "
+#~ "attacks. 32 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją zręczność, daje gwarantowane uderzenie na następne 3 ataki. "
+#~ "50 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your dexterity, performing a guaranteed hit for the next 3 "
+#~ "attacks. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją zręczność, daje gwarantowane uderzenie na następne 3 ataki. "
+#~ "50 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Channels holy energy, increasing the healing caused by 9&#37; for your "
+#~ "next 2 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Przewodzi świętą energię, zwiększa przyczynę leczenia o 9&337; na Twoje "
+#~ "kolejne 2 czary leczenia. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Channels holy energy, increasing the healing caused by 11&#37; for your "
+#~ "next 2 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Przewodzi świętą energię, zwiększa przyczynę leczenia o 11&337; na Twoje "
+#~ "kolejne 2 czary leczenia. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Channels holy energy, increasing the healing caused by 12&#37; for your "
+#~ "next 2 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Przewodzi świętą energię, zwiększa przyczynę leczenia o 12&337; na Twoje "
+#~ "kolejne 2 czary leczenia. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Channels holy energy, increasing the healing caused by 14&#37; for your "
+#~ "next 2 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Przewodzi świętą energię, zwiększa przyczynę leczenia o 14&337; na Twoje "
+#~ "kolejne 2 czary leczenia. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Channels holy energy, increasing the healing caused by 15&#37; for your "
+#~ "next 2 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Przewodzi świętą energię, zwiększa przyczynę leczenia o 15&337; na Twoje "
+#~ "kolejne 2 czary leczenia. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Screams in a very high tone, causing all enemies in 3 yard range to take a "
+#~ "step back and search for a new target. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Krzyczy bardzo wysokim tonem, powodując że wszyscy wrogowie w zasięgu 3 "
+#~ "metrów uciekają i szukają nowych celów. 50 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Screams in a very high tone, causing all enemies in 3 yard range to take a "
+#~ "step back and search for a new target. 45 seconds cooldown."
+#~ msgstr ""
+#~ "Krzyczy bardzo wysokim tonem, powodując że wszyscy wrogowie w zasięgu 3 "
+#~ "metrów uciekają i szukają nowych celów. 45 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Screams in a very high tone, causing all enemies in 3 yard range to take a "
+#~ "step back and search for a new target. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Krzyczy bardzo wysokim tonem, powodując że wszyscy wrogowie w zasięgu 3 "
+#~ "metrów uciekają i szukają nowych celów. 40 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Screams in a very high tone, causing all enemies in 3 yard range to take a "
+#~ "step back and search for a new target. 35 seconds cooldown."
+#~ msgstr ""
+#~ "Krzyczy bardzo wysokim tonem, powodując że wszyscy wrogowie w zasięgu 3 "
+#~ "metrów uciekają i szukają nowych celów. 35 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Screams in a very high tone, causing all enemies in 3 yard range to take a "
+#~ "step back and search for a new target. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Krzyczy bardzo wysokim tonem, powodując że wszyscy wrogowie w zasięgu 3 "
+#~ "metrów uciekają i szukają nowych celów. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 5&#37; for the "
+#~ "next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o 5&#37; na "
+#~ "następne 2 czary. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 7&#37; for the "
+#~ "next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o 7&#37; na "
+#~ "następne 2 czary. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 9&#37; for the "
+#~ "next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o 9&#37; na "
+#~ "następne 2 czary. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 12&#37; for "
+#~ "the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o 12&#37; na "
+#~ "następne 2 czary. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 15&#37; for "
+#~ "the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o 15&#37; na "
+#~ "następne 2 czary. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your weapon with holy energy, performing a guaranteed hit and "
+#~ "increasing the damage dealt by 7&#37; for the next 5 attacks. 45 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń świętą energią, daje gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 7&#37; na następne 5 ataków. 45 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your weapon with holy energy, performing a guaranteed hit and "
+#~ "increasing the damage dealt by 11&#37; for the next 5 attacks. 45 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń świętą energią, daje gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 11&#37; na następne 5 ataków. 45 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your weapon with holy energy, performing a guaranteed hit and "
+#~ "increasing the damage dealt by 16&#37; for the next 5 attacks. 45 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń świętą energią, daje gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 16&#37; na następne 5 ataków. 45 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your weapon with holy energy, performing a guaranteed hit and "
+#~ "increasing the damage dealt by 20&#37; for the next 5 attacks. 45 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń świętą energią, daje gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 20&#37; na następne 5 ataków. 45 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your weapon with holy energy, performing a guaranteed hit and "
+#~ "increasing the damage dealt by 25&#37; for the next 5 attacks. 45 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń świętą energią, daje gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 25&#37; na następne 5 ataków. 45 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Amplifies your holy energy, causing your healing spells to heal yourself "
+#~ "and an additional nearby ally with 61&#37; of the original heal amount for "
+#~ "the next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją świętą energię, powodując że Twoje czary leczące uleczą "
+#~ "najbliższych sojuszników z 61&#37; oryginalnego leczenia na następne 2 "
+#~ "czary leczące. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Amplifies your holy energy, causing your healing spells to heal yourself "
+#~ "and an additional nearby ally with 62&#37; of the original heal amount for "
+#~ "the next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją świętą energię, powodując że Twoje czary leczące uleczą "
+#~ "najbliższych sojuszników z 62&#37; oryginalnego leczenia na następne 2 "
+#~ "czary leczące. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Amplifies your holy energy, causing your healing spells to heal yourself "
+#~ "and an additional nearby ally with 63&#37; of the original heal amount for "
+#~ "the next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją świętą energię, powodując że Twoje czary leczące uleczą "
+#~ "najbliższych sojuszników z 63&#37; oryginalnego leczenia na następne 2 "
+#~ "czary leczące. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Amplifies your holy energy, causing your healing spells to heal yourself "
+#~ "and an additional nearby ally with 64&#37; of the original heal amount for "
+#~ "the next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją świętą energię, powodując że Twoje czary leczące uleczą "
+#~ "najbliższych sojuszników z 64&#37; oryginalnego leczenia na następne 2 "
+#~ "czary leczące. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Amplifies your holy energy, causing your healing spells to heal yourself "
+#~ "and an additional nearby ally with 65&#37; of the original heal amount for "
+#~ "the next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją świętą energię, powodując że Twoje czary leczące uleczą "
+#~ "najbliższych sojuszników z 65&#37; oryginalnego leczenia na następne 2 "
+#~ "czary leczące. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Shifts yourself to a meditating state, regenerating 40&#37; of your total "
+#~ "health and mana over 15 seconds. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Wprowadza Cię w stan medytacji, regeneruje 40&#37; całej many oraz życia w "
+#~ "ciągu 15 sekund. 90 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Shifts yourself to a meditating state, regenerating 45&#37; of your total "
+#~ "health and mana over 15 seconds. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Wprowadza Cię w stan medytacji, regeneruje 45&#37; całej many oraz życia w "
+#~ "ciągu 15 sekund. 90 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Shifts yourself to a meditating state, regenerating 50&#37; of your total "
+#~ "health and mana over 15 seconds. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Wprowadza Cię w stan medytacji, regeneruje 50&#37; całej many oraz życia w "
+#~ "ciągu 15 sekund. 90 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Shifts yourself to a meditating state, regenerating 55&#37; of your total "
+#~ "health and mana over 15 seconds. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Wprowadza Cię w stan medytacji, regeneruje 55&#37; całej many oraz życia w "
+#~ "ciągu 15 sekund. 90 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Shifts yourself to a meditating state, regenerating 60&#37; of your total "
+#~ "health and mana over 15 seconds. 90 seconds cooldown."
+#~ msgstr ""
+#~ "Wprowadza Cię w stan medytacji, regeneruje 60&#37; całej many oraz życia w "
+#~ "ciągu 15 sekund. 90 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds your weapon with an electrical field, performing a guaranteed "
+#~ "hit and incapacitating your target for 2.0 seconds with your next attack. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Twoją broń polem elektrycznym, daje gwarantowane uderzenie i "
+#~ "obezwładnia Twój cel na 2.0 sekundy. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds your weapon with an electrical field, performing a guaranteed "
+#~ "hit and incapacitating your target for 2.5 seconds with your next attack. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Twoją broń polem elektrycznym, daje gwarantowane uderzenie i "
+#~ "obezwładnia Twój cel na 2.5 sekundy. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds your weapon with an electrical field, performing a guaranteed "
+#~ "hit and incapacitating your target for 3.0 seconds with your next attack. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Twoją broń polem elektrycznym, daje gwarantowane uderzenie i "
+#~ "obezwładnia Twój cel na 3.0 sekundy. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds your weapon with an electrical field, performing a guaranteed "
+#~ "hit and incapacitating your target for 3.5 seconds with your next attack. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Twoją broń polem elektrycznym, daje gwarantowane uderzenie i "
+#~ "obezwładnia Twój cel na 3.5 sekundy. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds your weapon with an electrical field, performing a guaranteed "
+#~ "hit and incapacitating your target for 4.0 seconds with your next attack. "
+#~ "30 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Twoją broń polem elektrycznym, daje gwarantowane uderzenie i "
+#~ "obezwładnia Twój cel na 4.0 sekundy. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Fills yourself with a burst of holy energy, increasing the healing caused "
+#~ "by 15&#37; for your next 3 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Napełnia się sercem świętej energii, zwiększa leczenie o 15&#37; na Twoje "
+#~ "3 następne czary leczące. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Fills yourself with a burst of holy energy, increasing the healing caused "
+#~ "by 16&#37; for your next 3 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Napełnia się sercem świętej energii, zwiększa leczenie o 16&#37; na Twoje "
+#~ "3 następne czary leczące. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Fills yourself with a burst of holy energy, increasing the healing caused "
+#~ "by 17&#37; for your next 3 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Napełnia się sercem świętej energii, zwiększa leczenie o 17&#37; na Twoje "
+#~ "3 następne czary leczące. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Fills yourself with a burst of holy energy, increasing the healing caused "
+#~ "by 19&#37; for your next 3 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Napełnia się sercem świętej energii, zwiększa leczenie o 19&#37; na Twoje "
+#~ "3 następne czary leczące. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Fills yourself with a burst of holy energy, increasing the healing caused "
+#~ "by 20&#37; for your next 3 healing spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Napełnia się sercem świętej energii, zwiększa leczenie o 20&#37; na Twoje "
+#~ "3 następne czary leczące. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your spells with holy energy, performing a guaranteed hit and "
+#~ "increasing the minimum damage amount of your spells by 72&#37; for next 3 "
+#~ "spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoje czary świętą energią, daje gwarantowane uderzenie i "
+#~ "zwiększa minimalne obrażenia czarów o 72&#37; na następne 3 czary. 20 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your spells with holy energy, performing a guaranteed hit and "
+#~ "increasing the minimum damage amount of your spells by 84&#37; for next 3 "
+#~ "spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoje czary świętą energią, daje gwarantowane uderzenie i "
+#~ "zwiększa minimalne obrażenia czarów o 84&#37; na następne 3 czary. 20 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your spells with holy energy, performing a guaranteed hit and "
+#~ "increasing the minimum damage amount of your spells by 95&#37; for next 3 "
+#~ "spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoje czary świętą energią, daje gwarantowane uderzenie i "
+#~ "zwiększa minimalne obrażenia czarów o 95&#37; na następne 3 czary. 20 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your spells with holy energy, performing a guaranteed hit and "
+#~ "increasing the minimum damage amount of your spells by 106&#37; for next 3 "
+#~ "spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoje czary świętą energią, daje gwarantowane uderzenie i "
+#~ "zwiększa minimalne obrażenia czarów o 106&#37; na następne 3 czary. 20 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enhances your spells with holy energy, performing a guaranteed hit and "
+#~ "increasing the minimum damage amount of your spells by 117&#37; for next 3 "
+#~ "spells. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoje czary świętą energią, daje gwarantowane uderzenie i "
+#~ "zwiększa minimalne obrażenia czarów o 117&#37; na następne 3 czary. 20 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "A mighty phrase added to your spells that sunders the armour of your "
+#~ "enemy. Performs a guaranteed hit and reduces the armour of your enemy by "
+#~ "18&#37; for the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Potężna fraza dodana do Twoich czarów która odrywa ich zbroję. Daje "
+#~ "gwarantowane uderzenie i redukuje opancerzenie wroga o 18&#37; na następne "
+#~ "2 czary. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "A mighty phrase added to your spells that sunders the armour of your "
+#~ "enemy. Performs a guaranteed hit and reduces the armour of your enemy by "
+#~ "21&#37; for the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Potężna fraza dodana do Twoich czarów która odrywa ich zbroję. Daje "
+#~ "gwarantowane uderzenie i redukuje opancerzenie wroga o 21&#37; na następne "
+#~ "2 czary. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "A mighty phrase added to your spells that sunders the armour of your "
+#~ "enemy. Performs a guaranteed hit and reduces the armour of your enemy by "
+#~ "24&#37; for the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Potężna fraza dodana do Twoich czarów która odrywa ich zbroję. Daje "
+#~ "gwarantowane uderzenie i redukuje opancerzenie wroga o 24&#37; na następne "
+#~ "2 czary. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "A mighty phrase added to your spells that sunders the armour of your "
+#~ "enemy. Performs a guaranteed hit and reduces the armour of your enemy by "
+#~ "27&#37; for the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Potężna fraza dodana do Twoich czarów która odrywa ich zbroję. Daje "
+#~ "gwarantowane uderzenie i redukuje opancerzenie wroga o 27&#37; na następne "
+#~ "2 czary. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "A mighty phrase added to your spells that sunders the armour of your "
+#~ "enemy. Performs a guaranteed hit and reduces the armour of your enemy by "
+#~ "30&#37; for the next 2 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Potężna fraza dodana do Twoich czarów która odrywa ich zbroję. Daje "
+#~ "gwarantowane uderzenie i redukuje opancerzenie wroga o 30&#37; na następne "
+#~ "2 czary. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Reduces the mana costs of your weapon by 30&#37; for the next 20 seconds. "
+#~ "50 seconds cooldown."
+#~ msgstr ""
+#~ "Redukuje koszty many Twojej broni o 30&#37; na następne 20 sekund. 50 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Reduces the mana costs of your weapon by 35&#37; for the next 20 seconds. "
+#~ "50 seconds cooldown."
+#~ msgstr ""
+#~ "Redukuje koszty many Twojej broni o 35&#37; na następne 20 sekund. 50 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Reduces the mana costs of your weapon by 40&#37; for the next 20 seconds. "
+#~ "50 seconds cooldown."
+#~ msgstr ""
+#~ "Redukuje koszty many Twojej broni o 40&#37; na następne 20 sekund. 50 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Reduces the mana costs of your weapon by 45&#37; for the next 20 seconds. "
+#~ "50 seconds cooldown."
+#~ msgstr ""
+#~ "Redukuje koszty many Twojej broni o 45&#37; na następne 20 sekund. 50 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Reduces the mana costs of your weapon by 50&#37; for the next 20 seconds. "
+#~ "50 seconds cooldown."
+#~ msgstr ""
+#~ "Redukuje koszty many Twojej broni o 50&#37; na następne 20 sekund. 50 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "A dexterous strike that performs a guaranteed hit and increases the damage "
+#~ "dealt by 26&#37; for the next 5 attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Zręczny cios, który daje gwarantowane uderzenie oraz zwiększa zadawane "
+#~ "obrażenia o 26&#37; na następne 5 ataków. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "A dexterous strike that performs a guaranteed hit and increases the damage "
+#~ "dealt by 31&#37; for the next 5 attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Zręczny cios, który daje gwarantowane uderzenie oraz zwiększa zadawane "
+#~ "obrażenia o 31#37; na następne 5 ataków. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "A dexterous strike that performs a guaranteed hit and increases the damage "
+#~ "dealt by 35&#37; for the next 5 attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Zręczny cios, który daje gwarantowane uderzenie oraz zwiększa zadawane "
+#~ "obrażenia o 35#37; na następne 5 ataków. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "A dexterous strike that performs a guaranteed hit and increases the damage "
+#~ "dealt by 39&#37; for the next 5 attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Zręczny cios, który daje gwarantowane uderzenie oraz zwiększa zadawane "
+#~ "obrażenia o 39#37; na następne 5 ataków. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "A dexterous strike that performs a guaranteed hit and increases the damage "
+#~ "dealt by 44&#37; for the next 5 attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Zręczny cios, który daje gwarantowane uderzenie oraz zwiększa zadawane "
+#~ "obrażenia o 44#37; na następne 5 ataków. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+#~ "for 10 seconds. 50 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Cię tajemniczą różdżką, chroniąc się od debuffów wrogów na 10 "
+#~ "sekund. 50 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+#~ "for 10 seconds. 45 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Cię tajemniczą różdżką, chroniąc się od debuffów wrogów na 10 "
+#~ "sekund. 45sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+#~ "for 10 seconds. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Cię tajemniczą różdżką, chroniąc się od debuffów wrogów na 10 "
+#~ "sekund. 40sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+#~ "for 10 seconds. 35 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Cię tajemniczą różdżką, chroniąc się od debuffów wrogów na 10 "
+#~ "sekund. 35sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds you with an arcane ward, protecting yourself from enemy debuffs "
+#~ "for 10 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Cię tajemniczą różdżką, chroniąc się od debuffów wrogów na 10 "
+#~ "sekund. 30sekund do odnowienia."
+
+#~ msgid ""
+#~ "A stream of holy energy flows through your body, causing your healing "
+#~ "spells to heal yourself and all allies in 3 yards range with 71&#37; of "
+#~ "the original heal amount for next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Strumień świętej energii przepływa przez Twoje ciało sprawiając, że czary "
+#~ "leczenia leczą Ciebie i wszystkich Twoich sojuszników w zasięgu 3 metrów z "
+#~ "71&#37; oryginalnego leczenia na następne 2 czary leczące. 30 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "A stream of holy energy flows through your body, causing your healing "
+#~ "spells to heal yourself and all allies in 3 yards range with 72&#37; of "
+#~ "the original heal amount for next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Strumień świętej energii przepływa przez Twoje ciało sprawiając, że czary "
+#~ "leczenia leczą Ciebie i wszystkich Twoich sojuszników w zasięgu 3 metrów z "
+#~ "72#37; oryginalnego leczenia na następne 2 czary leczące. 30 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "A stream of holy energy flows through your body, causing your healing "
+#~ "spells to heal yourself and all allies in 3 yards range with 73&#37; of "
+#~ "the original heal amount for next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Strumień świętej energii przepływa przez Twoje ciało sprawiając, że czary "
+#~ "leczenia leczą Ciebie i wszystkich Twoich sojuszników w zasięgu 3 metrów z "
+#~ "73#37; oryginalnego leczenia na następne 2 czary leczące. 30 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "A stream of holy energy flows through your body, causing your healing "
+#~ "spells to heal yourself and all allies in 3 yards range with 74&#37; of "
+#~ "the original heal amount for next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Strumień świętej energii przepływa przez Twoje ciało sprawiając, że czary "
+#~ "leczenia leczą Ciebie i wszystkich Twoich sojuszników w zasięgu 3 metrów z "
+#~ "74#37; oryginalnego leczenia na następne 2 czary leczące. 30 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "A stream of holy energy flows through your body, causing your healing "
+#~ "spells to heal yourself and all allies in 3 yards range with 75&#37; of "
+#~ "the original heal amount for next to 2 healing spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Strumień świętej energii przepływa przez Twoje ciało sprawiając, że czary "
+#~ "leczenia leczą Ciebie i wszystkich Twoich sojuszników w zasięgu 3 metrów z "
+#~ "75#37; oryginalnego leczenia na następne 2 czary leczące. 30 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 41&#37; for "
+#~ "next 5 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o 41&#37; na "
+#~ "następne 5 czarów. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 43&#37; for "
+#~ "next 5 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o 43&#37; na "
+#~ "następne 5 czarów. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 45&#37; for "
+#~ "next 5 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o 45&#37; na "
+#~ "następne 5 czarów. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 48&#37; for "
+#~ "next 5 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o 48&#37; na "
+#~ "następne 5 czarów. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt by 50&#37; for "
+#~ "next 5 spells. 24 seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o 50&#37; na "
+#~ "następne 5 czarów. 24 sekundy do odnowienia."
+
+#~ msgid ""
+#~ "Enchants your weapon with a mana leeching aura, performing a guaranteed "
+#~ "hit and draining 26&#37; of your damage dealt as mana for the next 7 "
+#~ "attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń aurą wysysania many, daje gwarantowane uderzenie i "
+#~ "wysysa 26&#37; Twoich obrażeń jako manę na następne 7 ataków. 20 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Enchants your weapon with a mana leeching aura, performing a guaranteed "
+#~ "hit and draining 27&#37; of your damage dealt as mana for the next 7 "
+#~ "attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń aurą wysysania many, daje gwarantowane uderzenie i "
+#~ "wysysa 27&#37; Twoich obrażeń jako manę na następne 7 ataków. 20 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Enchants your weapon with a mana leeching aura, performing a guaranteed "
+#~ "hit and draining 28&#37; of your damage dealt as mana for the next 7 "
+#~ "attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń aurą wysysania many, daje gwarantowane uderzenie i "
+#~ "wysysa 28&#37; Twoich obrażeń jako manę na następne 7 ataków. 20 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Enchants your weapon with a mana leeching aura, performing a guaranteed "
+#~ "hit and draining 29&#37; of your damage dealt as mana for the next 7 "
+#~ "attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń aurą wysysania many, daje gwarantowane uderzenie i "
+#~ "wysysa 29&#37; Twoich obrażeń jako manę na następne 7 ataków. 20 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Enchants your weapon with a mana leeching aura, performing a guaranteed "
+#~ "hit and draining 30&#37; of your damage dealt as mana for the next 7 "
+#~ "attacks. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń aurą wysysania many, daje gwarantowane uderzenie i "
+#~ "wysysa 30&#37; Twoich obrażeń jako manę na następne 7 ataków. 20 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Confuse the mind of your enemy with a powerful spell, granting a chance to "
+#~ "discharge target offensive skill by 80&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Myli umysł wroga potężnym zaklęciem, daje szansę do rozładowania "
+#~ "ofensywnych umiejętności o 80&#37; i defensywnych o 25&#37;. Defensywne "
+#~ "umiejętności potworów nie mogą zostać rozładowane. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Confuse the mind of your enemy with a powerful spell, granting a chance to "
+#~ "discharge target offensive skill by 85&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Myli umysł wroga potężnym zaklęciem, daje szansę do rozładowania "
+#~ "ofensywnych umiejętności o 85&#37; i defensywnych o 25&#37;. Defensywne "
+#~ "umiejętności potworów nie mogą zostać rozładowane. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Confuse the mind of your enemy with a powerful spell, granting a chance to "
+#~ "discharge target offensive skill by 90&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Myli umysł wroga potężnym zaklęciem, daje szansę do rozładowania "
+#~ "ofensywnych umiejętności o 90&#37; i defensywnych o 25&#37;. Defensywne "
+#~ "umiejętności potworów nie mogą zostać rozładowane. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Confuse the mind of your enemy with a powerful spell, granting a chance to "
+#~ "discharge target offensive skill by 95&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Myli umysł wroga potężnym zaklęciem, daje szansę do rozładowania "
+#~ "ofensywnych umiejętności o 95&#37; i defensywnych o 25&#37;. Defensywne "
+#~ "umiejętności potworów nie mogą zostać rozładowane. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Confuse the mind of your enemy with a powerful spell, granting a chance to "
+#~ "discharge target offensive skill by 100&#37; and defensive skill by "
+#~ "25&#37;. Monsters defensive skills can't be discharged. 30 seconds "
+#~ "cooldown."
+#~ msgstr ""
+#~ "Myli umysł wroga potężnym zaklęciem, daje szansę do rozładowania "
+#~ "ofensywnych umiejętności o 100&#37; i defensywnych o 25&#37;. Defensywne "
+#~ "umiejętności potworów nie mogą zostać rozładowane. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Creates a magic barrier around you that either protects yourself from the "
+#~ "next 2 aggressive spells or absorbs 60&#37; of the next 162 damage taken. "
+#~ "First completed effect will end the skill. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Tworzy magiczną barierę wokół Ciebie która zarówno chroni Cię od "
+#~ "następnych 2 agresywnych czarów lub absorbuje 60&#37; następnych 162 "
+#~ "otrzymywanych obrażeń. Pierwszy ukończony efekt zakończy umiejętność. 60 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Creates a magic barrier around you that either protects yourself from the "
+#~ "next 2 aggressive spells or absorbs 60&#37; of the next 173 damage taken. "
+#~ "First completed effect will end the skill. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Tworzy magiczną barierę wokół Ciebie która zarówno chroni Cię od "
+#~ "następnych 2 agresywnych czarów lub absorbuje 60&#37; następnych 173 "
+#~ "otrzymywanych obrażeń. Pierwszy ukończony efekt zakończy umiejętność. 60 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Creates a magic barrier around you that either protects yourself from the "
+#~ "next 2 aggressive spells or absorbs 60&#37; of the next 186 damage taken. "
+#~ "First completed effect will end the skill. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Tworzy magiczną barierę wokół Ciebie która zarówno chroni Cię od "
+#~ "następnych 2 agresywnych czarów lub absorbuje 60&#37; następnych 186 "
+#~ "otrzymywanych obrażeń. Pierwszy ukończony efekt zakończy umiejętność. 60 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Creates a magic barrier around you that either protects yourself from the "
+#~ "next 2 aggressive spells or absorbs 60&#37; of the next 198 damage taken. "
+#~ "First completed effect will end the skill. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Tworzy magiczną barierę wokół Ciebie która zarówno chroni Cię od "
+#~ "następnych 2 agresywnych czarów lub absorbuje 60&#37; następnych 198 "
+#~ "otrzymywanych obrażeń. Pierwszy ukończony efekt zakończy umiejętność. 60 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Creates a magic barrier around you that either protects yourself from the "
+#~ "next 2 aggressive spells or absorbs 60&#37; of the next 212 damage taken. "
+#~ "First completed effect will end the skill. 60 seconds cooldown."
+#~ msgstr ""
+#~ "Tworzy magiczną barierę wokół Ciebie która zarówno chroni Cię od "
+#~ "następnych 2 agresywnych czarów lub absorbuje 60&#37; następnych 212 "
+#~ "otrzymywanych obrażeń. Pierwszy ukończony efekt zakończy umiejętność. 60 "
+#~ "sekund do odnowienia."
+
+#~ msgid ""
+#~ "Renews your body with holy energy, regenerating 42&#37; of your total "
+#~ "health and mana over 30 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Odnawia Twoje ciało świętą energią, regeneruje 42&#37; Twojej całej many "
+#~ "oraz życia w ciągu 30 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Renews your body with holy energy, regenerating 44&#37; of your total "
+#~ "health and mana over 30 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Odnawia Twoje ciało świętą energią, regeneruje 44&#37; Twojej całej many "
+#~ "oraz życia w ciągu 30 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Renews your body with holy energy, regenerating 46&#37; of your total "
+#~ "health and mana over 30 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Odnawia Twoje ciało świętą energią, regeneruje 46&#37; Twojej całej many "
+#~ "oraz życia w ciągu 30 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Renews your body with holy energy, regenerating 48&#37; of your total "
+#~ "health and mana over 30 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Odnawia Twoje ciało świętą energią, regeneruje 48&#37; Twojej całej many "
+#~ "oraz życia w ciągu 30 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Renews your body with holy energy, regenerating 50&#37; of your total "
+#~ "health and mana over 30 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Odnawia Twoje ciało świętą energią, regeneruje 50&#37; Twojej całej many "
+#~ "oraz życia w ciągu 30 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds you with a holy ward, reducing damage taken by 67&#37; for the "
+#~ "next 7 attacks and charging the ward. When ward fades you get healed by "
+#~ "the ward's charge. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Cię świętym oddziałem, redukuje otrzymywane obrażenia o 67&#37; na "
+#~ "7 następnych ataków i rozładowuje oddział. Gdy oddział zanika zostaniesz "
+#~ "uleczony przez ładunek oddziału. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds you with a holy ward, reducing damage taken by 69&#37; for the "
+#~ "next 7 attacks and charging the ward. When ward fades you get healed by "
+#~ "the ward's charge. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Cię świętym oddziałem, redukuje otrzymywane obrażenia o 69&#37; na "
+#~ "7 następnych ataków i rozładowuje oddział. Gdy oddział zanika zostaniesz "
+#~ "uleczony przez ładunek oddziału. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds you with a holy ward, reducing damage taken by 71&#37; for the "
+#~ "next 7 attacks and charging the ward. When ward fades you get healed by "
+#~ "the ward's charge. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Cię świętym oddziałem, redukuje otrzymywane obrażenia o 71&#37; na "
+#~ "7 następnych ataków i rozładowuje oddział. Gdy oddział zanika zostaniesz "
+#~ "uleczony przez ładunek oddziału. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds you with a holy ward, reducing damage taken by 73&#37; for the "
+#~ "next 7 attacks and charging the ward. When ward fades you get healed by "
+#~ "the ward's charge. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Cię świętym oddziałem, redukuje otrzymywane obrażenia o 73&#37; na "
+#~ "7 następnych ataków i rozładowuje oddział. Gdy oddział zanika zostaniesz "
+#~ "uleczony przez ładunek oddziału. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Surrounds you with a holy ward, reducing damage taken by 75&#37; for the "
+#~ "next 7 attacks and charging the ward. When ward fades you get healed by "
+#~ "the ward's charge. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Otacza Cię świętym oddziałem, redukuje otrzymywane obrażenia o 75&#37; na "
+#~ "7 następnych ataków i rozładowuje oddział. Gdy oddział zanika zostaniesz "
+#~ "uleczony przez ładunek oddziału. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+#~ "for 18 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Łączy magiczną pustkę, redukuje czas odnawiania Twoich czarów o 50&#37; na "
+#~ "18 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+#~ "for 21 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Łączy magiczną pustkę, redukuje czas odnawiania Twoich czarów o 50&#37; na "
+#~ "21 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+#~ "for 24 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Łączy magiczną pustkę, redukuje czas odnawiania Twoich czarów o 50&#37; na "
+#~ "24 sekundy. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+#~ "for 27 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Łączy magiczną pustkę, redukuje czas odnawiania Twoich czarów o 50&#37; na "
+#~ "27 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Bridges the magical void, reducing the cooldown of your spells by 50&#37; "
+#~ "for 30 seconds. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Łączy magiczną pustkę, redukuje czas odnawiania Twoich czarów o 50&#37; na "
+#~ "30 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Forming a gaping hole in the magic stream allows you to cast spells at a "
+#~ "much lower mana consumption. Reduces the mana costs of your spells by "
+#~ "50&#37; for the next 22 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Formuje rozwartą dziurę w magicznym strumieniu dając Ci możliwość do "
+#~ "rzucenia czarów z mniejszą konsumpcją many. Redukuje koszt many dla czarów "
+#~ "o 50&#37; na 22 sekundy. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Forming a gaping hole in the magic stream allows you to cast spells at a "
+#~ "much lower mana consumption. Reduces the mana costs of your spells by "
+#~ "50&#37; for the next 24 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Formuje rozwartą dziurę w magicznym strumieniu dając Ci możliwość do "
+#~ "rzucenia czarów z mniejszą konsumpcją many. Redukuje koszt many dla czarów "
+#~ "o 50&#37; na 24 sekundy. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Forming a gaping hole in the magic stream allows you to cast spells at a "
+#~ "much lower mana consumption. Reduces the mana costs of your spells by "
+#~ "50&#37; for the next 26 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Formuje rozwartą dziurę w magicznym strumieniu dając Ci możliwość do "
+#~ "rzucenia czarów z mniejszą konsumpcją many. Redukuje koszt many dla czarów "
+#~ "o 50&#37; na 26 sekund. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Forming a gaping hole in the magic stream allows you to cast spells at a "
+#~ "much lower mana consumption. Reduces the mana costs of your spells by "
+#~ "50&#37; for the next 28 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Formuje rozwartą dziurę w magicznym strumieniu dając Ci możliwość do "
+#~ "rzucenia czarów z mniejszą konsumpcją many. Redukuje koszt many dla czarów "
+#~ "o 50&#37; na 28 sekund. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Forming a gaping hole in the magic stream allows you to cast spells at a "
+#~ "much lower mana consumption. Reduces the mana costs of your spells by "
+#~ "50&#37; for the next 30 seconds. 20 seconds cooldown."
+#~ msgstr ""
+#~ "Formuje rozwartą dziurę w magicznym strumieniu dając Ci możliwość do "
+#~ "rzucenia czarów z mniejszą konsumpcją many. Redukuje koszt many dla czarów "
+#~ "o 50&#37; na 30 sekund. 20 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enchants your weapon with a vampiric aura, performing a guaranteed hit and "
+#~ "draining 31&#37; of your damage dealt as heal for the next 3 attacks. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń wampiryczną aurą, daje gwarantowane uderzenie i wysysa "
+#~ "31&#37; zadanych obrażeń jako życie dla 3 następnych ataków. 30 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Enchants your weapon with a vampiric aura, performing a guaranteed hit and "
+#~ "draining 32&#37; of your damage dealt as heal for the next 3 attacks. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń wampiryczną aurą, daje gwarantowane uderzenie i wysysa "
+#~ "32&#37; zadanych obrażeń jako życie dla 3 następnych ataków. 30 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Enchants your weapon with a vampiric aura, performing a guaranteed hit and "
+#~ "draining 33&#37; of your damage dealt as heal for the next 3 attacks. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń wampiryczną aurą, daje gwarantowane uderzenie i wysysa "
+#~ "33&#37; zadanych obrażeń jako życie dla 3 następnych ataków. 30 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Enchants your weapon with a vampiric aura, performing a guaranteed hit and "
+#~ "draining 34&#37; of your damage dealt as heal for the next 3 attacks. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń wampiryczną aurą, daje gwarantowane uderzenie i wysysa "
+#~ "34&#37; zadanych obrażeń jako życie dla 3 następnych ataków. 30 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Enchants your weapon with a vampiric aura, performing a guaranteed hit and "
+#~ "draining 35&#37; of your damage dealt as heal for the next 3 attacks. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Wzmacnia Twoją broń wampiryczną aurą, daje gwarantowane uderzenie i wysysa "
+#~ "35&#37; zadanych obrażeń jako życie dla 3 następnych ataków. 30 sekund do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "A masterly weapon swing that performs a guaranteed hit and increases the "
+#~ "damage dealt by 79&#37; for next 5 attacks. 22 seconds cooldown."
+#~ msgstr ""
+#~ "Mistrzowska rękojeść broni, która daje gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 79&#37; na następne 5 ataków. 22 sekundy do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "A masterly weapon swing that performs a guaranteed hit and increases the "
+#~ "damage dealt by 83&#37; for next 5 attacks. 22 seconds cooldown."
+#~ msgstr ""
+#~ "Mistrzowska rękojeść broni, która daje gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 83&#37; na następne 5 ataków. 22 sekundy do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "A masterly weapon swing that performs a guaranteed hit and increases the "
+#~ "damage dealt by 87&#37; for next 5 attacks. 22 seconds cooldown."
+#~ msgstr ""
+#~ "Mistrzowska rękojeść broni, która daje gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 87&#37; na następne 5 ataków. 22 sekundy do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "A masterly weapon swing that performs a guaranteed hit and increases the "
+#~ "damage dealt by 90&#37; for next 5 attacks. 22 seconds cooldown."
+#~ msgstr ""
+#~ "Mistrzowska rękojeść broni, która daje gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 90&#37; na następne 5 ataków. 22 sekundy do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "A masterly weapon swing that performs a guaranteed hit and increases the "
+#~ "damage dealt by 94&#37; for next 5 attacks. 22 seconds cooldown."
+#~ msgstr ""
+#~ "Mistrzowska rękojeść broni, która daje gwarantowane uderzenie i zwiększa "
+#~ "zadawane obrażenia o 94&#37; na następne 5 ataków. 22 sekundy do "
+#~ "odnowienia."
+
+#~ msgid ""
+#~ "Enchants your armour with a mighty magic, reducing damage taken by 52&#37; "
+#~ "and regenerating 20&#37; of your total health and mana over 30 seconds. "
+#~ "Cooldown 30 seconds."
+#~ msgstr ""
+#~ "Wzmacnia Twój pancerz potężną magią, redukuje otrzymywane obrażenia o "
+#~ "52&#37; i regeneruje 20&337; całkowitej ilości many i życia w ciągu 30 "
+#~ "sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enchants your armour with a mighty magic, reducing damage taken by 54&#37; "
+#~ "and regenerating 20&#37; of your total health and mana over 30 seconds. "
+#~ "Cooldown 30 seconds."
+#~ msgstr ""
+#~ "Wzmacnia Twój pancerz potężną magią, redukuje otrzymywane obrażenia o "
+#~ "54&#37; i regeneruje 20&337; całkowitej ilości many i życia w ciągu 30 "
+#~ "sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enchants your armour with a mighty magic, reducing damage taken by 56&#37; "
+#~ "and regenerating 20&#37; of your total health and mana over 30 seconds. "
+#~ "Cooldown 30 seconds."
+#~ msgstr ""
+#~ "Wzmacnia Twój pancerz potężną magią, redukuje otrzymywane obrażenia o "
+#~ "56&#37; i regeneruje 20&337; całkowitej ilości many i życia w ciągu 30 "
+#~ "sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enchants your armour with a mighty magic, reducing damage taken by 58&#37; "
+#~ "and regenerating 20&#37; of your total health and mana over 30 seconds. "
+#~ "Cooldown 30 seconds."
+#~ msgstr ""
+#~ "Wzmacnia Twój pancerz potężną magią, redukuje otrzymywane obrażenia o "
+#~ "58&#37; i regeneruje 20&337; całkowitej ilości many i życia w ciągu 30 "
+#~ "sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Enchants your armour with a mighty magic, reducing damage taken by 60&#37; "
+#~ "and regenerating 20&#37; of your total health and mana over 30 seconds. "
+#~ "Cooldown 30 seconds."
+#~ msgstr ""
+#~ "Wzmacnia Twój pancerz potężną magią, redukuje otrzymywane obrażenia o "
+#~ "60&#37; i regeneruje 20&337; całkowitej ilości many i życia w ciągu 30 "
+#~ "sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "The long study of the arcane ways have made you a master of spell casting. "
+#~ "Performs a guaranteed hit and increases the damage dealt by 107&#37; for "
+#~ "next 5 spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Długie studiowanie tajemnych sposobów uczyniło Cię mistrzem rzucania "
+#~ "czarów. Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o "
+#~ "107&#37; na następne 5 czarów. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "The long study of the arcane ways have made you a master of spell casting. "
+#~ "Performs a guaranteed hit and increases the damage dealt by 110&#37; for "
+#~ "next 5 spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Długie studiowanie tajemnych sposobów uczyniło Cię mistrzem rzucania "
+#~ "czarów. Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o "
+#~ "110&#37; na następne 5 czarów. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "The long study of the arcane ways have made you a master of spell casting. "
+#~ "Performs a guaranteed hit and increases the damage dealt by 114&#37; for "
+#~ "next 5 spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Długie studiowanie tajemnych sposobów uczyniło Cię mistrzem rzucania "
+#~ "czarów. Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o "
+#~ "114&#37; na następne 5 czarów. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "The long study of the arcane ways have made you a master of spell casting. "
+#~ "Performs a guaranteed hit and increases the damage dealt by 117&#37; for "
+#~ "next 5 spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Długie studiowanie tajemnych sposobów uczyniło Cię mistrzem rzucania "
+#~ "czarów. Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o "
+#~ "117&#37; na następne 5 czarów. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "The long study of the arcane ways have made you a master of spell casting. "
+#~ "Performs a guaranteed hit and increases the damage dealt by 120&#37; for "
+#~ "next 5 spells. 30 seconds cooldown."
+#~ msgstr ""
+#~ "Długie studiowanie tajemnych sposobów uczyniło Cię mistrzem rzucania "
+#~ "czarów. Daje gwarantowane uderzenie i zwiększa zadawane obrażenia o "
+#~ "120&#37; na następne 5 czarów. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt with your attacks "
+#~ "by 74&#37;. Causes your healing spells to heal yourself and an additional "
+#~ "nearby ally with 82&#37; of the original heal amount. Lasts 10 seconds. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia Twoich ataków o "
+#~ "74&#37;. Sprawia że Twoje czary leczące leczą Ciebie i Twoich sojuszników "
+#~ "z 82&#37; oryginalnego leczenia. Trwa 10 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt with your attacks "
+#~ "by 79&#37;. Causes your healing spells to heal yourself and an additional "
+#~ "nearby ally with 83&#37; of the original heal amount. Lasts 10 seconds. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia Twoich ataków o "
+#~ "79&#37;. Sprawia że Twoje czary leczące leczą Ciebie i Twoich sojuszników "
+#~ "z 83&#37; oryginalnego leczenia. Trwa 10 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt with your attacks "
+#~ "by 83&#37;. Causes your healing spells to heal yourself and an additional "
+#~ "nearby ally with 85&#37; of the original heal amount. Lasts 10 seconds. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia Twoich ataków o "
+#~ "83&#37;. Sprawia że Twoje czary leczące leczą Ciebie i Twoich sojuszników "
+#~ "z 85&#37; oryginalnego leczenia. Trwa 10 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt with your attacks "
+#~ "by 88&#37;. Causes your healing spells to heal yourself and an additional "
+#~ "nearby ally with 86&#37; of the original heal amount. Lasts 10 seconds. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia Twoich ataków o "
+#~ "88&#37;. Sprawia że Twoje czary leczące leczą Ciebie i Twoich sojuszników "
+#~ "z 86&#37; oryginalnego leczenia. Trwa 10 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Performs a guaranteed hit and increases the damage dealt with your attacks "
+#~ "by 92&#37;. Causes your healing spells to heal yourself and an additional "
+#~ "nearby ally with 88&#37; of the original heal amount. Lasts 10 seconds. 30 "
+#~ "seconds cooldown."
+#~ msgstr ""
+#~ "Daje gwarantowane uderzenie i zwiększa zadawane obrażenia Twoich ataków o "
+#~ "92&#37;. Sprawia że Twoje czary leczące leczą Ciebie i Twoich sojuszników "
+#~ "z 88&#37; oryginalnego leczenia. Trwa 10 sekund. 30 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Establishes an equilibrium between arcane and holy flows. Performs a "
+#~ "guaranteed hit and increases the damage dealt by 68&#37; for all attacks "
+#~ "within 15 seconds. Heals yourself afterwards for 73&#37; of damage taken "
+#~ "in this time. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Ustanawia równowagę pomiędzy tajemnicami i świętymi przepływami. Daje "
+#~ "gwarantowane uderzenie i zwiększa zadawane obrażenia o 68&#37; na "
+#~ "wszystkie ataki w ciągu 15 sekund. Potem leczy Cię za 73&#37; otrzymanych "
+#~ "obrażeń w tym czasie. 40 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Establishes an equilibrium between arcane and holy flows. Performs a "
+#~ "guaranteed hit and increases the damage dealt by 69&#37; for all attacks "
+#~ "within 15 seconds. Heals yourself afterwards for 76&#37; of damage taken "
+#~ "in this time. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Ustanawia równowagę pomiędzy tajemnicami i świętymi przepływami. Daje "
+#~ "gwarantowane uderzenie i zwiększa zadawane obrażenia o 69&#37; na "
+#~ "wszystkie ataki w ciągu 15 sekund. Potem leczy Cię za 76&#37; otrzymanych "
+#~ "obrażeń w tym czasie. 40 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Establishes an equilibrium between arcane and holy flows. Performs a "
+#~ "guaranteed hit and increases the damage dealt by 70&#37; for all attacks "
+#~ "within 15 seconds. Heals yourself afterwards for 80&#37; of damage taken "
+#~ "in this time. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Ustanawia równowagę pomiędzy tajemnicami i świętymi przepływami. Daje "
+#~ "gwarantowane uderzenie i zwiększa zadawane obrażenia o 70&#37; na "
+#~ "wszystkie ataki w ciągu 15 sekund. Potem leczy Cię za 80&#37; otrzymanych "
+#~ "obrażeń w tym czasie. 40 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Establishes an equilibrium between arcane and holy flows. Performs a "
+#~ "guaranteed hit and increases the damage dealt by 71&#37; for all attacks "
+#~ "within 15 seconds. Heals yourself afterwards for 83&#37; of damage taken "
+#~ "in this time. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Ustanawia równowagę pomiędzy tajemnicami i świętymi przepływami. Daje "
+#~ "gwarantowane uderzenie i zwiększa zadawane obrażenia o 71&#37; na "
+#~ "wszystkie ataki w ciągu 15 sekund. Potem leczy Cię za 83&#37; otrzymanych "
+#~ "obrażeń w tym czasie. 40 sekund do odnowienia."
+
+#~ msgid ""
+#~ "Establishes an equilibrium between arcane and holy flows. Performs a "
+#~ "guaranteed hit and increases the damage dealt by 72&#37; for all attacks "
+#~ "within 15 seconds. Heals yourself afterwards for 86&#37; of damage taken "
+#~ "in this time. 40 seconds cooldown."
+#~ msgstr ""
+#~ "Ustanawia równowagę pomiędzy tajemnicami i świętymi przepływami. Daje "
+#~ "gwarantowane uderzenie i zwiększa zadawane obrażenia o 72&#37; na "
+#~ "wszystkie ataki w ciągu 15 sekund. Potem leczy Cię za 86&#37; otrzymanych "
+#~ "obrażeń w tym czasie. 40 sekund do odnowienia."
+
+#~ msgid "Restores hitpoints."
+#~ msgstr "Odnawia punkty życia."
+
+#~ msgid "Increases the chance to hit an enemy."
+#~ msgstr "Zwiększa szansę na trafienie wroga."
+
+#~ msgid "Increases the damage dealt to enemies."
+#~ msgstr "Zwiększa obrażenia zadawane wrogom."
+
+#~ msgid "Caster is invisible for monsters."
+#~ msgstr "Osoba rzucająca czar staje się niewidzialna dla potworów."
+
+#~ msgid "Decreases the enemies chance to hit."
+#~ msgstr "Zmniejsza wrogom szansę na trafienie."
+
+#~ msgid "Decreases the damage dealt by an enemy."
+#~ msgstr "Zmniejsza zadawane obrażenia przez wrogów."
+
+#~ msgid "Deals damage to the enemy (1 field distance)."
+#~ msgstr "Zadaje wrogom obrażenia (1 kratka zasięgu)."
+
+#~ msgid "Deals soul damage to the enemy."
+#~ msgstr "Zadaje wrogom obrażenia od świętości."
+
+#~ msgid "Deals fire damage to the enemy."
+#~ msgstr "Zadaje wrogom obrażenia od ognia."
+
+#~ msgid "Deals lightning damage to the enemy."
+#~ msgstr "Zadaje wrogom obrażenia od prądu."
+
+#~ msgid "Deals ice damage to the enemy."
+#~ msgstr "Zadaje wrogom obrażenia od lodu."
+
+#~ msgid "Deals hit damage to the enemy."
+#~ msgstr "Zadaje wrogom obrażenia fizyczne."
+
+#~ msgid "Deals damage to and debuffs the enemy (1 field distance)."
+#~ msgstr "Zadaje wrogom obrażenia oraz debuff (1 kratka zasięgu)."
+
+#~ msgid "Deals fire damage to and debuffs the enemy."
+#~ msgstr "Zadaje wrogom obrażenia od ognia oraz debuff."
+
+#~ msgid "Control Panel"
+#~ msgstr "Panel sterowania"
+
+#, php-format
+#~ msgid "%s is not in locales list."
+#~ msgstr "%s nie znajduje się na liście lokacji."
+
+#~ msgid "NOT FOUND"
+#~ msgstr "NIE ZNALEZIONO"
+
+#, fuzzy, php-format
+#~| msgid ""
+#~| "Hello %s,\r\n"
+#~| "\r\n"
+#~| "You have requested a new password for your account on %s.\r\n"
+#~| "\r\n"
+#~| "Click the following link to continue new password activation:\r\n"
+#~| "https://tibia-me.net/user/lostpassword.php?user=%d&v=%s\r\n"
+#~| "\r\n"
+#~| "If you did not request a new password, just ignore this message.\r\n"
+#~| "\r\n"
+#~| "Kind Regards,\r\n"
+#~| "Tibia-ME.net Support\r\n"
+#~| "https://tibia-me.net"
+#~ msgid ""
+#~ "Hello %s,\r\n"
+#~ "\r\n"
+#~ "You have requested a new password for your account on %s.\r\n"
+#~ "\r\n"
+#~ "Click the following link to continue new password activation:\r\n"
+#~ "https://tibia-me.net/lostpassword/%s?user_id=%d\r\n"
+#~ "\r\n"
+#~ "If you did not request a new password, just ignore this message.\r\n"
+#~ "\r\n"
+#~ "Kind Regards,\r\n"
+#~ "Tibia-ME.net Support\r\n"
+#~ "https://tibia-me.net"
+#~ msgstr ""
+#~ "Cześć %s,\r\n"
+#~ "\r\n"
+#~ "Prosiłeś/łaś o nowe hasło dla Twojego konta na %s.\r\n"
+#~ "\r\n"
+#~ "Kliknij w ten link aby kontynuować aktywację nowego hasła:\r\n"
+#~ "https://tibia-me.net/user/lostpassword.php?user=%d&v=%s\r\n"
+#~ "\r\n"
+#~ "Jeśli nie prosiłeś/łaś o nowe hasło, zignoruj tą wiadomość.\r\n"
+#~ "\r\n"
+#~ "Z poważaniem,\r\n"
+#~ "Tibia-ME.net Support\r\n"
+#~ "https://tibia-me.net"
+
+#~ msgid "Save"
+#~ msgstr "Zapisz"
+
+#, fuzzy
+#~| msgid "Stop watching for new comments"
+#~ msgid "Stop watching for new replies?"
+#~ msgstr "Przestań zwracać uwagę na nowe komentarze"
+
+#, fuzzy
+#~| msgid "Stop watching for new comments"
+#~ msgid "Stop watching for new replies"
+#~ msgstr "Przestań zwracać uwagę na nowe komentarze"
+
+#, fuzzy
+#~| msgid "Watch for replies"
+#~ msgid "Watch for new replies?"
+#~ msgstr "Zwracaj uwagę na odpowiedzi"
+
+#, fuzzy
+#~| msgid "Watch for replies"
+#~ msgid "Watch for new replies"
+#~ msgstr "Zwracaj uwagę na odpowiedzi"
+
+#~ msgid "Are you sure you want to open this topic?"
+#~ msgstr "Czy na pewno chcesz otworzyć ten wątek?"
+
+#~ msgid "Open topic"
+#~ msgstr "Otwórz wątek"
+
+#~ msgid "Are you sure you want to close this topic?"
+#~ msgstr "Czy na pewno chcesz zamknąć ten wątek?"
+
+#~ msgid "Close topic"
+#~ msgstr "Zamknij wątek"
+
+#~ msgid "Are you sure you want to delete this topic?"
+#~ msgstr "Czy na pewno chcesz usunąć ten wątek?"
+
+#~ msgid "Delete topic"
+#~ msgstr "Usuń wątek"
+
+#~ msgid "Are you sure you want to delete this post?"
+#~ msgstr "Czy na pewno chcesz usunąć ten post?"
+
+#, fuzzy
+#~| msgid "Mark all as read"
+#~ msgid "Mark all threads as read?"
+#~ msgstr "Zaznacz wszystko jako odczytane"
+
+#, fuzzy
+#~| msgid "Mark all as read"
+#~ msgid "Mark all threads as read"
+#~ msgstr "Zaznacz wszystko jako odczytane"
+
+#, fuzzy
+#~| msgid "No mutual friends."
+#~ msgid "No mutual friends"
+#~ msgstr "Brak wspólnych znajomych."
+
+#~ msgid "Are you sure you want to remove this user from friendlist?"
+#~ msgstr "Czy na pewno chcesz usunąć tego użytkownika z listy znajomych?"
+
+#~ msgid "Banish"
+#~ msgstr "Zbanuj"
+
+#, php-format
+#~ msgid "%d photo"
+#~ msgid_plural "%d photos"
+#~ msgstr[0] "%d zdjęcie"
+#~ msgstr[1] "%d zdjęcia"
+#~ msgstr[2] "%d zdjęć"
+
+#, php-format
+#~ msgid "%d album"
+#~ msgid_plural "%d albums"
+#~ msgstr[0] "%d album"
+#~ msgstr[1] "%d albumy"
+#~ msgstr[2] "%d albumów"
+
+#~ msgid "Rotate left"
+#~ msgstr "Obróć w lewo"
+
+#~ msgid "Rotate right"
+#~ msgstr "Obróć w prawo"
+
+#~ msgid "Move"
+#~ msgstr "Przenieś"
+
+#~ msgid "Are you sure you want to delete this photo?"
+#~ msgstr "Czy na pewno chcesz usunąć ten album?"
+
+#, fuzzy
+#~| msgid "Are you sure you want to remove this user from friendlist?"
+#~ msgid "Are you sure you want to remove this letter from saved?"
+#~ msgstr "Czy na pewno chcesz usunąć tego użytkownika z listy znajomych?"
+
+#~ msgid "Are you sure you want to save this letter?"
+#~ msgstr "Czy na pewno chcesz zapisać ten list?"
+
+#~ msgid "Are you sure you want to delete this letter?"
+#~ msgstr "Czy na pewno chcesz usunąć ten list?"
+
+#, fuzzy
+#~| msgid "Are you sure you want to delete this letter?"
+#~ msgid "Are you sure you want to delete this album?"
+#~ msgstr "Czy na pewno chcesz usunąć ten list?"
+
+#~ msgid "min"
+#~ msgstr "min"
+
+#~ msgid "max"
+#~ msgstr "max"
+
+#~ msgid "Update"
+#~ msgstr "Sprawdź"
+
+#, fuzzy
+#~| msgid "Are you sure you want to delete this event?"
+#~ msgid "Are you sure you want to delete this theme?"
+#~ msgstr "Czy na pewno chcesz usunąć to wydarzenie?"
+
+#~ msgid "Download"
+#~ msgstr "Pobierz"
+
+#~ msgid "Send"
+#~ msgstr "Wyślij"
+
+#~ msgid "Are you sure you want to remove avatar?"
+#~ msgstr "Czy na pewno chcesz usunąć awatar?"
+
+#~ msgid "Are you sure you want to add this user to friendlist?"
+#~ msgstr "Czy na pewno chcesz dodać tego użytkownika do znajomych?"
+
+#, php-format
+#~ msgid "Are you sure you want to delete all posts and topics by this user?"
+#~ msgstr "Czy na pewno chcesz usunąć wszystkie posty i wątki tego użytkownika?"
+
+#, fuzzy
+#~| msgid "Color"
+#~ msgid "Color "
+#~ msgstr "Kolor"
+
+#~ msgid "Text"
+#~ msgstr "Tekst"
+
+#~ msgid "Are you sure you want to delete this artwork?"
+#~ msgstr "Czy na pewno chcesz usunąć tą pracę?"
+
+#~ msgid "Continue"
+#~ msgstr "Kontynuuj"
+
+#, fuzzy
+#~| msgid "Banned"
+#~ msgid "pinned"
+#~ msgstr "Zbanowany"
+
+#~ msgid "closed"
+#~ msgstr "zamknięty"
+
+#~ msgid "moved"
+#~ msgstr "przeniesione"
+
+#~ msgid "Remove from comparison"
+#~ msgstr "Usuń z porównania"

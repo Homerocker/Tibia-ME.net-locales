@@ -1,0 +1,1945 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tibia-ME.net\n"
+"POT-Creation-Date: 2025-05-10 16:35+0300\n"
+"PO-Revision-Date: 2025-05-10 16:35+0300\n"
+"Last-Translator: Molodoy <molodoy3561@gmail.com>\n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: tests\n"
+"X-Poedit-SearchPathExcluded-2: storage\n"
+
+#: resources/views/agreement.blade.php:5
+msgid "General"
+msgstr ""
+
+#: resources/views/agreement.blade.php:8
+msgid ""
+"All TibiaME rules are valid on this fansite. Please check FAQ section on "
+"tibiame.com."
+msgstr ""
+
+#: resources/views/agreement.blade.php:11
+msgid "Accounts"
+msgstr ""
+
+#: resources/views/agreement.blade.php:13
+msgid "You are only allowed to use your real character nickname and gameworld."
+msgstr ""
+
+#: resources/views/agreement.blade.php:14
+msgid "You are not allowed to share your account data (password) publicly."
+msgstr ""
+
+#: resources/views/agreement.blade.php:17
+msgid "Highscores"
+msgstr ""
+
+#: resources/views/agreement.blade.php:19
+msgid "Listed characters"
+msgstr ""
+
+#: resources/views/agreement.blade.php:22
+msgid ""
+"Top 100 wizards and top 100 warriors by total experience from each game "
+"world are listed."
+msgstr ""
+
+#: resources/views/agreement.blade.php:23
+msgid "Characters with PvP rank 100 or higher are listed."
+msgstr ""
+
+#: resources/views/agreement.blade.php:25
+msgid ""
+"Top 100 wizards and top 100 warriors by achievement points from each game "
+"world are listed."
+msgstr ""
+
+#: resources/views/agreement.blade.php:26
+msgid "Other characters are not listed and we cannot add them at this time."
+msgstr ""
+
+#: resources/views/agreement.blade.php:29
+msgid "Data reliability"
+msgstr ""
+
+#: resources/views/agreement.blade.php:31
+msgid "Highscores are updated daily at 00:10 UTC."
+msgstr ""
+
+#: resources/views/agreement.blade.php:33
+msgid ""
+"Highscores data are provided by tibiame.com and Tibia-ME.net is not "
+"responsible for its reliability."
+msgstr ""
+
+#: resources/views/agreement.blade.php:35
+msgid ""
+"Worlds' statistics as well as Top Hunters data are only based on characters "
+"that are listed on this website (see 3.1.)."
+msgstr ""
+
+#: resources/views/agreement.blade.php:40
+msgid "Screenshots"
+msgstr ""
+
+#: resources/views/agreement.blade.php:42
+msgid "Only TibiaME screenshots are allowed at Screenshots section."
+msgstr ""
+
+#: resources/views/agreement.blade.php:43
+msgid "Artworks are not allowed."
+msgstr ""
+
+#: resources/views/agreement.blade.php:45
+msgid ""
+"Screenshots should not contain any non-game areas, e.g. computer desktop and "
+"emulator window."
+msgstr ""
+
+#: resources/views/agreement.blade.php:48
+msgid "Artworks"
+msgstr ""
+
+#: resources/views/agreement.blade.php:50
+msgid "Artworks should be related to TibiaME."
+msgstr ""
+
+#: resources/views/agreement.blade.php:51
+msgid "You are only allowed to upload your own artworks."
+msgstr ""
+
+#: resources/views/agreement.blade.php:54
+msgid "Privacy"
+msgstr ""
+
+#: resources/views/agreement.blade.php:56
+msgid ""
+"Tibia-ME.net never shares your hidden data (e.g. email, birth date) with "
+"anyone."
+msgstr ""
+
+#: resources/views/agreement.blade.php:58
+msgid ""
+"Your passwords are encrypted and cannot be viewed by anyone, including Tibia-"
+"ME.net staff."
+msgstr ""
+
+#: resources/views/agreement.blade.php:60
+msgid ""
+"Tibia-ME.net Admin may use your data to contact you (e.g. email, including "
+"hidden data)."
+msgstr ""
+
+#: resources/views/agreement.blade.php:63
+msgid "Copyrights"
+msgstr ""
+
+#: resources/views/agreement.blade.php:66
+msgid ""
+"TibiaME is a trademark of CipSoft GmbH, tibiame.com is the only official "
+"TibiaME website."
+msgstr ""
+
+#: resources/views/agreement.blade.php:68
+msgid ""
+"Any icons provided by CipSoft are copyrighted by CipSoft. You may use any "
+"TibiaME icons from this website."
+msgstr ""
+
+#: resources/views/agreement.blade.php:75
+msgid "Decline"
+msgstr ""
+
+#: resources/views/album/albums.blade.php:7
+msgid "You have no albums."
+msgstr ""
+
+#: resources/views/album/albums.blade.php:9
+msgid "This user has no albums."
+msgstr ""
+
+#: resources/views/album/home.blade.php:14
+msgid "all worlds"
+msgstr ""
+
+#: resources/views/album/photos.blade.php:6
+msgid "This album is empty."
+msgstr ""
+
+#: resources/views/artworks.blade.php:15
+msgid "Log in to upload artworks."
+msgstr ""
+
+#: resources/views/artworks.blade.php:18
+msgid "No artworks available."
+msgstr ""
+
+#: resources/views/auth/lostpassword.blade.php:6
+#: resources/views/characters.blade.php:33
+msgid "Nickname"
+msgstr ""
+
+#: resources/views/auth/lostpassword.blade.php:8
+#: resources/views/characters.blade.php:35
+msgid "World"
+msgstr ""
+
+#: resources/views/auth/lostpassword.blade.php:10
+msgid "select world"
+msgstr ""
+
+#: resources/views/auth/reset-password.blade.php:7
+msgid "New password"
+msgstr ""
+
+#: resources/views/auth/reset-password.blade.php:9
+msgid "Confirm password"
+msgstr ""
+
+#: resources/views/banishments/banform.blade.php:8
+#: resources/views/banishments/list.blade.php:8
+#: resources/views/banishments/view.blade.php:31
+msgid "Reason"
+msgstr ""
+
+#: resources/views/banishments/banform.blade.php:17
+#: resources/views/banishments/view.blade.php:40
+msgid "Description"
+msgstr ""
+
+#: resources/views/banishments/banform.blade.php:20
+#: resources/views/banishments/list.blade.php:9
+msgid "Duration"
+msgstr ""
+
+#: resources/views/banishments/banform.blade.php:35
+msgid "Delete all forum posts"
+msgstr ""
+
+#: resources/views/banishments/list.blade.php:7
+#: resources/views/banishments/view.blade.php:7
+msgid "User"
+msgstr ""
+
+#: resources/views/banishments/list.blade.php:24
+#: resources/views/banishments/view.blade.php:52
+msgid "permanent"
+msgstr ""
+
+#: resources/views/banishments/view.blade.php:15
+msgid "Start date"
+msgstr ""
+
+#: resources/views/banishments/view.blade.php:23
+#: resources/views/banishments/view.blade.php:66
+msgid "Moderator"
+msgstr ""
+
+#: resources/views/banishments/view.blade.php:49
+msgid "Expires"
+msgstr ""
+
+#: resources/views/banishments/view.blade.php:58
+msgid "Lifted"
+msgstr ""
+
+#: resources/views/banishments/view.blade.php:77
+msgid "Lift banishment"
+msgstr ""
+
+#: resources/views/characters.blade.php:6
+msgid "Select main character"
+msgstr ""
+
+#: resources/views/comments.blade.php:14
+msgid "No one has commented yet."
+msgstr ""
+
+#: resources/views/comments.blade.php:65
+msgid "Log in to post your comments."
+msgstr ""
+
+#: resources/views/content/armours.blade.php:6
+#: resources/views/content/skills.blade.php:6
+#: resources/views/content/spells.blade.php:6
+#: resources/views/content/weapons.blade.php:6
+msgid "Vocation"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:8
+#: resources/views/content/armours.blade.php:15
+#: resources/views/content/spells.blade.php:8
+#: resources/views/content/spells.blade.php:18
+#: resources/views/content/spells.blade.php:31
+#: resources/views/content/weapons.blade.php:8
+msgid "any"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:10
+#: resources/views/content/skills.blade.php:8
+#: resources/views/content/spells.blade.php:10
+#: resources/views/content/weapons.blade.php:9
+msgid "warrior"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:11
+#: resources/views/content/skills.blade.php:9
+#: resources/views/content/spells.blade.php:12
+#: resources/views/content/weapons.blade.php:10
+msgid "wizard"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:13
+#: resources/views/content/armours.blade.php:70
+msgid "Slot"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:22
+#: resources/views/content/armours.blade.php:69
+#: resources/views/content/skills.blade.php:23
+#: resources/views/content/spells.blade.php:62
+#: resources/views/content/weapons.blade.php:14
+#: resources/views/content/weapons.blade.php:63
+msgid "Level"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:38
+#: resources/views/content/weapons.blade.php:32
+msgid "Sort"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:40
+#: resources/views/content/spells.blade.php:41
+#: resources/views/content/weapons.blade.php:34
+msgid "level"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:46
+#: resources/views/content/spells.blade.php:44
+#: resources/views/content/weapons.blade.php:40
+msgid "Order"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:48
+#: resources/views/content/spells.blade.php:46
+#: resources/views/content/weapons.blade.php:42
+msgid "ascending"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:49
+#: resources/views/content/spells.blade.php:47
+#: resources/views/content/weapons.blade.php:43
+msgid "descending"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:68
+msgid "Armour"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:71
+#: resources/views/content/weapons.blade.php:65
+msgid "Stats"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:72
+#: resources/views/content/weapons.blade.php:66
+msgid "Dropped by"
+msgstr ""
+
+#: resources/views/content/armours.blade.php:79
+#: resources/views/content/food.blade.php:18
+#: resources/views/content/monsters.blade.php:29
+#: resources/views/content/skills.blade.php:15
+#: resources/views/content/spells.blade.php:54
+#: resources/views/content/weapons.blade.php:73
+msgid "No items to display."
+msgstr ""
+
+#: resources/views/content/food.blade.php:6
+msgid "Food and potions"
+msgstr ""
+
+#: resources/views/content/food.blade.php:9
+msgid "Item"
+msgstr ""
+
+#: resources/views/content/food.blade.php:10
+msgid "Effect"
+msgstr ""
+
+#: resources/views/content/monsters.blade.php:6
+#: resources/views/content/weapons.blade.php:62
+msgid "Name"
+msgstr ""
+
+#: resources/views/content/monsters.blade.php:15
+msgid "Monster"
+msgstr ""
+
+#: resources/views/content/monsters.blade.php:16
+msgid "Award"
+msgstr ""
+
+#: resources/views/content/monsters.blade.php:17
+#: resources/views/content/pets.blade.php:12
+msgid "HP"
+msgstr ""
+
+#: resources/views/content/monsters.blade.php:18
+msgid "Walkspeed"
+msgstr ""
+
+#: resources/views/content/monsters.blade.php:19
+msgid "Attack"
+msgstr ""
+
+#: resources/views/content/monsters.blade.php:20
+#: resources/views/content/pets.blade.php:11
+msgid "Weakness"
+msgstr ""
+
+#: resources/views/content/monsters.blade.php:21
+msgid "Islands"
+msgstr ""
+
+#: resources/views/content/monsters.blade.php:22
+msgid "Drops"
+msgstr ""
+
+#: resources/views/content/pets.blade.php:8
+msgid "Pet"
+msgstr ""
+
+#: resources/views/content/pets.blade.php:9
+msgid "Damage"
+msgstr ""
+
+#: resources/views/content/pets.blade.php:10
+msgid "Protection"
+msgstr ""
+
+#: resources/views/content/pets.blade.php:14
+msgid "Defense"
+msgstr ""
+
+#: resources/views/content/pets.blade.php:20
+msgid "No data."
+msgstr ""
+
+#: resources/views/content/skills.blade.php:22
+msgid "Skill"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:16
+msgid "Type"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:19
+msgid "heal"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:20
+msgid "buff"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:21
+msgid "debuff"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:22
+msgid "hit"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:23
+msgid "fire"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:24
+msgid "ice"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:25
+msgid "energy"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:26
+msgid "soul"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:27
+msgid "weapon"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:29
+#: resources/views/content/spells.blade.php:65
+msgid "Target"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:32
+#: resources/views/content/spells.blade.php:137
+msgid "self"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:33
+#: resources/views/content/spells.blade.php:143
+msgid "guild"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:34
+#: resources/views/content/spells.blade.php:140
+msgid "AoE"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:35
+msgid "single"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:39
+msgid "Sort by"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:42
+msgid "name"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:61
+msgid "Spell"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:63
+#: resources/views/content/weapons.blade.php:64
+msgid "Mana"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:64
+msgid "Amount"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:66
+msgid "Cooldown"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:105
+#, python-format
+msgid "%.2f HP/s"
+msgstr ""
+
+#: resources/views/content/spells.blade.php:146
+msgid "single enemy"
+msgstr ""
+
+#: resources/views/forum/home.blade.php:20
+#: resources/views/forum/viewforum.blade.php:20
+msgid "new"
+msgstr ""
+
+#: resources/views/forum/home.blade.php:23
+msgid "hidden"
+msgstr ""
+
+#: resources/views/forum/home.blade.php:26
+#, python-format
+msgid "%d topic"
+msgid_plural "%d topics"
+msgstr[0] ""
+
+#: resources/views/forum/home.blade.php:27
+#, python-format
+msgid "%d post"
+msgid_plural "%d posts"
+msgstr[0] ""
+
+#: resources/views/forum/post-edit.blade.php:10
+#: resources/views/forum/post-quote.blade.php:13
+#: resources/views/forum/topic-create-edit.blade.php:21
+#: resources/views/forum/topic-move.blade.php:16
+msgid "Cancel"
+msgstr ""
+
+#: resources/views/forum/topic-create-edit.blade.php:6
+msgid "Title"
+msgstr ""
+
+#: resources/views/forum/topic-create-edit.blade.php:9
+msgid "Message"
+msgstr ""
+
+#: resources/views/forum/topic-create-edit.blade.php:14
+msgid "Pinned"
+msgstr ""
+
+#: resources/views/forum/topic-move.blade.php:6
+msgid "Move to"
+msgstr ""
+
+#: resources/views/forum/viewtopic.blade.php:10
+#: resources/views/forum/viewtopic.blade.php:101
+#, python-format
+msgid "Topics: %d"
+msgstr ""
+
+#: resources/views/forum/viewtopic.blade.php:11
+#: resources/views/forum/viewtopic.blade.php:102
+#, python-format
+msgid "Posts: %d"
+msgstr ""
+
+#: resources/views/forum/viewtopic.blade.php:15
+#: resources/views/forum/viewtopic.blade.php:106
+msgid "Edited by %1$s on %2$s"
+msgstr ""
+
+#: resources/views/forum/viewtopic.blade.php:17
+#: resources/views/forum/viewtopic.blade.php:108
+#, python-format
+msgid "edited %d time in total"
+msgid_plural "edited %d times in total"
+msgstr[0] ""
+
+#: resources/views/forum/viewtopic.blade.php:164
+msgid "This thread is closed, you cannot post here."
+msgstr ""
+
+#: resources/views/forum/viewtopic.blade.php:181
+msgid "Log in to post messages."
+msgstr ""
+
+#: resources/views/home.blade.php:22
+#, python-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] ""
+
+#: resources/views/home.blade.php:42
+msgid "view all"
+msgstr ""
+
+#: resources/views/home.blade.php:47
+msgid "Chat"
+msgstr ""
+
+#: resources/views/home.blade.php:52
+msgid ""
+"TibiaME is the first massively multiplayer online role-playing game for "
+"mobile devices. Come together with hundreds of players and experience "
+"adventures in a colourful virtual world! Along with your friends you explore "
+"the mysterious land of TibiaME, fight your way through hordes of evil "
+"creatures and solve ancient riddles to find untold treasures. With every "
+"monster you defeat you will grow in strength and power. TibiaME is based on "
+"the successful online role-playing game Tibia which attracts thousands of "
+"players every day."
+msgstr ""
+
+#: resources/views/home.blade.php:60
+msgid "Premium & Platinum"
+msgstr ""
+
+#: resources/views/home.blade.php:65
+msgid "Forum"
+msgstr ""
+
+#: resources/views/home.blade.php:88
+msgid "Memberlist"
+msgstr ""
+
+#: resources/views/home.blade.php:91
+msgid "Banlist"
+msgstr ""
+
+#: resources/views/home.blade.php:94
+msgid "Ranks"
+msgstr ""
+
+#: resources/views/home.blade.php:113
+msgid "TOP 100"
+msgstr ""
+
+#: resources/views/home.blade.php:114
+msgid "Hunters"
+msgstr ""
+
+#: resources/views/home.blade.php:116
+msgid "Achievements"
+msgstr ""
+
+#: resources/views/home.blade.php:117
+msgid "Guilds"
+msgstr ""
+
+#: resources/views/home.blade.php:118
+msgid "Worlds"
+msgstr ""
+
+#: resources/views/home.blade.php:123
+msgid "Encyclopedia"
+msgstr ""
+
+#: resources/views/home.blade.php:125
+msgid "Armour Calculator"
+msgstr ""
+
+#: resources/views/home.blade.php:126
+msgid "Weapons"
+msgstr ""
+
+#: resources/views/home.blade.php:127
+msgid "Armours"
+msgstr ""
+
+#: resources/views/home.blade.php:128
+msgid "Monsters"
+msgstr ""
+
+#: resources/views/home.blade.php:129
+msgid "Spells"
+msgstr ""
+
+#: resources/views/home.blade.php:130
+msgid "Skills"
+msgstr ""
+
+#: resources/views/home.blade.php:131
+msgid "Pets"
+msgstr ""
+
+#: resources/views/home.blade.php:137
+msgid "About us"
+msgstr ""
+
+#: resources/views/home.blade.php:139
+msgid "Moderators"
+msgstr ""
+
+#: resources/views/home.blade.php:140
+msgid "User agreement"
+msgstr ""
+
+#: resources/views/home.blade.php:145
+msgid "Archive"
+msgstr ""
+
+#: resources/views/home.blade.php:146
+msgid "These sections are in read-only mode and/or not eligible for support."
+msgstr ""
+
+#: resources/views/home.blade.php:150
+msgid "Photo album"
+msgstr ""
+
+#: resources/views/home.blade.php:155
+msgid "Themes"
+msgstr ""
+
+#: resources/views/layout.blade.php:72 resources/views/layout.blade.php:81
+msgid "Online"
+msgstr ""
+
+#: resources/views/layout.blade.php:101
+msgid "Guest"
+msgstr ""
+
+#: resources/views/layout.blade.php:107
+msgid "No new letters"
+msgstr ""
+
+#: resources/views/layout.blade.php:107
+#, python-format
+msgid "%d new letter"
+msgid_plural "%d new letters"
+msgstr[0] ""
+
+#: resources/views/layout.blade.php:112
+#, python-format
+msgid "%d notification"
+msgid_plural "%d notifications"
+msgstr[0] ""
+
+#: resources/views/layout.blade.php:112
+msgid "No new notifications"
+msgstr ""
+
+#: resources/views/layout.blade.php:115
+msgid "Profile"
+msgstr ""
+
+#: resources/views/layout.blade.php:116
+msgid "Characters"
+msgstr ""
+
+#: resources/views/layout.blade.php:117
+msgid "Settings"
+msgstr ""
+
+#: resources/views/layout.blade.php:118
+msgid "Log out"
+msgstr ""
+
+#: resources/views/layout.blade.php:121
+msgid "Log in"
+msgstr ""
+
+#: resources/views/layout.blade.php:124 resources/views/login.blade.php:39
+msgid "Register"
+msgstr ""
+
+#: resources/views/layout.blade.php:127 resources/views/login.blade.php:38
+msgid "Recover password"
+msgstr ""
+
+#: resources/views/layout.blade.php:156
+msgid "Home"
+msgstr ""
+
+#: resources/views/layout.blade.php:194
+msgid "Tibia and TibiaME are trademarks of CipSoft GmbH, Germany."
+msgstr ""
+
+#: resources/views/letters/list.blade.php:6
+#: resources/views/letters/view.blade.php:13
+msgid "No letters."
+msgstr ""
+
+#: resources/views/letters/view.blade.php:24
+msgid "Delete"
+msgstr ""
+
+#: resources/views/livewire/armour-calculator.blade.php:97
+msgid "Defense level"
+msgstr ""
+
+#: resources/views/livewire/armour-calculator.blade.php:105
+msgid "Include upgraded items"
+msgstr ""
+
+#: resources/views/livewire/armour-calculator.blade.php:111
+msgid "Distribute stats evenly"
+msgstr ""
+
+#: resources/views/livewire/armour-calculator.blade.php:118
+msgid "Ignored items"
+msgstr ""
+
+#: resources/views/livewire/armour-calculator.blade.php:123
+msgid "none"
+msgstr ""
+
+#: resources/views/livewire/chat.blade.php:40
+msgid "Type your message"
+msgstr ""
+
+#: resources/views/livewire/comments-watch.blade.php:3
+msgid "You will be notified on new comments"
+msgstr ""
+
+#: resources/views/livewire/comments-watch.blade.php:5
+msgid "Watch for new comments"
+msgstr ""
+
+#: resources/views/login.blade.php:23
+msgid "Password"
+msgstr ""
+
+#: resources/views/login.blade.php:30
+msgid "Remember me on this device."
+msgstr ""
+
+#: resources/views/mail/letter_received.blade.php:1
+#: resources/views/mail/password_recovery.blade.php:1
+#, python-format
+msgid "Hello %s"
+msgstr ""
+
+#: resources/views/mail/letter_received.blade.php:3
+msgid ""
+"You have received a new private message to your account on Tibia-ME.net and "
+"you have requested that you be notified on this event."
+msgstr ""
+
+#: resources/views/mail/letter_received.blade.php:4
+msgid "You can view your new message by clicking on the following link:"
+msgstr ""
+
+#: resources/views/mail/letter_received.blade.php:7
+msgid ""
+"You can always choose not to be notified on new messages by changing the "
+"appropriate setting in your profile."
+msgstr ""
+
+#: resources/views/mail/password_recovery.blade.php:3
+#, python-format
+msgid "You have requested a new password for your account on %s."
+msgstr ""
+
+#: resources/views/mail/password_recovery.blade.php:5
+msgid "Click the following link to continue new password activation:"
+msgstr ""
+
+#: resources/views/mail/password_recovery.blade.php:8
+msgid "If you did not request a new password, just ignore this message."
+msgstr ""
+
+#: resources/views/memberlist.blade.php:13
+msgid "all"
+msgstr ""
+
+#: resources/views/memberlist.blade.php:27
+#, python-format
+msgid "Total: %d"
+msgstr ""
+
+#: resources/views/memberlist.blade.php:32
+#, python-format
+msgid "Online: %d"
+msgstr ""
+
+#: resources/views/memberlist.blade.php:47
+msgid "Rank"
+msgstr ""
+
+#: resources/views/notifications.blade.php:6
+msgid "No notifications."
+msgstr ""
+
+#: resources/views/notifications.blade.php:18
+#, python-format
+msgid "%s posted at forum."
+msgstr ""
+
+#: resources/views/notifications.blade.php:20
+msgid "%1$s and %2$d other user posted at forum."
+msgid_plural "%1$s and %2$d other users posted at forum."
+msgstr[0] ""
+
+#: resources/views/notifications.blade.php:29
+#, python-format
+msgid "%s commented on photo."
+msgstr ""
+
+#: resources/views/notifications.blade.php:31
+msgid "%1$s and %2$d other user commented on photo."
+msgid_plural "%1$s and %2$d other users commented on photo."
+msgstr[0] ""
+
+#: resources/views/notifications.blade.php:40
+#, python-format
+msgid "%s commented on screenshot."
+msgstr ""
+
+#: resources/views/notifications.blade.php:42
+msgid "%1$s and %2$d other user commented on screenshot."
+msgid_plural "%1$s and %2$d other users commented on screenshot."
+msgstr[0] ""
+
+#: resources/views/notifications.blade.php:51
+#, python-format
+msgid "%s commented on theme."
+msgstr ""
+
+#: resources/views/notifications.blade.php:53
+msgid "%1$s and %2$d other user commented on theme."
+msgid_plural "%1$s and %2$d other users commented on theme."
+msgstr[0] ""
+
+#: resources/views/notifications.blade.php:62
+#, python-format
+msgid "%s likes your screenshot."
+msgstr ""
+
+#: resources/views/notifications.blade.php:65
+msgid "%1$s and %2$d other user like your screenshot."
+msgid_plural "%1$s and %2$d other users like your screenshot."
+msgstr[0] ""
+
+#: resources/views/notifications.blade.php:74
+#, python-format
+msgid "%s likes your photo."
+msgstr ""
+
+#: resources/views/notifications.blade.php:76
+msgid "%1$s and %2$d other user like your photo."
+msgid_plural "%1$s and %2$d other users like your photo."
+msgstr[0] ""
+
+#: resources/views/notifications.blade.php:85
+#, python-format
+msgid "%s likes your theme."
+msgstr ""
+
+#: resources/views/notifications.blade.php:87
+msgid "%1$s and %2$d other user like your theme."
+msgid_plural "%1$s and %2$d other users like your theme."
+msgstr[0] ""
+
+#: resources/views/notifications.blade.php:96
+#, python-format
+msgid "%s commented on artwork."
+msgstr ""
+
+#: resources/views/notifications.blade.php:98
+msgid "%1$s and %2$d other user commented on artwork."
+msgid_plural "%1$s and %2$d other users commented on artwork."
+msgstr[0] ""
+
+#: resources/views/notifications.blade.php:107
+#, python-format
+msgid "%s likes your artwork."
+msgstr ""
+
+#: resources/views/notifications.blade.php:109
+msgid "%1$s and %2$d other user like your artwork."
+msgid_plural "%1$s and %2$d other users like your artwork."
+msgstr[0] ""
+
+#: resources/views/premiumplatinum.blade.php:4
+msgid "What is VIP?"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:6
+msgid ""
+"VIP is permanent character status that you receive after any purchase (any "
+"amount of Platinum or Premium)."
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:8
+msgid "Priority Login"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:9
+#: resources/views/premiumplatinum.blade.php:19
+#, python-format
+msgid "Stamina Bonus (+%s Experience)"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:13
+msgid "What is Premium?"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:15
+msgid ""
+"Premium is renewable subscription that gives you temporary access to most of "
+"game features. When your Premium time expires your character remains VIP."
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:17
+msgid "Full access to additional islands"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:18
+msgid "Portal usage"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:20
+msgid "20 friendlist slots"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:21
+msgid "20 ignorelist slots"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:22
+msgid "20 letters in Mailbox"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:23
+msgid "10 trade offers"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:24
+msgid "9 depot pages"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:25
+msgid "50% of EP loss protection upon death (can be upgraded to 80% or 100%)"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:26
+msgid "Guild Founding"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:29
+msgid "What is Platinum?"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:31
+msgid ""
+"Platinum is game currency that allows you to buy permanent access to game "
+"features of your choice."
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:33
+msgid "Buy permanent access to individual islands"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:34
+msgid "Buy portal usage permanently"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:35
+msgid "Buy up to 50 friendlist slots"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:36
+msgid "Buy up to 50 letters in Mailbox"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:37
+msgid "Buy up to 20 trade offers"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:38
+msgid "Buy up to 9 depot pages"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:39
+msgid ""
+"Buy a life insurance with 50%, 80% or 100% of EP loss protection upon death"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:40
+msgid "Buy additional Rerolls whenever you need them"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:41
+msgid "Buy guild founding"
+msgstr ""
+
+#: resources/views/premiumplatinum.blade.php:47
+#, python-format
+msgid "Buy on %s"
+msgstr ""
+
+#: resources/views/profile.blade.php:16
+msgid "Banned"
+msgstr ""
+
+#: resources/views/profile.blade.php:27
+msgid "Remove avatar"
+msgstr ""
+
+#: resources/views/profile.blade.php:34 resources/views/profile.blade.php:44
+#: resources/views/scores/character.blade.php:101
+#: resources/views/scores/guild.blade.php:7
+#: resources/views/scores/guilds.blade.php:31
+#: resources/views/scores/hunters_guilds.blade.php:23
+msgid "Guild"
+msgstr ""
+
+#: resources/views/profile.blade.php:68 resources/views/profile.blade.php:86
+#: resources/views/profile.blade.php:117 resources/views/profile.blade.php:132
+#: resources/views/profile.blade.php:140 resources/views/profile.blade.php:148
+#: resources/views/profile.blade.php:168
+msgid "not specified"
+msgstr ""
+
+#: resources/views/profile.blade.php:115 resources/views/profile.blade.php:123
+msgid "Gender"
+msgstr ""
+
+#: resources/views/profile.blade.php:118 resources/views/profile.blade.php:126
+msgid "Male"
+msgstr ""
+
+#: resources/views/profile.blade.php:119 resources/views/profile.blade.php:129
+msgid "Female"
+msgstr ""
+
+#: resources/views/profile.blade.php:138 resources/views/profile.blade.php:147
+msgid "Relationship status"
+msgstr ""
+
+#: resources/views/profile.blade.php:153 resources/views/profile.blade.php:164
+msgid "Birthday"
+msgstr ""
+
+#: resources/views/profile.blade.php:161
+msgid "Hide age"
+msgstr ""
+
+#: resources/views/profile.blade.php:171
+msgid "Age"
+msgstr ""
+
+#: resources/views/profile.blade.php:176 resources/views/profile.blade.php:187
+msgid "Location"
+msgstr ""
+
+#: resources/views/profile.blade.php:200 resources/views/register.blade.php:32
+msgid "Hide email"
+msgstr ""
+
+#: resources/views/profile.blade.php:208 resources/views/profile.blade.php:213
+msgid "Phone number"
+msgstr ""
+
+#: resources/views/profile.blade.php:218 resources/views/profile.blade.php:223
+msgid "Signature"
+msgstr ""
+
+#: resources/views/profile.blade.php:228
+msgid "Joined"
+msgstr ""
+
+#: resources/views/profile.blade.php:229
+msgid "Before 27th of August, 2009"
+msgstr ""
+
+#: resources/views/profile.blade.php:233
+msgid "Last visit"
+msgstr ""
+
+#: resources/views/profile.blade.php:234
+msgid "no data"
+msgstr ""
+
+#: resources/views/profile.blade.php:238
+msgid "Total online time"
+msgstr ""
+
+#: resources/views/profile.blade.php:239
+#, python-format
+msgid "%dh %dmin %dsec"
+msgstr ""
+
+#: resources/views/profile.blade.php:245
+msgid "Posts at forum"
+msgstr ""
+
+#: resources/views/profile.blade.php:251 resources/views/profile.blade.php:254
+msgid "Photos"
+msgstr ""
+
+#: resources/views/profile.blade.php:281 resources/views/profile.blade.php:284
+msgid "Banishments"
+msgstr ""
+
+#: resources/views/ranks/create-or-edit.blade.php:8
+msgid "Prefix"
+msgstr ""
+
+#: resources/views/ranks/create-or-edit.blade.php:12
+msgid "Color"
+msgstr ""
+
+#: resources/views/ranks/delete.blade.php:7
+#, python-format
+msgid "This rank is assigned to %d user. Please assign them another rank:"
+msgid_plural ""
+"This rank is assigned to %d users. Please assign them another rank:"
+msgstr[0] ""
+
+#: resources/views/ranks/delete.blade.php:10
+msgid "New rank"
+msgstr ""
+
+#: resources/views/ranks/delete.blade.php:19
+#, python-format
+msgid "Are you sure you want to delete rank \"%s\"?"
+msgstr ""
+
+#: resources/views/ranks/list.blade.php:14
+msgid "Users"
+msgstr ""
+
+#: resources/views/scores/achievements.blade.php:22
+#: resources/views/scores/hunters_characters.blade.php:16
+#: resources/views/scores/top100.blade.php:27
+msgid "warriors"
+msgstr ""
+
+#: resources/views/scores/achievements.blade.php:23
+#: resources/views/scores/hunters_characters.blade.php:17
+#: resources/views/scores/top100.blade.php:29
+msgid "wizards"
+msgstr ""
+
+#: resources/views/scores/achievements.blade.php:33
+#: resources/views/scores/hunters_characters.blade.php:48
+#: resources/views/scores/pvp.blade.php:17
+#: resources/views/scores/top100.blade.php:39
+msgid "Character"
+msgstr ""
+
+#: resources/views/scores/achievements.blade.php:34
+#: resources/views/scores/character.blade.php:89
+msgid "Points"
+msgstr ""
+
+#: resources/views/scores/character.blade.php:30
+#: resources/views/scores/guild.blade.php:19
+#: resources/views/scores/world.blade.php:13
+msgid "EP"
+msgstr ""
+
+#: resources/views/scores/character.blade.php:36
+msgid "Next level"
+msgstr ""
+
+#: resources/views/scores/character.blade.php:52
+#: resources/views/scores/character.blade.php:73
+msgid "Global rank"
+msgstr ""
+
+#: resources/views/scores/character.blade.php:60
+#: resources/views/scores/character.blade.php:81
+msgid "World rank"
+msgstr ""
+
+#: resources/views/scores/character.blade.php:95
+msgid "PvP rank"
+msgstr ""
+
+#: resources/views/scores/character.blade.php:113
+msgid "Max daily gain"
+msgstr ""
+
+#: resources/views/scores/character.blade.php:125
+msgid "Min daily gain"
+msgstr ""
+
+#: resources/views/scores/character.blade.php:139
+#, python-format
+msgid "Last %d day"
+msgid_plural "Last %d days"
+msgstr[0] ""
+
+#: resources/views/scores/character.blade.php:162
+#, python-format
+msgid "Updated %d day ago."
+msgid_plural "Updated %d days ago."
+msgstr[0] ""
+
+#: resources/views/scores/character.blade.php:169
+#, python-format
+msgid "Updated %d hour ago."
+msgid_plural "Updated %d hours ago."
+msgstr[0] ""
+
+#: resources/views/scores/character.blade.php:172
+msgid "Updated less than hour ago."
+msgstr ""
+
+#: resources/views/scores/character.blade.php:181
+msgid "Loading chart data..."
+msgstr ""
+
+#: resources/views/scores/character.blade.php:228
+#: resources/views/scores/guild.blade.php:41
+#: resources/views/scores/hunters_characters.blade.php:21
+#: resources/views/scores/hunters_guilds.blade.php:13
+msgid "Date"
+msgstr ""
+
+#: resources/views/scores/character.blade.php:231
+#: resources/views/scores/guild.blade.php:43
+#: resources/views/scores/guilds.blade.php:33
+#: resources/views/scores/hunters_characters.blade.php:50
+#: resources/views/scores/hunters_guilds.blade.php:24
+#: resources/views/scores/top100.blade.php:40
+#: resources/views/scores/worlds.blade.php:9
+msgid "Experience"
+msgstr ""
+
+#: resources/views/scores/guild.blade.php:24
+msgid "Known guild members"
+msgstr ""
+
+#: resources/views/scores/hunters_characters.blade.php:24
+msgid "Time"
+msgstr ""
+
+#: resources/views/scores/hunters_characters.blade.php:26
+msgid "full day"
+msgstr ""
+
+#: resources/views/scores/hunters_characters.blade.php:35
+msgid "exp"
+msgstr ""
+
+#: resources/views/scores/pvp.blade.php:19
+msgid "Quota"
+msgstr ""
+
+#: resources/views/scores/world.blade.php:23
+msgid "Max gain"
+msgstr ""
+
+#: resources/views/scores/world.blade.php:30
+msgid "Min gain"
+msgstr ""
+
+#: resources/views/screenshots.blade.php:16
+msgid "Please log in to upload screenshots."
+msgstr ""
+
+#: resources/views/screenshots.blade.php:24
+msgid "You don't have any screenshots yet."
+msgstr ""
+
+#: resources/views/screenshots.blade.php:26
+msgid "This user doesn't have any screenshots yet."
+msgstr ""
+
+#: resources/views/screenshots.blade.php:29
+msgid "No screenshots."
+msgstr ""
+
+#: resources/views/settings.blade.php:6
+msgid "Language"
+msgstr ""
+
+#: resources/views/settings.blade.php:15
+msgid "Timezone"
+msgstr ""
+
+#: resources/views/settings.blade.php:22
+msgid "Dark mode"
+msgstr ""
+
+#: resources/views/settings.blade.php:24
+msgid "auto"
+msgstr ""
+
+#: resources/views/settings.blade.php:25
+msgid "enabled"
+msgstr ""
+
+#: resources/views/settings.blade.php:26
+msgid "disabled"
+msgstr ""
+
+#: resources/views/settings.blade.php:38
+msgid "Notify on letters"
+msgstr ""
+
+#: resources/views/settings.blade.php:44
+msgid "Allow album comments"
+msgstr ""
+
+#: resources/views/settings.blade.php:50
+msgid "Notify on new comments"
+msgstr ""
+
+#: resources/views/staff.blade.php:4
+msgid "Creator"
+msgstr ""
+
+#: resources/views/staff.blade.php:18
+msgid "Translators"
+msgstr ""
+
+#: resources/views/themes/edit.blade.php:11
+msgid "Author"
+msgstr ""
+
+#: resources/views/themes/edit.blade.php:14
+#: resources/views/themes/home.blade.php:39
+#, python-format
+msgid "Downloads: %d"
+msgstr ""
+
+#: resources/views/themes/edit.blade.php:20
+msgid "Status"
+msgstr ""
+
+#: resources/views/themes/edit.blade.php:28
+msgid "Replace screenshot"
+msgstr ""
+
+#: resources/views/themes/home.blade.php:6
+msgid "No themes to display."
+msgstr ""
+
+#: app/Helpers.php:117 app/Helpers.php:118
+msgid "wrote"
+msgstr ""
+
+#: app/Helpers.php:129
+msgid "Click to show"
+msgstr ""
+
+#: app/Http/Controllers/Album.php:171
+msgid "Album has been deleted."
+msgstr ""
+
+#: app/Http/Controllers/Artworks.php:50
+msgid "Artwork has been deleted."
+msgstr ""
+
+#: app/Http/Controllers/Auth.php:66
+msgid "Invalid username or password."
+msgstr ""
+
+#: app/Http/Controllers/Auth.php:103 app/Http/Controllers/Characters.php:39
+#: app/Http/Controllers/Characters.php:57
+msgid "This nickname is already in use."
+msgstr ""
+
+#: app/Http/Controllers/Auth.php:133
+#, php-format
+msgid "Your account has been just created, %s!"
+msgstr ""
+
+#: app/Http/Controllers/Auth.php:139
+msgid "Password recovery"
+msgstr ""
+
+#: app/Http/Controllers/Auth.php:148 app/Http/Controllers/Auth.php:199
+msgid "Invalid token."
+msgstr ""
+
+#: app/Http/Controllers/Auth.php:153
+msgid "Reset password"
+msgstr ""
+
+#: app/Http/Controllers/Auth.php:168 app/Http/Controllers/Auth.php:173
+msgid "User not found."
+msgstr ""
+
+#: app/Http/Controllers/Auth.php:175
+msgid "This account cannot be recovered as it has no email set."
+msgstr ""
+
+#: app/Http/Controllers/Auth.php:177
+msgid "Invalid email."
+msgstr ""
+
+#: app/Http/Controllers/Auth.php:187
+msgid "Password recovery link has been sent to your email address."
+msgstr ""
+
+#: app/Http/Controllers/Auth.php:206
+msgid "Password has been reset."
+msgstr ""
+
+#: app/Http/Controllers/Auth.php:209
+msgid "Could not reset your password."
+msgstr ""
+
+#: app/Http/Controllers/Banishments.php:21
+msgid "Ban user"
+msgstr ""
+
+#: app/Http/Controllers/Banishments.php:57
+msgid "View banishment"
+msgstr ""
+
+#: app/Http/Controllers/Banishments.php:96
+msgid "Banishment already expired."
+msgstr ""
+
+#: app/Http/Controllers/Banishments.php:101
+msgid "Banishment already lifted."
+msgstr ""
+
+#: app/Http/Controllers/Banishments.php:108
+msgid "Banishment has been lifted."
+msgstr ""
+
+#: app/Http/Controllers/Characters.php:25
+#, php-format
+msgid "Cannot add more than %d characters."
+msgstr ""
+
+#: app/Http/Controllers/Characters.php:45
+#: app/Http/Controllers/Characters.php:64
+#: app/Http/Controllers/Characters.php:80 app/Http/Controllers/Forum.php:237
+#: app/Http/Controllers/Forum.php:312 app/Http/Controllers/Letters.php:86
+#: app/Http/Controllers/Profile.php:199
+msgid "Changes saved."
+msgstr ""
+
+#: app/Http/Controllers/Characters.php:70
+msgid "Cannot delete main character."
+msgstr ""
+
+#: app/Http/Controllers/Comments.php:99 app/Http/Controllers/Comments.php:103
+msgid "Comments"
+msgstr ""
+
+#: app/Http/Controllers/Comments.php:130
+msgid "Your comment has been posted."
+msgstr ""
+
+#: app/Http/Controllers/Content.php:89 app/Http/Controllers/Content.php:90
+msgid "Armour Calc"
+msgstr ""
+
+#: app/Http/Controllers/Content.php:337
+msgid "No file selected."
+msgstr ""
+
+#: app/Http/Controllers/Content.php:342
+msgid "Update already in progress."
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:142
+msgid "Topic has been deleted."
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:155
+msgid "Topic has been locked."
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:168
+msgid "Topic has been unlocked."
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:184
+msgid "Edit topic"
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:189 app/Http/Controllers/Ranks.php:91
+#: app/Http/Controllers/Themes.php:87
+msgid "Edit"
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:201 app/Http/Controllers/Forum.php:205
+msgid "Create topic"
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:263
+msgid "Topic has been created."
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:274
+msgid "Post deleted."
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:286 app/Http/Controllers/Forum.php:292
+msgid "Edit post"
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:322 app/Http/Controllers/Forum.php:327
+#: app/Http/Controllers/Forum.php:354 app/Http/Controllers/Forum.php:359
+msgid "Quote"
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:344 app/Http/Controllers/Forum.php:375
+#: app/Http/Controllers/Forum.php:410
+msgid "Message posted."
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:419 app/Http/Controllers/Forum.php:424
+msgid "Move topic"
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:442
+msgid "Topic has been moved."
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:450
+msgid "You will be notified on new replies in this thread."
+msgstr ""
+
+#: app/Http/Controllers/Forum.php:458
+msgid "You will no longer be notified on new replies in this thread."
+msgstr ""
+
+#: app/Http/Controllers/Letters.php:40 app/Http/Controllers/Letters.php:43
+#: app/Http/Controllers/Letters.php:73
+msgid "Letters"
+msgstr ""
+
+#: app/Http/Controllers/Letters.php:107
+msgid "Letter has been sent."
+msgstr ""
+
+#: app/Http/Controllers/Memberlist.php:53
+msgid "Users online"
+msgstr ""
+
+#: app/Http/Controllers/Notifications.php:30
+msgid "Notifications"
+msgstr ""
+
+#: app/Http/Controllers/Ranks.php:55
+msgid "Create"
+msgstr ""
+
+#: app/Http/Controllers/Scores.php:123 app/Http/Controllers/Scores.php:172
+msgid "TOP Hunters"
+msgstr ""
+
+#: app/Http/Controllers/Scores.php:637 app/Http/Controllers/Scores.php:641
+#, php-format
+msgid "World %d"
+msgstr ""
+
+#: app/Http/Controllers/Screenshots.php:48
+msgid "My screenshots"
+msgstr ""
+
+#: app/Http/Controllers/Staff.php:16 app/Http/Controllers/Staff.php:17
+msgid "Staff"
+msgstr ""
+
+#: app/Http/Controllers/Themes.php:26 app/Http/Controllers/Themes.php:36
+#: app/Http/Controllers/Themes.php:42
+msgid "My themes"
+msgstr ""
+
+#: app/Http/Controllers/Uploader.php:27
+msgid "No file specified."
+msgstr ""
+
+#: app/Http/Controllers/Uploader.php:51 app/Http/Controllers/Uploader.php:61
+msgid "File exists."
+msgstr ""
+
+#: app/Http/Middleware/isBanished.php:29
+#, php-format
+msgid "You have been banished until %s."
+msgstr ""
+
+#: app/Http/Middleware/isBanished.php:29
+msgid "You have been banished permanently."
+msgstr ""
+
+#: app/Mail/LetterReceived.php:22
+msgid "New Private Message has arrived"
+msgstr ""
+
+#: app/Mail/PasswordRecovery.php:22
+msgid "Password recovery confirmation"
+msgstr ""
+
+#: config/armourslots.php:4
+msgid "Head"
+msgstr ""
+
+#: config/armourslots.php:5
+msgid "Amulet"
+msgstr ""
+
+#: config/armourslots.php:6
+msgid "Shield"
+msgstr ""
+
+#: config/armourslots.php:7
+msgid "Torso"
+msgstr ""
+
+#: config/armourslots.php:8
+msgid "Legs"
+msgstr ""
+
+#: config/armourslots.php:9
+msgid "Ring"
+msgstr ""
+
+#: config/banishments.php:5
+msgid "Spam"
+msgstr ""
+
+#: config/banishments.php:6
+msgid "Offensive statements"
+msgstr ""
+
+#: config/banishments.php:7
+msgid "Rules violation"
+msgstr ""
+
+#: config/banishments.php:10 config/banishments.php:11
+#: config/banishments.php:12
+#, php-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+
+#: config/banishments.php:13 config/banishments.php:14
+#: config/banishments.php:15
+#, php-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] ""
+
+#: config/banishments.php:16 config/banishments.php:17
+#, php-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] ""
+
+#: config/banishments.php:18
+#, php-format
+msgid "%d week"
+msgid_plural "%d weeks"
+msgstr[0] ""
+
+#: config/banishments.php:19
+#, php-format
+msgid "%d month"
+msgid_plural "%d months"
+msgstr[0] ""
+
+#: config/relationship.php:4
+msgid "Single"
+msgstr ""
+
+#: config/relationship.php:5
+msgid "In relationship"
+msgstr ""
+
+#: config/relationship.php:6
+msgid "Engaged"
+msgstr ""
+
+#: config/relationship.php:7
+msgid "Married"
+msgstr ""
+
+#: config/relationship.php:8
+msgid "It's complicated"
+msgstr ""
+
+#: config/relationship.php:9
+msgid "Actively searching"
+msgstr ""
+
+#: config/themes.status.php:3
+msgid "On moderation"
+msgstr ""
+
+#: config/themes.status.php:4
+msgid "Checked"
+msgstr ""
+
+#: config/themes.status.php:5
+msgid "Tested"
+msgstr ""
+
+#: config/vocations.php:4
+msgid "Warrior"
+msgstr ""
+
+#: config/vocations.php:5
+msgid "Wizard"
+msgstr ""
+
+#: lang/en_US/validation.php:21
+#, php-format
+msgid "The %s field must only contain letters."
+msgstr ""
+
+#: lang/en_US/validation.php:36
+#, php-format
+msgid "The %s field is not valid."
+msgstr ""
+
+#: lang/en_US/validation.php:37
+#, php-format
+msgid "The %s field confirmation does not match."
+msgstr ""
+
+#: lang/en_US/validation.php:53
+#, php-format
+msgid "The %s field must be a valid email address."
+msgstr ""
+
+#: lang/en_US/validation.php:56 lang/en_US/validation.php:74
+#, php-format
+msgid "The selected %s is invalid."
+msgstr ""
+
+#: lang/en_US/validation.php:73
+#, php-format
+msgid "The %s field must be an image."
+msgstr ""
+
+#: lang/en_US/validation.php:99
+#, php-format
+msgid "The %1$s field must not be greater than %2$s."
+msgstr ""
+
+#: lang/en_US/validation.php:103 lang/en_US/validation.php:104
+#, php-format
+msgid "The %1$s field must be a file of type: %2$s."
+msgstr ""
+
+#: lang/en_US/validation.php:109
+#, php-format
+msgid "The %1$s field must be at least %2$s characters."
+msgstr ""
+
+#: lang/en_US/validation.php:138
+#, php-format
+msgid "The %s field is required."
+msgstr ""
+
+#: lang/en_US/validation.php:158
+#, php-format
+msgid "The %s has already been taken."
+msgstr ""
+
+#: lang/en_US/validation.php:159
+#, php-format
+msgid "The %s failed to upload."
+msgstr ""
+
+#: lang/en_US/validation.php:194
+msgid "message"
+msgstr ""
+
+#: lang/en_US/validation.php:195
+msgid "world"
+msgstr ""
+
+#: lang/en_US/validation.php:196
+msgid "password"
+msgstr ""
+
+#: lang/en_US/validation.php:197
+msgid "nickname"
+msgstr ""
+
+#: lang/en_US/validation.php:198
+msgid "files"
+msgstr ""
+
+#: lang/en_US/validation.php:199
+msgid "subject"
+msgstr ""
+
+#: lang/en_US/validation.php:201
+msgid "prefix"
+msgstr ""
+
+#: lang/en_US/validation.php:202
+msgid "color"
+msgstr ""
+
+#: lang/en_US/validation.php:203
+msgid "rank"
+msgstr ""
+
+#: public/cp/sync.php:6
+msgid "Invalid request."
+msgstr ""
+
+#: public/cp/sync.php:9
+msgid "Sync complete."
+msgstr ""
+
+#: public/cp/sync.php:9
+msgid "Unknown error."
+msgstr ""
+
+#: resources/views/layout/highscores_server_info.tpl.php:2
+#, php-format
+msgid "Server time: %s"
+msgstr ""
+
+#: resources/views/layout/highscores_server_info.tpl.php:3
+#, php-format
+msgid "Last update: %s"
+msgstr ""
