@@ -1,11 +1,14 @@
 # Tibia-ME.net locales
 
-* Use formal language only.<br/>
-<br/>
-* No slang.<br/>
-<br/>
-* Do not shorten where it's not necessary.<br/>
-<br/>
+* Use formal language only.
+
+
+* No slang.
+
+
+* Do not shorten where it's not necessary.
+
+
 * %s, %d, %1$s, etc. are variables (that will be replaced with some number or word, e.g. "%s books" can be displayed as "5 books", "12 books", "white books", etc.), do not add or remove them.<br/>
 %d are numbers, %s are any characters.<br/><br/>
 Parsed with PHP sprintf() http://www.php.net/sprintf<br/><br/>
