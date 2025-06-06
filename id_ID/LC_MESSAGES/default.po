@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Tibia-ME.net\n"
-"POT-Creation-Date: 2025-05-10 16:35+0300\n"
-"PO-Revision-Date: 2025-05-10 16:35+0300\n"
+"POT-Creation-Date: 2025-06-06 17:41+0300\n"
+"PO-Revision-Date: 2025-06-06 17:43+0300\n"
 "Last-Translator: Molodoy <molodoy3561@gmail.com>\n"
 "Language-Team: \n"
 "Language: id_ID\n"
@@ -16,266 +16,292 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: vendor\n"
-"X-Poedit-SearchPathExcluded-1: tests\n"
-"X-Poedit-SearchPathExcluded-2: storage\n"
 
 #: resources/views/agreement.blade.php:5
 msgid "General"
-msgstr ""
+msgstr "Umum"
 
 #: resources/views/agreement.blade.php:8
 msgid ""
 "All TibiaME rules are valid on this fansite. Please check FAQ section on "
 "tibiame.com."
 msgstr ""
+"Semua peraturan TibiaME berlaku di fansite ini. Silakan periksa bagian FAQ "
+"di tibiame.com."
 
 #: resources/views/agreement.blade.php:11
 msgid "Accounts"
-msgstr ""
+msgstr "Akun"
 
 #: resources/views/agreement.blade.php:13
 msgid "You are only allowed to use your real character nickname and gameworld."
 msgstr ""
+"Anda hanya diperbolehkan untuk menggunakan nama karakter asli dan dunia "
+"permainan Anda."
 
 #: resources/views/agreement.blade.php:14
 msgid "You are not allowed to share your account data (password) publicly."
 msgstr ""
+"Anda tidak diperbolehkan untuk membagikan data akun Anda (kata sandi) secara "
+"publik."
 
 #: resources/views/agreement.blade.php:17
 msgid "Highscores"
-msgstr ""
+msgstr "Skor tertinggi"
 
 #: resources/views/agreement.blade.php:19
 msgid "Listed characters"
-msgstr ""
+msgstr "Karakter yang terdaftar"
 
 #: resources/views/agreement.blade.php:22
 msgid ""
 "Top 100 wizards and top 100 warriors by total experience from each game "
 "world are listed."
 msgstr ""
+"100 penyihir teratas dan 100 prajurit teratas berdasarkan total pengalaman "
+"dari setiap dunia game terdaftar."
 
 #: resources/views/agreement.blade.php:23
 msgid "Characters with PvP rank 100 or higher are listed."
-msgstr ""
+msgstr "Karakter dengan peringkat PvP 100 atau lebih tinggi terdaftar."
 
 #: resources/views/agreement.blade.php:25
 msgid ""
 "Top 100 wizards and top 100 warriors by achievement points from each game "
 "world are listed."
 msgstr ""
+"100 penyihir teratas dan 100 prajurit teratas berdasarkan poin pencapaian "
+"dari setiap dunia game terdaftar."
 
 #: resources/views/agreement.blade.php:26
 msgid "Other characters are not listed and we cannot add them at this time."
 msgstr ""
+"Karakter lain tidak terdaftar dan kami tidak dapat menambahkannya saat ini."
 
 #: resources/views/agreement.blade.php:29
 msgid "Data reliability"
-msgstr ""
+msgstr "Keandalan data"
 
 #: resources/views/agreement.blade.php:31
 msgid "Highscores are updated daily at 00:10 UTC."
-msgstr ""
+msgstr "Skor tertinggi diperbarui setiap hari pada pukul 00:10 UTC."
 
 #: resources/views/agreement.blade.php:33
 msgid ""
 "Highscores data are provided by tibiame.com and Tibia-ME.net is not "
 "responsible for its reliability."
 msgstr ""
+"Data skor tinggi disediakan oleh tibiame.com dan Tibia-ME.net tidak "
+"bertanggung jawab atas keandalannya."
 
 #: resources/views/agreement.blade.php:35
 msgid ""
 "Worlds' statistics as well as Top Hunters data are only based on characters "
 "that are listed on this website (see 3.1.)."
 msgstr ""
+"Statistik dunia serta data Pemburu Teratas hanya didasarkan pada karakter "
+"yang terdaftar di situs web ini (lihat 3.1.)."
 
 #: resources/views/agreement.blade.php:40
 msgid "Screenshots"
-msgstr ""
+msgstr "Tangkapan layar"
 
 #: resources/views/agreement.blade.php:42
 msgid "Only TibiaME screenshots are allowed at Screenshots section."
 msgstr ""
+"Hanya tangkapan layar TibiaME yang diperbolehkan di bagian Tangkapan Layar."
 
 #: resources/views/agreement.blade.php:43
 msgid "Artworks are not allowed."
-msgstr ""
+msgstr "Karya seni tidak diperbolehkan."
 
 #: resources/views/agreement.blade.php:45
 msgid ""
 "Screenshots should not contain any non-game areas, e.g. computer desktop and "
 "emulator window."
 msgstr ""
+"Tangkapan layar tidak boleh berisi area non-game, misalnya desktop komputer "
+"dan jendela emulator."
 
 #: resources/views/agreement.blade.php:48
 msgid "Artworks"
-msgstr ""
+msgstr "Karya seni"
 
 #: resources/views/agreement.blade.php:50
 msgid "Artworks should be related to TibiaME."
-msgstr ""
+msgstr "Karya seni harus terkait dengan TibiaME."
 
 #: resources/views/agreement.blade.php:51
 msgid "You are only allowed to upload your own artworks."
-msgstr ""
+msgstr "Anda hanya diperbolehkan mengunggah karya seni Anda sendiri."
 
 #: resources/views/agreement.blade.php:54
 msgid "Privacy"
-msgstr ""
+msgstr "Privasi"
 
 #: resources/views/agreement.blade.php:56
 msgid ""
 "Tibia-ME.net never shares your hidden data (e.g. email, birth date) with "
 "anyone."
 msgstr ""
+"Tibia-ME.net tidak pernah membagikan data tersembunyi Anda (misalnya email, "
+"tanggal lahir) kepada siapa pun."
 
 #: resources/views/agreement.blade.php:58
 msgid ""
 "Your passwords are encrypted and cannot be viewed by anyone, including Tibia-"
 "ME.net staff."
 msgstr ""
+"Kata sandi Anda dienkripsi dan tidak dapat dilihat oleh siapa pun, termasuk "
+"staf Tibia-ME.net."
 
 #: resources/views/agreement.blade.php:60
 msgid ""
 "Tibia-ME.net Admin may use your data to contact you (e.g. email, including "
 "hidden data)."
 msgstr ""
+"Admin Tibia-ME.net dapat menggunakan data Anda untuk menghubungi Anda "
+"(misalnya email, termasuk data tersembunyi)."
 
 #: resources/views/agreement.blade.php:63
 msgid "Copyrights"
-msgstr ""
+msgstr "Hak Cipta"
 
 #: resources/views/agreement.blade.php:66
 msgid ""
 "TibiaME is a trademark of CipSoft GmbH, tibiame.com is the only official "
 "TibiaME website."
 msgstr ""
+"TibiaME adalah merek dagang dari CipSoft GmbH, tibiame.com adalah satu-"
+"satunya situs web resmi TibiaME."
 
 #: resources/views/agreement.blade.php:68
 msgid ""
 "Any icons provided by CipSoft are copyrighted by CipSoft. You may use any "
 "TibiaME icons from this website."
 msgstr ""
+"Semua ikon yang disediakan oleh CipSoft memiliki hak cipta dari CipSoft. "
+"Anda dapat menggunakan ikon TibiaME apa pun dari situs web ini."
 
 #: resources/views/agreement.blade.php:75
 msgid "Decline"
-msgstr ""
+msgstr "Tolak"
 
 #: resources/views/album/albums.blade.php:7
 msgid "You have no albums."
-msgstr ""
+msgstr "Anda tidak memiliki album."
 
 #: resources/views/album/albums.blade.php:9
 msgid "This user has no albums."
-msgstr ""
+msgstr "Pengguna ini tidak memiliki album."
 
 #: resources/views/album/home.blade.php:14
 msgid "all worlds"
-msgstr ""
+msgstr "semua dunia"
 
 #: resources/views/album/photos.blade.php:6
 msgid "This album is empty."
-msgstr ""
+msgstr "Album ini kosong."
 
 #: resources/views/artworks.blade.php:15
 msgid "Log in to upload artworks."
-msgstr ""
+msgstr "Masuk untuk mengunggah karya seni."
 
 #: resources/views/artworks.blade.php:18
 msgid "No artworks available."
-msgstr ""
+msgstr "Tidak ada karya seni yang tersedia."
 
 #: resources/views/auth/lostpassword.blade.php:6
 #: resources/views/characters.blade.php:33
 msgid "Nickname"
-msgstr ""
+msgstr "Nama panggilan"
 
 #: resources/views/auth/lostpassword.blade.php:8
 #: resources/views/characters.blade.php:35
 msgid "World"
-msgstr ""
+msgstr "Dunia"
 
 #: resources/views/auth/lostpassword.blade.php:10
 msgid "select world"
-msgstr ""
+msgstr "pilih dunia"
 
 #: resources/views/auth/reset-password.blade.php:7
 msgid "New password"
-msgstr ""
+msgstr "Kata sandi baru"
 
 #: resources/views/auth/reset-password.blade.php:9
 msgid "Confirm password"
-msgstr ""
+msgstr "Konfirmasi kata sandi"
 
 #: resources/views/banishments/banform.blade.php:8
 #: resources/views/banishments/list.blade.php:8
 #: resources/views/banishments/view.blade.php:31
 msgid "Reason"
-msgstr ""
+msgstr "Alasan"
 
 #: resources/views/banishments/banform.blade.php:17
 #: resources/views/banishments/view.blade.php:40
 msgid "Description"
-msgstr ""
+msgstr "Deskripsi"
 
 #: resources/views/banishments/banform.blade.php:20
 #: resources/views/banishments/list.blade.php:9
 msgid "Duration"
-msgstr ""
+msgstr "Durasi"
 
 #: resources/views/banishments/banform.blade.php:35
 msgid "Delete all forum posts"
-msgstr ""
+msgstr "Menghapus semua postingan forum"
 
 #: resources/views/banishments/list.blade.php:7
 #: resources/views/banishments/view.blade.php:7
 msgid "User"
-msgstr ""
+msgstr "Pengguna"
 
 #: resources/views/banishments/list.blade.php:24
 #: resources/views/banishments/view.blade.php:52
 msgid "permanent"
-msgstr ""
+msgstr "permanen"
 
 #: resources/views/banishments/view.blade.php:15
 msgid "Start date"
-msgstr ""
+msgstr "Tanggal mulai"
 
 #: resources/views/banishments/view.blade.php:23
 #: resources/views/banishments/view.blade.php:66
 msgid "Moderator"
-msgstr ""
+msgstr "Moderator"
 
 #: resources/views/banishments/view.blade.php:49
 msgid "Expires"
-msgstr ""
+msgstr "Kedaluarsa"
 
 #: resources/views/banishments/view.blade.php:58
 msgid "Lifted"
-msgstr ""
+msgstr "Diangkat"
 
 #: resources/views/banishments/view.blade.php:77
 msgid "Lift banishment"
-msgstr ""
+msgstr "Angkat hukuman ban"
 
 #: resources/views/characters.blade.php:6
 msgid "Select main character"
-msgstr ""
+msgstr "Pilih karakter utama"
 
 #: resources/views/comments.blade.php:14
 msgid "No one has commented yet."
-msgstr ""
+msgstr "Belum ada yang berkomentar."
 
 #: resources/views/comments.blade.php:65
 msgid "Log in to post your comments."
-msgstr ""
+msgstr "Masuk untuk mengirim komentar Anda."
 
 #: resources/views/content/armours.blade.php:6
 #: resources/views/content/skills.blade.php:6
 #: resources/views/content/spells.blade.php:6
 #: resources/views/content/weapons.blade.php:6
 msgid "Vocation"
-msgstr ""
+msgstr "Profesi"
 
 #: resources/views/content/armours.blade.php:8
 #: resources/views/content/armours.blade.php:15
@@ -284,26 +310,26 @@ msgstr ""
 #: resources/views/content/spells.blade.php:31
 #: resources/views/content/weapons.blade.php:8
 msgid "any"
-msgstr ""
+msgstr "apapun"
 
 #: resources/views/content/armours.blade.php:10
 #: resources/views/content/skills.blade.php:8
 #: resources/views/content/spells.blade.php:10
 #: resources/views/content/weapons.blade.php:9
 msgid "warrior"
-msgstr ""
+msgstr "prajurit"
 
 #: resources/views/content/armours.blade.php:11
 #: resources/views/content/skills.blade.php:9
 #: resources/views/content/spells.blade.php:12
 #: resources/views/content/weapons.blade.php:10
 msgid "wizard"
-msgstr ""
+msgstr "penyihir"
 
 #: resources/views/content/armours.blade.php:13
 #: resources/views/content/armours.blade.php:70
 msgid "Slot"
-msgstr ""
+msgstr "Slot"
 
 #: resources/views/content/armours.blade.php:22
 #: resources/views/content/armours.blade.php:69
@@ -312,50 +338,50 @@ msgstr ""
 #: resources/views/content/weapons.blade.php:14
 #: resources/views/content/weapons.blade.php:63
 msgid "Level"
-msgstr ""
+msgstr "Level"
 
 #: resources/views/content/armours.blade.php:38
 #: resources/views/content/weapons.blade.php:32
 msgid "Sort"
-msgstr ""
+msgstr "Urutkan"
 
 #: resources/views/content/armours.blade.php:40
 #: resources/views/content/spells.blade.php:41
 #: resources/views/content/weapons.blade.php:34
 msgid "level"
-msgstr ""
+msgstr "level"
 
 #: resources/views/content/armours.blade.php:46
 #: resources/views/content/spells.blade.php:44
 #: resources/views/content/weapons.blade.php:40
 msgid "Order"
-msgstr ""
+msgstr "Urutan"
 
 #: resources/views/content/armours.blade.php:48
 #: resources/views/content/spells.blade.php:46
 #: resources/views/content/weapons.blade.php:42
 msgid "ascending"
-msgstr ""
+msgstr "naik"
 
 #: resources/views/content/armours.blade.php:49
 #: resources/views/content/spells.blade.php:47
 #: resources/views/content/weapons.blade.php:43
 msgid "descending"
-msgstr ""
+msgstr "turun"
 
 #: resources/views/content/armours.blade.php:68
 msgid "Armour"
-msgstr ""
+msgstr "Armor"
 
 #: resources/views/content/armours.blade.php:71
 #: resources/views/content/weapons.blade.php:65
 msgid "Stats"
-msgstr ""
+msgstr "Statistik"
 
 #: resources/views/content/armours.blade.php:72
 #: resources/views/content/weapons.blade.php:66
 msgid "Dropped by"
-msgstr ""
+msgstr "Dijatuhkan oleh"
 
 #: resources/views/content/armours.blade.php:79
 #: resources/views/content/food.blade.php:18
@@ -364,270 +390,270 @@ msgstr ""
 #: resources/views/content/spells.blade.php:54
 #: resources/views/content/weapons.blade.php:73
 msgid "No items to display."
-msgstr ""
+msgstr "Tidak ada item untuk ditampilkan."
 
 #: resources/views/content/food.blade.php:6
 msgid "Food and potions"
-msgstr ""
+msgstr "Makanan dan ramuan"
 
 #: resources/views/content/food.blade.php:9
 msgid "Item"
-msgstr ""
+msgstr "Barang"
 
 #: resources/views/content/food.blade.php:10
 msgid "Effect"
-msgstr ""
+msgstr "Efek"
 
 #: resources/views/content/monsters.blade.php:6
 #: resources/views/content/weapons.blade.php:62
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 #: resources/views/content/monsters.blade.php:15
 msgid "Monster"
-msgstr ""
+msgstr "Monster"
 
 #: resources/views/content/monsters.blade.php:16
 msgid "Award"
-msgstr ""
+msgstr "Penghargaan"
 
 #: resources/views/content/monsters.blade.php:17
 #: resources/views/content/pets.blade.php:12
 msgid "HP"
-msgstr ""
+msgstr "HP"
 
 #: resources/views/content/monsters.blade.php:18
 msgid "Walkspeed"
-msgstr ""
+msgstr "Kecepatan berjalan"
 
 #: resources/views/content/monsters.blade.php:19
 msgid "Attack"
-msgstr ""
+msgstr "Menyerang"
 
 #: resources/views/content/monsters.blade.php:20
 #: resources/views/content/pets.blade.php:11
 msgid "Weakness"
-msgstr ""
+msgstr "Kelemahan"
 
 #: resources/views/content/monsters.blade.php:21
 msgid "Islands"
-msgstr ""
+msgstr "Kepulauan"
 
 #: resources/views/content/monsters.blade.php:22
 msgid "Drops"
-msgstr ""
+msgstr "Drops"
 
 #: resources/views/content/pets.blade.php:8
 msgid "Pet"
-msgstr ""
+msgstr "Hewan peliharaan"
 
 #: resources/views/content/pets.blade.php:9
 msgid "Damage"
-msgstr ""
+msgstr "Kerusakan"
 
 #: resources/views/content/pets.blade.php:10
 msgid "Protection"
-msgstr ""
+msgstr "Perlindungan"
 
 #: resources/views/content/pets.blade.php:14
 msgid "Defense"
-msgstr ""
+msgstr "Pertahanan"
 
 #: resources/views/content/pets.blade.php:20
 msgid "No data."
-msgstr ""
+msgstr "Tidak ada data."
 
 #: resources/views/content/skills.blade.php:22
 msgid "Skill"
-msgstr ""
+msgstr "Kemampuan"
 
 #: resources/views/content/spells.blade.php:16
 msgid "Type"
-msgstr ""
+msgstr "Tipe"
 
 #: resources/views/content/spells.blade.php:19
 msgid "heal"
-msgstr ""
+msgstr "menyembuhkan"
 
 #: resources/views/content/spells.blade.php:20
 msgid "buff"
-msgstr ""
+msgstr "penggemar"
 
 #: resources/views/content/spells.blade.php:21
 msgid "debuff"
-msgstr ""
+msgstr "debuff"
 
 #: resources/views/content/spells.blade.php:22
 msgid "hit"
-msgstr ""
+msgstr "memukul"
 
 #: resources/views/content/spells.blade.php:23
 msgid "fire"
-msgstr ""
+msgstr "api"
 
 #: resources/views/content/spells.blade.php:24
 msgid "ice"
-msgstr ""
+msgstr "es"
 
 #: resources/views/content/spells.blade.php:25
 msgid "energy"
-msgstr ""
+msgstr "energi"
 
 #: resources/views/content/spells.blade.php:26
 msgid "soul"
-msgstr ""
+msgstr "jiwa"
 
 #: resources/views/content/spells.blade.php:27
 msgid "weapon"
-msgstr ""
+msgstr "senjata"
 
 #: resources/views/content/spells.blade.php:29
 #: resources/views/content/spells.blade.php:65
 msgid "Target"
-msgstr ""
+msgstr "Target"
 
 #: resources/views/content/spells.blade.php:32
 #: resources/views/content/spells.blade.php:137
 msgid "self"
-msgstr ""
+msgstr "diri"
 
 #: resources/views/content/spells.blade.php:33
 #: resources/views/content/spells.blade.php:143
 msgid "guild"
-msgstr ""
+msgstr "serikat"
 
 #: resources/views/content/spells.blade.php:34
 #: resources/views/content/spells.blade.php:140
 msgid "AoE"
-msgstr ""
+msgstr "AoE"
 
 #: resources/views/content/spells.blade.php:35
 msgid "single"
-msgstr ""
+msgstr "tunggal"
 
 #: resources/views/content/spells.blade.php:39
 msgid "Sort by"
-msgstr ""
+msgstr "Urutkan"
 
 #: resources/views/content/spells.blade.php:42
 msgid "name"
-msgstr ""
+msgstr "nama"
 
 #: resources/views/content/spells.blade.php:61
 msgid "Spell"
-msgstr ""
+msgstr "Mantra"
 
 #: resources/views/content/spells.blade.php:63
 #: resources/views/content/weapons.blade.php:64
 msgid "Mana"
-msgstr ""
+msgstr "Mana"
 
 #: resources/views/content/spells.blade.php:64
 msgid "Amount"
-msgstr ""
+msgstr "Jumlah"
 
 #: resources/views/content/spells.blade.php:66
 msgid "Cooldown"
-msgstr ""
+msgstr "Jeda"
 
 #: resources/views/content/spells.blade.php:105
 #, python-format
 msgid "%.2f HP/s"
-msgstr ""
+msgstr "%.2f HP/d"
 
 #: resources/views/content/spells.blade.php:146
 msgid "single enemy"
-msgstr ""
+msgstr "musuh tunggal"
 
 #: resources/views/forum/home.blade.php:20
 #: resources/views/forum/viewforum.blade.php:20
 msgid "new"
-msgstr ""
+msgstr "baru"
 
 #: resources/views/forum/home.blade.php:23
 msgid "hidden"
-msgstr ""
+msgstr "tersembunyi"
 
 #: resources/views/forum/home.blade.php:26
 #, python-format
 msgid "%d topic"
 msgid_plural "%d topics"
-msgstr[0] ""
+msgstr[0] "%d topik"
 
 #: resources/views/forum/home.blade.php:27
 #, python-format
 msgid "%d post"
 msgid_plural "%d posts"
-msgstr[0] ""
+msgstr[0] "%d post"
 
 #: resources/views/forum/post-edit.blade.php:10
 #: resources/views/forum/post-quote.blade.php:13
 #: resources/views/forum/topic-create-edit.blade.php:21
 #: resources/views/forum/topic-move.blade.php:16
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #: resources/views/forum/topic-create-edit.blade.php:6
 msgid "Title"
-msgstr ""
+msgstr "Judul"
 
 #: resources/views/forum/topic-create-edit.blade.php:9
 msgid "Message"
-msgstr ""
+msgstr "Pesan"
 
 #: resources/views/forum/topic-create-edit.blade.php:14
 msgid "Pinned"
-msgstr ""
+msgstr "Disematkan"
 
 #: resources/views/forum/topic-move.blade.php:6
 msgid "Move to"
-msgstr ""
+msgstr "Pindah ke"
 
 #: resources/views/forum/viewtopic.blade.php:10
 #: resources/views/forum/viewtopic.blade.php:101
 #, python-format
 msgid "Topics: %d"
-msgstr ""
+msgstr "Topik: %d"
 
 #: resources/views/forum/viewtopic.blade.php:11
 #: resources/views/forum/viewtopic.blade.php:102
 #, python-format
 msgid "Posts: %d"
-msgstr ""
+msgstr "Posting: %d"
 
 #: resources/views/forum/viewtopic.blade.php:15
 #: resources/views/forum/viewtopic.blade.php:106
 msgid "Edited by %1$s on %2$s"
-msgstr ""
+msgstr "Diedit oleh %1$s pada %2$s"
 
 #: resources/views/forum/viewtopic.blade.php:17
 #: resources/views/forum/viewtopic.blade.php:108
 #, python-format
 msgid "edited %d time in total"
 msgid_plural "edited %d times in total"
-msgstr[0] ""
+msgstr[0] "diedit %d waktu dalam total"
 
 #: resources/views/forum/viewtopic.blade.php:164
 msgid "This thread is closed, you cannot post here."
-msgstr ""
+msgstr "Thread ini ditutup, Anda tidak dapat memposting di sini."
 
 #: resources/views/forum/viewtopic.blade.php:181
 msgid "Log in to post messages."
-msgstr ""
+msgstr "Masuk untuk mengirim pesan."
 
 #: resources/views/home.blade.php:22
 #, python-format
 msgid "%d comment"
 msgid_plural "%d comments"
-msgstr[0] ""
+msgstr[0] "%d komentar"
 
 #: resources/views/home.blade.php:42
 msgid "view all"
-msgstr ""
+msgstr "tampilkan semua"
 
 #: resources/views/home.blade.php:47
 msgid "Chat"
-msgstr ""
+msgstr "Obrolan"
 
 #: resources/views/home.blade.php:52
 msgid ""
@@ -640,492 +666,513 @@ msgid ""
 "the successful online role-playing game Tibia which attracts thousands of "
 "players every day."
 msgstr ""
+"TibiaME adalah permainan peran daring multiplayer pertama untuk perangkat "
+"seluler. Bergabunglah dengan ratusan pemain dan rasakan petualangan di dunia "
+"virtual yang penuh warna! Bersama teman-temanmu, jelajahi tanah misterius "
+"TibiaME, lawan gerombolan makhluk jahat, dan pecahkan teka-teki kuno untuk "
+"menemukan harta karun yang tak terhitung jumlahnya. Dengan setiap monster "
+"yang kamu kalahkan, kamu akan berkembang dalam kekuatan dan kemampuan. "
+"TibiaME didasarkan pada permainan peran daring sukses Tibia yang menarik "
+"ribuan pemain setiap hari."
 
 #: resources/views/home.blade.php:60
 msgid "Premium & Platinum"
-msgstr ""
+msgstr "Premium & Platinum"
 
 #: resources/views/home.blade.php:65
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
-#: resources/views/home.blade.php:88
-msgid "Memberlist"
-msgstr ""
-
-#: resources/views/home.blade.php:91
+#: resources/views/home.blade.php:90
 msgid "Banlist"
-msgstr ""
+msgstr "Daftar larangan"
 
-#: resources/views/home.blade.php:94
+#: resources/views/home.blade.php:93
 msgid "Ranks"
-msgstr ""
+msgstr "Peringkat"
+
+#: resources/views/home.blade.php:112
+msgid "TOP 100"
+msgstr "TOP 100"
 
 #: resources/views/home.blade.php:113
-msgid "TOP 100"
-msgstr ""
-
-#: resources/views/home.blade.php:114
 msgid "Hunters"
-msgstr ""
+msgstr "Pemburu"
+
+#: resources/views/home.blade.php:115
+msgid "Achievements"
+msgstr "Pencapaian"
 
 #: resources/views/home.blade.php:116
-msgid "Achievements"
-msgstr ""
+msgid "Guilds"
+msgstr "Guild"
 
 #: resources/views/home.blade.php:117
-msgid "Guilds"
-msgstr ""
-
-#: resources/views/home.blade.php:118
 msgid "Worlds"
-msgstr ""
+msgstr "Dunia"
 
-#: resources/views/home.blade.php:123
+#: resources/views/home.blade.php:122
 msgid "Encyclopedia"
-msgstr ""
+msgstr "Ensiklopedia"
+
+#: resources/views/home.blade.php:124
+msgid "Armour Calculator"
+msgstr "Kalkulator Armor"
 
 #: resources/views/home.blade.php:125
-msgid "Armour Calculator"
-msgstr ""
+msgid "Weapons"
+msgstr "Senjata"
 
 #: resources/views/home.blade.php:126
-msgid "Weapons"
-msgstr ""
+msgid "Armours"
+msgstr "Armor"
 
 #: resources/views/home.blade.php:127
-msgid "Armours"
-msgstr ""
+msgid "Monsters"
+msgstr "Monster"
 
 #: resources/views/home.blade.php:128
-msgid "Monsters"
-msgstr ""
+msgid "Spells"
+msgstr "Mantra"
 
 #: resources/views/home.blade.php:129
-msgid "Spells"
-msgstr ""
+msgid "Skills"
+msgstr "Keahlian"
 
 #: resources/views/home.blade.php:130
-msgid "Skills"
-msgstr ""
-
-#: resources/views/home.blade.php:131
 msgid "Pets"
-msgstr ""
+msgstr "Hewan Peliharaan"
 
-#: resources/views/home.blade.php:137
+#: resources/views/home.blade.php:136
 msgid "About us"
-msgstr ""
+msgstr "Tentang kami"
+
+#: resources/views/home.blade.php:138
+msgid "Moderators"
+msgstr "Moderator"
 
 #: resources/views/home.blade.php:139
-msgid "Moderators"
-msgstr ""
-
-#: resources/views/home.blade.php:140
 msgid "User agreement"
-msgstr ""
+msgstr "Perjanjian pengguna"
+
+#: resources/views/home.blade.php:144
+msgid "Archive"
+msgstr "Arsip"
 
 #: resources/views/home.blade.php:145
-msgid "Archive"
-msgstr ""
-
-#: resources/views/home.blade.php:146
 msgid "These sections are in read-only mode and/or not eligible for support."
 msgstr ""
+"Bagian-bagian ini dalam mode hanya-baca dan/atau tidak memenuhi syarat untuk "
+"mendapatkan dukungan."
 
-#: resources/views/home.blade.php:150
+#: resources/views/home.blade.php:149
 msgid "Photo album"
-msgstr ""
+msgstr "Album foto"
 
-#: resources/views/home.blade.php:155
+#: resources/views/home.blade.php:154
 msgid "Themes"
-msgstr ""
+msgstr "Tema"
 
 #: resources/views/layout.blade.php:72 resources/views/layout.blade.php:81
 msgid "Online"
-msgstr ""
+msgstr "Online"
 
 #: resources/views/layout.blade.php:101
 msgid "Guest"
-msgstr ""
+msgstr "Tamu"
 
 #: resources/views/layout.blade.php:107
 msgid "No new letters"
-msgstr ""
+msgstr "Tidak ada surat baru"
 
 #: resources/views/layout.blade.php:107
 #, python-format
 msgid "%d new letter"
 msgid_plural "%d new letters"
-msgstr[0] ""
+msgstr[0] "%d surat baru"
 
 #: resources/views/layout.blade.php:112
 #, python-format
 msgid "%d notification"
 msgid_plural "%d notifications"
-msgstr[0] ""
+msgstr[0] "%d notifikasi"
 
 #: resources/views/layout.blade.php:112
 msgid "No new notifications"
-msgstr ""
+msgstr "Tidak ada notifikasi baru"
 
 #: resources/views/layout.blade.php:115
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: resources/views/layout.blade.php:116
 msgid "Characters"
-msgstr ""
+msgstr "Karakter"
 
 #: resources/views/layout.blade.php:117
 msgid "Settings"
-msgstr ""
+msgstr "Pengaturan"
 
 #: resources/views/layout.blade.php:118
 msgid "Log out"
-msgstr ""
+msgstr "Keluar"
 
 #: resources/views/layout.blade.php:121
 msgid "Log in"
-msgstr ""
+msgstr "Masuk"
 
 #: resources/views/layout.blade.php:124 resources/views/login.blade.php:39
 msgid "Register"
-msgstr ""
+msgstr "Daftar"
 
 #: resources/views/layout.blade.php:127 resources/views/login.blade.php:38
 msgid "Recover password"
-msgstr ""
+msgstr "Pulihkan kata sandi"
 
 #: resources/views/layout.blade.php:156
 msgid "Home"
-msgstr ""
+msgstr "Beranda"
 
 #: resources/views/layout.blade.php:194
 msgid "Tibia and TibiaME are trademarks of CipSoft GmbH, Germany."
-msgstr ""
+msgstr "Tibia dan TibiaME adalah merek dagang dari CipSoft GmbH, Jerman."
 
 #: resources/views/letters/list.blade.php:6
 #: resources/views/letters/view.blade.php:13
 msgid "No letters."
-msgstr ""
+msgstr "Tidak ada surat."
 
 #: resources/views/letters/view.blade.php:24
 msgid "Delete"
-msgstr ""
+msgstr "Hapus"
 
 #: resources/views/livewire/armour-calculator.blade.php:97
 msgid "Defense level"
-msgstr ""
+msgstr "Tingkat pertahanan"
 
 #: resources/views/livewire/armour-calculator.blade.php:105
 msgid "Include upgraded items"
-msgstr ""
+msgstr "Sertakan item yang ditingkatkan"
 
 #: resources/views/livewire/armour-calculator.blade.php:111
 msgid "Distribute stats evenly"
-msgstr ""
+msgstr "Mendistribusikan statistik secara merata"
 
 #: resources/views/livewire/armour-calculator.blade.php:118
 msgid "Ignored items"
-msgstr ""
+msgstr "Item yang diabaikan"
 
 #: resources/views/livewire/armour-calculator.blade.php:123
 msgid "none"
-msgstr ""
+msgstr "nihil"
 
 #: resources/views/livewire/chat.blade.php:40
 msgid "Type your message"
-msgstr ""
+msgstr "Ketik pesan Anda"
 
 #: resources/views/livewire/comments-watch.blade.php:3
 msgid "You will be notified on new comments"
-msgstr ""
+msgstr "Anda akan diberi tahu tentang komentar baru"
 
 #: resources/views/livewire/comments-watch.blade.php:5
 msgid "Watch for new comments"
-msgstr ""
+msgstr "Perhatikan komentar baru"
 
 #: resources/views/login.blade.php:23
 msgid "Password"
-msgstr ""
+msgstr "Kata sandi"
 
 #: resources/views/login.blade.php:30
 msgid "Remember me on this device."
-msgstr ""
+msgstr "Ingat saya di perangkat ini."
 
 #: resources/views/mail/letter_received.blade.php:1
 #: resources/views/mail/password_recovery.blade.php:1
 #, python-format
 msgid "Hello %s"
-msgstr ""
+msgstr "Halo %s"
 
 #: resources/views/mail/letter_received.blade.php:3
 msgid ""
 "You have received a new private message to your account on Tibia-ME.net and "
 "you have requested that you be notified on this event."
 msgstr ""
+"Anda telah menerima pesan pribadi baru ke akun Anda di Tibia-ME.net dan Anda "
+"telah meminta agar Anda diberitahu tentang peristiwa ini."
 
 #: resources/views/mail/letter_received.blade.php:4
 msgid "You can view your new message by clicking on the following link:"
-msgstr ""
+msgstr "Anda dapat melihat pesan baru Anda dengan mengeklik tautan berikut:"
 
 #: resources/views/mail/letter_received.blade.php:7
 msgid ""
 "You can always choose not to be notified on new messages by changing the "
 "appropriate setting in your profile."
 msgstr ""
+"Anda selalu dapat memilih untuk tidak menerima notifikasi pada pesan baru "
+"dengan mengubah pengaturan yang sesuai di profil Anda."
 
 #: resources/views/mail/password_recovery.blade.php:3
 #, python-format
 msgid "You have requested a new password for your account on %s."
-msgstr ""
+msgstr "Anda telah meminta kata sandi baru untuk akun Anda pada %s."
 
 #: resources/views/mail/password_recovery.blade.php:5
 msgid "Click the following link to continue new password activation:"
-msgstr ""
+msgstr "Klik tautan berikut untuk melanjutkan aktivasi kata sandi baru:"
 
 #: resources/views/mail/password_recovery.blade.php:8
 msgid "If you did not request a new password, just ignore this message."
-msgstr ""
+msgstr "Jika Anda tidak meminta kata sandi baru, abaikan saja pesan ini."
 
 #: resources/views/memberlist.blade.php:13
 msgid "all"
-msgstr ""
+msgstr "semua"
 
 #: resources/views/memberlist.blade.php:27
 #, python-format
 msgid "Total: %d"
-msgstr ""
+msgstr "Total: %d"
 
 #: resources/views/memberlist.blade.php:32
 #, python-format
 msgid "Online: %d"
-msgstr ""
+msgstr "Online: %d"
 
 #: resources/views/memberlist.blade.php:47
 msgid "Rank"
-msgstr ""
+msgstr "Peringkat"
 
 #: resources/views/notifications.blade.php:6
 msgid "No notifications."
-msgstr ""
+msgstr "Tidak ada notifikasi."
 
 #: resources/views/notifications.blade.php:18
 #, python-format
 msgid "%s posted at forum."
-msgstr ""
+msgstr "%s diposting di forum."
 
 #: resources/views/notifications.blade.php:20
 msgid "%1$s and %2$d other user posted at forum."
 msgid_plural "%1$s and %2$d other users posted at forum."
-msgstr[0] ""
+msgstr[0] "%1$s dan %2$d pengguna lain yang diposting di forum."
 
 #: resources/views/notifications.blade.php:29
 #, python-format
 msgid "%s commented on photo."
-msgstr ""
+msgstr "%s mengomentari foto."
 
 #: resources/views/notifications.blade.php:31
 msgid "%1$s and %2$d other user commented on photo."
 msgid_plural "%1$s and %2$d other users commented on photo."
-msgstr[0] ""
+msgstr[0] "%1$s dan %2$d pengguna lain mengomentari foto."
 
 #: resources/views/notifications.blade.php:40
 #, python-format
 msgid "%s commented on screenshot."
-msgstr ""
+msgstr "%s mengomentari tangkapan layar."
 
 #: resources/views/notifications.blade.php:42
 msgid "%1$s and %2$d other user commented on screenshot."
 msgid_plural "%1$s and %2$d other users commented on screenshot."
-msgstr[0] ""
+msgstr[0] "%1$s dan %2$d pengguna lain mengomentari tangkapan layar."
 
 #: resources/views/notifications.blade.php:51
 #, python-format
 msgid "%s commented on theme."
-msgstr ""
+msgstr "%s mengomentari tema."
 
 #: resources/views/notifications.blade.php:53
 msgid "%1$s and %2$d other user commented on theme."
 msgid_plural "%1$s and %2$d other users commented on theme."
-msgstr[0] ""
+msgstr[0] "%1$s dan %2$d pengguna lain mengomentari tema."
 
 #: resources/views/notifications.blade.php:62
 #, python-format
 msgid "%s likes your screenshot."
-msgstr ""
+msgstr "%s menyukai tangkapan layar Anda."
 
 #: resources/views/notifications.blade.php:65
 msgid "%1$s and %2$d other user like your screenshot."
 msgid_plural "%1$s and %2$d other users like your screenshot."
-msgstr[0] ""
+msgstr[0] "%1$s dan %2$d pengguna lain menyukai tangkapan layar Anda."
 
 #: resources/views/notifications.blade.php:74
 #, python-format
 msgid "%s likes your photo."
-msgstr ""
+msgstr "%s menyukai foto Anda."
 
 #: resources/views/notifications.blade.php:76
 msgid "%1$s and %2$d other user like your photo."
 msgid_plural "%1$s and %2$d other users like your photo."
-msgstr[0] ""
+msgstr[0] "%1$s dan %2$d pengguna lain menyukai foto Anda."
 
 #: resources/views/notifications.blade.php:85
 #, python-format
 msgid "%s likes your theme."
-msgstr ""
+msgstr "%s menyukai tema Anda."
 
 #: resources/views/notifications.blade.php:87
 msgid "%1$s and %2$d other user like your theme."
 msgid_plural "%1$s and %2$d other users like your theme."
-msgstr[0] ""
+msgstr[0] "%1$s dan %2$d pengguna lain menyukai tema Anda."
 
 #: resources/views/notifications.blade.php:96
 #, python-format
 msgid "%s commented on artwork."
-msgstr ""
+msgstr "%s mengomentari karya seni."
 
 #: resources/views/notifications.blade.php:98
 msgid "%1$s and %2$d other user commented on artwork."
 msgid_plural "%1$s and %2$d other users commented on artwork."
-msgstr[0] ""
+msgstr[0] "%1$s dan %2$d pengguna lain mengomentari karya seni."
 
 #: resources/views/notifications.blade.php:107
 #, python-format
 msgid "%s likes your artwork."
-msgstr ""
+msgstr "%s menyukai karya seni Anda."
 
 #: resources/views/notifications.blade.php:109
 msgid "%1$s and %2$d other user like your artwork."
 msgid_plural "%1$s and %2$d other users like your artwork."
-msgstr[0] ""
+msgstr[0] "%1$s dan %2$d pengguna lain menyukai karya seni Anda."
 
 #: resources/views/premiumplatinum.blade.php:4
 msgid "What is VIP?"
-msgstr ""
+msgstr "Apa itu VIP?"
 
 #: resources/views/premiumplatinum.blade.php:6
 msgid ""
 "VIP is permanent character status that you receive after any purchase (any "
 "amount of Platinum or Premium)."
 msgstr ""
+"VIP adalah status karakter permanen yang Anda terima setelah pembelian apa "
+"pun (berapapun jumlah Platinum atau Premium)."
 
 #: resources/views/premiumplatinum.blade.php:8
 msgid "Priority Login"
-msgstr ""
+msgstr "Login Prioritas"
 
 #: resources/views/premiumplatinum.blade.php:9
 #: resources/views/premiumplatinum.blade.php:19
 #, python-format
 msgid "Stamina Bonus (+%s Experience)"
-msgstr ""
+msgstr "Bonus Stamina (+%s Pengalaman)"
 
 #: resources/views/premiumplatinum.blade.php:13
 msgid "What is Premium?"
-msgstr ""
+msgstr "Apa yang dimaksud dengan Premium?"
 
 #: resources/views/premiumplatinum.blade.php:15
 msgid ""
 "Premium is renewable subscription that gives you temporary access to most of "
 "game features. When your Premium time expires your character remains VIP."
 msgstr ""
+"Premium adalah langganan yang dapat diperpanjang yang memberi Anda akses "
+"sementara ke sebagian besar fitur game. Ketika waktu Premium Anda berakhir, "
+"karakter Anda tetap menjadi VIP."
 
 #: resources/views/premiumplatinum.blade.php:17
 msgid "Full access to additional islands"
-msgstr ""
+msgstr "Akses penuh ke pulau-pulau tambahan"
 
 #: resources/views/premiumplatinum.blade.php:18
 msgid "Portal usage"
-msgstr ""
+msgstr "Penggunaan portal"
 
 #: resources/views/premiumplatinum.blade.php:20
 msgid "20 friendlist slots"
-msgstr ""
+msgstr "20 slot daftar teman"
 
 #: resources/views/premiumplatinum.blade.php:21
 msgid "20 ignorelist slots"
-msgstr ""
+msgstr "20 slot pengabaian"
 
 #: resources/views/premiumplatinum.blade.php:22
 msgid "20 letters in Mailbox"
-msgstr ""
+msgstr "20 surat di Kotak Surat"
 
 #: resources/views/premiumplatinum.blade.php:23
 msgid "10 trade offers"
-msgstr ""
+msgstr "10 penawaran perdagangan"
 
 #: resources/views/premiumplatinum.blade.php:24
 msgid "9 depot pages"
-msgstr ""
+msgstr "9 halaman depot"
 
 #: resources/views/premiumplatinum.blade.php:25
 msgid "50% of EP loss protection upon death (can be upgraded to 80% or 100%)"
 msgstr ""
+"50 % o f Perlindungan kerugian EP pada saat meninggal dunia (dapat "
+"ditingkatkan menjadi 80 % atau 100%)"
 
 #: resources/views/premiumplatinum.blade.php:26
 msgid "Guild Founding"
-msgstr ""
+msgstr "Pendirian Guild"
 
 #: resources/views/premiumplatinum.blade.php:29
 msgid "What is Platinum?"
-msgstr ""
+msgstr "Apa yang dimaksud dengan Platinum?"
 
 #: resources/views/premiumplatinum.blade.php:31
 msgid ""
 "Platinum is game currency that allows you to buy permanent access to game "
 "features of your choice."
 msgstr ""
+"Platinum adalah mata uang game yang memungkinkan Anda membeli akses permanen "
+"ke fitur-fitur game pilihan Anda."
 
 #: resources/views/premiumplatinum.blade.php:33
 msgid "Buy permanent access to individual islands"
-msgstr ""
+msgstr "Beli akses permanen ke masing-masing pulau"
 
 #: resources/views/premiumplatinum.blade.php:34
 msgid "Buy portal usage permanently"
-msgstr ""
+msgstr "Beli penggunaan portal secara permanen"
 
 #: resources/views/premiumplatinum.blade.php:35
 msgid "Buy up to 50 friendlist slots"
-msgstr ""
+msgstr "Beli hingga 50 slot daftar teman"
 
 #: resources/views/premiumplatinum.blade.php:36
 msgid "Buy up to 50 letters in Mailbox"
-msgstr ""
+msgstr "Beli hingga 50 surat di Kotak Surat"
 
 #: resources/views/premiumplatinum.blade.php:37
 msgid "Buy up to 20 trade offers"
-msgstr ""
+msgstr "Beli hingga 20 penawaran perdagangan"
 
 #: resources/views/premiumplatinum.blade.php:38
 msgid "Buy up to 9 depot pages"
-msgstr ""
+msgstr "Beli hingga 9 halaman depot"
 
 #: resources/views/premiumplatinum.blade.php:39
 msgid ""
 "Buy a life insurance with 50%, 80% or 100% of EP loss protection upon death"
 msgstr ""
+"Beli asuransi jiwa dengan perlindungan kerugian sebesar 50%, 80% atau 100% "
+"EP pada saat meninggal dunia"
 
 #: resources/views/premiumplatinum.blade.php:40
 msgid "Buy additional Rerolls whenever you need them"
-msgstr ""
+msgstr "Beli Reroll tambahan kapan pun Anda membutuhkannya"
 
 #: resources/views/premiumplatinum.blade.php:41
 msgid "Buy guild founding"
-msgstr ""
+msgstr "Beli pendirian serikat"
 
 #: resources/views/premiumplatinum.blade.php:47
 #, python-format
 msgid "Buy on %s"
-msgstr ""
+msgstr "Beli di %s"
 
 #: resources/views/profile.blade.php:16
 msgid "Banned"
-msgstr ""
+msgstr "Terusir"
 
 #: resources/views/profile.blade.php:27
 msgid "Remove avatar"
-msgstr ""
+msgstr "Hapus avatar"
 
 #: resources/views/profile.blade.php:34 resources/views/profile.blade.php:44
 #: resources/views/scores/character.blade.php:101
@@ -1133,103 +1180,103 @@ msgstr ""
 #: resources/views/scores/guilds.blade.php:31
 #: resources/views/scores/hunters_guilds.blade.php:23
 msgid "Guild"
-msgstr ""
+msgstr "Guild"
 
 #: resources/views/profile.blade.php:68 resources/views/profile.blade.php:86
 #: resources/views/profile.blade.php:117 resources/views/profile.blade.php:132
 #: resources/views/profile.blade.php:140 resources/views/profile.blade.php:148
 #: resources/views/profile.blade.php:168
 msgid "not specified"
-msgstr ""
+msgstr "tidak ditentukan"
 
 #: resources/views/profile.blade.php:115 resources/views/profile.blade.php:123
 msgid "Gender"
-msgstr ""
+msgstr "Jenis Kelamin"
 
 #: resources/views/profile.blade.php:118 resources/views/profile.blade.php:126
 msgid "Male"
-msgstr ""
+msgstr "Laki-laki"
 
 #: resources/views/profile.blade.php:119 resources/views/profile.blade.php:129
 msgid "Female"
-msgstr ""
+msgstr "Wanita"
 
 #: resources/views/profile.blade.php:138 resources/views/profile.blade.php:147
 msgid "Relationship status"
-msgstr ""
+msgstr "Status hubungan"
 
 #: resources/views/profile.blade.php:153 resources/views/profile.blade.php:164
 msgid "Birthday"
-msgstr ""
+msgstr "Tanggal Lahir"
 
 #: resources/views/profile.blade.php:161
 msgid "Hide age"
-msgstr ""
+msgstr "Sembunyikan usia"
 
 #: resources/views/profile.blade.php:171
 msgid "Age"
-msgstr ""
+msgstr "Usia"
 
 #: resources/views/profile.blade.php:176 resources/views/profile.blade.php:187
 msgid "Location"
-msgstr ""
+msgstr "Lokasi"
 
 #: resources/views/profile.blade.php:200 resources/views/register.blade.php:32
 msgid "Hide email"
-msgstr ""
+msgstr "Sembunyikan email"
 
 #: resources/views/profile.blade.php:208 resources/views/profile.blade.php:213
 msgid "Phone number"
-msgstr ""
+msgstr "Nomor Telepon"
 
 #: resources/views/profile.blade.php:218 resources/views/profile.blade.php:223
 msgid "Signature"
-msgstr ""
+msgstr "Tanda Tangan"
 
 #: resources/views/profile.blade.php:228
 msgid "Joined"
-msgstr ""
+msgstr "Bergabung"
 
 #: resources/views/profile.blade.php:229
 msgid "Before 27th of August, 2009"
-msgstr ""
+msgstr "Sebelum tanggal 27 Agustus 2009"
 
 #: resources/views/profile.blade.php:233
 msgid "Last visit"
-msgstr ""
+msgstr "Kunjungan terakhir"
 
 #: resources/views/profile.blade.php:234
 msgid "no data"
-msgstr ""
+msgstr "tidak ada data"
 
 #: resources/views/profile.blade.php:238
 msgid "Total online time"
-msgstr ""
+msgstr "Total waktu online"
 
 #: resources/views/profile.blade.php:239
 #, python-format
 msgid "%dh %dmin %dsec"
-msgstr ""
+msgstr "%d jam %d menit %d detik"
 
 #: resources/views/profile.blade.php:245
 msgid "Posts at forum"
-msgstr ""
+msgstr "Posting di forum"
 
 #: resources/views/profile.blade.php:251 resources/views/profile.blade.php:254
 msgid "Photos"
-msgstr ""
+msgstr "Foto"
 
 #: resources/views/profile.blade.php:281 resources/views/profile.blade.php:284
 msgid "Banishments"
-msgstr ""
+msgstr "Pembuangan"
 
 #: resources/views/ranks/create-or-edit.blade.php:8
 msgid "Prefix"
-msgstr ""
+msgstr "Prefiks"
 
 #: resources/views/ranks/create-or-edit.blade.php:12
 msgid "Color"
-msgstr ""
+msgstr "Warna"
 
 #: resources/views/ranks/delete.blade.php:7
 #, python-format
@@ -1237,709 +1284,891 @@ msgid "This rank is assigned to %d user. Please assign them another rank:"
 msgid_plural ""
 "This rank is assigned to %d users. Please assign them another rank:"
 msgstr[0] ""
+"Peringkat ini ditetapkan untuk pengguna %d. Silakan tetapkan peringkat lain "
+"untuk mereka:"
 
 #: resources/views/ranks/delete.blade.php:10
 msgid "New rank"
-msgstr ""
+msgstr "Peringkat baru"
 
 #: resources/views/ranks/delete.blade.php:19
 #, python-format
 msgid "Are you sure you want to delete rank \"%s\"?"
-msgstr ""
+msgstr "Apakah Anda yakin ingin menghapus peringkat \"%s\"?"
 
 #: resources/views/ranks/list.blade.php:14
 msgid "Users"
-msgstr ""
+msgstr "Pengguna"
 
 #: resources/views/scores/achievements.blade.php:22
 #: resources/views/scores/hunters_characters.blade.php:16
 #: resources/views/scores/top100.blade.php:27
 msgid "warriors"
-msgstr ""
+msgstr "prajurit"
 
 #: resources/views/scores/achievements.blade.php:23
 #: resources/views/scores/hunters_characters.blade.php:17
 #: resources/views/scores/top100.blade.php:29
 msgid "wizards"
-msgstr ""
+msgstr "penyihir"
 
 #: resources/views/scores/achievements.blade.php:33
 #: resources/views/scores/hunters_characters.blade.php:48
 #: resources/views/scores/pvp.blade.php:17
 #: resources/views/scores/top100.blade.php:39
 msgid "Character"
-msgstr ""
+msgstr "Karakter"
 
 #: resources/views/scores/achievements.blade.php:34
 #: resources/views/scores/character.blade.php:89
 msgid "Points"
-msgstr ""
+msgstr "Titik"
 
 #: resources/views/scores/character.blade.php:30
 #: resources/views/scores/guild.blade.php:19
 #: resources/views/scores/world.blade.php:13
 msgid "EP"
-msgstr ""
+msgstr "EP"
 
 #: resources/views/scores/character.blade.php:36
 msgid "Next level"
-msgstr ""
+msgstr "Tingkat berikutnya"
 
 #: resources/views/scores/character.blade.php:52
 #: resources/views/scores/character.blade.php:73
 msgid "Global rank"
-msgstr ""
+msgstr "Peringkat global"
 
 #: resources/views/scores/character.blade.php:60
 #: resources/views/scores/character.blade.php:81
 msgid "World rank"
-msgstr ""
+msgstr "Peringkat dunia"
 
 #: resources/views/scores/character.blade.php:95
 msgid "PvP rank"
-msgstr ""
+msgstr "Peringkat PvP"
 
 #: resources/views/scores/character.blade.php:113
 msgid "Max daily gain"
-msgstr ""
+msgstr "Perolehan harian maksimum"
 
 #: resources/views/scores/character.blade.php:125
 msgid "Min daily gain"
-msgstr ""
+msgstr "Keuntungan harian minimum"
 
 #: resources/views/scores/character.blade.php:139
 #, python-format
 msgid "Last %d day"
 msgid_plural "Last %d days"
-msgstr[0] ""
+msgstr[0] "Hari %d terakhir"
 
 #: resources/views/scores/character.blade.php:162
 #, python-format
 msgid "Updated %d day ago."
 msgid_plural "Updated %d days ago."
-msgstr[0] ""
+msgstr[0] "Dimutakhirkan %d hari yang lalu."
 
 #: resources/views/scores/character.blade.php:169
 #, python-format
 msgid "Updated %d hour ago."
 msgid_plural "Updated %d hours ago."
-msgstr[0] ""
+msgstr[0] "Dimutakhirkan %d jam yang lalu."
 
 #: resources/views/scores/character.blade.php:172
 msgid "Updated less than hour ago."
-msgstr ""
+msgstr "Diperbarui kurang dari satu jam yang lalu."
 
 #: resources/views/scores/character.blade.php:181
 msgid "Loading chart data..."
-msgstr ""
+msgstr "Memuat data grafik..."
 
 #: resources/views/scores/character.blade.php:228
-#: resources/views/scores/guild.blade.php:41
+#: resources/views/scores/guild.blade.php:48
 #: resources/views/scores/hunters_characters.blade.php:21
 #: resources/views/scores/hunters_guilds.blade.php:13
 msgid "Date"
-msgstr ""
+msgstr "Tanggal"
 
 #: resources/views/scores/character.blade.php:231
-#: resources/views/scores/guild.blade.php:43
+#: resources/views/scores/guild.blade.php:50
 #: resources/views/scores/guilds.blade.php:33
 #: resources/views/scores/hunters_characters.blade.php:50
 #: resources/views/scores/hunters_guilds.blade.php:24
 #: resources/views/scores/top100.blade.php:40
 #: resources/views/scores/worlds.blade.php:9
 msgid "Experience"
-msgstr ""
+msgstr "Pengalaman"
 
-#: resources/views/scores/guild.blade.php:24
+#: resources/views/scores/guild.blade.php:30
 msgid "Known guild members"
-msgstr ""
+msgstr "Anggota serikat yang dikenal"
 
 #: resources/views/scores/hunters_characters.blade.php:24
 msgid "Time"
-msgstr ""
+msgstr "Waktu"
 
 #: resources/views/scores/hunters_characters.blade.php:26
 msgid "full day"
-msgstr ""
+msgstr "sehari penuh"
 
 #: resources/views/scores/hunters_characters.blade.php:35
 msgid "exp"
-msgstr ""
+msgstr "exp"
 
 #: resources/views/scores/pvp.blade.php:19
 msgid "Quota"
-msgstr ""
+msgstr "Kuota"
+
+#: resources/views/scores/world.blade.php:19
+#: resources/views/scores/worlds.blade.php:10
+#, fuzzy
+#| msgid "Known guild members"
+msgid "Known members"
+msgstr "Anggota serikat yang dikenal"
 
 #: resources/views/scores/world.blade.php:23
 msgid "Max gain"
-msgstr ""
+msgstr "Keuntungan maksimal"
 
 #: resources/views/scores/world.blade.php:30
 msgid "Min gain"
-msgstr ""
+msgstr "Keuntungan minimum"
 
 #: resources/views/screenshots.blade.php:16
 msgid "Please log in to upload screenshots."
-msgstr ""
+msgstr "Silakan masuk untuk mengunggah tangkapan layar."
 
 #: resources/views/screenshots.blade.php:24
 msgid "You don't have any screenshots yet."
-msgstr ""
+msgstr "Anda belum memiliki tangkapan layar apa pun."
 
 #: resources/views/screenshots.blade.php:26
 msgid "This user doesn't have any screenshots yet."
-msgstr ""
+msgstr "Pengguna ini belum memiliki tangkapan layar apa pun."
 
 #: resources/views/screenshots.blade.php:29
 msgid "No screenshots."
-msgstr ""
+msgstr "Tidak ada tangkapan layar."
 
 #: resources/views/settings.blade.php:6
 msgid "Language"
-msgstr ""
+msgstr "Bahasa"
 
 #: resources/views/settings.blade.php:15
 msgid "Timezone"
-msgstr ""
+msgstr "Zona Waktu"
 
 #: resources/views/settings.blade.php:22
 msgid "Dark mode"
-msgstr ""
+msgstr "Mode gelap"
 
 #: resources/views/settings.blade.php:24
 msgid "auto"
-msgstr ""
+msgstr "otomatis"
 
 #: resources/views/settings.blade.php:25
 msgid "enabled"
-msgstr ""
+msgstr "difungsikan"
 
 #: resources/views/settings.blade.php:26
 msgid "disabled"
-msgstr ""
+msgstr "dinonaktifkan"
 
 #: resources/views/settings.blade.php:38
 msgid "Notify on letters"
-msgstr ""
+msgstr "Beri tahu tentang surat"
 
 #: resources/views/settings.blade.php:44
 msgid "Allow album comments"
-msgstr ""
+msgstr "Izinkan komentar album"
 
 #: resources/views/settings.blade.php:50
 msgid "Notify on new comments"
-msgstr ""
+msgstr "Beri tahu tentang komentar baru"
 
 #: resources/views/staff.blade.php:4
 msgid "Creator"
-msgstr ""
+msgstr "Pembuat"
 
 #: resources/views/staff.blade.php:18
 msgid "Translators"
-msgstr ""
+msgstr "Penerjemah"
 
 #: resources/views/themes/edit.blade.php:11
 msgid "Author"
-msgstr ""
+msgstr "Penulis"
 
 #: resources/views/themes/edit.blade.php:14
 #: resources/views/themes/home.blade.php:39
 #, python-format
 msgid "Downloads: %d"
-msgstr ""
+msgstr "Unduhan: %d"
 
 #: resources/views/themes/edit.blade.php:20
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: resources/views/themes/edit.blade.php:28
 msgid "Replace screenshot"
-msgstr ""
+msgstr "Mengganti tangkapan layar"
 
 #: resources/views/themes/home.blade.php:6
 msgid "No themes to display."
-msgstr ""
+msgstr "Tidak ada tema untuk ditampilkan."
 
 #: app/Helpers.php:117 app/Helpers.php:118
 msgid "wrote"
-msgstr ""
+msgstr "menulis"
 
 #: app/Helpers.php:129
 msgid "Click to show"
-msgstr ""
+msgstr "Klik untuk menampilkan"
 
 #: app/Http/Controllers/Album.php:171
 msgid "Album has been deleted."
-msgstr ""
+msgstr "Album telah dihapus."
 
 #: app/Http/Controllers/Artworks.php:50
 msgid "Artwork has been deleted."
-msgstr ""
+msgstr "Pengusiran telah dicabut."
 
 #: app/Http/Controllers/Auth.php:66
 msgid "Invalid username or password."
-msgstr ""
+msgstr "Nama pengguna atau kata sandi tidak valid."
 
 #: app/Http/Controllers/Auth.php:103 app/Http/Controllers/Characters.php:39
 #: app/Http/Controllers/Characters.php:57
 msgid "This nickname is already in use."
-msgstr ""
+msgstr "Nama panggilan ini sudah digunakan."
 
 #: app/Http/Controllers/Auth.php:133
 #, php-format
 msgid "Your account has been just created, %s!"
-msgstr ""
+msgstr "Akun Anda baru saja dibuat, %s!"
 
 #: app/Http/Controllers/Auth.php:139
 msgid "Password recovery"
-msgstr ""
+msgstr "Pembaharuan sandi"
 
 #: app/Http/Controllers/Auth.php:148 app/Http/Controllers/Auth.php:199
 msgid "Invalid token."
-msgstr ""
+msgstr "Token tidak valid."
 
 #: app/Http/Controllers/Auth.php:153
 msgid "Reset password"
-msgstr ""
+msgstr "Reset password"
 
 #: app/Http/Controllers/Auth.php:168 app/Http/Controllers/Auth.php:173
 msgid "User not found."
-msgstr ""
+msgstr "Pengguna tidak ditemukan."
 
 #: app/Http/Controllers/Auth.php:175
 msgid "This account cannot be recovered as it has no email set."
-msgstr ""
+msgstr "Akun ini tidak dapat dipulihkan karena tidak memiliki set email."
 
 #: app/Http/Controllers/Auth.php:177
 msgid "Invalid email."
-msgstr ""
+msgstr "Email tidak valid."
 
 #: app/Http/Controllers/Auth.php:187
 msgid "Password recovery link has been sent to your email address."
-msgstr ""
+msgstr "Tautan pemulihan kata sandi telah dikirim ke alamat email Anda."
 
 #: app/Http/Controllers/Auth.php:206
 msgid "Password has been reset."
-msgstr ""
+msgstr "Kata sandi telah diatur ulang."
 
 #: app/Http/Controllers/Auth.php:209
 msgid "Could not reset your password."
-msgstr ""
+msgstr "Tidak dapat mengatur ulang kata sandi Anda."
 
 #: app/Http/Controllers/Banishments.php:21
 msgid "Ban user"
-msgstr ""
+msgstr "Usir pengguna"
 
 #: app/Http/Controllers/Banishments.php:57
 msgid "View banishment"
-msgstr ""
+msgstr "Lihat pengusiran"
 
 #: app/Http/Controllers/Banishments.php:96
 msgid "Banishment already expired."
-msgstr ""
+msgstr "Pengusiran sudah kedaluwarsa."
 
 #: app/Http/Controllers/Banishments.php:101
 msgid "Banishment already lifted."
-msgstr ""
+msgstr "Pengusiran sudah dicabut."
 
 #: app/Http/Controllers/Banishments.php:108
 msgid "Banishment has been lifted."
-msgstr ""
+msgstr "Pengusiran telah dicabut."
 
 #: app/Http/Controllers/Characters.php:25
 #, php-format
 msgid "Cannot add more than %d characters."
-msgstr ""
+msgstr "Tidak dapat menambahkan lebih dari %d karakter."
 
 #: app/Http/Controllers/Characters.php:45
 #: app/Http/Controllers/Characters.php:64
-#: app/Http/Controllers/Characters.php:80 app/Http/Controllers/Forum.php:237
-#: app/Http/Controllers/Forum.php:312 app/Http/Controllers/Letters.php:86
+#: app/Http/Controllers/Characters.php:80 app/Http/Controllers/Forum.php:242
+#: app/Http/Controllers/Forum.php:317 app/Http/Controllers/Letters.php:86
 #: app/Http/Controllers/Profile.php:199
 msgid "Changes saved."
-msgstr ""
+msgstr "Perubahan berhasil tersimpan."
 
 #: app/Http/Controllers/Characters.php:70
 msgid "Cannot delete main character."
-msgstr ""
+msgstr "Tidak dapat menghapus karakter utama."
 
 #: app/Http/Controllers/Comments.php:99 app/Http/Controllers/Comments.php:103
 msgid "Comments"
-msgstr ""
+msgstr "Komentar"
 
 #: app/Http/Controllers/Comments.php:130
 msgid "Your comment has been posted."
-msgstr ""
+msgstr "Komentar Anda telah diposting."
 
 #: app/Http/Controllers/Content.php:89 app/Http/Controllers/Content.php:90
 msgid "Armour Calc"
-msgstr ""
+msgstr "Kalkulator Armor"
 
 #: app/Http/Controllers/Content.php:337
 msgid "No file selected."
-msgstr ""
+msgstr "Ttak ada berkas yang dipilih."
 
 #: app/Http/Controllers/Content.php:342
 msgid "Update already in progress."
-msgstr ""
+msgstr "Pembaruan sudah dalam proses."
 
 #: app/Http/Controllers/Forum.php:142
 msgid "Topic has been deleted."
-msgstr ""
+msgstr "Topik telah dihapus."
 
 #: app/Http/Controllers/Forum.php:155
 msgid "Topic has been locked."
-msgstr ""
+msgstr "Topik telah dikunci."
 
 #: app/Http/Controllers/Forum.php:168
 msgid "Topic has been unlocked."
-msgstr ""
+msgstr "Topik telah dibuka."
 
 #: app/Http/Controllers/Forum.php:184
 msgid "Edit topic"
-msgstr ""
+msgstr "Sunting topik"
 
 #: app/Http/Controllers/Forum.php:189 app/Http/Controllers/Ranks.php:91
 #: app/Http/Controllers/Themes.php:87
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:115
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:226
 msgid "Edit"
-msgstr ""
+msgstr "Sunting"
 
 #: app/Http/Controllers/Forum.php:201 app/Http/Controllers/Forum.php:205
+#: storage/framework/views/97f179a087295d61b54c7ed78857f8fb.php:6
 msgid "Create topic"
-msgstr ""
+msgstr "Buat topik"
 
-#: app/Http/Controllers/Forum.php:263
+#: app/Http/Controllers/Forum.php:268
 msgid "Topic has been created."
-msgstr ""
+msgstr "Topik telah dibuat."
 
-#: app/Http/Controllers/Forum.php:274
+#: app/Http/Controllers/Forum.php:279
 msgid "Post deleted."
-msgstr ""
+msgstr "Postingan dihapus."
 
-#: app/Http/Controllers/Forum.php:286 app/Http/Controllers/Forum.php:292
+#: app/Http/Controllers/Forum.php:291 app/Http/Controllers/Forum.php:297
 msgid "Edit post"
-msgstr ""
+msgstr "Sunting posting"
 
-#: app/Http/Controllers/Forum.php:322 app/Http/Controllers/Forum.php:327
-#: app/Http/Controllers/Forum.php:354 app/Http/Controllers/Forum.php:359
+#: app/Http/Controllers/Forum.php:327 app/Http/Controllers/Forum.php:332
+#: app/Http/Controllers/Forum.php:359 app/Http/Controllers/Forum.php:364
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:94
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:217
 msgid "Quote"
-msgstr ""
+msgstr "Kutipan"
 
-#: app/Http/Controllers/Forum.php:344 app/Http/Controllers/Forum.php:375
-#: app/Http/Controllers/Forum.php:410
+#: app/Http/Controllers/Forum.php:349 app/Http/Controllers/Forum.php:380
+#: app/Http/Controllers/Forum.php:415
 msgid "Message posted."
-msgstr ""
+msgstr "Pesan terkirim."
 
-#: app/Http/Controllers/Forum.php:419 app/Http/Controllers/Forum.php:424
+#: app/Http/Controllers/Forum.php:424 app/Http/Controllers/Forum.php:429
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:121
 msgid "Move topic"
-msgstr ""
+msgstr "Pindah topik"
 
-#: app/Http/Controllers/Forum.php:442
+#: app/Http/Controllers/Forum.php:447
 msgid "Topic has been moved."
-msgstr ""
+msgstr "Topik telah dipindahkan."
 
-#: app/Http/Controllers/Forum.php:450
+#: app/Http/Controllers/Forum.php:455
 msgid "You will be notified on new replies in this thread."
-msgstr ""
+msgstr "Anda akan diberi tahu tentang balasan baru di utas ini."
 
-#: app/Http/Controllers/Forum.php:458
+#: app/Http/Controllers/Forum.php:463
 msgid "You will no longer be notified on new replies in this thread."
 msgstr ""
+"Anda tidak akan lagi mendapatkan notifikasi pada balasan baru di utas ini."
 
 #: app/Http/Controllers/Letters.php:40 app/Http/Controllers/Letters.php:43
 #: app/Http/Controllers/Letters.php:73
 msgid "Letters"
-msgstr ""
+msgstr "Surat"
 
 #: app/Http/Controllers/Letters.php:107
 msgid "Letter has been sent."
-msgstr ""
+msgstr "Surat telah dikirim."
 
 #: app/Http/Controllers/Memberlist.php:53
 msgid "Users online"
-msgstr ""
+msgstr "Pengguna online"
+
+#: app/Http/Controllers/Memberlist.php:53
+#: app/Http/Controllers/Memberlist.php:57
+msgid "Memberlist"
+msgstr "Daftar Anggota"
 
 #: app/Http/Controllers/Notifications.php:30
 msgid "Notifications"
-msgstr ""
+msgstr "Pemberitahuan"
 
 #: app/Http/Controllers/Ranks.php:55
 msgid "Create"
-msgstr ""
+msgstr "Buat"
 
 #: app/Http/Controllers/Scores.php:123 app/Http/Controllers/Scores.php:172
 msgid "TOP Hunters"
-msgstr ""
+msgstr "Pemburu Teratas"
 
 #: app/Http/Controllers/Scores.php:637 app/Http/Controllers/Scores.php:641
 #, php-format
 msgid "World %d"
-msgstr ""
+msgstr "Dunia %d"
 
 #: app/Http/Controllers/Screenshots.php:48
 msgid "My screenshots"
-msgstr ""
+msgstr "Tangkapan layar saya"
 
 #: app/Http/Controllers/Staff.php:16 app/Http/Controllers/Staff.php:17
 msgid "Staff"
-msgstr ""
+msgstr "Staff"
 
 #: app/Http/Controllers/Themes.php:26 app/Http/Controllers/Themes.php:36
 #: app/Http/Controllers/Themes.php:42
 msgid "My themes"
-msgstr ""
+msgstr "Tema saya"
 
-#: app/Http/Controllers/Uploader.php:27
+#: app/Http/Controllers/Uploader.php:26
 msgid "No file specified."
-msgstr ""
+msgstr "Tidak ada file yang dipilih."
 
 #: app/Http/Controllers/Uploader.php:51 app/Http/Controllers/Uploader.php:61
 msgid "File exists."
-msgstr ""
+msgstr "File ada."
 
 #: app/Http/Middleware/isBanished.php:29
 #, php-format
 msgid "You have been banished until %s."
-msgstr ""
+msgstr "Anda telah dibuang sampai %s."
 
 #: app/Http/Middleware/isBanished.php:29
 msgid "You have been banished permanently."
-msgstr ""
+msgstr "Anda telah diblokir secara permanen."
 
 #: app/Mail/LetterReceived.php:22
 msgid "New Private Message has arrived"
-msgstr ""
+msgstr "Pesan Pribadi Baru telah tiba"
 
 #: app/Mail/PasswordRecovery.php:22
 msgid "Password recovery confirmation"
-msgstr ""
+msgstr "Konfirmasi pemulihan kata sandi"
 
 #: config/armourslots.php:4
 msgid "Head"
-msgstr ""
+msgstr "Kepala"
 
 #: config/armourslots.php:5
 msgid "Amulet"
-msgstr ""
+msgstr "Kalung"
 
 #: config/armourslots.php:6
 msgid "Shield"
-msgstr ""
+msgstr "Perisai"
 
 #: config/armourslots.php:7
 msgid "Torso"
-msgstr ""
+msgstr "Badan"
 
 #: config/armourslots.php:8
 msgid "Legs"
-msgstr ""
+msgstr "Kaki"
 
 #: config/armourslots.php:9
 msgid "Ring"
-msgstr ""
+msgstr "Cincin"
 
 #: config/banishments.php:5
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: config/banishments.php:6
 msgid "Offensive statements"
-msgstr ""
+msgstr "Pernyataan ofensif"
 
 #: config/banishments.php:7
 msgid "Rules violation"
-msgstr ""
+msgstr "Pelanggaran aturan"
 
 #: config/banishments.php:10 config/banishments.php:11
 #: config/banishments.php:12
 #, php-format
 msgid "%d minute"
 msgid_plural "%d minutes"
-msgstr[0] ""
+msgstr[0] "%d menit"
 
 #: config/banishments.php:13 config/banishments.php:14
 #: config/banishments.php:15
 #, php-format
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] ""
+msgstr[0] "%d jam"
 
 #: config/banishments.php:16 config/banishments.php:17
 #, php-format
 msgid "%d day"
 msgid_plural "%d days"
-msgstr[0] ""
+msgstr[0] "%d hari"
 
 #: config/banishments.php:18
 #, php-format
 msgid "%d week"
 msgid_plural "%d weeks"
-msgstr[0] ""
+msgstr[0] "%d minggu"
 
 #: config/banishments.php:19
 #, php-format
 msgid "%d month"
 msgid_plural "%d months"
-msgstr[0] ""
+msgstr[0] "%d bulan"
 
 #: config/relationship.php:4
 msgid "Single"
-msgstr ""
+msgstr "Single"
 
 #: config/relationship.php:5
 msgid "In relationship"
-msgstr ""
+msgstr "Dalam hubungan"
 
 #: config/relationship.php:6
 msgid "Engaged"
-msgstr ""
+msgstr "Aktif"
 
 #: config/relationship.php:7
 msgid "Married"
-msgstr ""
+msgstr "Menikah"
 
 #: config/relationship.php:8
 msgid "It's complicated"
-msgstr ""
+msgstr "Rumit"
 
 #: config/relationship.php:9
 msgid "Actively searching"
-msgstr ""
+msgstr "Mencari secara aktif"
 
 #: config/themes.status.php:3
 msgid "On moderation"
-msgstr ""
+msgstr "Dalam pengawasan"
 
 #: config/themes.status.php:4
 msgid "Checked"
-msgstr ""
+msgstr "Diperiksa"
 
 #: config/themes.status.php:5
 msgid "Tested"
-msgstr ""
+msgstr "Diuji"
 
 #: config/vocations.php:4
 msgid "Warrior"
-msgstr ""
+msgstr "Prajurit"
 
 #: config/vocations.php:5
 msgid "Wizard"
-msgstr ""
+msgstr "Penyihir"
 
 #: lang/en_US/validation.php:21
 #, php-format
 msgid "The %s field must only contain letters."
-msgstr ""
+msgstr "%s hanya boleh berisi huruf."
 
 #: lang/en_US/validation.php:36
 #, php-format
 msgid "The %s field is not valid."
-msgstr ""
+msgstr "Kolom %s tidak valid."
 
 #: lang/en_US/validation.php:37
 #, php-format
 msgid "The %s field confirmation does not match."
-msgstr ""
+msgstr "Konfirmasi bidang %s tidak cocok."
 
 #: lang/en_US/validation.php:53
 #, php-format
 msgid "The %s field must be a valid email address."
-msgstr ""
+msgstr "Kolom %s harus berupa alamat email yang valid."
 
 #: lang/en_US/validation.php:56 lang/en_US/validation.php:74
 #, php-format
 msgid "The selected %s is invalid."
-msgstr ""
+msgstr "Pilihan %s tidak valid."
 
 #: lang/en_US/validation.php:73
 #, php-format
 msgid "The %s field must be an image."
-msgstr ""
+msgstr "Bidang %s harus berupa gambar."
 
 #: lang/en_US/validation.php:99
 #, php-format
 msgid "The %1$s field must not be greater than %2$s."
-msgstr ""
+msgstr "Bidang %1$s tidak boleh lebih besar dari %2$s."
 
 #: lang/en_US/validation.php:103 lang/en_US/validation.php:104
 #, php-format
 msgid "The %1$s field must be a file of type: %2$s."
-msgstr ""
+msgstr "Bidang %1$s harus berupa file dengan tipe: %2$s."
 
 #: lang/en_US/validation.php:109
 #, php-format
 msgid "The %1$s field must be at least %2$s characters."
-msgstr ""
+msgstr "Bidang %1$s harus setidaknya terdiri dari %2$s karakter."
 
 #: lang/en_US/validation.php:138
 #, php-format
 msgid "The %s field is required."
-msgstr ""
+msgstr "Isian %s diperlukan."
 
 #: lang/en_US/validation.php:158
 #, php-format
 msgid "The %s has already been taken."
-msgstr ""
+msgstr "%s telah diambil."
 
 #: lang/en_US/validation.php:159
 #, php-format
 msgid "The %s failed to upload."
-msgstr ""
+msgstr "%s gagal diunggah."
 
 #: lang/en_US/validation.php:194
 msgid "message"
-msgstr ""
+msgstr "pesan"
 
 #: lang/en_US/validation.php:195
 msgid "world"
-msgstr ""
+msgstr "dunia"
 
 #: lang/en_US/validation.php:196
 msgid "password"
-msgstr ""
+msgstr "kata sandi"
 
 #: lang/en_US/validation.php:197
 msgid "nickname"
-msgstr ""
+msgstr "nama panggilan"
 
 #: lang/en_US/validation.php:198
 msgid "files"
-msgstr ""
+msgstr "file"
 
 #: lang/en_US/validation.php:199
 msgid "subject"
-msgstr ""
+msgstr "subjek"
 
 #: lang/en_US/validation.php:201
 msgid "prefix"
-msgstr ""
+msgstr "awalan"
 
 #: lang/en_US/validation.php:202
 msgid "color"
-msgstr ""
+msgstr "warna"
 
 #: lang/en_US/validation.php:203
 msgid "rank"
-msgstr ""
+msgstr "peringkat"
 
 #: public/cp/sync.php:6
 msgid "Invalid request."
-msgstr ""
+msgstr "Permintaan tidak valid."
 
 #: public/cp/sync.php:9
 msgid "Sync complete."
-msgstr ""
+msgstr "Sinkronisasi selesai."
 
 #: public/cp/sync.php:9
 msgid "Unknown error."
-msgstr ""
+msgstr "Kesalahan yang tidak diketahui."
 
 #: resources/views/layout/highscores_server_info.tpl.php:2
 #, php-format
 msgid "Server time: %s"
-msgstr ""
+msgstr "Waktu server: %s"
 
 #: resources/views/layout/highscores_server_info.tpl.php:3
 #, php-format
 msgid "Last update: %s"
+msgstr "Pembaruan terakhir: %s"
+
+#: storage/framework/views/088dd082718bef0910c358e748665d3c.php:8
+msgid "Upload"
 msgstr ""
+
+#: storage/framework/views/088dd082718bef0910c358e748665d3c.php:101
+#, fuzzy
+#| msgid "Are you sure you want to delete rank \"%s\"?"
+msgid "Are you sure you want to delete this screenshot?"
+msgstr "Apakah Anda yakin ingin menghapus peringkat \"%s\"?"
+
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:78
+msgid "Stop watching for new replies?"
+msgstr ""
+
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:80
+msgid "Stop watching for new replies"
+msgstr ""
+
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:84
+#, fuzzy
+#| msgid "Watch for new comments"
+msgid "Watch for new replies?"
+msgstr "Perhatikan komentar baru"
+
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:86
+#, fuzzy
+#| msgid "Watch for new comments"
+msgid "Watch for new replies"
+msgstr "Perhatikan komentar baru"
+
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:102
+#, fuzzy
+#| msgid "Are you sure you want to delete rank \"%s\"?"
+msgid "Are you sure you want to open this topic?"
+msgstr "Apakah Anda yakin ingin menghapus peringkat \"%s\"?"
+
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:104
+#, fuzzy
+#| msgid "Move topic"
+msgid "Open topic"
+msgstr "Pindah topik"
+
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:107
+#, fuzzy
+#| msgid "Are you sure you want to delete rank \"%s\"?"
+msgid "Are you sure you want to close this topic?"
+msgstr "Apakah Anda yakin ingin menghapus peringkat \"%s\"?"
+
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:109
+#, fuzzy
+#| msgid "Move topic"
+msgid "Close topic"
+msgstr "Pindah topik"
+
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:125
+#, fuzzy
+#| msgid "Are you sure you want to delete rank \"%s\"?"
+msgid "Are you sure you want to delete this topic?"
+msgstr "Apakah Anda yakin ingin menghapus peringkat \"%s\"?"
+
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:127
+#, fuzzy
+#| msgid "Create topic"
+msgid "Delete topic"
+msgstr "Buat topik"
+
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:231
+#, fuzzy
+#| msgid "Are you sure you want to delete rank \"%s\"?"
+msgid "Are you sure you want to delete this post?"
+msgstr "Apakah Anda yakin ingin menghapus peringkat \"%s\"?"
+
+#: storage/framework/views/1dced9be067df7add4744deaaa777daf.php:261
+#: storage/framework/views/5807b1d895a8952d9d20135f60010c10.php:130
+msgid "Reply"
+msgstr ""
+
+#: storage/framework/views/3d8abcf1af063e37ad6bf25316bcd7b7.php:15
+msgid "min"
+msgstr ""
+
+#: storage/framework/views/3d8abcf1af063e37ad6bf25316bcd7b7.php:19
+msgid "max"
+msgstr ""
+
+#: storage/framework/views/3d8abcf1af063e37ad6bf25316bcd7b7.php:52
+msgid "Update"
+msgstr ""
+
+#: storage/framework/views/43148df9e3e023fe2b79e15b012705bd.php:18
+msgid "Save"
+msgstr ""
+
+#: storage/framework/views/5807b1d895a8952d9d20135f60010c10.php:112
+#, fuzzy
+#| msgid "Are you sure you want to delete rank \"%s\"?"
+msgid "Are you sure you want to delete this comment?"
+msgstr "Apakah Anda yakin ingin menghapus peringkat \"%s\"?"
+
+#: storage/framework/views/97f179a087295d61b54c7ed78857f8fb.php:7
+#: storage/framework/views/c2f3f29bca9f67ab4ca336aaced7a38e.php:4
+msgid "Mark all threads as read?"
+msgstr ""
+
+#: storage/framework/views/97f179a087295d61b54c7ed78857f8fb.php:9
+#: storage/framework/views/c2f3f29bca9f67ab4ca336aaced7a38e.php:6
+msgid "Mark all threads as read"
+msgstr ""
+
+#: storage/framework/views/97f179a087295d61b54c7ed78857f8fb.php:21
+#, fuzzy
+#| msgid "Pinned"
+msgid "pinned"
+msgstr "Disematkan"
+
+#: storage/framework/views/97f179a087295d61b54c7ed78857f8fb.php:25
+msgid "closed"
+msgstr ""
+
+#: storage/framework/views/97f179a087295d61b54c7ed78857f8fb.php:29
+msgid "moved"
+msgstr ""
+
+#: storage/framework/views/a592502af81282ae10e7df1bb4eb253b.php:3
+#, fuzzy
+#| msgid "Online"
+msgid "Offline"
+msgstr "Online"
+
+#: storage/framework/views/b714117b48fe8d374c6560dcf8dffbd1.php:6
+msgid "Like"
+msgstr ""
+
+#: storage/framework/views/b714117b48fe8d374c6560dcf8dffbd1.php:25
+msgid "Dislike"
+msgstr ""
+
+#: storage/framework/views/e722ac81eec6551baa896aaf85443d8a.php:69
+#, fuzzy, php-format
+#| msgid "Register"
+msgid "Registered: %d"
+msgstr "Daftar"
+
+#: storage/framework/views/e722ac81eec6551baa896aaf85443d8a.php:69
+#, fuzzy, php-format
+#| msgid "Posts: %d"
+msgid "Guests: %d"
+msgstr "Posting: %d"
+
+#: storage/framework/views/e722ac81eec6551baa896aaf85443d8a.php:69
+#, fuzzy, php-format
+#| msgid "Posts: %d"
+msgid "Bots: %d"
+msgstr "Posting: %d"
+
+#: storage/framework/views/ed4ccbd9f7e2a1b1fa3a3490a02af540.php:40
+#, fuzzy
+#| msgid "Are you sure you want to delete rank \"%s\"?"
+msgid "Are you sure you want to delete this message?"
+msgstr "Apakah Anda yakin ingin menghapus peringkat \"%s\"?"
