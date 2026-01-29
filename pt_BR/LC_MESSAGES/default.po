@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Tibia-ME.net\n"
-"POT-Creation-Date: 2025-05-10 16:37+0300\n"
-"PO-Revision-Date: 2025-05-10 16:37+0300\n"
+"Project-Id-Version: TibiaME.ru\n"
+"POT-Creation-Date: 2026-01-29 18:02+0300\n"
+"PO-Revision-Date: 2026-01-29 18:03+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.8\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: vendor\n"
@@ -88,9 +88,13 @@ msgstr ""
 "servidor do jogo."
 
 #: resources/views/agreement.blade.php:33
+#, fuzzy
+#| msgid ""
+#| "Highscores data are provided by tibiame.com and Tibia-ME.net is not "
+#| "responsible for its reliability."
 msgid ""
-"Highscores data are provided by tibiame.com and Tibia-ME.net is not "
-"responsible for its reliability."
+"Highscores data are provided by tibiame.com and we are not responsible for its "
+"reliability."
 msgstr ""
 "Os dados dos highscores são fornecidos pelo tibiame.com e o Tibia-ME.net não "
 "se responsabiliza pela sua confiabilidade."
@@ -146,9 +150,11 @@ msgid "Privacy"
 msgstr "Privacidade"
 
 #: resources/views/agreement.blade.php:56
-msgid ""
-"Tibia-ME.net never shares your hidden data (e.g. email, birth date) with "
-"anyone."
+#, fuzzy
+#| msgid ""
+#| "Tibia-ME.net never shares your hidden data (e.g. email, birth date) with "
+#| "anyone."
+msgid "We never share your hidden data (e.g. email, birth date) with anyone."
 msgstr ""
 "Tibia-ME.net nunca compartilha seus dados ocultos (por exemplo, email, data de "
 "nascimento) com qualquer um."
@@ -159,8 +165,8 @@ msgstr ""
 #| "Your passwords are encrypted and cannot be viewed by anyone, including "
 #| "Tibia-ME.net sfaff."
 msgid ""
-"Your passwords are encrypted and cannot be viewed by anyone, including Tibia-"
-"ME.net staff."
+"Your passwords are encrypted and cannot be viewed by anyone, including our "
+"staff."
 msgstr ""
 "Suas senhas são criptografadas e não podem ser vistas por ninguém, incluindo "
 "funcionários do Tibia-ME.net ."
@@ -170,9 +176,7 @@ msgstr ""
 #| msgid ""
 #| "Tibia-ME.net Admin may use your data to contact you (e.g. email, Yahoo ID, "
 #| "Skype ID, including hidden data)."
-msgid ""
-"Tibia-ME.net Admin may use your data to contact you (e.g. email, including "
-"hidden data)."
+msgid "We may use your data to contact you (e.g. email, including hidden data)."
 msgstr ""
 "O Admin do Tibia-ME.net  pode usar seus dados para contatá-lo (por exemplo, e-"
 "mail, ID do Yahoo, ID do Skype, incluindo dados ocultos)."
@@ -320,13 +324,21 @@ msgstr "Ninguém comentou ainda."
 msgid "Log in to post your comments."
 msgstr "Faça o login para postar seus comentários."
 
+#: resources/views/content/armour.blade.php:9
+#: resources/views/content/weapon.blade.php:8
+msgid "Icon"
+msgstr ""
+
+#: resources/views/content/armour.blade.php:18
 #: resources/views/content/armours.blade.php:6
 #: resources/views/content/skills.blade.php:6
 #: resources/views/content/spells.blade.php:6
+#: resources/views/content/weapon.blade.php:16
 #: resources/views/content/weapons.blade.php:6
 msgid "Vocation"
 msgstr "Vocação"
 
+#: resources/views/content/armour.blade.php:20
 #: resources/views/content/armours.blade.php:8
 #: resources/views/content/armours.blade.php:15
 #: resources/views/content/spells.blade.php:8
@@ -335,6 +347,16 @@ msgstr "Vocação"
 #: resources/views/content/weapons.blade.php:8
 msgid "any"
 msgstr "qualquer"
+
+#: resources/views/content/armour.blade.php:29
+#: resources/views/content/armours.blade.php:13
+#: resources/views/content/armours.blade.php:70
+msgid "Slot"
+msgstr "Slot"
+
+#: resources/views/content/armour.blade.php:64
+msgid "exp"
+msgstr ""
 
 #: resources/views/content/armours.blade.php:10
 #: resources/views/content/skills.blade.php:8
@@ -349,11 +371,6 @@ msgstr "guerreiro"
 #: resources/views/content/weapons.blade.php:10
 msgid "wizard"
 msgstr "mago"
-
-#: resources/views/content/armours.blade.php:13
-#: resources/views/content/armours.blade.php:70
-msgid "Slot"
-msgstr "Slot"
 
 #: resources/views/content/armours.blade.php:22
 #: resources/views/content/armours.blade.php:69
@@ -415,6 +432,11 @@ msgstr "Dropado por"
 #: resources/views/content/weapons.blade.php:73
 msgid "No items to display."
 msgstr "Nenhum item a ser exibido."
+
+#: resources/views/content/armours.blade.php:131
+#: resources/views/content/weapons.blade.php:126
+msgid "Add"
+msgstr ""
 
 #: resources/views/content/food.blade.php:6
 msgid "Food and potions"
@@ -592,7 +614,6 @@ msgid "single enemy"
 msgstr "inimigo único"
 
 #: resources/views/forum/home.blade.php:20
-#: resources/views/forum/viewforum.blade.php:20
 msgid "new"
 msgstr "novo"
 
@@ -617,7 +638,6 @@ msgstr[1] "%d postar"
 #: resources/views/forum/post-edit.blade.php:10
 #: resources/views/forum/post-quote.blade.php:13
 #: resources/views/forum/topic-create-edit.blade.php:21
-#: resources/views/forum/topic-move.blade.php:16
 msgid "Cancel"
 msgstr "Cancelar"
 
@@ -700,15 +720,15 @@ msgid_plural "%d comments"
 msgstr[0] "%d comentário"
 msgstr[1] "%d comentários"
 
-#: resources/views/home.blade.php:42
+#: resources/views/home.blade.php:45
 msgid "view all"
 msgstr "ver tudo"
 
-#: resources/views/home.blade.php:47
+#: resources/views/home.blade.php:50
 msgid "Chat"
 msgstr ""
 
-#: resources/views/home.blade.php:52
+#: resources/views/home.blade.php:55
 msgid ""
 "TibiaME is the first massively multiplayer online role-playing game for mobile "
 "devices. Come together with hundreds of players and experience adventures in a "
@@ -725,105 +745,101 @@ msgstr ""
 "monstro que derrotar, mais forte você ficará. TibiaME é baseado no grande "
 "sucesso de RPG online Tibia que atrai milhares de jogadores todos os dias."
 
-#: resources/views/home.blade.php:60
+#: resources/views/home.blade.php:63
 #, fuzzy
 #| msgid "%d Platinum"
 msgid "Premium & Platinum"
 msgstr "%d Platina"
 
-#: resources/views/home.blade.php:65
+#: resources/views/home.blade.php:68
 msgid "Forum"
 msgstr "Fórum"
 
-#: resources/views/home.blade.php:88
-msgid "Memberlist"
-msgstr "Lista de membros"
-
-#: resources/views/home.blade.php:91
+#: resources/views/home.blade.php:93
 msgid "Banlist"
 msgstr "Lista dos banidos"
 
-#: resources/views/home.blade.php:94
+#: resources/views/home.blade.php:96
 msgid "Ranks"
 msgstr "Ranks"
 
-#: resources/views/home.blade.php:113
+#: resources/views/home.blade.php:115
 msgid "TOP 100"
 msgstr "TOP 100"
 
-#: resources/views/home.blade.php:114
+#: resources/views/home.blade.php:116
 msgid "Hunters"
 msgstr "Caçadores"
 
-#: resources/views/home.blade.php:116
+#: resources/views/home.blade.php:118
 msgid "Achievements"
 msgstr "Conquistas"
 
-#: resources/views/home.blade.php:117
+#: resources/views/home.blade.php:119
 msgid "Guilds"
 msgstr "Guilda"
 
-#: resources/views/home.blade.php:118
+#: resources/views/home.blade.php:120
 msgid "Worlds"
 msgstr "Mundos"
 
-#: resources/views/home.blade.php:123
+#: resources/views/home.blade.php:125
 msgid "Encyclopedia"
 msgstr "Enciclopédia"
 
-#: resources/views/home.blade.php:125
+#: resources/views/home.blade.php:127
 msgid "Armour Calculator"
 msgstr "Calculadora de armadura"
 
-#: resources/views/home.blade.php:126
+#: resources/views/home.blade.php:128
 msgid "Weapons"
 msgstr "Armas"
 
-#: resources/views/home.blade.php:127
+#: resources/views/home.blade.php:129
 msgid "Armours"
 msgstr "Armaduras"
 
-#: resources/views/home.blade.php:128
+#: resources/views/home.blade.php:130
 msgid "Monsters"
 msgstr "Monstros"
 
-#: resources/views/home.blade.php:129
+#: resources/views/home.blade.php:131
 msgid "Spells"
 msgstr "Magias"
 
-#: resources/views/home.blade.php:130
+#: resources/views/home.blade.php:132
 msgid "Skills"
 msgstr "Habilidades"
 
-#: resources/views/home.blade.php:131
+#: resources/views/home.blade.php:133
 msgid "Pets"
 msgstr "Pets"
 
-#: resources/views/home.blade.php:137
+#: resources/views/home.blade.php:139
 msgid "About us"
 msgstr "Sobre nós"
 
-#: resources/views/home.blade.php:139
+#: resources/views/home.blade.php:141
 msgid "Moderators"
 msgstr "Moderadores"
 
-#: resources/views/home.blade.php:140
+#: resources/views/home.blade.php:142
 msgid "User agreement"
 msgstr "Termo de Acordo do Usuário"
 
-#: resources/views/home.blade.php:145
+#: resources/views/home.blade.php:147
 msgid "Archive"
 msgstr ""
 
-#: resources/views/home.blade.php:146
+#: resources/views/home.blade.php:148
 msgid "These sections are in read-only mode and/or not eligible for support."
 msgstr ""
 
-#: resources/views/home.blade.php:150
+#: resources/views/home.blade.php:152
 msgid "Photo album"
 msgstr "Álbum de foto"
 
-#: resources/views/home.blade.php:155
+#: resources/views/home.blade.php:157
 msgid "Themes"
 msgstr "Temas"
 
@@ -877,11 +893,11 @@ msgstr "Sair"
 msgid "Log in"
 msgstr "Entrar"
 
-#: resources/views/layout.blade.php:124 resources/views/login.blade.php:39
+#: resources/views/layout.blade.php:124 resources/views/login.blade.php:42
 msgid "Register"
 msgstr "Registrar"
 
-#: resources/views/layout.blade.php:127 resources/views/login.blade.php:38
+#: resources/views/layout.blade.php:127 resources/views/login.blade.php:41
 msgid "Recover password"
 msgstr "Recuperar senha"
 
@@ -906,7 +922,7 @@ msgstr ""
 msgid "No letters."
 msgstr "Nenhuma nova carta"
 
-#: resources/views/letters/view.blade.php:24
+#: resources/views/letters/view.blade.php:27
 msgid "Delete"
 msgstr "Excluir"
 
@@ -929,6 +945,24 @@ msgstr "Itens ignorados"
 #: resources/views/livewire/armour-calculator.blade.php:123
 msgid "none"
 msgstr "nenhum"
+
+#: resources/views/livewire/character-next-level.blade.php:6
+msgid "Next level"
+msgstr "Próximo nível"
+
+#: resources/views/livewire/character-next-level.blade.php:31
+#, python-format
+msgid "Last %d day"
+msgid_plural "Last %d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: resources/views/livewire/character-next-level.blade.php:47
+#, python-format
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] "%d dia"
+msgstr[1] "%d dias"
 
 #: resources/views/livewire/chat.blade.php:40
 msgid "Type your message"
@@ -960,9 +994,10 @@ msgid "Hello %s"
 msgstr "Olá, %s."
 
 #: resources/views/mail/letter_received.blade.php:3
+#, python-format
 msgid ""
-"You have received a new private message to your account on Tibia-ME.net and "
-"you have requested that you be notified on this event."
+"You have received a new private message to your account on %s and you have "
+"requested that you be notified on this event."
 msgstr ""
 
 #: resources/views/mail/letter_received.blade.php:4
@@ -988,22 +1023,22 @@ msgstr ""
 msgid "If you did not request a new password, just ignore this message."
 msgstr ""
 
-#: resources/views/memberlist.blade.php:13
+#: resources/views/memberlist.blade.php:18
 msgid "all"
 msgstr "todos"
 
-#: resources/views/memberlist.blade.php:27
+#: resources/views/memberlist.blade.php:33
 #, fuzzy, python-format
 #| msgid "Mutual: %d"
 msgid "Total: %d"
 msgstr "Em Comum: %d"
 
-#: resources/views/memberlist.blade.php:32
+#: resources/views/memberlist.blade.php:39
 #, python-format
 msgid "Online: %d"
 msgstr "Online: %d"
 
-#: resources/views/memberlist.blade.php:47
+#: resources/views/memberlist.blade.php:54
 msgid "Rank"
 msgstr "Rank"
 
@@ -1158,63 +1193,84 @@ msgstr "O que é Premium?"
 
 #: resources/views/premiumplatinum.blade.php:6
 msgid ""
-"VIP is permanent character status that you receive after any purchase (any "
-"amount of Platinum or Premium)."
+"VIP is character status that you receive after any purchase (any amount of "
+"Platinum or Premium)."
 msgstr ""
 
 #: resources/views/premiumplatinum.blade.php:8
+#: resources/views/premiumplatinum.blade.php:31
 msgid "Priority Login"
 msgstr ""
 
 #: resources/views/premiumplatinum.blade.php:9
-#: resources/views/premiumplatinum.blade.php:19
+#: resources/views/premiumplatinum.blade.php:32
 #, fuzzy, python-format
 #| msgid "+50% Experience"
 msgid "Stamina Bonus (+%s Experience)"
 msgstr "+ 50% de experiência"
 
+#: resources/views/premiumplatinum.blade.php:11
+#: resources/views/premiumplatinum.blade.php:34
+#, fuzzy
+#| msgid "Guild founding"
+msgid "Guild Founding"
+msgstr "Fundação de Guilda"
+
 #: resources/views/premiumplatinum.blade.php:13
+#, fuzzy
+#| msgid "Duration"
+msgid "VIP duration"
+msgstr "Duração"
+
+#: resources/views/premiumplatinum.blade.php:23
+#, python-format
+msgid "%d Platinum = %d day"
+msgid_plural "%d Platinum = %d days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: resources/views/premiumplatinum.blade.php:27
 msgid "What is Premium?"
 msgstr "O que é Premium?"
 
-#: resources/views/premiumplatinum.blade.php:15
+#: resources/views/premiumplatinum.blade.php:29
 msgid ""
 "Premium is renewable subscription that gives you temporary access to most of "
-"game features. When your Premium time expires your character remains VIP."
+"game features."
 msgstr ""
 
-#: resources/views/premiumplatinum.blade.php:17
+#: resources/views/premiumplatinum.blade.php:35
 #, fuzzy
 #| msgid "Full access to individual islands"
 msgid "Full access to additional islands"
 msgstr "Acesso total a ilhas individuais"
 
-#: resources/views/premiumplatinum.blade.php:18
+#: resources/views/premiumplatinum.blade.php:36
 msgid "Portal usage"
 msgstr "Uso do Portal"
 
-#: resources/views/premiumplatinum.blade.php:20
+#: resources/views/premiumplatinum.blade.php:37
 #, fuzzy
 msgid "20 friendlist slots"
 msgstr "Até 20 slots de lista de amigos adicionais"
 
-#: resources/views/premiumplatinum.blade.php:21
+#: resources/views/premiumplatinum.blade.php:38
 msgid "20 ignorelist slots"
 msgstr ""
 
-#: resources/views/premiumplatinum.blade.php:22
+#: resources/views/premiumplatinum.blade.php:39
 msgid "20 letters in Mailbox"
 msgstr ""
 
-#: resources/views/premiumplatinum.blade.php:23
+#: resources/views/premiumplatinum.blade.php:40
 msgid "10 trade offers"
 msgstr "10 ofertas comerciais"
 
-#: resources/views/premiumplatinum.blade.php:24
+#: resources/views/premiumplatinum.blade.php:41
 msgid "9 depot pages"
 msgstr ""
 
-#: resources/views/premiumplatinum.blade.php:25
+#: resources/views/premiumplatinum.blade.php:42
 #, fuzzy
 #| msgid ""
 #| "Life insurance with 50% of EP loss protection upon death (can be upgraded "
@@ -1224,51 +1280,45 @@ msgstr ""
 "Seguro de vida com 50% da proteção de perda de EP após a morte (pode ser "
 "atualizado para 80% ou 100%)"
 
-#: resources/views/premiumplatinum.blade.php:26
-#, fuzzy
-#| msgid "Guild founding"
-msgid "Guild Founding"
-msgstr "Fundação de Guilda"
-
-#: resources/views/premiumplatinum.blade.php:29
+#: resources/views/premiumplatinum.blade.php:45
 msgid "What is Platinum?"
 msgstr "O que é Platina?"
 
-#: resources/views/premiumplatinum.blade.php:31
+#: resources/views/premiumplatinum.blade.php:47
 msgid ""
 "Platinum is game currency that allows you to buy permanent access to game "
 "features of your choice."
 msgstr ""
 
-#: resources/views/premiumplatinum.blade.php:33
+#: resources/views/premiumplatinum.blade.php:49
 #, fuzzy
 #| msgid "Full access to individual islands"
 msgid "Buy permanent access to individual islands"
 msgstr "Acesso total a ilhas individuais"
 
-#: resources/views/premiumplatinum.blade.php:34
+#: resources/views/premiumplatinum.blade.php:50
 msgid "Buy portal usage permanently"
 msgstr ""
 
-#: resources/views/premiumplatinum.blade.php:35
+#: resources/views/premiumplatinum.blade.php:51
 msgid "Buy up to 50 friendlist slots"
 msgstr "Até 50 slots de lista de amigos adicionais"
 
-#: resources/views/premiumplatinum.blade.php:36
+#: resources/views/premiumplatinum.blade.php:52
 msgid "Buy up to 50 letters in Mailbox"
 msgstr ""
 
-#: resources/views/premiumplatinum.blade.php:37
+#: resources/views/premiumplatinum.blade.php:53
 #, fuzzy
 #| msgid "Up to 20 trade offers"
 msgid "Buy up to 20 trade offers"
 msgstr "Até 20 ofertas comerciais"
 
-#: resources/views/premiumplatinum.blade.php:38
+#: resources/views/premiumplatinum.blade.php:54
 msgid "Buy up to 9 depot pages"
 msgstr "Até 9 páginas de depósito adicionais"
 
-#: resources/views/premiumplatinum.blade.php:39
+#: resources/views/premiumplatinum.blade.php:55
 #, fuzzy
 #| msgid "Life insurance with 50%, 80% or 100% of EP loss protection upon death"
 msgid ""
@@ -1276,17 +1326,17 @@ msgid ""
 msgstr ""
 "Seguro de vida com 50%, 80% ou 100% da proteção de perda de EP após a morte"
 
-#: resources/views/premiumplatinum.blade.php:40
+#: resources/views/premiumplatinum.blade.php:56
 msgid "Buy additional Rerolls whenever you need them"
 msgstr ""
 
-#: resources/views/premiumplatinum.blade.php:41
+#: resources/views/premiumplatinum.blade.php:57
 #, fuzzy
 #| msgid "Guild founding"
 msgid "Buy guild founding"
 msgstr "Fundação de Guilda"
 
-#: resources/views/premiumplatinum.blade.php:47
+#: resources/views/premiumplatinum.blade.php:63
 #, fuzzy, python-format
 msgid "Buy on %s"
 msgstr "Até em %s"
@@ -1300,7 +1350,7 @@ msgid "Remove avatar"
 msgstr "Remover avatar"
 
 #: resources/views/profile.blade.php:34 resources/views/profile.blade.php:44
-#: resources/views/scores/character.blade.php:101
+#: resources/views/scores/character.blade.php:86
 #: resources/views/scores/guild.blade.php:7
 #: resources/views/scores/guilds.blade.php:31
 #: resources/views/scores/hunters_guilds.blade.php:23
@@ -1442,117 +1492,106 @@ msgstr "guerreiros"
 msgid "wizards"
 msgstr "magos"
 
-#: resources/views/scores/achievements.blade.php:33
-#: resources/views/scores/hunters_characters.blade.php:48
+#: resources/views/scores/achievements.blade.php:30
+#: resources/views/scores/character.blade.php:202
+#: resources/views/scores/guild.blade.php:48
+#: resources/views/scores/hunters_characters.blade.php:21
+#: resources/views/scores/hunters_guilds.blade.php:13
+msgid "Date"
+msgstr "Data"
+
+#: resources/views/scores/achievements.blade.php:39
+#: resources/views/scores/hunters_characters.blade.php:53
 #: resources/views/scores/pvp.blade.php:17
 #: resources/views/scores/top100.blade.php:39
 msgid "Character"
 msgstr "Personagem"
 
-#: resources/views/scores/achievements.blade.php:34
-#: resources/views/scores/character.blade.php:89
+#: resources/views/scores/achievements.blade.php:40
+#: resources/views/scores/character.blade.php:74
 msgid "Points"
 msgstr "Pontos"
 
-#: resources/views/scores/character.blade.php:30
+#: resources/views/scores/character.blade.php:31
 #: resources/views/scores/guild.blade.php:19
-#: resources/views/scores/world.blade.php:13
 msgid "EP"
 msgstr "EP"
 
-#: resources/views/scores/character.blade.php:36
-msgid "Next level"
-msgstr "Próximo nível"
-
-#: resources/views/scores/character.blade.php:52
-#: resources/views/scores/character.blade.php:73
+#: resources/views/scores/character.blade.php:37
+#: resources/views/scores/character.blade.php:58
 msgid "Global rank"
 msgstr ""
 
-#: resources/views/scores/character.blade.php:60
-#: resources/views/scores/character.blade.php:81
+#: resources/views/scores/character.blade.php:45
+#: resources/views/scores/character.blade.php:66
 #, fuzzy
 #| msgid "World"
 msgid "World rank"
 msgstr "Mundo"
 
-#: resources/views/scores/character.blade.php:95
+#: resources/views/scores/character.blade.php:80
 msgid "PvP rank"
 msgstr "Rank PvP"
 
-#: resources/views/scores/character.blade.php:113
+#: resources/views/scores/character.blade.php:98
 msgid "Max daily gain"
 msgstr "Ganho diário máximo"
 
-#: resources/views/scores/character.blade.php:125
+#: resources/views/scores/character.blade.php:113
 msgid "Min daily gain"
 msgstr "Ganho diário mínimo"
 
-#: resources/views/scores/character.blade.php:139
-#, python-format
-msgid "Last %d day"
-msgid_plural "Last %d days"
-msgstr[0] ""
-msgstr[1] ""
-
-#: resources/views/scores/character.blade.php:162
+#: resources/views/scores/character.blade.php:136
 #, python-format
 msgid "Updated %d day ago."
 msgid_plural "Updated %d days ago."
 msgstr[0] "Atualizado %d dia atrás."
 msgstr[1] "Atualizado %d dias atrás."
 
-#: resources/views/scores/character.blade.php:169
+#: resources/views/scores/character.blade.php:143
 #, python-format
 msgid "Updated %d hour ago."
 msgid_plural "Updated %d hours ago."
 msgstr[0] "Atualizado %d horas atrás."
 msgstr[1] "Atualizado %d horas atrás."
 
-#: resources/views/scores/character.blade.php:172
+#: resources/views/scores/character.blade.php:146
 msgid "Updated less than hour ago."
 msgstr "Atualizado a menos de uma hora atrás."
 
-#: resources/views/scores/character.blade.php:181
+#: resources/views/scores/character.blade.php:155
 msgid "Loading chart data..."
 msgstr "Carregando dados do gráfico ..."
 
-#: resources/views/scores/character.blade.php:228
-#: resources/views/scores/guild.blade.php:41
-#: resources/views/scores/hunters_characters.blade.php:21
-#: resources/views/scores/hunters_guilds.blade.php:13
-msgid "Date"
-msgstr "Data"
-
-#: resources/views/scores/character.blade.php:231
-#: resources/views/scores/guild.blade.php:43
+#: resources/views/scores/character.blade.php:205
+#: resources/views/scores/guild.blade.php:50
 #: resources/views/scores/guilds.blade.php:33
-#: resources/views/scores/hunters_characters.blade.php:50
+#: resources/views/scores/hunters_characters.blade.php:55
 #: resources/views/scores/hunters_guilds.blade.php:24
 #: resources/views/scores/top100.blade.php:40
-#: resources/views/scores/worlds.blade.php:9
 msgid "Experience"
 msgstr "Experiência"
 
-#: resources/views/scores/guild.blade.php:24
+#: resources/views/scores/guild.blade.php:30
 msgid "Known guild members"
 msgstr ""
 
-#: resources/views/scores/hunters_characters.blade.php:24
+#: resources/views/scores/hunters_characters.blade.php:29
 msgid "Time"
 msgstr "Tempo"
 
-#: resources/views/scores/hunters_characters.blade.php:26
+#: resources/views/scores/hunters_characters.blade.php:31
 msgid "full day"
-msgstr ""
-
-#: resources/views/scores/hunters_characters.blade.php:35
-msgid "exp"
 msgstr ""
 
 #: resources/views/scores/pvp.blade.php:19
 msgid "Quota"
 msgstr "Quota"
+
+#: resources/views/scores/world.blade.php:19
+#: resources/views/scores/worlds.blade.php:10
+msgid "Known members"
+msgstr ""
 
 #: resources/views/scores/world.blade.php:23
 msgid "Max gain"
@@ -1662,13 +1701,13 @@ msgstr "O álbum foi apagado."
 msgid "Artwork has been deleted."
 msgstr "A obra de arte foi excluída."
 
-#: app/Http/Controllers/Auth.php:66
+#: app/Http/Controllers/Auth.php:67
 #, fuzzy
 #| msgid "Invalid game code type."
 msgid "Invalid username or password."
 msgstr "Tipo de código de jogo inválido."
 
-#: app/Http/Controllers/Auth.php:103 app/Http/Controllers/Characters.php:39
+#: app/Http/Controllers/Auth.php:104 app/Http/Controllers/Characters.php:39
 #: app/Http/Controllers/Characters.php:57
 msgid "This nickname is already in use."
 msgstr "Este Nickname já está em uso."
@@ -1760,8 +1799,10 @@ msgid "Cannot add more than %d characters."
 msgstr ""
 
 #: app/Http/Controllers/Characters.php:45 app/Http/Controllers/Characters.php:64
-#: app/Http/Controllers/Characters.php:80 app/Http/Controllers/Forum.php:237
-#: app/Http/Controllers/Forum.php:312 app/Http/Controllers/Letters.php:86
+#: app/Http/Controllers/Characters.php:80 app/Http/Controllers/Content.php:408
+#: app/Http/Controllers/Content.php:484 app/Http/Controllers/Content.php:499
+#: app/Http/Controllers/Content.php:514 app/Http/Controllers/Forum.php:242
+#: app/Http/Controllers/Forum.php:317 app/Http/Controllers/Letters.php:86
 #: app/Http/Controllers/Profile.php:199
 msgid "Changes saved."
 msgstr "Mudanças salvas."
@@ -1780,17 +1821,23 @@ msgstr "Comentários"
 msgid "Your comment has been posted."
 msgstr "Seu comentário foi postado."
 
-#: app/Http/Controllers/Content.php:89 app/Http/Controllers/Content.php:90
+#: app/Http/Controllers/Content.php:102 app/Http/Controllers/Content.php:103
 msgid "Armour Calc"
 msgstr "Calc de Armadura"
 
-#: app/Http/Controllers/Content.php:337
+#: app/Http/Controllers/Content.php:373 app/Http/Controllers/Content.php:459
+#, fuzzy
+#| msgid "This nickname is already in use."
+msgid "This item already exists."
+msgstr "Este Nickname já está em uso."
+
+#: app/Http/Controllers/Content.php:556
 #, fuzzy
 #| msgid "No file specified."
 msgid "No file selected."
 msgstr "Nenhum arquivo especificado."
 
-#: app/Http/Controllers/Content.php:342
+#: app/Http/Controllers/Content.php:561
 msgid "Update already in progress."
 msgstr ""
 
@@ -1816,7 +1863,7 @@ msgstr "O tópico foi fechado."
 msgid "Edit topic"
 msgstr "Editar tópico"
 
-#: app/Http/Controllers/Forum.php:189 app/Http/Controllers/Ranks.php:91
+#: app/Http/Controllers/Forum.php:189 app/Http/Controllers/Ranks.php:92
 #: app/Http/Controllers/Themes.php:87
 msgid "Edit"
 msgstr "Editar"
@@ -1825,47 +1872,47 @@ msgstr "Editar"
 msgid "Create topic"
 msgstr "Criar tópico"
 
-#: app/Http/Controllers/Forum.php:263
+#: app/Http/Controllers/Forum.php:268
 #, fuzzy
 #| msgid "Topic has been closed."
 msgid "Topic has been created."
 msgstr "O tópico foi fechado."
 
-#: app/Http/Controllers/Forum.php:274
+#: app/Http/Controllers/Forum.php:279
 #, fuzzy
 #| msgid "Comment deleted."
 msgid "Post deleted."
 msgstr "Comentário excluído."
 
-#: app/Http/Controllers/Forum.php:286 app/Http/Controllers/Forum.php:292
+#: app/Http/Controllers/Forum.php:291 app/Http/Controllers/Forum.php:297
 msgid "Edit post"
 msgstr "Editar post"
 
-#: app/Http/Controllers/Forum.php:322 app/Http/Controllers/Forum.php:327
-#: app/Http/Controllers/Forum.php:354 app/Http/Controllers/Forum.php:359
+#: app/Http/Controllers/Forum.php:327 app/Http/Controllers/Forum.php:332
+#: app/Http/Controllers/Forum.php:359 app/Http/Controllers/Forum.php:364
 msgid "Quote"
 msgstr "Quote"
 
-#: app/Http/Controllers/Forum.php:344 app/Http/Controllers/Forum.php:375
-#: app/Http/Controllers/Forum.php:410
+#: app/Http/Controllers/Forum.php:349 app/Http/Controllers/Forum.php:380
+#: app/Http/Controllers/Forum.php:415
 #, fuzzy
 #| msgid "Message"
 msgid "Message posted."
 msgstr "Mensagem"
 
-#: app/Http/Controllers/Forum.php:419 app/Http/Controllers/Forum.php:424
+#: app/Http/Controllers/Forum.php:424 app/Http/Controllers/Forum.php:429
 msgid "Move topic"
 msgstr "Mover tópico"
 
-#: app/Http/Controllers/Forum.php:442
+#: app/Http/Controllers/Forum.php:447
 msgid "Topic has been moved."
 msgstr "O tópico foi movido."
 
-#: app/Http/Controllers/Forum.php:450
+#: app/Http/Controllers/Forum.php:455
 msgid "You will be notified on new replies in this thread."
 msgstr "Você será notificado em novas respostas neste tópico."
 
-#: app/Http/Controllers/Forum.php:458
+#: app/Http/Controllers/Forum.php:463
 msgid "You will no longer be notified on new replies in this thread."
 msgstr "Você não será mais notificado sobre novas respostas neste tópico."
 
@@ -1882,21 +1929,25 @@ msgstr "A carta foi enviada."
 msgid "Users online"
 msgstr "Usuários online"
 
+#: app/Http/Controllers/Memberlist.php:53 app/Http/Controllers/Memberlist.php:57
+msgid "Memberlist"
+msgstr "Lista de membros"
+
 #: app/Http/Controllers/Notifications.php:30
 msgid "Notifications"
 msgstr "Notificações"
 
-#: app/Http/Controllers/Ranks.php:55
+#: app/Http/Controllers/Ranks.php:56
 msgid "Create"
 msgstr "Criar"
 
-#: app/Http/Controllers/Scores.php:123 app/Http/Controllers/Scores.php:172
+#: app/Http/Controllers/Scores.php:178 app/Http/Controllers/Scores.php:219
 #, fuzzy
 #| msgid "TOP hunters"
 msgid "TOP Hunters"
 msgstr "TOP caçadores"
 
-#: app/Http/Controllers/Scores.php:637 app/Http/Controllers/Scores.php:641
+#: app/Http/Controllers/Scores.php:677 app/Http/Controllers/Scores.php:681
 #, fuzzy, php-format
 #| msgid "World: %d"
 msgid "World %d"
@@ -1915,7 +1966,7 @@ msgstr ""
 msgid "My themes"
 msgstr "Meus temas"
 
-#: app/Http/Controllers/Uploader.php:27
+#: app/Http/Controllers/Uploader.php:26
 msgid "No file specified."
 msgstr "Nenhum arquivo especificado."
 
@@ -1995,13 +2046,6 @@ msgid "%d hour"
 msgid_plural "%d hours"
 msgstr[0] "%d hora"
 msgstr[1] "%d horas"
-
-#: config/banishments.php:16 config/banishments.php:17
-#, php-format
-msgid "%d day"
-msgid_plural "%d days"
-msgstr[0] "%d dia"
-msgstr[1] "%d dias"
 
 #: config/banishments.php:18
 #, php-format
