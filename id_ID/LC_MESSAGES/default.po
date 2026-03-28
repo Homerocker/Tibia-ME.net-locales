@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TibiaME.ru\n"
 "POT-Creation-Date: 2026-01-29 18:12+0300\n"
-"PO-Revision-Date: 2026-01-29 18:13+0300\n"
+"PO-Revision-Date: 2026-03-28 21:44+0700\n"
 "Last-Translator: Molodoy <molodoy3561@gmail.com>\n"
 "Language-Team: \n"
 "Language: id_ID\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.8\n"
+"X-Generator: Poedit 3.9\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
 "X-Poedit-Basepath: ../../..\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -89,16 +89,12 @@ msgid "Highscores are updated daily at 00:10 UTC."
 msgstr "Skor tertinggi diperbarui setiap hari pada pukul 00:10 UTC."
 
 #: resources/views/agreement.blade.php:33
-#, fuzzy
-#| msgid ""
-#| "Highscores data are provided by tibiame.com and Tibia-ME.net is not "
-#| "responsible for its reliability."
 msgid ""
 "Highscores data are provided by tibiame.com and we are not responsible for "
 "its reliability."
 msgstr ""
-"Data skor tinggi disediakan oleh tibiame.com dan Tibia-ME.net tidak "
-"bertanggung jawab atas keandalannya."
+"Data skor tertinggi disediakan oleh tibiame.com dan kami tidak bertanggung "
+"jawab atas keakuratannya."
 
 #: resources/views/agreement.blade.php:35
 msgid ""
@@ -126,7 +122,7 @@ msgid ""
 "Screenshots should not contain any non-game areas, e.g. computer desktop and "
 "emulator window."
 msgstr ""
-"Tangkapan layar tidak boleh berisi area non-game, misalnya desktop komputer "
+"Tangkapan layar tidak boleh berisi area non-game, misalnya: desktop komputer "
 "dan jendela emulator."
 
 #: resources/views/agreement.blade.php:48
@@ -146,37 +142,25 @@ msgid "Privacy"
 msgstr "Privasi"
 
 #: resources/views/agreement.blade.php:56
-#, fuzzy
-#| msgid ""
-#| "Tibia-ME.net never shares your hidden data (e.g. email, birth date) with "
-#| "anyone."
 msgid "We never share your hidden data (e.g. email, birth date) with anyone."
 msgstr ""
-"Tibia-ME.net tidak pernah membagikan data tersembunyi Anda (misalnya email, "
-"tanggal lahir) kepada siapa pun."
+"Kami tidak pernah membagikan data tersembunyi Anda (misalnya: email, tanggal "
+"lahir) kepada siapa pun."
 
 #: resources/views/agreement.blade.php:58
-#, fuzzy
-#| msgid ""
-#| "Your passwords are encrypted and cannot be viewed by anyone, including "
-#| "Tibia-ME.net staff."
 msgid ""
 "Your passwords are encrypted and cannot be viewed by anyone, including our "
 "staff."
 msgstr ""
-"Kata sandi Anda dienkripsi dan tidak dapat dilihat oleh siapa pun, termasuk "
-"staf Tibia-ME.net."
+"Kata sandi Anda terenkripsi dan tidak dapat dilihat oleh siapa pun, termasuk "
+"staf kami."
 
 #: resources/views/agreement.blade.php:60
-#, fuzzy
-#| msgid ""
-#| "Tibia-ME.net Admin may use your data to contact you (e.g. email, "
-#| "including hidden data)."
 msgid ""
 "We may use your data to contact you (e.g. email, including hidden data)."
 msgstr ""
-"Admin Tibia-ME.net dapat menggunakan data Anda untuk menghubungi Anda "
-"(misalnya email, termasuk data tersembunyi)."
+"Kami mungkin menggunakan data Anda untuk menghubungi Anda (misalnya: email, "
+"termasuk data tersembunyi)."
 
 #: resources/views/agreement.blade.php:63
 msgid "Copyrights"
@@ -314,7 +298,7 @@ msgstr "Masuk untuk mengirim komentar Anda."
 #: resources/views/content/armour.blade.php:9
 #: resources/views/content/weapon.blade.php:8
 msgid "Icon"
-msgstr ""
+msgstr "Ikon"
 
 #: resources/views/content/armour.blade.php:18
 #: resources/views/content/armours.blade.php:6
@@ -423,7 +407,7 @@ msgstr "Tidak ada item untuk ditampilkan."
 #: resources/views/content/armours.blade.php:131
 #: resources/views/content/weapons.blade.php:126
 msgid "Add"
-msgstr ""
+msgstr "Tambah"
 
 #: resources/views/content/food.blade.php:6
 msgid "Food and potions"
@@ -1090,16 +1074,12 @@ msgid "What is VIP?"
 msgstr "Apa itu VIP?"
 
 #: resources/views/premiumplatinum.blade.php:6
-#, fuzzy
-#| msgid ""
-#| "VIP is permanent character status that you receive after any purchase "
-#| "(any amount of Platinum or Premium)."
 msgid ""
 "VIP is character status that you receive after any purchase (any amount of "
 "Platinum or Premium)."
 msgstr ""
-"VIP adalah status karakter permanen yang Anda terima setelah pembelian apa "
-"pun (berapapun jumlah Platinum atau Premium)."
+"VIP adalah status karakter yang Anda dapatkan setelah melakukan pembelian "
+"apa pun (berapapun jumlah Platinum atau Premium)."
 
 #: resources/views/premiumplatinum.blade.php:8
 #: resources/views/premiumplatinum.blade.php:31
@@ -1118,34 +1098,26 @@ msgid "Guild Founding"
 msgstr "Pendirian Guild"
 
 #: resources/views/premiumplatinum.blade.php:13
-#, fuzzy
-#| msgid "Duration"
 msgid "VIP duration"
-msgstr "Durasi"
+msgstr "Durasi VIP"
 
 #: resources/views/premiumplatinum.blade.php:23
 #, python-format
 msgid "%d Platinum = %d day"
 msgid_plural "%d Platinum = %d days"
-msgstr[0] ""
+msgstr[0] "%d Platinum = %d hari"
 
 #: resources/views/premiumplatinum.blade.php:27
 msgid "What is Premium?"
 msgstr "Apa yang dimaksud dengan Premium?"
 
 #: resources/views/premiumplatinum.blade.php:29
-#, fuzzy
-#| msgid ""
-#| "Premium is renewable subscription that gives you temporary access to most "
-#| "of game features. When your Premium time expires your character remains "
-#| "VIP."
 msgid ""
 "Premium is renewable subscription that gives you temporary access to most of "
 "game features."
 msgstr ""
-"Premium adalah langganan yang dapat diperpanjang yang memberi Anda akses "
-"sementara ke sebagian besar fitur game. Ketika waktu Premium Anda berakhir, "
-"karakter Anda tetap menjadi VIP."
+"Premium adalah langganan yang dapat diperbarui yang memberi Anda akses "
+"sementara ke sebagian besar fitur permainan."
 
 #: resources/views/premiumplatinum.blade.php:35
 msgid "Full access to additional islands"
@@ -1477,10 +1449,8 @@ msgstr "Kuota"
 
 #: resources/views/scores/world.blade.php:19
 #: resources/views/scores/worlds.blade.php:10
-#, fuzzy
-#| msgid "Known guild members"
 msgid "Known members"
-msgstr "Anggota serikat yang dikenal"
+msgstr "Anggota yang dikenal"
 
 #: resources/views/scores/world.blade.php:23
 msgid "Max gain"
@@ -1690,10 +1660,8 @@ msgid "Armour Calc"
 msgstr "Kalkulator Armor"
 
 #: app/Http/Controllers/Content.php:373 app/Http/Controllers/Content.php:459
-#, fuzzy
-#| msgid "This nickname is already in use."
 msgid "This item already exists."
-msgstr "Nama panggilan ini sudah digunakan."
+msgstr "Item ini sudah ada."
 
 #: app/Http/Controllers/Content.php:556
 msgid "No file selected."
