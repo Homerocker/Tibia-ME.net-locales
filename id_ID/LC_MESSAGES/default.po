@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TibiaME.ru\n"
 "POT-Creation-Date: 2026-03-28 19:21+0300\n"
-"PO-Revision-Date: 2026-04-07 21:40+0700\n"
+"PO-Revision-Date: 2026-04-07 21:44+0700\n"
 "Last-Translator: KryAboutIt <contact@kryabout.it>\n"
 "Language-Team: \n"
 "Language: id_ID\n"
@@ -1253,7 +1253,7 @@ msgstr "Hapus avatar"
 #: resources/views/scores/guilds.blade.php:31
 #: resources/views/scores/hunters_guilds.blade.php:23
 msgid "Guild"
-msgstr "Guild"
+msgstr "Serikat"
 
 #: resources/views/profile.blade.php:75 resources/views/profile.blade.php:93
 #: resources/views/profile.blade.php:124 resources/views/profile.blade.php:139
