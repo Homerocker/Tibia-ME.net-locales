@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: TibiaME.ru\n"
 "POT-Creation-Date: 2026-03-28 19:21+0300\n"
-"PO-Revision-Date: 2026-03-28 19:22+0300\n"
-"Last-Translator: Molodoy <molodoy3561@gmail.com>\n"
+"PO-Revision-Date: 2026-04-07 21:44+0700\n"
+"Last-Translator: KryAboutIt <contact@kryabout.it>\n"
 "Language-Team: \n"
 "Language: id_ID\n"
 "MIME-Version: 1.0\n"
@@ -429,10 +429,8 @@ msgid "Effect"
 msgstr "Efek"
 
 #: resources/views/content/monster.blade.php:24
-#, fuzzy
-#| msgid "exp"
 msgid "Exp"
-msgstr "exp"
+msgstr "Exp"
 
 #: resources/views/content/monster.blade.php:30
 #: resources/views/content/monsters.blade.php:15
@@ -444,7 +442,7 @@ msgstr "HP"
 #: resources/views/content/monster.blade.php:36
 #: resources/views/content/monsters.blade.php:14
 msgid "Gold"
-msgstr ""
+msgstr "Emas"
 
 #: resources/views/content/monster.blade.php:42
 #: resources/views/content/monsters.blade.php:16
@@ -735,7 +733,7 @@ msgstr "Peringkat"
 
 #: resources/views/home.blade.php:117
 msgid "TOP 100"
-msgstr "TOP 100"
+msgstr "100 TERATAS"
 
 #: resources/views/home.blade.php:125
 msgid "Hunters"
@@ -747,7 +745,7 @@ msgstr "Pencapaian"
 
 #: resources/views/home.blade.php:142
 msgid "Guilds"
-msgstr "Guild"
+msgstr "Serikat"
 
 #: resources/views/home.blade.php:150
 msgid "Worlds"
@@ -964,7 +962,7 @@ msgstr "Anda dapat melihat pesan baru Anda dengan mengeklik tautan berikut:"
 
 #: resources/views/mail/letter_received.blade.php:8
 msgid "Unsubscribe"
-msgstr ""
+msgstr "Berhenti berlangganan"
 
 #: resources/views/mail/password_recovery.blade.php:3
 #, python-format
@@ -1255,7 +1253,7 @@ msgstr "Hapus avatar"
 #: resources/views/scores/guilds.blade.php:31
 #: resources/views/scores/hunters_guilds.blade.php:23
 msgid "Guild"
-msgstr "Guild"
+msgstr "Serikat"
 
 #: resources/views/profile.blade.php:75 resources/views/profile.blade.php:93
 #: resources/views/profile.blade.php:124 resources/views/profile.blade.php:139
@@ -1583,10 +1581,8 @@ msgid "This nickname is already in use."
 msgstr "Nama panggilan ini sudah digunakan."
 
 #: app/Http/Controllers/Auth.php:108
-#, fuzzy
-#| msgid "The %s field is not valid."
 msgid "The captcha field is not valid."
-msgstr "Kolom %s tidak valid."
+msgstr "Kolom captcha tidak valid."
 
 #: app/Http/Controllers/Auth.php:137
 #, php-format
